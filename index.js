@@ -18,6 +18,15 @@
   const store = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* ignore */ } };
   const forget = (k) => { try { localStorage.removeItem(k); } catch (e) { /* ignore */ } };
   const euroK = (n) => "€" + (n >= 1e6 ? (n / 1e6).toFixed(2).replace(/0$/, "") + "m" : Math.round(n / 1000) + "k");
+  // "listed 12d ago" / "3 mo" / "1 yr 3 mo" from the listing date
+  const onMarket = (d) => {
+    if (!d || isNaN(Date.parse(d))) return null;
+    const days = Math.max(0, Math.round((Date.now() - Date.parse(d)) / 86400000));
+    if (days < 1) return "listed today";
+    if (days < 60) return `listed ${days}d ago`;
+    const mo = Math.round(days / 30.44);
+    return mo < 12 ? `listed ${mo} mo ago` : `listed ${Math.floor(mo / 12)} yr${mo % 12 ? ` ${mo % 12} mo` : ""} ago`;
+  };
   const euro = (n) => "€" + Math.round(n).toLocaleString("en-IE");
 
   let props = [], rate = null, map = null;
@@ -41,7 +50,7 @@
     ai: (a, b) => ((b.ai && b.ai.stars) || 0) - ((a.ai && a.ai.stars) || 0) || avgOf(b) - avgOf(a),
     score: (a, b) => score(b) - score(a),
     price: (a, b) => a.price - b.price,
-    added: (a, b) => String(b.added || "").localeCompare(String(a.added || "")),
+    added: (a, b) => String(b.listed || b.added || "").localeCompare(String(a.listed || a.added || "")),
     land: (a, b) => (b.landAcres || 0) - (a.landAcres || 0),
   };
   /* Labels come from the ratings: AI score blended with the people's average
@@ -75,7 +84,8 @@
       const lb = label(p);
       const price = el("span", { class: "ic-price", text: euro(p.price) });
       if (rate) price.append(el("small", { text: " ≈ $" + Math.round(p.price * rate).toLocaleString("en-US") }));
-      const facts = [p.beds ? `${p.beds} bed` : null, p.floorM2 ? `${p.floorM2} m²` : null, p.landAcres ? `${p.landAcres} ac` : null, p.ber ? `BER ${p.ber}` : null].filter(Boolean).join(" · ");
+      const age = onMarket(p.listed);
+      const facts = [p.beds ? `${p.beds} bed` : null, p.floorM2 ? `${p.floorM2} m²` : null, p.landAcres ? `${p.landAcres} ac` : null, p.ber ? `BER ${p.ber}` : null, age].filter(Boolean).join(" · ");
       const li = el("li", { class: "ic" + (fresh.has(p.id) ? " is-new" : ""), id: "ic-" + p.id,
         onmouseenter: () => highlight(p.id, true), onmouseleave: () => highlight(p.id, false),
         onclick: (e) => {
