@@ -265,5 +265,27 @@
   "ai": {
     "stars": 2.0,
     "why": "Walkable town with a train. No ground-floor bedroom or bathroom; over budget."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated (lived-in house)"
+    },
+    "water": {
+      "status": "likely",
+      "detail": "Probably mains; not stated (in Clara town)"
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Probably mains; not stated (in Clara town)"
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; not stated"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "issue",
+    "detail": "No ground-floor bedroom or bathroom; the 7 × 4.2 m sitting room could convert with a new shower room."
   }
 }

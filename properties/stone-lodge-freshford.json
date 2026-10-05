@@ -26,21 +26,26 @@
   "tagline": "An extended stone cottage in good order on just over an acre, under a kilometre from Freshford village and 15 minutes from Kilkenny city.",
   "photos": [
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI4XC9iXC84YmIyODk3My1lYjFmLTQ4YjYtODJjMi1hMjlhNTQzMDRhYmIuSlBFRyJ9?signature=3ddd6d4c17a0cd172bd954af08af0be0c9bea92234aa8f3d6a50f173d6567f7f",
-      "caption": "Listing photo",
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJmXC84XC9mOGFjZmU1NC01ZGYzLTRkYTUtOWNlMi0xYjIxMzNmZGFlYjIuSlBFRyJ9?signature=a97a7a3ae71f66bd7c778477ea3f2b811d6011cac4feeb2769ed3760973c5b27",
       "role": "facade"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjVcL2FcLzVhMjFmZjgzLTVkMGEtNDUxMy04YjdmLWIyZTU3MDczODI1NC5KUEVHIn0=?signature=32c562d22de6f7679ab20f8ede15113e9b8f7b9363614fb46a1fac9ac9eeefdc",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIxXC9mXC8xZjg1YjM5Yi05ZWQwLTQyZmUtOTljOC1kMDU5N2FkZDY5MjIuSlBFRyJ9?signature=7d5d270575b8dea1814891a213c449e43e9190c138f7baeb8a60ab81ceac3db6",
+      "role": "garden"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImFcLzZcL2E2NGM4ODUzLTM2YzUtNGJiNi1iNTA2LTI5MGI0YWQ5NTI1Mi5KUEVHIn0=?signature=d41eaf72acfe3a39d3f2c441bde80a72a9b9afa066f7ed3bd69217cefb4bc81e",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJhXC82XC9hNjdhYWZjOS0wZjk2LTQ1YTQtYWYyYi1hZTJlYTczOGFiNWMuSlBFRyJ9?signature=bb7723e4f5234ac0495b48bec80b922be2b985b91fc997b42e803af95379d590",
+      "role": "interior"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImJcLzFcL2IxOWNjYzFiLTNlMWYtNDk1My1hMzQwLTg5MGFmZjI2ZWNmNy5KUEVHIn0=?signature=e2cad301fd8d884fd78d3442f214534d5bb846db18ce4fd46a29b5f321ec479e",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI1XC8xXC81MThmMzhiOS1hNTYzLTRhMTktODVmMS1jMTIyZDRiZjJmMjYuSlBFRyJ9?signature=a16dbbbc68ca8083bdefaaf18bfb4f3f9d3ef5459d548ad84dcf172f6eb1d330",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI1XC9hXC81YTIxZmY4My01ZDBhLTQ1MTMtOGI3Zi1iMmU1NzA3MzgyNTQuSlBFRyJ9?signature=38181549c9cc1b4f84064da4c3690ed612ec0b4e994bb6c8cfd173b4bb126d0d"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIyXC82XC8yNjA0MWJjOS0wZjE2LTQ1YmUtODk5ZC01NjZjNWVlOWYwZDUuSlBFRyJ9?signature=2334991b3b5f68796f913ed7ab985ef757373419991a47d2a6c2485c5eebcf78"
     }
   ],
   "pros": [
@@ -102,9 +107,9 @@
       "detail": "Three months on the market; worth asking why, and room to negotiate."
     },
     {
-      "text": "Water and septic not stated",
+      "text": "Private well and septic tank",
       "weight": 1,
-      "detail": "Ask about mains or well, septic and broadband."
+      "detail": "Ask for a water test and the septic tank's age and certification. Virgin Media broadband, with fibre on the road."
     },
     {
       "text": "Dublin Airport about 1h45",
@@ -273,5 +278,27 @@
   "ai": {
     "stars": 4.0,
     "why": "Village edge, an acre, a ground-floor bedroom, under budget. Needs a downstairs shower; no train."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated (lived-in house)"
+    },
+    "water": {
+      "status": "check",
+      "detail": "Own private well"
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank"
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Virgin Media; fibre on the road"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "Bedroom 5 is downstairs, but that floor has only a WC, no shower."
   }
 }

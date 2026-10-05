@@ -274,5 +274,27 @@
   "ai": {
     "stars": 3.5,
     "why": "Real character, 150 m from Dublin trains. Over budget, half an acre, ground-floor bedroom unconfirmed."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated (lived-in house)"
+    },
+    "water": {
+      "status": "likely",
+      "detail": "Probably mains; not stated (in town)"
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Probably mains; not stated (in town)"
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; not stated"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "unknown",
+    "detail": "Not confirmed by the listing; the floor plan is worth a close look."
   }
 }

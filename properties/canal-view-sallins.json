@@ -268,5 +268,27 @@
   "ai": {
     "stars": 2.5,
     "why": "Walk to the train in a canal village. €665k for a semi with a small garden."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated (lived-in house)"
+    },
+    "water": {
+      "status": "likely",
+      "detail": "Probably mains; not stated (in the village)"
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Probably mains; not stated (in the village)"
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; not stated"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "The ground-floor office (4.2 × 3.0 m) could convert; the WC beside it would need a shower."
   }
 }

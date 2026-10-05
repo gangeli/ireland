@@ -283,5 +283,27 @@
   "ai": {
     "stars": 3.0,
     "why": "A mill on 3.4 acres for €199k. Protected-structure restoration and no train make it a project."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "Connected"
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Unknown; not stated"
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Unknown; not stated"
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; not stated"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Bedroom 1 with an en-suite is on the ground floor, though small (3.4 × 2.3 m)."
   }
 }

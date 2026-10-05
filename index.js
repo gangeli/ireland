@@ -89,42 +89,8 @@
     }
   }
 
-  /* Scores: 🤖 AI and 👥 people on matching 5-star bars, plus your own stars. Hover for detail. */
-  function bar(value, cls, range) {
-    const b = el("span", { class: "sbar " + cls });
-    b.append(el("i", { class: "sbar-fill", style: `width:${value == null ? 0 : (value / 5) * 100}%` }));
-    if (range) b.append(el("i", { class: "sbar-range", style: `left:${(range[0] / 5) * 100}%;width:${((range[1] - range[0]) / 5) * 100}%` }));
-    return b;
-  }
-  function scoresBadge(p) {
-    const rs = R.forProperty(p.id), sum = R.summary(p.id), mine = R.mine(p.id);
-    const sd = rs.length > 1 ? Math.sqrt(rs.reduce((a, r) => a + (r.stars - sum.avg) ** 2, 0) / rs.length) : null;
-    const lo = rs.length > 1 ? Math.min(...rs.map((r) => r.stars)) : null, hi = rs.length > 1 ? Math.max(...rs.map((r) => r.stars)) : null;
-    const aiS = p.ai ? p.ai.stars : null;
-    const pop = el("div", { class: "spop", role: "tooltip" },
-      el("p", { class: "spop-h" }, el("b", { text: "🤖 AI" }), document.createTextNode(aiS != null ? ` ${aiS.toFixed(1)} ` : " not scored "), el("span", { class: "spop-stars ai", text: aiS != null ? window.HDStarText(aiS) : "" })),
-      p.ai && p.ai.why ? el("p", { class: "spop-why", text: p.ai.why }) : null,
-      el("p", { class: "spop-h" }, el("b", { text: "👥 People" }), document.createTextNode(sum.n ? ` ${sum.avg.toFixed(1)}${sd != null ? ` ± ${sd.toFixed(1)}` : ""} from ${sum.n}` : " no ratings yet")),
-      rs.length ? el("ul", { class: "spop-list" }, ...rs.map((r) => el("li", {},
-        el("span", { class: "spop-name", text: r.person }),
-        el("span", { class: "spop-stars", text: window.HDStarText(r.stars) }),
-        r.note ? el("span", { class: "spop-note", text: r.note }) : null))) : null);
-    const sig = JSON.stringify([mine && mine.stars, rs.map((r) => [r.person, r.stars, r.note])]);
-    const you = window.HDStars(mine ? mine.stars : 0, async (n) => {
-      const who = await window.HDAskName();
-      if (!who) return;
-      $("idx-name").value = who;
-      const cur = R.mine(p.id);
-      await R.rate(p.id, n, cur ? cur.note : "");
-    }, { small: true, label: `Your rating for ${p.name}` });
-    return el("div", { class: "scores", tabindex: "0", "data-sig": sig, "aria-label": `AI ${aiS ?? "not scored"}, people ${sum.n ? sum.avg.toFixed(1) : "not rated"}` },
-      el("span", { class: "srow", title: "AI" }, el("span", { class: "slab", text: "🤖" }), bar(aiS, "ai"), el("span", { class: "sval", text: aiS != null ? aiS.toFixed(1) : "–" })),
-      el("span", { class: "srow", title: "People" }, el("span", { class: "slab", text: "👥" }), bar(sum.avg, "us", lo != null && hi > lo ? [lo, hi] : null),
-        el("span", { class: "sval", text: sum.n ? sum.avg.toFixed(1) : "–" }),
-        sd != null && sd > 0 ? el("span", { class: "ssd", text: "±" + sd.toFixed(1) }) : null),
-      el("span", { class: "srow srow-you" }, el("span", { class: "slab slab-you", text: "You" }), you),
-      pop);
-  }
+  const bar = (v, cls, range) => window.HDBar(v, cls, range);
+  const scoresBadge = (p) => window.HDScores(p);
 
   function highlight(id, on) {
     const m = markers[id];
@@ -236,6 +202,7 @@
         const nb = scoresBadge(p);
         if (badge && badge.dataset.sig !== nb.dataset.sig) badge.replaceWith(nb);
       }
+      if (document.activeElement !== nm) nm.value = R.me();
       const dl = $("idx-raters"); dl.textContent = "";
       for (const p of R.people()) dl.append(el("option", { value: p }));
     });

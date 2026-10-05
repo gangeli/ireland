@@ -27,20 +27,21 @@
   "photos": [
     {
       "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJlXC8wXC9lMGY3M2QzMS1jNTdmLTRkNDMtYWQ1Mi1kNTY4NzIyOTUwZmUuSlBFRyJ9?signature=91954f5bec787489e550e857c6444f9ea83abe8d8122dee2845167e970763d1c",
-      "caption": "Listing photo",
       "role": "facade"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImFcLzFcL2ExZTczMmM0LWY0OTQtNGViMS1hM2ZiLTdkZmVjNTA1YWVhMS5KUEVHIn0=?signature=53cccee6d682edf5789fd92f677558e151228538a0d0960140acbe13285f7cc6",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIwXC9jXC8wYzMxMTBhZS0zYjdmLTQyZDgtYjhlMC1kZTllZjVmZmEyZWYuSlBFRyJ9?signature=f1dea839617c8874d87759a10c8bfc9eab770bdeb33fa13dfcb956d822903a0f",
+      "role": "garden"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjRcL2ZcLzRmNmZmZjBlLTQ2NWQtNGRjOS1iODRlLWRlNmU3M2ZmNDEyZC5KUEVHIn0=?signature=832b65899bc43154975b255bb95f199501622a1462fb9c4e6cc8f3331616da7b",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJlXC85XC9lOTA2OTlkZC1mMmFjLTRkZjQtOTJjMS1hOWZmNjY4MTI0YjUuSlBFRyJ9?signature=2b027bf3d0561c307d6d5e1fa69326cfb9fa26a0a006b24d636785f51fe2d29e",
+      "role": "interior"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjBcL2JcLzBiMGZmOGNlLWQyNGYtNGU4NS1iMWE3LTZjNzI3YWY4ZDc5MC5KUEVHIn0=?signature=330c62540ba059629b21a9006112dedcf6281ec37745ddc789664645414d4db4",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJlXC9jXC9lY2Y0NjU5Yi0wZDA4LTQwNGYtYTQ5Ny1mYTlkOTg0ZDM3NWMuSlBFRyJ9?signature=61f292685cc71938bb739c626ca654145fe40de432789b075acc51759459254a"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI0XC80XC80NDg0ZGI5Yy1jNmQzLTRhMGQtODY1My00ODhkYmFlNjZjZTkuSlBFRyJ9?signature=6575c65d1feef56776200d37f1dc69f981245bb933a540d8ba52c6cc0714461c"
     }
   ],
   "pros": [
@@ -274,5 +275,27 @@
   "ai": {
     "stars": 3.5,
     "why": "Single storey near Kildare's trains at €475k. Under half an acre, in in-between country."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "Connected"
+    },
+    "water": {
+      "status": "ok",
+      "detail": "Mains"
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank"
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Broadband connected (type not stated)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Single storey: all bedrooms are downstairs."
   }
 }

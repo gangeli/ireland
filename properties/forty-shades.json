@@ -28,21 +28,32 @@
   "tagline": "A hidden bungalow on 1.6 acres of orchard and old trees, five minutes above a river village in the Nore valley.",
   "photos": [
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI0XC9kXC80ZGYwNDhhMi05MmIwLTQyYTItODM0Zi0zYTlkYTNkN2ZhMDEuSlBFRyJ9?signature=505405b509774d0114231cd5410423e522ed5887561a4d08f72e53817258b308",
-      "caption": "Listing photo",
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJkXC82XC9kNjI1YWJjOC0yMWE3LTQzNzgtODI0ZC0wZDQ3Njc0NWY5OTkuSlBFRyJ9?signature=4783f4eebc17fdb2940188f9bedcd00d0430308d6559212f84764782a4a4c98f",
       "role": "facade"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImRcLzZcL2Q2MjVhYmM4LTIxYTctNDM3OC04MjRkLTBkNDc2NzQ1Zjk5OS5KUEVHIn0=?signature=d548af543be9319f3812ec43d0618c80054d98db777e79053ad75a3383e749c8",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI5XC84XC85OGYzMTg4Yi1mMjk2LTQ0ZWItYTZmYi0yYjc4YWRkMWQ4NzcuSlBFRyJ9?signature=98a63b309aef3ced27bf6fc51f62f11d042073137573c1e43b5ae0926d3c3620",
+      "role": "garden"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjhcLzFcLzgxNWQxNzFiLTcwOGQtNGJjMi1hNTI1LTExZGJiYzUwMzBiNy5KUEVHIn0=?signature=efb746f9d8d3e0cd6817b5e06cd891d15c6e65ad10244017f19800e1ca0b22b3",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI5XC85XC85OWEzODVmMi0zOTZhLTQ0MmEtYWY2MS02YWFjZmM3OTU1MTYuSlBFRyJ9?signature=dff29106b937329aaedeed2c15e879924b92b3d369587654885f89a7b0b82043",
+      "role": "interior"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImZcLzZcL2Y2NGJjY2ZiLWViNzYtNGY2NC1iZjhmLTdjNmUyODk1Y2I1OC5KUEVHIn0=?signature=7c438bc695a5777e2ca45c2d9f277173316fbb80f113ed2d92c62a76a22dfb0c",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI3XC83XC83NzUzMjIyMC1jYjgwLTQyNTctOGVkZC1jZTE1NTU3NWQ5M2EuSlBFRyJ9?signature=7652e6e91cc92d3bb6150286eeeb7b803e85107d8c88bc1d2ad2224ecad2955a",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJjXC9hXC9jYTI1ODg4Mi03MjhkLTQ4MzktOGJiZC0zN2IwMjU3MTg4NWYuSlBFRyJ9?signature=a379cec315cdab5ccd2d2dc1ca44139ec5b50a4c5ae9902960da9885b285d2a4"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJjXC8xXC9jMTBjNjVlMS1mNGQ2LTRiN2MtOTk0OS0xZWFmYmNhMjk4YzIuSlBFRyJ9?signature=818da7ac5cf29e7e5ee008a964444f3bcd6e965c925e8e56d6d3124d9e69abaf"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJjXC80XC9jNDVkMWZiNC02MTkzLTRkZjYtOWMzNC02NGU5ZGUzMTEyYTAuSlBFRyJ9?signature=a28025cf13ee3828899ceac8b436b10a66d6b70d6430c54871a35dafe282e917"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI4XC8zXC84M2IzY2E1Yy1lZTlkLTQ1OTctOTc5MS1mNTk1MzcwOTQyZjYuSlBFRyJ9?signature=e2a0f1792d15b1a930b719a5a9f5c5ebe5ca71077fa5ce72c900dd310b85a2bc"
     }
   ],
   "pros": [
@@ -80,6 +91,11 @@
       "text": "Lets well to visitors",
       "weight": 1,
       "detail": "Inistioge is a known tourist village; good for summers when you're away."
+    },
+    {
+      "text": "1 Gb fibre broadband",
+      "weight": 1,
+      "detail": "Eir fibre already connected; fine for remote work."
     }
   ],
   "cons": [
@@ -114,9 +130,9 @@
       "detail": "Storm Babet flooded Inistioge in Oct 2023 and the school was evacuated. The house sits high; check the access road."
     },
     {
-      "text": "Water and septic not stated",
+      "text": "Own septic tank",
       "weight": 1,
-      "detail": "Ask the agent about well, septic tank and broadband."
+      "detail": "Mains water, but drainage is its own septic tank: ask its age and certification."
     }
   ],
   "trips": [
@@ -287,5 +303,27 @@
     "stars": 4.5,
     "why": "Closest to the brief: pretty, 1.6 acres, village school, right size. The costs are the BER and a drive for everything."
   },
-  "agentPhone": "086 232 4941"
+  "agentPhone": "086 232 4941",
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated (lived-in house)"
+    },
+    "water": {
+      "status": "ok",
+      "detail": "Mains"
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Own septic tank"
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Eir fibre, 1 Gb"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Bungalow: every bedroom is on the ground floor."
+  }
 }

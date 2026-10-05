@@ -276,5 +276,27 @@
   "ai": {
     "stars": 3.5,
     "why": "Three acres, good BER, right size. Far from an ED, a station and schools."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "ESB connected"
+    },
+    "water": {
+      "status": "check",
+      "detail": "Well; pump replaced last year"
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank"
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; not stated"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "The ground-floor office could be a bedroom, with a bathroom nearby."
   }
 }

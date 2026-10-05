@@ -27,9 +27,25 @@
   "tagline": "A four-bed detached house on about 1.5 acres in the Barrow valley, a kilometre from Ballinkillen's school and church and 6 km from Bagenalstown station.",
   "photos": [
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJiXC83XC9iNzc5YTQ5Ny02ZDY2LTRiOGItODU5Yy0xMzlhZmVmMTk1MzcuanBnIn0=?signature=269b47f2b6934fa7c30321fbba5e2130c28339b91822724696960329d0d418ec",
-      "caption": "Listing photo",
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIwXC8wXC8wMDQxNGJjOC03NjUxLTRiZjMtOTVlOS0xZDg5OTI5MjBjMTUuanBnIn0=?signature=acd35e9866081031a27f4635084cd94b336571ddaebe13014fe2c85a65fd4726",
       "role": "facade"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIwXC8wXC8wMGQ2NzBmZS1jZDA4LTQyZWEtYTA4Ni1kMmU3MzIxZDAyMmQuanBnIn0=?signature=fc251181a29cb9e006f70f1cd4d1a0cfe3151bc1e43b18b1bd65c2ad0dc8dc6a",
+      "role": "garden"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJkXC80XC9kNDVkNWQ1YS0xYTJiLTRhNTEtYTliMS05NjY1MTg3YzY1MTUuanBnIn0=?signature=dd4c6a0af7475e47b8435b3c81a4880a3efccf44a31a52b2fd7fdb80593e3927",
+      "role": "interior"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI0XC9iXC80YmI1NTFiNi03YjdmLTQ1ODUtYTdiNS1iZTcxOTY4MjUyZDYuanBnIn0=?signature=9416bb2fc5aa4e1135e564e478ef16d4cfe234ed4058a4e3120fbe80cc63fea6"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJmXC8wXC9mMGY2NmJkNi0wYWU3LTQ0YjEtYTFkNy03OTg1Njc5ODQxYjYuanBnIn0=?signature=849d80dd0d7a39a238c59ce4d7f43c202654e74a96c2c61be21eb3a37a02a92e"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI4XC9iXC84YjcxMTZjNy04YjkwLTQ3NDktYWJmNC0yN2E1MWYyMzMwYzkuanBnIn0=?signature=f4d5ba32dadb114ac52b7b26b19721e93112f2a991f00b23bb2304eb20e6210d"
     }
   ],
   "pros": [
@@ -262,5 +278,27 @@
   "ai": {
     "stars": 4.0,
     "why": "Two ground-floor bedrooms on 1.5 acres under €500k, school nearby. Tiny village, few trains."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated (lived-in house)"
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private well"
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank"
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; not stated"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Two bedrooms on the ground floor."
   }
 }

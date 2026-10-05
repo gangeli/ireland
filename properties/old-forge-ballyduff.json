@@ -282,5 +282,27 @@
   "ai": {
     "stars": 2.5,
     "why": "Rural, dog-ready, cheap, with a downstairs suite. Too small at 115 m²."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "Connected; electric heating"
+    },
+    "water": {
+      "status": "check",
+      "detail": "Well"
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank"
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Fibre reportedly available; not in the listing"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "The main bedroom, with an en-suite, is on the ground floor."
   }
 }

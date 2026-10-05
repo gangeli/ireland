@@ -275,5 +275,27 @@
   "ai": {
     "stars": 2.0,
     "why": "Cottage could be an annex, walk into Carlow. Over budget, size unknown, town garden."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated (lived-in house)"
+    },
+    "water": {
+      "status": "likely",
+      "detail": "Probably mains; not stated (in Carlow town)"
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Probably mains; not stated (in Carlow town)"
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; not stated"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "unknown",
+    "detail": "Main-house bedrooms are upstairs; the separate cottage could work as an annex, layout not given."
   }
 }

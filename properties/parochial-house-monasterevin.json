@@ -280,5 +280,27 @@
   "ai": {
     "stars": 3.0,
     "why": "Big, cheap, train at the door. Needs a full refurb and a ground-floor bedroom."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated (lived-in house)"
+    },
+    "water": {
+      "status": "ok",
+      "detail": "Mains"
+    },
+    "sewer": {
+      "status": "ok",
+      "detail": "Mains drainage"
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; not stated"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "All bedrooms are upstairs; the family room beside the ground-floor shower room could convert."
   }
 }

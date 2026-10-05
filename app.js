@@ -135,6 +135,17 @@
       if (small) dd.append(el("small", { text: small }));
       box.append(el("dl", { class: "stat" }, el("dt", { text: k }), dd));
     }
+    const SV = [["electricity", "⚡", "Power"], ["water", "💧", "Water"], ["sewer", "🚽", "Sewer"], ["internet", "🌐", "Internet"]];
+    const sv = P.services || {};
+    const svDd = el("dd", { class: "svc" });
+    for (const [k, icon, name] of SV) {
+      const v = sv[k] || { status: "unknown", detail: "Not stated" };
+      svDd.append(el("div", { class: "svc-row svc-" + v.status, title: `${name}: ${v.detail}` },
+        el("span", { class: "svc-ico", text: icon }),
+        el("span", { class: "svc-name", text: name }),
+        el("span", { class: "svc-val", text: v.detail.split(/[;,(]/)[0] })));
+    }
+    box.append(el("dl", { class: "stat stat-svc" }, el("dt", { text: "Services" }), svDd));
 
     // Ledger, with a balance bar up top: total weight for vs against
     const sp = P.pros.reduce((a, b) => a + b.weight, 0), sc = P.cons.reduce((a, b) => a + b.weight, 0);
@@ -157,15 +168,16 @@
     $("ledger").append(col("l-cons", "Against", P.cons), col("l-pros", "For", P.pros));
 
     // Gallery: one slot per kind of view, filled from role-tagged photos; the rest of the photos follow
-    const ROLES = [["facade", "The house"], ["garden", "Garden and grounds"], ["interior", "Inside"], ["floorplan", "Floor plan"]];
+    const ROLES = [["facade", "The house"], ["garden", "Garden and grounds"], ["interior", "Inside"]];
+    renderPlan(photos);
     const used = new Set();
     const slots = $("slots");
-    LB.items = [];
+    const galleryItems = [];
     const addPhoto = (x, label, cls) => {
-      const i = LB.items.length;
-      LB.items.push({ url: x.url, cap: x.caption && x.caption !== "Listing photo" ? `${label}: ${x.caption}` : label });
+      const i = galleryItems.length;
+      galleryItems.push({ url: x.url, cap: x.caption && x.caption !== "Listing photo" ? `${label}: ${x.caption}` : label });
       slots.append(el("figure", { class: "slot " + (cls || "") },
-        el("button", { type: "button", class: "slot-img", "aria-label": `Enlarge: ${label}`, onclick: () => openLB(i) },
+        el("button", { type: "button", class: "slot-img", "aria-label": `Enlarge: ${label}`, onclick: () => openLB(i, galleryItems) },
           el("img", { src: x.url, alt: label, loading: "lazy", referrerpolicy: "no-referrer" })),
         el("figcaption", { text: label })));
     };
@@ -176,7 +188,7 @@
     slots.append(
       el("figure", { class: "slot slot-map" }, el("div", { id: "satmap", class: "mapbox needs-key" }, el("span", { text: "Satellite view loads with a Maps key" })), el("figcaption", { text: "From above" })),
       el("figure", { class: "slot slot-map" }, el("div", { id: "pano", class: "mapbox needs-key" }, el("span", { text: "Street View loads with a Maps key" })), el("figcaption", { id: "panocap", text: "At the gate" })));
-    for (const x of photos) if (!used.has(x.url)) { used.add(x.url); addPhoto(x, "Listing photo", "slot-extra"); }
+    for (const x of photos) if (!used.has(x.url) && x.role !== "floorplan" && x.role !== "siteplan") { used.add(x.url); addPhoto(x, "Listing photo", "slot-extra"); }
 
     const cats = P.categories || [...new Set(P.trips.map((t) => t.category))];
     const box2 = $("trips");
@@ -201,6 +213,44 @@
     }
   }
 
+  /* ---------- floor plan ---------- */
+  function renderPlan(photos) {
+    const box = $("plan"); box.textContent = "";
+    const plans = photos.filter((x) => x.role === "floorplan"), site = photos.filter((x) => x.role === "siteplan");
+    const sheets = [...plans.map((x, i) => ({ ...x, label: plans.length > 1 ? `Floor ${i + 1}` : "Floor plan" })), ...site.map((x) => ({ ...x, label: "Site plan" }))];
+    const sheet = el("div", { class: "plan-sheet" });
+    if (sheets.length) {
+      const big = el("img", { alt: sheets[0].label, referrerpolicy: "no-referrer", src: sheets[0].url });
+      const zoom = el("button", { type: "button", class: "plan-img", "aria-label": "Enlarge the floor plan" }, big);
+      let cur = 0;
+      zoom.addEventListener("click", () => { LB.items = sheets.map((x) => ({ url: x.url, cap: x.label })); openLB(cur); });
+      sheet.append(zoom);
+      if (sheets.length > 1) {
+        const tabs = el("div", { class: "plan-tabs", role: "tablist" });
+        sheets.forEach((x, i) => tabs.append(el("button", { type: "button", role: "tab", "aria-selected": String(i === 0), text: x.label, onclick: (e) => {
+          cur = i; big.src = x.url; big.alt = x.label;
+          tabs.querySelectorAll("button").forEach((b, j) => b.setAttribute("aria-selected", String(j === i)));
+        } })));
+        sheet.prepend(tabs);
+      }
+      sheet.append(el("p", { class: "plan-hint", text: "Click to enlarge" }));
+    } else {
+      sheet.classList.add("plan-none");
+      sheet.append(el("p", { class: "plan-none-h", text: "No floor plan in the listing" }),
+        el("p", { text: "Ask the agent for one; it's the quickest way to settle the ground-floor bedroom question." }),
+        el("button", { type: "button", class: "md-btn md-primary", text: "Ask the agent", onclick: () => openMail() }));
+    }
+    const g = P.groundFloorBedroom || { status: "unknown", detail: "Not stated." };
+    const has = (v) => v !== undefined && v !== null && v !== "";
+    const facts = el("dl", { class: "plan-facts" },
+      el("div", { class: "pf-gfb pf-" + g.status }, el("dt", { text: "Ground-floor bedroom" }), el("dd", { text: g.detail })),
+      el("div", {}, el("dt", { text: "Floor area" }), el("dd", { text: has(P.floorM2) ? `${P.floorM2} m² · ${Math.round(P.floorM2 * 10.764).toLocaleString("en-IE")} sq ft${has(P.atticM2) ? ` + ${P.atticM2} m² attic` : ""}` : "Not stated" })),
+      el("div", {}, el("dt", { text: "Bedrooms" }), el("dd", { text: `${P.beds ?? "?"}${P.bedsNote ? ` (${P.bedsNote.replace(/^\+\s*/, "plus ")})` : ""}` })),
+      el("div", {}, el("dt", { text: "Bathrooms" }), el("dd", { text: String(P.baths ?? "?") })),
+      el("div", {}, el("dt", { text: "Type" }), el("dd", { text: P.type || "–" })));
+    box.append(sheet, facts);
+  }
+
   /* ---------- lightbox ---------- */
   const LB = { items: [], i: 0 };
   function showLB() {
@@ -209,21 +259,25 @@
     $("lb-img").src = it.url; $("lb-img").alt = it.cap; $("lb-cap").textContent = `${it.cap} · ${LB.i + 1} of ${LB.items.length}`;
     $("lb-prev").hidden = $("lb-next").hidden = LB.items.length < 2;
   }
-  function openLB(i) { LB.i = i; showLB(); if (!$("lightbox").open) $("lightbox").showModal(); }
+  function openLB(i, items) { if (items) LB.items = items; LB.i = i; showLB(); if (!$("lightbox").open) $("lightbox").showModal(); }
   function stepLB(d) { LB.i = (LB.i + d + LB.items.length) % LB.items.length; showLB(); }
 
   /* ---------- email the agent ---------- */
   function draft() {
     const town = (P.area || P.address).split(",")[0].trim();
+    const sv = P.services || {}, known = (k) => sv[k] && (sv[k].status === "ok" || sv[k].status === "check");
+    const septic = sv.sewer && /septic/i.test(sv.sewer.detail || ""), well = sv.water && /well/i.test(sv.water.detail || "");
     const standard = [
       "Is it still available? Is there a closing date, and have any offers come in?",
-      "Is the water from mains or a private well, and is the wastewater on mains or a septic tank? If septic, when was it last inspected?",
-      "What broadband can the house get?",
+      known("water") && known("sewer")
+        ? (septic || well ? `${septic ? "When was the septic tank installed and last inspected, and is it registered and compliant?" : ""}${septic && well ? " " : ""}${well ? "Is there a recent water quality test for the well?" : ""}` : null)
+        : "Is the water from mains or a private well, and is the wastewater on mains or a septic tank? If septic, when was it last inspected?",
+      sv.internet && sv.internet.status === "ok" ? null : "What broadband can the house get?",
       "Are there any rights of way, boundary or title issues, and do all extensions and outbuildings have planning permission or an exemption?",
       "Has the house, the site or the access road ever flooded?",
       "We're based in California. Could you do a video walk-through, and send the floor plan and the BER advisory report?",
     ];
-    const qs = [...(P.questions || []), ...standard];
+    const qs = [...(P.questions || []), ...standard.filter(Boolean)];
     return {
       subject: `Enquiry: ${P.name}, ${town}`,
       body: `Hello,\n\nI'm interested in ${P.name}, ${P.address} (${P.listingUrl}). Before arranging a viewing, could you help with a few questions?\n\n` +
@@ -259,47 +313,16 @@
   /* ---------- ratings ---------- */
   function initRatings() {
     const R = window.HDRatings; if (!R) return;
-    const name = $("rate-name"), note = $("rate-note"), status = $("rate-status");
-    let pick = 0, touched = false;
-    name.value = R.me();
-    const drawStars = () => $("rate-stars").replaceChildren(window.HDStars(pick, (n) => { pick = n; touched = true; drawStars(); }));
-    drawStars();
-    note.addEventListener("input", () => { touched = true; });
-    name.addEventListener("change", () => { R.setMe(name.value); touched = false; });
-    $("rate-form").addEventListener("submit", async (e) => {
-      e.preventDefault();
-      if (name.value.trim()) R.setMe(name.value);
-      const who = await window.HDAskName();
-      if (!who) { status.textContent = "Ratings need a name."; return; }
-      name.value = who;
-      if (!pick) { status.textContent = "Pick 1 to 5 stars."; return; }
-      status.textContent = "Saving…";
-      const r = await R.rate(P.id, pick, note.value);
-      touched = false;
-      status.textContent = r.shared ? "Saved." : "Saved in this browser. Shared ratings aren't switched on yet.";
-    });
-    const render = () => {
-      const mine = R.mine(P.id);
-      if (mine && !touched) { pick = mine.stars; note.value = mine.note || ""; drawStars(); }
-      const list = R.forProperty(P.id), sum = R.summary(P.id);
-      $("rate-avg").textContent = sum.n ? `${window.HDStarText(sum.avg)} ${sum.avg.toFixed(1)} from ${sum.n} ${sum.n === 1 ? "person" : "people"}` : "No ratings yet";
-      const ul = $("rate-all"); ul.textContent = "";
-      if (P.ai) ul.append(el("li", { class: "rate-row ai" },
-        el("span", { class: "rate-name", text: `AI · ${P.ai.stars.toFixed(1)}` }),
-        el("span", { class: "rate-stars", "aria-label": `${P.ai.stars} of 5`, text: window.HDStarText(P.ai.stars) }),
-        P.ai.why ? el("p", { class: "rate-note", text: P.ai.why }) : null));
-      for (const r of list) {
-        ul.append(el("li", { class: "rate-row" + (r.person === R.me() ? " me" : "") },
-          el("span", { class: "rate-name", text: r.person }),
-          el("span", { class: "rate-stars", "aria-label": `${r.stars} of 5`, text: window.HDStarText(r.stars) }),
-          r.note ? el("p", { class: "rate-note", text: r.note }) : null));
-      }
-      const dl = $("raters"); dl.textContent = "";
-      for (const p of R.people()) dl.append(el("option", { value: p }));
+    const lab = () => {
+      const sum = R.summary(P.id), mine = R.mine(P.id);
+      $("ratelabel").textContent = mine ? `You: ${window.HDStarText(mine.stars)}` + (sum.n > 1 ? ` · avg ${sum.avg.toFixed(1)}` : "") : sum.n ? `Rate it · avg ${sum.avg.toFixed(1)} (${sum.n})` : "Rate it";
     };
-    R.onChange(render);
-    render();
-    R.refresh();
+    $("ratelink").addEventListener("click", (e) => { e.preventDefault(); window.HDRateDialog({ id: P.id, name: P.name, ai: P.ai }); });
+    const badge = () => {
+      const box = $("hero-scores"), cur = box.firstChild, fresh = window.HDScores(P);
+      if (!cur || cur.dataset.sig !== fresh.dataset.sig) box.replaceChildren(fresh);
+    };
+    R.onChange(() => { lab(); badge(); }); lab(); badge(); R.refresh();
   }
 
   async function eurUsd() {

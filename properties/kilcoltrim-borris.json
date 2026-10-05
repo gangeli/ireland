@@ -275,5 +275,27 @@
   "ai": {
     "stars": 2.0,
     "why": "A cheap acre near lovely Borris. Far too small and needs everything."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated (lived-in house)"
+    },
+    "water": {
+      "status": "check",
+      "detail": "Well"
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank"
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; not stated"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "unknown",
+    "detail": "Not stated; ask for the floor plan."
   }
 }

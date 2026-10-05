@@ -266,5 +266,27 @@
   "ai": {
     "stars": 3.0,
     "why": "Single storey on an acre, 10 minutes from Kilkenny's hospital. Probably too small; needs heating."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated (lived-in house)"
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Unknown; not stated (rural, could be a well)"
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Unknown; not stated (rural, likely septic)"
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; not stated"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Single storey: all bedrooms are downstairs."
   }
 }

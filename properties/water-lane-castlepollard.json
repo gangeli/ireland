@@ -267,5 +267,27 @@
   "ai": {
     "stars": 2.0,
     "why": "Cheap single storey in a walkable town. Only 94 m² and BER G."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated (lived-in house)"
+    },
+    "water": {
+      "status": "likely",
+      "detail": "Probably mains; not stated (in town)"
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Probably mains; not stated (in town)"
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; not stated"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Single storey: all bedrooms are downstairs."
   }
 }
