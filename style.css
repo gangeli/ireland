@@ -504,3 +504,12 @@ body.idx .idx-main[data-view="split"] { grid-template-columns: minmax(0, 1fr) mi
 .ic-titleline .ic-area { flex: 0 1 auto; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .ic-titleline .status { flex: none; white-space: nowrap; }
 @media (max-width: 480px) { .ic-titleline { flex-wrap: wrap; } }
+
+/* map pins (HTML markers) */
+.pin { position: relative; transform: translateY(-4px); background: var(--sign); color: #fff; font: 600 13px var(--f-mono); padding: 4px 8px; border-radius: 6px; border: 1.5px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,.3); white-space: nowrap; cursor: pointer; transition: transform .12s ease, background .12s ease; }
+.pin::after { content: ""; position: absolute; left: 50%; bottom: -7px; transform: translateX(-50%); border: 6px solid transparent; border-top-color: var(--sign); border-bottom: 0; }
+.pin.out { background: #8a948f; }
+.pin.out::after { border-top-color: #8a948f; }
+.pin.hot { background: var(--gorse); color: #1b2421; transform: translateY(-4px) scale(1.12); }
+.pin.hot::after { border-top-color: var(--gorse); }
+.car-dot { width: 14px; height: 14px; border-radius: 50%; background: var(--gorse); border: 2px solid #1b2421; box-shadow: 0 0 0 3px rgba(227,178,31,.35); transform: translateY(7px); }

@@ -342,7 +342,7 @@
         reject(new Error("auth"));
       };
       const s = document.createElement("script");
-      s.src = `https://maps.googleapis.com/maps/api/js?key=${encodeURIComponent(key)}&v=weekly&libraries=places,geometry&loading=async&callback=__hdReady`;
+      s.src = `https://maps.googleapis.com/maps/api/js?key=${encodeURIComponent(key)}&v=weekly&libraries=places,geometry,marker&loading=async&callback=__hdReady`;
       s.async = true;
       s.onerror = () => reject(new Error("load"));
       document.head.append(s);
@@ -353,8 +353,8 @@
   function initGalleryMaps() {
     const here = { lat: P.lat, lng: P.lng };
     const sat = $("satmap"); sat.classList.remove("needs-key"); sat.textContent = "";
-    const m = new google.maps.Map(sat, { center: here, zoom: 17, mapTypeId: "satellite", disableDefaultUI: true, zoomControl: true, gestureHandling: "cooperative" });
-    new google.maps.Marker({ position: here, map: m });
+    const m = new google.maps.Map(sat, { center: here, zoom: 17, mapId: window.HOUSE_DAYS_MAP_ID || "DEMO_MAP_ID", mapTypeId: "satellite", disableDefaultUI: true, zoomControl: true, gestureHandling: "cooperative" });
+    new google.maps.marker.AdvancedMarkerElement({ position: here, map: m, title: P.name });
 
     const panoEl = $("pano"); panoEl.classList.remove("needs-key"); panoEl.textContent = "";
     new google.maps.StreetViewService().getPanorama({ location: here, radius: 600, source: google.maps.StreetViewSource.OUTDOOR })
@@ -650,7 +650,7 @@
     $("pl-left").textContent = fmtMin(Math.max(0, PL.total - t));
     $("pl-dist").textContent = fmtKm(Math.max(0, PL.dist - f.d));
     $("pl-signkm").textContent = fmtKm(Math.max(0, PL.dist - f.d));
-    if (PL.marker) PL.marker.setPosition({ lat: f.lat, lng: f.lng });
+    if (PL.marker) PL.marker.position = { lat: f.lat, lng: f.lng };
     if (!PL.scrubbing) $("pl-scrub").value = String(Math.round((t / PL.total) * 1000));
   }
   function arrive(show) {
@@ -719,10 +719,10 @@
     setSpeed(best);
 
     if (!PL.map) {
-      PL.map = new google.maps.Map($("pl-map"), { disableDefaultUI: true, zoomControl: true, gestureHandling: "cooperative", mapTypeId: "roadmap" });
+      PL.map = new google.maps.Map($("pl-map"), { mapId: window.HOUSE_DAYS_MAP_ID || "DEMO_MAP_ID", disableDefaultUI: true, zoomControl: true, gestureHandling: "cooperative", mapTypeId: "roadmap" });
       PL.line = new google.maps.Polyline({ map: PL.map, strokeColor: "#0b6b3a", strokeWeight: 5, strokeOpacity: 0.9 });
-      PL.marker = new google.maps.Marker({ map: PL.map, icon: { path: google.maps.SymbolPath.CIRCLE, scale: 7, fillColor: "#e3b21f", fillOpacity: 1, strokeColor: "#1b2421", strokeWeight: 2 } });
-      PL.home = new google.maps.Marker({ map: PL.map, position: { lat: P.lat, lng: P.lng }, title: P.name });
+      PL.marker = new google.maps.marker.AdvancedMarkerElement({ map: PL.map, content: el("div", { class: "car-dot" }), zIndex: 10 });
+      PL.home = new google.maps.marker.AdvancedMarkerElement({ map: PL.map, position: { lat: P.lat, lng: P.lng }, title: P.name });
     }
     PL.line.setPath(pts.map((p) => ({ lat: p[0], lng: p[1] })));
     const bounds = new google.maps.LatLngBounds();

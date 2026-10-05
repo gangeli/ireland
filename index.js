@@ -123,34 +123,33 @@
 
   function highlight(id, on) {
     const m = markers[id];
-    if (m) m.setZIndex(on ? 1000 : null), m.setIcon(pill(props.find((p) => p.id === id), on));
+    if (m) { m.zIndex = on ? 1000 : null; m.content.classList.toggle("hot", on); }
     const card = $("ic-" + id);
     if (card) card.classList.toggle("hot", on);
   }
 
-  function pill(p, hot) {
-    const txt = euroK(p.price);
-    const w = 14 + txt.length * 8.2;
-    const out = /passed|sale agreed|sold/i.test(label(p));
-    const fill = hot ? "#e3b21f" : out ? "#8a948f" : "#0b6b3a", ink = hot ? "#1b2421" : "#ffffff";
-    const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="34"><path d="M4 1h${w - 8}a3 3 0 0 1 3 3v18a3 3 0 0 1-3 3H${w / 2 + 6}l-6 7-6-7H4a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3z" fill="${fill}" stroke="#ffffff" stroke-width="1.5"/><text x="${w / 2}" y="18" font-family="IBM Plex Mono, monospace" font-size="13" font-weight="600" fill="${ink}" text-anchor="middle">${txt}</text></svg>`;
-    return { url: "data:image/svg+xml;charset=UTF-8," + encodeURIComponent(svg), anchor: new google.maps.Point(w / 2, 33) };
+  /* Price pins are plain HTML (AdvancedMarkerElement), styled in style.css. */
+  function pin(p) {
+    const d = el("div", { class: "pin" + (/passed|sale agreed|sold/i.test(label(p)) ? " out" : ""), text: euroK(p.price) });
+    d.addEventListener("mouseenter", () => highlight(p.id, true));
+    d.addEventListener("mouseleave", () => highlight(p.id, false));
+    return d;
   }
 
-  function initMap() {
+  async function initMap() {
     const box = $("idxmap"); box.classList.remove("needs-key"); box.textContent = "";
-    map = new google.maps.Map(box, { center: { lat: 53.1, lng: -7.6 }, zoom: 7, mapTypeControl: true, streetViewControl: false, fullscreenControl: true, gestureHandling: "cooperative" });
+    const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
+    map = new google.maps.Map(box, { center: { lat: 53.1, lng: -7.6 }, zoom: 7, mapId: window.HOUSE_DAYS_MAP_ID || "DEMO_MAP_ID", mapTypeControl: true, streetViewControl: false, fullscreenControl: true, gestureHandling: "cooperative" });
     const bounds = new google.maps.LatLngBounds();
     for (const p of props) {
-      const m = new google.maps.Marker({ position: { lat: p.lat, lng: p.lng }, map, icon: pill(p, false), title: `${p.name}, ${euroK(p.price)}` });
+      const pos = { lat: p.lat, lng: p.lng };
+      const m = new AdvancedMarkerElement({ position: pos, map, content: pin(p), title: `${p.name}, ${euroK(p.price)}`, gmpClickable: true });
       m.addListener("click", () => {
         const card = $("ic-" + p.id);
         if ($("idx-main").dataset.view === "map") { location.href = `property.html?p=${encodeURIComponent(p.id)}`; return; }
         if (card) { card.scrollIntoView({ behavior: "instant", block: "center" }); card.classList.add("hot"); setTimeout(() => card.classList.remove("hot"), 1600); }
       });
-      m.addListener("mouseover", () => highlight(p.id, true));
-      m.addListener("mouseout", () => highlight(p.id, false));
-      markers[p.id] = m; bounds.extend(m.getPosition());
+      markers[p.id] = m; bounds.extend(pos);
     }
     if (props.length > 1) map.fitBounds(bounds, 48);
     else if (props.length === 1) { map.setCenter(bounds.getCenter()); map.setZoom(10); }
@@ -189,7 +188,7 @@
       for (const p of props) {
         const chip = document.querySelector(`#ic-${CSS.escape(p.id)} .status`);
         if (chip && chip.textContent !== label(p)) { chip.textContent = label(p); chip.className = "status " + statusClass(label(p)); }
-        if (markers[p.id]) markers[p.id].setIcon(pill(p, false));
+        if (markers[p.id]) markers[p.id].content.classList.toggle("out", /passed|sale agreed|sold/i.test(label(p)));
       }
       // update ratings in place so cards don't jump while you rate
       for (const p of props) {
