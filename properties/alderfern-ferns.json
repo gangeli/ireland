@@ -1,0 +1,349 @@
+{
+  "id": "alderfern-ferns",
+  "name": "Alderfern",
+  "address": "Alderfern, Clone Road, Ferns, Co. Wexford",
+  "eircode": "Y21 XY1K",
+  "lat": 52.5854915,
+  "lng": -6.4946215,
+  "listingUrl": "https://www.daft.ie/for-sale/alderfern-clone-road-ferns-enniscorthy-co-wexford/6684930",
+  "status": "Considering",
+  "added": "2026-10-05",
+  "area": "Ferns, Co. Wexford",
+  "agent": "South East Estates",
+  "agentPhone": "053 900 7239",
+  "price": 475000,
+  "type": "Detached single-storey house (built 2021)",
+  "beds": 3,
+  "bedsNote": "All three bedrooms are on the ground floor; two have en suites",
+  "baths": 3,
+  "floorM2": 126,
+  "landHa": 0.2,
+  "landAcres": 0.49,
+  "ber": "A2",
+  "berKwh": 39.91,
+  "heating": "Air-to-water heat pump",
+  "listed": "2026-10-01",
+  "views": 1054,
+  "stampDuty": 4750,
+  "tagline": "A 2021 A2-rated single-storey house on half an acre at the edge of Ferns village, a short walk from two primary schools and the shop.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJiXC83XC9iN2ZjNTBlOS1iNTJiLTQzYTgtYTcyMC1lOGI4ODFiMmEzMTguanBnIn0=?signature=f430df9368be0f720aa29061d589620920251e80e5521b0c7d01fd748e5f3a29",
+      "role": "facade"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Every bedroom on the ground floor",
+      "weight": 3,
+      "detail": "Single storey: bedroom 3 (3.61 × 5.23 m, en suite) suits Gabor's parents; the main bedroom also has an en suite, plus a family shower room."
+    },
+    {
+      "text": "A2, built 2021, heat pump",
+      "weight": 2,
+      "detail": "BER A2 at 39.91 kWh/m²/yr with air-to-water heating and uPVC double glazing; no retrofit bill."
+    },
+    {
+      "text": "€475k, under the €500k line",
+      "weight": 2,
+      "detail": "Stamp duty about €4,750; but €3,770/m² is high for the size."
+    },
+    {
+      "text": "Primary school 120 m away",
+      "weight": 2,
+      "detail": "St Edan's NS (co-ed, 39 pupils) is on Clone Road; Naomh Maodhog NS (285 pupils) is about 630 m."
+    },
+    {
+      "text": "Walkable village",
+      "weight": 1,
+      "detail": "Ferns Centra (7 a.m.–9 p.m.) and The Courtyard pub-restaurant are about 600–700 m away; bus stop about 490 m."
+    },
+    {
+      "text": "Open outlook behind",
+      "weight": 1,
+      "detail": "The listing describes ample space around the house and a partly elevated rear garden with countryside views (setting judged from listing text/photos)."
+    },
+    {
+      "text": "Cheap to run as a let",
+      "weight": 1,
+      "detail": "A2 running costs and en suites suit renting while the family is away; Courtown and the Wexford coast are within about 30 minutes."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Too small: 126 m²",
+      "weight": 3,
+      "detail": "14 m² under the 140 m² floor, with three bedrooms for a family of four plus summering parents; a 30 m² extension is a rough €70–100k."
+    },
+    {
+      "text": "Under half an acre",
+      "weight": 2,
+      "detail": "0.49 acres (0.2 ha), half the 1-acre target for two vizslas; fencing not mentioned."
+    },
+    {
+      "text": "Dublin train is a drive and about 2 hours",
+      "weight": 2,
+      "detail": "Enniscorthy station about 13 km by road; 5 Dublin trains each weekday, about 1h50–2h20 to Connolly."
+    },
+    {
+      "text": "ED about 35 minutes",
+      "weight": 2,
+      "detail": "Wexford General (all ages, per HSE) is about 28 km as the crow flies, roughly 33 km by road."
+    },
+    {
+      "text": "Secondary schools are in Enniscorthy",
+      "weight": 1,
+      "detail": "Nearest mixed is Enniscorthy Community College (DEIS, ~11 km); St Mary's CBS (boys) is beside it; Coláiste Bríde is girls-only."
+    },
+    {
+      "text": "Water and sewer not stated",
+      "weight": 1,
+      "detail": "The listing doesn't say whether it is on mains or a well and treatment system; ask before viewing."
+    },
+    {
+      "text": "Plain modern design",
+      "weight": 1,
+      "detail": "A 2021 build with a vaulted open-plan room, not a period or character house."
+    },
+    {
+      "text": "Unchecked risks",
+      "weight": 1,
+      "detail": "BuyerIQ's paywalled report flags one critical finding (fix cost €800–2,000, possibly radon) and an active build within 1 km; a 2021 rural build may also carry an occupancy condition."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "St Edan's National School",
+      "candidates": [
+        "St Edan's National School, Clone Road, Ferns, Co. Wexford",
+        "St Edan's NS, Ferns, Co. Wexford"
+      ],
+      "note": "Church of Ireland, co-ed, 39 pupils (18 boys), 2 teachers, roll 18714P; 120 m. A Church of Ireland school may prioritise its own families if full. Naomh Maodhog NS (Catholic, co-ed, 285, DEIS per scoilscout) is ~630 m.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "A 2016 Department curriculum evaluation (Visual Arts) rated pupils' learning and teaching very good; it covers one subject, is ten years old, and the school has two multi-grade classrooms."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Enniscorthy Community College",
+      "candidates": [
+        "Enniscorthy Community College, Enniscorthy, Co. Wexford"
+      ],
+      "note": "Mixed WWETB school, 492 pupils (2025/26), ~11 km. St Mary's CBS (boys, 770, non-DEIS) is the same distance; Meánscoil Gharman (Irish-medium, mixed) had 100% progression in 2019.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "DEIS per scoilscout and enrolment up 21% since 2019; no progression figure or inspection report could be retrieved."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Gorey Community School",
+      "candidates": [
+        "Gorey Community School, Esmonde Street, Gorey, Co. Wexford"
+      ],
+      "note": "Mixed, ~1,540 pupils, ~18 km by road east.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Ireland's largest school (~1,540, mixed, free) with wide subject choice and a long good reputation; no recent progression % retrieved, so moderate confidence."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Centra Ferns",
+      "candidates": [
+        "Centra, Main Street, Ferns, Co. Wexford Y21 N8X7"
+      ],
+      "note": "Ferns Centra on Main Street, about 700 m; open 7 a.m.–9 p.m. weekdays.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Enniscorthy",
+      "candidates": [
+        "SuperValu, Abbey Street, Enniscorthy, Co. Wexford",
+        "Aldi, Bellfield, Enniscorthy, Co. Wexford",
+        "Tesco Extra, Paul Funge Boulevard, Gorey, Co. Wexford"
+      ],
+      "note": "Enniscorthy (about 12 km) has SuperValu and Aldi; Gorey's Tesco Extra is about 18 km.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "The Courtyard, Ferns, Co. Wexford",
+        "Partridge's Bistro, Main Street, Gorey, Co. Wexford"
+      ],
+      "note": "The Courtyard in Ferns (4.4 on Tripadvisor, 123 reviews) is walkable; Partridge's in Gorey for a night out.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Wexford General Hospital",
+      "candidates": [
+        "Wexford General Hospital, Newtown Road, Wexford"
+      ],
+      "note": "Wexford General: HSE lists its ED as for all ages; about 33 km.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Enniscorthy",
+      "candidates": [
+        "Market Square, Enniscorthy",
+        "Main Street, Gorey"
+      ],
+      "note": "Enniscorthy for errands, Gorey the alternative.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Wexford",
+      "candidates": [
+        "Main Street, Wexford",
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Wexford town is closest; Kilkenny is the nearest city.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car, via the M11.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Enniscorthy railway station",
+        "Gorey railway station"
+      ],
+      "note": "Rosslare–Dublin line: 5 trains each weekday calling at Enniscorthy and Gorey, about 1h50–2h20 from Enniscorthy to Connolly.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ],
+  "questions": [
+    "Is the house on mains water and sewer, or a private well and treatment system? If private, is there a certificate and water test?",
+    "Does the 2021 planning permission carry an occupancy or local-needs condition that would bind a buyer?",
+    "Can you send a site map of the 0.49 acres, and is the boundary fenced? Is any adjoining land for sale?",
+    "Has the house been tested for radon, and has the site or Clone Road ever flooded?",
+    "What is the active build within 1 km, and is anything planned for the fields around the house?"
+  ],
+  "ai": {
+    "stars": 3.0,
+    "why": "A2 single-storey on the edge of Ferns, every bedroom downstairs, under budget and walkable to school and shop. But 126 m² and under half an acre fall short of the brief, and Dublin is about 2 hours by train."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Connected; heat pump and 2021 build imply it, not stated."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Not stated; mains is possible at the village edge, otherwise a well."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Not stated; ask whether it is on the Ferns scheme or a treatment system."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Fibre likely; not in the listing, but NBI announced fibre for the townlands around Ferns (Sept 2024) and the village has open eir. BuyerIQ shows no data.",
+      "type": "Fibre",
+      "speed": "~500 Mb–1 Gb",
+      "provider": "open eir / NBI"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Single storey: all three bedrooms are on the ground floor, and bedroom 3 (3.61 × 5.23 m) has its own en suite."
+  }
+}
