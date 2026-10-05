@@ -101,33 +101,48 @@
 
   /* ---------- static render ---------- */
   function renderStatic() {
-    document.title = P.name + ", " + P.address.split(",").slice(-2, -1)[0].trim();
-    $("heroimg").src = P.photos[0].url;
-    $("addr").textContent = P.address + " · " + P.eircode;
+    const parts = (P.area || P.address).split(",").map((x) => x.trim());
+    const town = parts.find((x) => x && x.toLowerCase() !== P.name.toLowerCase()) || parts[0];
+    document.title = town ? `${P.name}, ${town}` : P.name;
+    const photos = P.photos || [];
+    const hero = photos.find((x) => x.role === "facade") || photos[0];
+    if (hero) { $("heroimg").referrerPolicy = "no-referrer"; $("heroimg").src = hero.url; }
+    $("addr").textContent = [P.address, P.eircode].filter(Boolean).join(" · ");
     $("name").textContent = P.name;
-    $("tagline").textContent = P.tagline;
+    $("tagline").textContent = P.tagline || "";
     $("listinglink").href = P.listingUrl;
     $("gmapslink").href = `https://www.google.com/maps/search/?api=1&query=${P.lat},${P.lng}`;
+    $("maillink").href = mailto();
 
-    const dom = Math.max(0, Math.round((Date.now() - Date.parse(P.listed)) / 86400000));
+    const has = (v) => v !== undefined && v !== null && v !== "";
+    const dom = has(P.listed) ? Math.max(0, Math.round((Date.now() - Date.parse(P.listed)) / 86400000)) : null;
+    const sqft = (m2) => Math.round(m2 * 10.764).toLocaleString("en-IE") + " sq ft";
     const stats = [
-      ["Asking", euro(P.price), `${euro(P.price / P.floorM2)}/m² · stamp duty ${euro(P.stampDuty)}`, "asking"],
-      ["Beds / baths", `${P.beds} / ${P.baths}`, P.bedsNote],
-      ["House", `${P.floorM2} m²`, `${Math.round(P.floorM2 * 10.764).toLocaleString("en-IE")} sq ft + ${P.atticM2} m² attic`],
-      ["Land", `${P.landAcres} ac`, `${P.landHa} ha`],
-      ["Energy", null, `${P.berKwh} kWh/m²/yr · ${P.heating}`],
-      ["On market", `${dom} days`, `Listed ${new Date(P.listed).toLocaleDateString("en-IE", { day: "numeric", month: "short" })} · ${P.views.toLocaleString("en-IE")} views`],
+      ["Asking", euro(P.price), [has(P.floorM2) ? `${euro(P.price / P.floorM2)}/m²` : null, `stamp duty ${euro(P.stampDuty || P.price * 0.01)}`].filter(Boolean).join(" · "), "asking"],
+      ["Beds / baths", `${P.beds ?? "?"} / ${P.baths ?? "?"}`, P.bedsNote],
+      ["House", has(P.floorM2) ? `${P.floorM2} m²` : "Not stated", has(P.floorM2) ? sqft(P.floorM2) + (has(P.atticM2) ? ` + ${P.atticM2} m² attic` : "") : null],
+      ["Land", has(P.landAcres) ? `${P.landAcres} ac` : "Not stated", has(P.landHa) ? `${P.landHa} ha` : null],
+      ["Energy", null, [has(P.berKwh) ? `${P.berKwh} kWh/m²/yr` : null, P.heating].filter(Boolean).join(" · ")],
+      ["On market", dom === null ? "–" : `${dom} days`, [has(P.listed) ? `Listed ${new Date(P.listed).toLocaleDateString("en-IE", { day: "numeric", month: "short", year: "numeric" })}` : null, has(P.views) ? `${P.views.toLocaleString("en-IE")} views` : null].filter(Boolean).join(" · ")],
     ];
     const box = $("stats");
     for (const [k, v, small, id] of stats) {
       const dd = el("dd");
-      if (v == null) dd.append(el("span", { class: "ber", text: P.ber }));
+      if (v == null) dd.append(el("span", { class: "ber ber-" + String(P.ber || "x")[0].toLowerCase(), text: P.ber || "BER ?" }));
       else dd.textContent = v;
       if (id) dd.append(el("small", { id: "usd-" + id, class: "usd" }));
       if (small) dd.append(el("small", { text: small }));
       box.append(el("dl", { class: "stat" }, el("dt", { text: k }), dd));
     }
 
+    // Ledger, with a balance bar up top: total weight for vs against
+    const sp = P.pros.reduce((a, b) => a + b.weight, 0), sc = P.cons.reduce((a, b) => a + b.weight, 0);
+    const bal = $("balance");
+    bal.append(
+      el("span", { class: "bal-n bal-against", text: String(sc) }),
+      el("div", { class: "bal-bar", title: `Against ${sc} · For ${sp} (weights 1–3)` },
+        el("i", { class: "bal-c", style: `flex:${sc}` }), el("i", { class: "bal-p", style: `flex:${sp}` })),
+      el("span", { class: "bal-n bal-for", text: String(sp) }));
     const col = (cls, title, items) => {
       const c = el("div", { class: "l-col " + cls }, el("h3", { text: title }));
       for (const it of items) {
@@ -139,13 +154,28 @@
       return c;
     };
     $("ledger").append(col("l-cons", "Against", P.cons), col("l-pros", "For", P.pros));
-    const sp = P.pros.reduce((a, b) => a + b.weight, 0), sc = P.cons.reduce((a, b) => a + b.weight, 0);
-    const score = $("ledgerscore");
-    score.append("Weighted 1–3 by how much each matters to the brief. For ", el("b", { text: String(sp) }), ", against ", el("b", { text: String(sc) }), ". Bar length is the weight.");
 
-    const ph = $("photos");
-    for (const x of P.photos) ph.append(el("img", { src: x.url, alt: x.caption, loading: "lazy", referrerpolicy: "no-referrer" }));
-    $("heroimg").referrerPolicy = "no-referrer";
+    // Gallery: one slot per kind of view, filled from role-tagged photos; the rest of the photos follow
+    const ROLES = [["facade", "The house"], ["garden", "Garden and grounds"], ["interior", "Inside"], ["floorplan", "Floor plan"]];
+    const used = new Set();
+    const slots = $("slots");
+    LB.items = [];
+    const addPhoto = (x, label, cls) => {
+      const i = LB.items.length;
+      LB.items.push({ url: x.url, cap: x.caption && x.caption !== "Listing photo" ? `${label}: ${x.caption}` : label });
+      slots.append(el("figure", { class: "slot " + (cls || "") },
+        el("button", { type: "button", class: "slot-img", "aria-label": `Enlarge: ${label}`, onclick: () => openLB(i) },
+          el("img", { src: x.url, alt: label, loading: "lazy", referrerpolicy: "no-referrer" })),
+        el("figcaption", { text: label })));
+    };
+    for (const [role, label] of ROLES) {
+      const x = photos.find((p) => p.role === role && !used.has(p.url));
+      if (x) { used.add(x.url); addPhoto(x, label, "slot-" + role); }
+    }
+    slots.append(
+      el("figure", { class: "slot slot-map" }, el("div", { id: "satmap", class: "mapbox needs-key" }, el("span", { text: "Satellite view loads with a Maps key" })), el("figcaption", { text: "From above" })),
+      el("figure", { class: "slot slot-map" }, el("div", { id: "pano", class: "mapbox needs-key" }, el("span", { text: "Street View loads with a Maps key" })), el("figcaption", { id: "panocap", text: "At the gate" })));
+    for (const x of photos) if (!used.has(x.url)) { used.add(x.url); addPhoto(x, "Listing photo", "slot-extra"); }
 
     const cats = P.categories || [...new Set(P.trips.map((t) => t.category))];
     const box2 = $("trips");
@@ -170,6 +200,74 @@
     }
   }
 
+  /* ---------- lightbox ---------- */
+  const LB = { items: [], i: 0 };
+  function showLB() {
+    const it = LB.items[LB.i]; if (!it) return;
+    $("lb-img").referrerPolicy = "no-referrer";
+    $("lb-img").src = it.url; $("lb-img").alt = it.cap; $("lb-cap").textContent = `${it.cap} · ${LB.i + 1} of ${LB.items.length}`;
+    $("lb-prev").hidden = $("lb-next").hidden = LB.items.length < 2;
+  }
+  function openLB(i) { LB.i = i; showLB(); if (!$("lightbox").open) $("lightbox").showModal(); }
+  function stepLB(d) { LB.i = (LB.i + d + LB.items.length) % LB.items.length; showLB(); }
+
+  /* ---------- email the agent ---------- */
+  function mailto() {
+    const town = (P.area || P.address).split(",")[0].trim();
+    const standard = [
+      "Is it still available? Is there a closing date, and have any offers come in?",
+      "Is the water from mains or a private well, and is the wastewater on mains or a septic tank? If septic, when was it last inspected?",
+      "What broadband can the house get?",
+      "Are there any rights of way, boundary or title issues, and do all extensions and outbuildings have planning permission or an exemption?",
+      "Has the house, the site or the access road ever flooded?",
+      "We're based in California. Could you do a video walk-through, and send the floor plan and the BER advisory report?",
+    ];
+    const qs = [...(P.questions || []), ...standard];
+    const body = `Hello,\n\nI'm interested in ${P.name}, ${P.address} (${P.listingUrl}). Before arranging a viewing, could you help with a few questions?\n\n` +
+      qs.map((q, i) => `${i + 1}. ${q}`).join("\n") + "\n\nMany thanks,\n";
+    return `mailto:${encodeURIComponent(P.agentEmail || "")}?subject=${encodeURIComponent(`Enquiry: ${P.name}, ${town}`)}&body=${encodeURIComponent(body)}`;
+  }
+
+  /* ---------- ratings ---------- */
+  function initRatings() {
+    const R = window.HDRatings; if (!R) return;
+    const name = $("rate-name"), note = $("rate-note"), status = $("rate-status");
+    let pick = 0, touched = false;
+    name.value = R.me();
+    const drawStars = () => $("rate-stars").replaceChildren(window.HDStars(pick, (n) => { pick = n; touched = true; drawStars(); }));
+    drawStars();
+    note.addEventListener("input", () => { touched = true; });
+    name.addEventListener("change", () => { R.setMe(name.value); touched = false; });
+    $("rate-form").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      if (!name.value.trim()) { status.textContent = "Add your name first."; name.focus(); return; }
+      R.setMe(name.value);
+      if (!pick) { status.textContent = "Pick 1 to 5 stars."; return; }
+      status.textContent = "Saving…";
+      const r = await R.rate(P.id, pick, note.value);
+      touched = false;
+      status.textContent = r.shared ? "Saved." : "Saved in this browser. Shared ratings aren't switched on yet.";
+    });
+    const render = () => {
+      const mine = R.mine(P.id);
+      if (mine && !touched) { pick = mine.stars; note.value = mine.note || ""; drawStars(); }
+      const list = R.forProperty(P.id), sum = R.summary(P.id);
+      $("rate-avg").textContent = sum.n ? `${window.HDStarText(sum.avg)} ${sum.avg.toFixed(1)} from ${sum.n} ${sum.n === 1 ? "person" : "people"}` : "No ratings yet";
+      const ul = $("rate-all"); ul.textContent = "";
+      for (const r of list) {
+        ul.append(el("li", { class: "rate-row" + (r.person === R.me() ? " me" : "") },
+          el("span", { class: "rate-name", text: r.person }),
+          el("span", { class: "rate-stars", "aria-label": `${r.stars} of 5`, text: window.HDStarText(r.stars) }),
+          r.note ? el("p", { class: "rate-note", text: r.note }) : null));
+      }
+      const dl = $("raters"); dl.textContent = "";
+      for (const p of R.people()) dl.append(el("option", { value: p }));
+    };
+    R.onChange(render);
+    render();
+    R.refresh();
+  }
+
   async function eurUsd() {
     // Frankfurter (ECB rates) moved to frankfurter.dev; the old .app host no longer sends CORS headers.
     const tries = [
@@ -191,7 +289,8 @@
       box.textContent = `≈ ${usd(P.price)}`;
       box.title = `At €1 = $${rate.toFixed(4)} (ECB rate, ${j.date})`;
       const next = box.nextElementSibling;
-      if (next) next.textContent = `${euro(P.price / P.floorM2)}/m² (${usd(P.price / P.floorM2)}) · stamp duty ${euro(P.stampDuty)} (${usd(P.stampDuty)})`;
+      const duty = P.stampDuty || P.price * 0.01;
+      if (next) next.textContent = [P.floorM2 ? `${euro(P.price / P.floorM2)}/m² (${usd(P.price / P.floorM2)})` : null, `stamp duty ${euro(duty)} (${usd(duty)})`].filter(Boolean).join(" · ");
     } catch (e) { /* no rate, euros only */ }
   }
 
@@ -230,8 +329,7 @@
         const head = bearing([loc.lat(), loc.lng()], [P.lat, P.lng]);
         new google.maps.StreetViewPanorama(panoEl, { pano: data.location.pano, pov: { heading: head, pitch: 0 }, addressControl: false, motionTrackingControl: false, fullscreenControl: true });
         const dist = Math.round(hav([loc.lat(), loc.lng()], [P.lat, P.lng]));
-        const date = data.imageDate ? ` Imagery from ${data.imageDate}.` : "";
-        $("panocap").textContent = `Street View about ${dist} m from the house, facing it. Drag to look around.${date}`;
+        $("panocap").textContent = `At the gate · ${dist} m from the house${data.imageDate ? ", imagery " + data.imageDate : ""}`;
       })
       .catch(() => { panoEl.classList.add("needs-key"); panoEl.textContent = "No Street View within 600 m of the house."; });
   }
@@ -513,8 +611,8 @@
   }
   function hud() {
     const t = PL.simT, f = PL.frames[Math.max(0, PL.shown)] || PL.frames[0];
-    $("pl-clock").textContent = clockAt(PL.r.depMs + t * 1000);
-    $("pl-elapsed").textContent = fmtMin(t);
+    const s2 = Math.round(t), hh = Math.floor(s2 / 3600), mm = Math.floor((s2 % 3600) / 60), ss = s2 % 60;
+    $("pl-clock").textContent = (hh ? hh + ":" + String(mm).padStart(2, "0") : mm) + ":" + String(ss).padStart(2, "0");
     $("pl-left").textContent = fmtMin(Math.max(0, PL.total - t));
     $("pl-dist").textContent = fmtKm(Math.max(0, PL.dist - f.d));
     $("pl-signkm").textContent = fmtKm(Math.max(0, PL.dist - f.d));
@@ -572,9 +670,10 @@
     $("pl-loading").textContent = "Loading Street View…";
     $("pl-title").textContent = r.dest.name;
     $("pl-signname").textContent = r.dest.name;
-    $("pl-note").textContent = `${frames.length} Street View frames over ${fmtKm(total)}, leaving ${clockAt(r.depMs)}. ` + (t.note || "");
+    $("pl-elapsed").textContent = fmtMin(r.route.duration);
+    $("pl-note").textContent = t.note || "";
     $("pl-destname").textContent = r.dest.name;
-    $("pl-destmeta").textContent = `${fmtMin(r.route.duration)} · ${fmtKm(r.route.distance)} · arrive ${clockAt(r.depMs + r.route.duration * 1000)}` + (r.dest.rating ? ` · ${r.dest.rating}★ (${r.dest.ratings})` : "");
+    $("pl-destmeta").textContent = `${fmtMin(r.route.duration)} · ${fmtKm(r.route.distance)}` + (r.dest.rating ? ` · ${r.dest.rating}★ (${r.dest.ratings})` : "");
     const di = $("pl-destimg");
     di.src = r.dest.photo || destStreetView(r.dest); di.hidden = false;
     const cr = $("pl-destcredit"); cr.textContent = "";
@@ -621,6 +720,16 @@
     }
     renderStatic();
     showDollars();
+    initRatings();
+    $("lb-close").addEventListener("click", () => $("lightbox").close());
+    $("lb-prev").addEventListener("click", () => stepLB(-1));
+    $("lb-next").addEventListener("click", () => stepLB(1));
+    $("lightbox").addEventListener("click", (e) => { if (e.target === $("lightbox")) $("lightbox").close(); });
+    document.addEventListener("keydown", (e) => {
+      if (!$("lightbox").open) return;
+      if (e.key === "ArrowLeft") stepLB(-1);
+      if (e.key === "ArrowRight") stepLB(1);
+    });
     buildDial();
     $("pl-play").addEventListener("click", togglePlay);
     $("pl-close").addEventListener("click", closeTrip);

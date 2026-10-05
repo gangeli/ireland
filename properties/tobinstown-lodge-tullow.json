@@ -28,7 +28,8 @@
   "photos": [
     {
       "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIzXC80XC8zNGIwZmE4ZS05YjhiLTQwNmQtYjA4Yi0xOGM4YTQ0NzUxZmMuanBnIn0=?signature=ef4e3cad21faaa84fc82207efaaf742de1f8251b344834bda2ea32f418811d23",
-      "caption": "Listing photo"
+      "caption": "Listing photo",
+      "role": "facade"
     },
     {
       "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjlcLzlcLzk5YjgzNzdlLTliOGUtNDkxNS1hZTg5LTQ1ZmVmMmUzMzAwNy5qcGcifQ==?signature=48197b67bbbe8bd480f3c4399bbee7e2f3ac2f32f80334b0dd8ae7d16536b766",

@@ -28,7 +28,8 @@
   "photos": [
     {
       "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJiXC83XC9iNzc5YTQ5Ny02ZDY2LTRiOGItODU5Yy0xMzlhZmVmMTk1MzcuanBnIn0=?signature=269b47f2b6934fa7c30321fbba5e2130c28339b91822724696960329d0d418ec",
-      "caption": "Listing photo"
+      "caption": "Listing photo",
+      "role": "facade"
     }
   ],
   "pros": [

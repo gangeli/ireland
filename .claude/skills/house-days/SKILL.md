@@ -28,7 +28,8 @@ WebFetch the Daft or MyHome URL. Pull out:
 - lat/lng: on Daft, from the "Satellite View" link (`google.com/maps?t=k&q=<lat>,<lng>`); otherwise geocode the Eircode with a web search. Get this right; every trip starts here.
 - price, type, beds (+ any convertible room), baths, floor area m², land (ha and acres; 1 ha = 2.471 ac), BER and kWh/m²/yr, heating, date listed, views
 - stamp duty: 1% of price up to €1m
-- photo URLs: the og:image (1440 wide) first, then any gallery images the fetch returns. Hotlink them; never copy listing photos into the repo.
+- photos, chosen on purpose rather than in page order. The page has labelled slots for `role`: `facade` (the front of the house; also the hero), `garden` (grounds or back garden), `interior` (the one room that best shows the house), and `floorplan`. The satellite view and the road at the gate are added live, so don't look for those. Daft's page only exposes its og:image and a few unlabelled thumbnails, so look for a fuller, labelled gallery on MyHome, the agent's own site, or the agent's PDF brochure, where floor plans are usually marked. Give a photo a `role` only when its source labels it or you can actually see what it shows; otherwise leave the role off. The og:image is the listing's lead shot, so it's normally safe as `facade`. Copy each URL exactly, including any `?signature=` part. Hotlink them; never copy listing photos into the repo.
+- the agent's email address, if the listing or the agency's site shows it publicly (`agentEmail`).
 
 ## 3. Write the ledger against the brief
 
@@ -84,7 +85,7 @@ Each trip also has:
 
 `id` is a lowercase slug of the house name plus the townland or village, for example `forty-shades` or `old-station-house-monasterevin`. Copy the shape of `properties/forty-shades.json` exactly, with these top-level keys:
 
-`id, name, address, eircode, lat, lng, listingUrl, status, added, area, agent, price, type, beds, bedsNote, baths, floorM2, atticM2, landHa, landAcres, ber, berKwh, heating, listed, views, stampDuty, tagline, photos[], pros[], cons[], trips[], categories[]`
+`id, name, address, eircode, lat, lng, listingUrl, status, added, area, agent, agentEmail, questions[], price, type, beds, bedsNote, baths, floorM2, atticM2, landHa, landAcres, ber, berKwh, heating, listed, views, stampDuty, tagline, photos[], pros[], cons[], trips[], categories[]`
 
 Notes on the keys:
 - `status`: one of `Front-runner`, `Considering`, `Sale agreed`, `Passed`. New houses start as `Considering`.
@@ -93,6 +94,8 @@ Notes on the keys:
 - Leave out keys you don't have, such as `atticM2` or `views`, rather than inventing them.
 - `tagline`: one plain sentence on what the house is and where.
 - `categories`: always `["Schools","Groceries","Eating out","Health","Towns and cities","Getting away"]`.
+- `questions`: 3–5 questions for the agent that are specific to this house: the unknowns and risks in your cons, such as floor area, site boundaries, ground-floor bedroom, BER, protected-structure status or radon. The page's "Email the agent" button opens a draft with these first, followed by a standard set: availability and offers, water and septic, broadband, title and planning, flooding, and a remote viewing. So don't repeat those.
+- `agentEmail`: optional; leave it out if it isn't public.
 
 Then add the id to `properties/index.json`, keeping existing ids and never duplicating one.
 
@@ -121,6 +124,10 @@ Give the house link (`https://gangeli.github.io/ireland/property.html?p=<id>`) a
 
 - Sale agreed, price change, or Gabor passes on it: edit `status` (and `price`, adding a con such as "Price cut from €X" or a pro if relevant), then commit "Update <name>: <what>".
 - Never delete a house's file. `Passed` keeps it on the map, greyed, so it isn't re-found.
+
+## Ratings
+
+People rate houses on the site itself, and those ratings sync through a small Cloud Function (`setup/ratings-setup.sh`). There's nothing to do for them when adding a house. To read the current ratings, use the URL in `config.js`; GET returns them all.
 
 ## Don'ts
 

@@ -1,0 +1,267 @@
+{
+  "id": "water-lane-castlepollard",
+  "name": "Water Lane",
+  "address": "Water Lane, Castlepollard, Co. Westmeath",
+  "eircode": "N91 HT38",
+  "lat": 53.682338,
+  "lng": -7.294094,
+  "listingUrl": "https://www.daft.ie/for-sale/water-lane-castlepollard-castlepollard-co-westmeath/6638791",
+  "status": "Considering",
+  "added": "2026-10-04",
+  "area": "Castlepollard, Co. Westmeath",
+  "agent": "Jennifer Walsh, Sherry FitzGerald",
+  "price": 319950,
+  "type": "Detached bungalow",
+  "beds": 3,
+  "bedsNote": "All three bedrooms are on the ground floor (single storey)",
+  "baths": 1,
+  "floorM2": 94,
+  "landHa": 0.2,
+  "landAcres": 0.5,
+  "ber": "G",
+  "heating": "Solid-fuel fireplace and range",
+  "listed": "2026-08-06",
+  "views": 2857,
+  "stampDuty": 3200,
+  "tagline": "A 1930s town-centre bungalow needing modernisation on a private half-acre with five sheds, a short walk from Castlepollard's square in north Westmeath.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI1XC83XC81NzZlMjFhYy02N2UyLTRiM2MtOWVmOS00MDJjZDczYjEwNDMuSlBFRyJ9?signature=9dde5a87d4cf1a1c0cba6a5ff0cdba0a62451965a715cad803629dbcede05b9f",
+      "caption": "Listing photo",
+      "role": "facade"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImZcLzFcL2YxMTU4N2MzLTc4NjgtNDcwYi1hZjc1LTQyOGE1NzczMTU3Mi5KUEVHIn0=?signature=996e1c5fb7c2f63656da6cf04e0726d0db9b7efc3aa4c0bd5e6efab441be0772",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImFcLzVcL2E1MzBjZGE4LTJhNDUtNDdkMy05YWI3LTczNDNkYmM0NWYxNy5KUEVHIn0=?signature=9e638daea2f743bde2af2ed4dbdf5488ca57fbe8cb9a757457969cb68ae41bfa",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€320k, well under budget",
+      "weight": 3,
+      "detail": "€3,404/m². Stamp duty about €3,200, leaving room to extend."
+    },
+    {
+      "text": "Single storey: all bedrooms downstairs",
+      "weight": 3,
+      "detail": "Bedroom Three (4.7 x 2.5 m double, rear, fitted wardrobes) is the obvious parents' room, next to the bathroom."
+    },
+    {
+      "text": "School on the doorstep",
+      "weight": 3,
+      "detail": "Castlepollard Mixed NS (163 pupils) is 160 m away; the community college is 1.1 km."
+    },
+    {
+      "text": "Walkable town",
+      "weight": 2,
+      "detail": "On a lane off Castlepollard's square: shops, Centra, pubs, GP all on foot."
+    },
+    {
+      "text": "Private half-acre with sheds",
+      "weight": 2,
+      "detail": "0.2 ha of mature trees and lawn plus five powered block sheds; a big yard, short of the acre target."
+    },
+    {
+      "text": "Train from Mullingar",
+      "weight": 1,
+      "detail": "Mullingar station (Sligo–Dublin line) about 25 minutes away, then about 1h15 to Connolly."
+    },
+    {
+      "text": "Lakes and Tullynally",
+      "weight": 1,
+      "detail": "Lough Derravaragh and Tullynally Castle nearby; some summer letting appeal."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Too small: 94 m²",
+      "weight": 3,
+      "detail": "Well below the 140 m² floor; reaching ~150 m² is a rough €100–180k extension."
+    },
+    {
+      "text": "BER G, solid fuel only",
+      "weight": 3,
+      "detail": "No central heating listed; a 1935 house needing full insulation and heating, a rough €50–80k before grants."
+    },
+    {
+      "text": "Needs modernisation",
+      "weight": 2,
+      "detail": "Listed as needing updating throughout; one bathroom."
+    },
+    {
+      "text": "Half acre, not one",
+      "weight": 2,
+      "detail": "0.5 acres is a good yard for two vizslas but under the 1-acre ideal."
+    },
+    {
+      "text": "ED about 25 minutes",
+      "weight": 2,
+      "detail": "Regional Hospital Mullingar is roughly 20 km; Cavan General is the alternative."
+    },
+    {
+      "text": "Water and drainage not stated",
+      "weight": 1,
+      "detail": "Town location suggests mains, but confirm."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "Castlepollard Mixed National School"
+      ],
+      "note": "About 163 pupils, 160 m. St Michael's NS (630 m) and Whitehall NS (4.3 km) are the fallbacks.",
+      "category": "Schools"
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "Centra Castlepollard"
+      ],
+      "note": "Centra in the town.",
+      "title": "Castlepollard Centra",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "Lidl Dublin Road Mullingar",
+        "Tesco Mullingar"
+      ],
+      "note": "Mullingar has the full range of supermarkets.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "Tom's Bar & Bistro, Castlepollard",
+        "Hotel Castlepollard"
+      ],
+      "note": "Two food options in the town.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "Regional Hospital Mullingar",
+        "Cavan General Hospital"
+      ],
+      "note": "Nearest 24-hour emergency department by drive time.",
+      "title": "Regional Hospital Mullingar",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Pearse Street, Mullingar, Co. Westmeath"
+      ],
+      "note": "Mullingar: the county town for everything Castlepollard lacks.",
+      "title": "Mullingar",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Athlone Castle, Athlone"
+      ],
+      "note": "Athlone, the nearest large town; Dublin is the real city trip.",
+      "title": "Athlone",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car. The train from Mullingar is the other way in.",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Mullingar railway station",
+        "Edgeworthstown railway station"
+      ],
+      "note": "Sligo–Dublin Connolly line, about 1h15 from Mullingar.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

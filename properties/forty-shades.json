@@ -29,7 +29,8 @@
   "photos": [
     {
       "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI0XC9kXC80ZGYwNDhhMi05MmIwLTQyYTItODM0Zi0zYTlkYTNkN2ZhMDEuSlBFRyJ9?signature=505405b509774d0114231cd5410423e522ed5887561a4d08f72e53817258b308",
-      "caption": "Listing photo"
+      "caption": "Listing photo",
+      "role": "facade"
     },
     {
       "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImRcLzZcL2Q2MjVhYmM4LTIxYTctNDM3OC04MjRkLTBkNDc2NzQ1Zjk5OS5KUEVHIn0=?signature=d548af543be9319f3812ec43d0618c80054d98db777e79053ad75a3383e749c8",
@@ -275,5 +276,11 @@
     "Health",
     "Towns and cities",
     "Getting away"
+  ],
+  "questions": [
+    "Is the 68 m² attic approved for habitable use, or would it need planning or fire-safety work?",
+    "How old is the oil boiler? Do you have a BER advisory report or any quotes for insulation or a heat pump?",
+    "Did Storm Babet in October 2023 affect the house or the road into the village?",
+    "Is the gravel driveway part of the property, and is there a shared right of way over it?"
   ]
 }

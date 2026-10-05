@@ -27,7 +27,8 @@
   "photos": [
     {
       "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJjXC9mXC9jZjNhMjdmNy03NDY5LTQzZGQtODdmMi01NzYyY2Q1YjMzODQuanBnIn0=?signature=721f57d006424fa038a410a2bd189734a3d9b74a1ce3e035cc0d0c8734dc6c27",
-      "caption": "Listing photo"
+      "caption": "Listing photo",
+      "role": "facade"
     },
     {
       "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjFcLzhcLzE4NTY3OGQ1LTg1YmYtNGY1Ny04OTNmLTJkM2MwNmFhYTRjYS5qcGcifQ==?signature=30c69146de6c8a1fbe92c4c2a5f5c4ee27a101ab49fe2826ee4cde42c4d26285",
@@ -266,5 +267,9 @@
     "Health",
     "Towns and cities",
     "Getting away"
+  ],
+  "questions": [
+    "Is there a bedroom on the ground floor, or a room that could be used as one? Could you send the floor plan?",
+    "What is the total floor area of the house?"
   ]
 }

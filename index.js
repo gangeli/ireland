@@ -24,7 +24,10 @@
   const markers = {};
 
   const score = (p) => (p.pros || []).reduce((a, b) => a + b.weight, 0) - (p.cons || []).reduce((a, b) => a + b.weight, 0);
+  const R = window.HDRatings;
+  const avgOf = (p) => { const x = R.summary(p.id); return x.avg == null ? -1 : x.avg; };
   const sorters = {
+    rating: (a, b) => avgOf(b) - avgOf(a) || score(b) - score(a),
     score: (a, b) => score(b) - score(a),
     price: (a, b) => a.price - b.price,
     added: (a, b) => String(b.added || "").localeCompare(String(a.added || "")),
@@ -55,12 +58,26 @@
             `${p.beds} bed`, `${p.floorM2} m²`, p.landAcres ? `${p.landAcres} ac` : null, p.ber ? `BER ${p.ber}` : null,
           ].filter(Boolean).join(" · ") }),
           p.tagline ? el("p", { class: "ic-tag", text: p.tagline }) : null,
+          rateRow(p),
           el("div", { class: "ic-links" },
             el("a", { href, text: "Day in the life →" }),
             p.listingUrl ? el("a", { href: p.listingUrl, target: "_blank", rel: "noopener", text: "Listing" }) : null)));
       list.append(li);
     }
-    $("idx-sub").textContent = `${props.length} ${props.length === 1 ? "house" : "houses"} under consideration, each with its own day-in-the-life page.`;
+  }
+
+  function rateRow(p) {
+    const sum = R.summary(p.id), mine = R.mine(p.id);
+    const others = R.forProperty(p.id).map((r) => `${r.person} ${r.stars}`).join(", ");
+    const sig = JSON.stringify([mine && mine.stars, R.forProperty(p.id).map((r) => [r.person, r.stars])]);
+    return el("div", { class: "ic-rate", "data-sig": sig },
+      window.HDStars(mine ? mine.stars : 0, async (n) => {
+        if (!R.me()) { $("idx-name").focus(); $("idx-name").placeholder = "Your name first"; return; }
+        await R.rate(p.id, n, mine ? mine.note : "");
+      }, { small: true, label: `Your rating for ${p.name}` }),
+      el("span", { class: "ic-avg", title: others },
+        sum.n ? el("b", { text: window.HDStarText(sum.avg) }) : null,
+        document.createTextNode(sum.n ? ` ${sum.avg.toFixed(1)} · ${others}` : "Not rated yet")));
   }
 
   function highlight(id, on) {
@@ -123,6 +140,20 @@
     props = (await Promise.all(ids.map((id) => fetch(`properties/${encodeURIComponent(id)}.json`).then((r) => r.json()).catch(() => null)))).filter(Boolean);
     renderList();
     $("sort").addEventListener("change", renderList);
+    const nm = $("idx-name");
+    nm.value = R.me();
+    nm.addEventListener("change", () => R.setMe(nm.value));
+    R.onChange(() => {
+      // update ratings in place so cards don't jump while you rate
+      for (const p of props) {
+        const row = document.querySelector(`#ic-${CSS.escape(p.id)} .ic-rate`);
+        const fresh = rateRow(p);
+        if (row && row.dataset.sig !== fresh.dataset.sig) row.replaceWith(fresh);
+      }
+      const dl = $("idx-raters"); dl.textContent = "";
+      for (const p of R.people()) dl.append(el("option", { value: p }));
+    });
+    R.refresh();
     for (const b of ["split", "map", "list"]) $("v-" + b).addEventListener("click", () => setView(b));
     let saved = null; try { saved = localStorage.getItem("hd:view"); } catch (e) { /* ignore */ }
     if (saved) setView(saved);

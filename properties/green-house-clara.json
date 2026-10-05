@@ -1,0 +1,265 @@
+{
+  "id": "green-house-clara",
+  "name": "The Green House",
+  "address": "The Green House, Clara, Co. Offaly",
+  "eircode": "R35 CH76",
+  "lat": 53.345065,
+  "lng": -7.614036,
+  "listingUrl": "https://www.daft.ie/for-sale/the-green-house-clara-co-offaly/5809479",
+  "status": "Considering",
+  "added": "2026-10-04",
+  "area": "Clara, Co. Offaly",
+  "agent": "Hilary Hamill, Sherry FitzGerald Lewis Hamill",
+  "price": 630000,
+  "type": "Detached Georgian house",
+  "beds": 6,
+  "bedsNote": "5 on the first floor, 1 in the attic storey",
+  "baths": 1,
+  "floorM2": 207,
+  "landHa": 0.34,
+  "landAcres": 0.83,
+  "ber": "Exempt",
+  "heating": "Oil-fired central heating, stove in living room",
+  "listed": "2025-06-20",
+  "views": 15161,
+  "stampDuty": 6300,
+  "tagline": "A c.1792 Georgian house on 0.83 acres with a walled garden and stone outbuildings, overlooking the green in Clara, Co. Offaly.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJjXC8xXC9jMTM0ZGQzZi0wYzFlLTRjNDQtODA3NS0wMWI1NDBlOWMxYWIuanBnIn0=?signature=75f5e8c26164bda0a6456dcb6f099e5378d613a84da2eb7ec78fb64ea05002ad",
+      "caption": "Listing photo",
+      "role": "facade"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjJcLzRcLzI0MDNjMGQxLWEzODMtNGFlNS05NTk2LWMwZDJhZDhmYmYwMS5qcGcifQ==?signature=4c2af8eb3fda53c8abafe6b1ed0070f95c5f49c2cdc6ec92d0c17f21325bd7fb",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Direct train to Heuston from the town",
+      "weight": 3,
+      "detail": "Clara station is on the Galway line; the fastest trains take about 59 minutes to Heuston."
+    },
+    {
+      "text": "Walk to everything in Clara",
+      "weight": 2,
+      "detail": "On the green in a town of about 3,400: shops, pharmacies, GP, library, swimming pool."
+    },
+    {
+      "text": "Two primary schools under 1 km",
+      "weight": 2,
+      "detail": "St Francis NS 510 m (190 pupils), Clara Convent NS 730 m (183)."
+    },
+    {
+      "text": "Right size: 207 m²",
+      "weight": 2,
+      "detail": "Inside the 140–280 m² target, with large rooms (7 m sitting and living rooms)."
+    },
+    {
+      "text": "0.83 acres, walled garden",
+      "weight": 2,
+      "detail": "Close to the acre the dogs want, walled, with two stone outbuildings."
+    },
+    {
+      "text": "ED 12 km away",
+      "weight": 2,
+      "detail": "Midland Regional Hospital Tullamore has a 24-hour ED, about 12 km; Mullingar is the second option."
+    },
+    {
+      "text": "Restored period interior",
+      "weight": 1,
+      "detail": "Shutters, cornicing and fireplaces kept; described as well presented, mains services."
+    }
+  ],
+  "cons": [
+    {
+      "text": "No ground-floor bedroom or bathroom",
+      "weight": 3,
+      "detail": "All bedrooms are upstairs and the one bathroom is on the first floor. The sitting room (7.0 × 4.2 m) could become a bedroom, but a ground-floor shower room would have to be added."
+    },
+    {
+      "text": "€630k, over the €500k line",
+      "weight": 2,
+      "detail": "€130k above the ideal; it only fits the 'special, near a train' allowance. Stamp duty about €6,300."
+    },
+    {
+      "text": "One bathroom for six bedrooms",
+      "weight": 2,
+      "detail": "Expect to add at least one more; rough €15–30k each."
+    },
+    {
+      "text": "BER exempt, oil heating",
+      "weight": 2,
+      "detail": "A 1792 house will be cold and costly to heat; retrofit options are limited in period fabric."
+    },
+    {
+      "text": "Sixteen months on the market",
+      "weight": 1,
+      "detail": "Listed June 2025 with 15,000+ views; ask why, and use it in negotiation."
+    },
+    {
+      "text": "Development land next door in the pitch",
+      "weight": 1,
+      "detail": "Lapsed permission for four houses on the site; check what neighbours might build and whether the garden stays intact."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "St Francis National School, Clara"
+      ],
+      "note": "About 510 m, 190 pupils. Clara Convent NS (730 m, 183) is the other in town; Tubber NS (4.9 km) the fallback.",
+      "category": "Schools"
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "Centra Clara"
+      ],
+      "note": "Centra on Main Street.",
+      "title": "Clara Main Street",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "Tesco Extra Tullamore",
+        "Aldi Tullamore",
+        "Lidl Tullamore"
+      ],
+      "note": "Tullamore has the big supermarkets, about 12 km.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "Captain House Restaurant, Tullamore",
+        "Jels Kitchen, Clara"
+      ],
+      "note": "Clara is thin for dinner; Captain House in Tullamore is the area's top-rated.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "Midland Regional Hospital Tullamore",
+        "Regional Hospital Mullingar"
+      ],
+      "note": "Tullamore is the nearest 24-hour ED, about 12 km.",
+      "title": "Midland Regional Hospital Tullamore",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "High Street, Tullamore"
+      ],
+      "note": "Tullamore: county town with GPs, pharmacies and supermarkets.",
+      "title": "Tullamore",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Athlone Castle, Athlone",
+        "Eyre Square, Galway"
+      ],
+      "note": "Athlone for a bigger town; Galway is the nearest real city.",
+      "title": "Athlone",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car. The train from Clara is the other way in.",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Clara railway station",
+        "Tullamore railway station"
+      ],
+      "note": "Dublin–Galway line. Fastest about 59 min to Heuston from Clara; Tullamore has more trains.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

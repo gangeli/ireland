@@ -1,0 +1,283 @@
+{
+  "id": "compsey-mill-mullinahone",
+  "name": "Compsey Mill",
+  "address": "Compsey Mill, Mullinoly, Mullinahone, Co. Tipperary",
+  "eircode": "E41 DP79",
+  "lat": 52.500769,
+  "lng": -7.507465,
+  "listingUrl": "https://www.daft.ie/for-sale/compsey-mill-mullinoly-mullinahone-co-tipperary/6679704",
+  "status": "Considering",
+  "added": "2026-10-04",
+  "area": "Mullinahone, Co. Tipperary",
+  "agent": "Robbie Grace",
+  "price": 199000,
+  "type": "Detached mill house (protected structure)",
+  "beds": 4,
+  "bedsNote": "Bedroom 1 (3.4 x 2.3 m, en-suite) is on the ground floor",
+  "baths": 2,
+  "floorM2": 150,
+  "landHa": 1.38,
+  "landAcres": 3.4,
+  "ber": "Pending",
+  "heating": "Solid-fuel stove in kitchen; open fireplaces",
+  "listed": "2026-09-24",
+  "views": 5043,
+  "stampDuty": 1990,
+  "tagline": "A protected old mill house with its former mill building, stone farm buildings and mill pond on 3.4 acres, 1.5 km outside Mullinahone in south Tipperary.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI4XC8xXC84MTRjNjczOC04NTA3LTQ3MjMtYjgxNi00OTQxYWMwYmExMDIuanBnIn0=?signature=b9266bc1050aedda9ae8943459c2da1751b28f9888a583ffb1dfa09ff3320fbf",
+      "caption": "Listing photo",
+      "role": "facade"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImFcL2NcL2FjYzg0NzhiLTQyODktNGRhZi1hOWRiLTVhYmNiZDM1MmRjNy5qcGcifQ==?signature=df7d0940b2e177c72dcb9b32f1f68b38599185efbb9fcfae9a358c480027b6f7",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjRcLzBcLzQwZDRjODgxLTA0OTgtNDUxMy04MTk5LWM1ZDIwMDgxNDcwZS5qcGcifQ==?signature=32472bb2f823232774b554b5e2886db6f4ea61004104c9e0ee65a9fd9307a70a",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImZcL2VcL2ZlYjk5MTdjLWEwMTYtNDA2ZC1hYjVlLWZhNzYwMDAxMDRlMi5qcGcifQ==?signature=6257338d6255cf65e04c2b051f14d4e8b9105b00ba1817af3a60dbcc11c13a58",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€199k, far under budget",
+      "weight": 3,
+      "detail": "€1,327/m². Stamp duty about €1,990, leaving a large restoration budget inside €500k."
+    },
+    {
+      "text": "3.4 acres with mill pond",
+      "weight": 3,
+      "detail": "About 1.38 ha with stone farm buildings; plenty of room for two vizslas."
+    },
+    {
+      "text": "Ground-floor bedroom with en-suite",
+      "weight": 3,
+      "detail": "Bedroom 1 (3.4 x 2.3 m) sits under the mill with its own 4.3 x 1.3 m shower en-suite. Small, but a real ground-floor room."
+    },
+    {
+      "text": "Right size: 150 m²",
+      "weight": 2,
+      "detail": "Inside the 140–280 m² target, with the old mill building as extra space (planning needed)."
+    },
+    {
+      "text": "Village school 1.5 km",
+      "weight": 2,
+      "detail": "Mullinahone NS, about 142 pupils; S N Cill Mheanman (28 pupils) at 1.7 km."
+    },
+    {
+      "text": "Properly rural, village close",
+      "weight": 2,
+      "detail": "Mullinahone has a Gala shop, post office and pubs about 1.5 km away."
+    },
+    {
+      "text": "Character for rental",
+      "weight": 1,
+      "detail": "A restored historic mill could let well as a holiday house."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Needs restoration",
+      "weight": 3,
+      "detail": "Protected structure with original features but needing work; a rough €100–200k depending on the survey, and protected status adds conservation constraints."
+    },
+    {
+      "text": "Ground-floor bedroom is small",
+      "weight": 2,
+      "detail": "3.4 x 2.3 m fits a double bed tightly; may need the reception room or mill space for a proper parents' suite."
+    },
+    {
+      "text": "BER pending, solid fuel only",
+      "weight": 2,
+      "detail": "No central heating listed; stove and fireplaces. Expect a full heating retrofit."
+    },
+    {
+      "text": "No direct train nearby",
+      "weight": 2,
+      "detail": "Thurles (Cork–Dublin line) or Kilkenny stations are roughly 35–40 minutes by car."
+    },
+    {
+      "text": "ED about 30 minutes",
+      "weight": 2,
+      "detail": "Tipperary University Hospital Clonmel or St Luke's, Kilkenny, each roughly 25–30 km."
+    },
+    {
+      "text": "Water, septic, flooding unknown",
+      "weight": 2,
+      "detail": "Only electricity is mentioned. A mill with a pond needs a flood check, plus well and septic details."
+    },
+    {
+      "text": "Far from Dublin Airport",
+      "weight": 1,
+      "detail": "Roughly 2 hours by car."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "Mullinahone National School"
+      ],
+      "note": "About 142 pupils, 1.5 km. S N Cill Mheanman (1.7 km) and Poulacapple NS (4.9 km) are the fallbacks.",
+      "category": "Schools"
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "Lonergan's Gala, Mullinahone",
+        "Mullinahone Post Office"
+      ],
+      "note": "The village shop and post office.",
+      "title": "Mullinahone village shop",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "SuperValu Callan",
+        "Aldi Callan",
+        "Lidl Clonmel"
+      ],
+      "note": "Callan has both a SuperValu and an Aldi.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "The Stack of Barley, Mullinahone",
+        "Fennelly's of Callan"
+      ],
+      "note": "The Stack of Barley is the village pub; Fennelly's in Callan for a café meal.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "Tipperary University Hospital, Clonmel",
+        "St Luke's General Hospital, Kilkenny"
+      ],
+      "note": "Nearest 24-hour emergency department by drive time.",
+      "title": "Tipperary University Hospital",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Green Street, Callan, Co. Kilkenny"
+      ],
+      "note": "Callan: supermarkets, pharmacy, GP.",
+      "title": "Callan",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "The Quay, Waterford"
+      ],
+      "note": "Kilkenny city, with Waterford as the alternative.",
+      "title": "Kilkenny",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car. The train from Thurles or Kilkenny is the other way in.",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Thurles railway station",
+        "Kilkenny MacDonagh railway station"
+      ],
+      "note": "Thurles is on the Cork–Heuston line (about 1h20 to Dublin); Kilkenny on the Waterford–Heuston line (about 1h30).",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ],
+  "questions": [
+    "Is the BER certificate available yet, and what heating system does the house have?",
+    "Is the house a protected structure, and has any work been done on it under planning?"
+  ]
+}

@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Ireland Shortlist</title>
 <meta name="robots" content="noindex,nofollow">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gloock&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
@@ -24,21 +25,27 @@
 <header class="idx-head wrap">
   <p class="eyebrow">House hunting in Ireland</p>
   <h1>The shortlist</h1>
-  <p class="sub" id="idx-sub">Every house we're seriously considering, each with its own day-in-the-life page.</p>
   <div class="idx-tools">
     <div class="seg" role="tablist" aria-label="View">
       <button type="button" role="tab" id="v-split" aria-selected="true">Map and list</button>
       <button type="button" role="tab" id="v-map" aria-selected="false">Map</button>
       <button type="button" role="tab" id="v-list" aria-selected="false">List</button>
     </div>
+    <div class="idx-right">
+    <label class="idx-who" for="idx-name">Rating as
+      <input id="idx-name" list="idx-raters" placeholder="Your name" maxlength="40" size="12">
+    </label>
+    <datalist id="idx-raters"></datalist>
     <label class="sortby">Sort
       <select id="sort">
+        <option value="rating">Our ratings</option>
         <option value="score">Best ledger</option>
         <option value="price">Price, low to high</option>
         <option value="added">Newest first</option>
         <option value="land">Most land</option>
       </select>
     </label>
+    </div>
   </div>
 </header>
 
@@ -49,11 +56,9 @@
   <ol class="idx-list" id="idx-list"></ol>
 </main>
 
-<footer class="foot wrap">
-  <p>Listings from Daft and MyHome. Dollar figures at the live ECB rate. Maps and places from Google.</p>
-</footer>
 
 <script src="config.js"></script>
+<script src="ratings.js"></script>
 <script src="index.js"></script>
 </body>
 </html>

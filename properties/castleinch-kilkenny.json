@@ -1,0 +1,266 @@
+{
+  "id": "castleinch-kilkenny",
+  "name": "Castleinch",
+  "address": "Castleinch, Co. Kilkenny",
+  "eircode": "R95 V2D2",
+  "lat": 52.621007,
+  "lng": -7.295533,
+  "listingUrl": "https://www.daft.ie/for-sale/castleinch-co-kilkenny-castleinch-co-kilkenny/6673997",
+  "status": "Considering",
+  "added": "2026-10-04",
+  "area": "Castleinch, Co. Kilkenny",
+  "agent": "Fran Grincell Properties",
+  "price": 350000,
+  "type": "Detached bungalow",
+  "beds": 3,
+  "bedsNote": "All three bedrooms are on the ground floor (single storey)",
+  "baths": 1,
+  "landAcres": 1.0,
+  "landHa": 0.4,
+  "ber": "F",
+  "heating": "Solid-fuel stove and range",
+  "listed": "2026-09-17",
+  "views": 3535,
+  "stampDuty": 3500,
+  "tagline": "A single-storey country cottage on about an acre of mature garden on the Callan road, roughly 5 km from Kilkenny city.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIwXC8wXC8wMGZiNzc4NC01OTU1LTRlZGUtOTdhNy01ZTU2ZjIxZjc0MTcuSlBFRyJ9?signature=f16108d82f9325f05410cf0be770e7acddec70a0a7705f7e72c2cac7beb839e8",
+      "caption": "Listing photo",
+      "role": "facade"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjRcLzJcLzQyOTdhYTJlLTg3NDQtNDU5Zi05N2UyLTYzNDU1Y2JiZjY1Zi5KUEVHIn0=?signature=8711cdc3fdcc16dc55e79c081c1dafc04bd3519d75dfb44a40a9f54b711b384f",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€350k, under the €500k line",
+      "weight": 3,
+      "detail": "Stamp duty about €3,500, leaving room for an extension."
+    },
+    {
+      "text": "Single storey: all bedrooms downstairs",
+      "weight": 3,
+      "detail": "All three bedrooms and the shower room are on the ground floor, so any bedroom works for the parents."
+    },
+    {
+      "text": "About an acre of mature garden",
+      "weight": 3,
+      "detail": "Roughly 0.4 ha with garage and shed; meets the dog brief."
+    },
+    {
+      "text": "ED and city 10 minutes",
+      "weight": 3,
+      "detail": "St Luke's, Kilkenny (24-hour ED) and Kilkenny city are about 5–6 km away."
+    },
+    {
+      "text": "School 2.5 km",
+      "weight": 2,
+      "detail": "Church Hill NS, Cuffesgrange, about 192 pupils."
+    },
+    {
+      "text": "Train from Kilkenny",
+      "weight": 2,
+      "detail": "Kilkenny MacDonagh station about 10 minutes away, then about 1h30 to Heuston."
+    },
+    {
+      "text": "Move-in ready",
+      "weight": 1,
+      "detail": "Listed as turnkey, with timber floors and a range in the kitchen."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Probably under 140 m²",
+      "weight": 3,
+      "detail": "Listing says 1,015 m², which must be a typo; a 3-bed, 1-bath cottage is more like 100 m², below the 140 m² floor. Confirm, and budget a rough €80–150k to extend."
+    },
+    {
+      "text": "BER F, no central heating listed",
+      "weight": 3,
+      "detail": "Stove and range only; a heating and insulation retrofit is a rough €40–70k before grants."
+    },
+    {
+      "text": "One bathroom",
+      "weight": 2,
+      "detail": "A single shower room for a family plus summering parents."
+    },
+    {
+      "text": "Neither village nor deep rural",
+      "weight": 2,
+      "detail": "On the N76 Callan road on the edge of Kilkenny; not walkable to a village and not remote either."
+    },
+    {
+      "text": "Main-road noise and traffic",
+      "weight": 1,
+      "detail": "The N76 is the main Kilkenny–Clonmel road; check frontage and dog-proof fencing."
+    },
+    {
+      "text": "Water and septic not stated",
+      "weight": 1,
+      "detail": "Ask about mains or well, septic and broadband."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "Church Hill National School, Cuffesgrange"
+      ],
+      "note": "About 192 pupils, 2.5 km. Kilkenny city schools are the fallbacks.",
+      "category": "Schools"
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "Spar Express Callan Road Kilkenny"
+      ],
+      "note": "The nearest convenience shop, on the way into town.",
+      "title": "Callan Road Spar",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "Lidl Waterford Road Kilkenny",
+        "Aldi Hebron Road Kilkenny",
+        "SuperValu Callan"
+      ],
+      "note": "Kilkenny supermarkets are about 10 minutes away.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "Campagne, Kilkenny",
+        "Ristorante Rinuccini, Kilkenny"
+      ],
+      "note": "Kilkenny city's well-reviewed restaurants.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "St Luke's General Hospital, Kilkenny",
+        "University Hospital Waterford"
+      ],
+      "note": "Nearest 24-hour emergency department by drive time.",
+      "title": "St Luke's General Hospital",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Green Street, Callan, Co. Kilkenny"
+      ],
+      "note": "Callan: SuperValu, Aldi, pharmacy.",
+      "title": "Callan",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "The Quay, Waterford"
+      ],
+      "note": "Kilkenny city, with Waterford as the alternative.",
+      "title": "Kilkenny",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car. The train from Kilkenny is the other way in.",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Kilkenny MacDonagh railway station"
+      ],
+      "note": "Waterford–Heuston line, about 1h30 to Dublin Heuston.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ],
+  "questions": [
+    "What is the total floor area of the house?"
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "id": "stone-lodge-freshford",
+  "name": "Stone Lodge",
+  "address": "Stone Lodge, Monabrika, Freshford, Co. Kilkenny",
+  "eircode": "R95 W8K7",
+  "lat": 52.738452,
+  "lng": -7.397893,
+  "listingUrl": "https://www.daft.ie/for-sale/stone-lodge-monabrika-freshford-co-kilkenny/6610381",
+  "status": "Considering",
+  "added": "2026-10-04",
+  "area": "Freshford, Co. Kilkenny",
+  "agent": "John Doherty",
+  "price": 395000,
+  "type": "Detached extended stone cottage",
+  "beds": 5,
+  "bedsNote": "Bedroom 5 is on the ground floor",
+  "baths": 2,
+  "floorM2": 186,
+  "landHa": 0.42,
+  "landAcres": 1.04,
+  "ber": "D1",
+  "heating": "Oil-fired central heating",
+  "listed": "2026-07-01",
+  "views": 5251,
+  "stampDuty": 3950,
+  "tagline": "An extended stone cottage in good order on just over an acre, under a kilometre from Freshford village and 15 minutes from Kilkenny city.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI4XC9iXC84YmIyODk3My1lYjFmLTQ4YjYtODJjMi1hMjlhNTQzMDRhYmIuSlBFRyJ9?signature=3ddd6d4c17a0cd172bd954af08af0be0c9bea92234aa8f3d6a50f173d6567f7f",
+      "caption": "Listing photo",
+      "role": "facade"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjVcL2FcLzVhMjFmZjgzLTVkMGEtNDUxMy04YjdmLWIyZTU3MDczODI1NC5KUEVHIn0=?signature=32c562d22de6f7679ab20f8ede15113e9b8f7b9363614fb46a1fac9ac9eeefdc",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImFcLzZcL2E2NGM4ODUzLTM2YzUtNGJiNi1iNTA2LTI5MGI0YWQ5NTI1Mi5KUEVHIn0=?signature=d41eaf72acfe3a39d3f2c441bde80a72a9b9afa066f7ed3bd69217cefb4bc81e",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImJcLzFcL2IxOWNjYzFiLTNlMWYtNDk1My1hMzQwLTg5MGFmZjI2ZWNmNy5KUEVHIn0=?signature=e2cad301fd8d884fd78d3442f214534d5bb846db18ce4fd46a29b5f321ec479e",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€395k, under the €500k line",
+      "weight": 3,
+      "detail": "€2,124/m². Stamp duty about €3,950."
+    },
+    {
+      "text": "Ground-floor bedroom",
+      "weight": 3,
+      "detail": "Bedroom 5 is downstairs, near the utility room/guest WC; four more doubles upstairs."
+    },
+    {
+      "text": "Just over an acre",
+      "weight": 3,
+      "detail": "0.42 ha / 1.04 acres, meeting the 1-acre target for the dogs."
+    },
+    {
+      "text": "Village school 820 m away",
+      "weight": 3,
+      "detail": "Freshford NS, about 201 pupils; walkable. Clontubrid NS (2.1 km) as a fallback."
+    },
+    {
+      "text": "Right size: 186 m²",
+      "weight": 2,
+      "detail": "About 2,000 sq ft, mid-range of the 140–280 m² target."
+    },
+    {
+      "text": "Walkable village, good condition",
+      "weight": 2,
+      "detail": "Freshford's square, Mace shop and pubs are under 1 km; listed as in excellent order, so no restoration project."
+    },
+    {
+      "text": "Kilkenny 15 minutes",
+      "weight": 2,
+      "detail": "St Luke's 24-hour ED and Kilkenny station are both about 15 km."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Ground floor has a WC, not a shower",
+      "weight": 2,
+      "detail": "Only a utility/guest WC is listed downstairs; parents would climb for a shower unless one is added (rough €8–15k)."
+    },
+    {
+      "text": "BER D1, oil heating",
+      "weight": 2,
+      "detail": "Heat pump and insulation upgrade a rough €30–50k before SEAI grants."
+    },
+    {
+      "text": "No train in the village",
+      "weight": 2,
+      "detail": "Kilkenny MacDonagh station is about 15–20 minutes by car, then about 1h30 to Heuston."
+    },
+    {
+      "text": "Listed since July",
+      "weight": 1,
+      "detail": "Three months on the market; worth asking why, and room to negotiate."
+    },
+    {
+      "text": "Water and septic not stated",
+      "weight": 1,
+      "detail": "Ask about mains or well, septic and broadband."
+    },
+    {
+      "text": "Dublin Airport about 1h45",
+      "weight": 1,
+      "detail": "Roughly 130 km by motorway."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "Freshford National School"
+      ],
+      "note": "About 201 pupils, 820 m. Clontubrid NS (2.1 km) and Clinstown NS (5.2 km) are the fallbacks.",
+      "category": "Schools"
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "Mace Freshford",
+        "Freshford Post Office"
+      ],
+      "note": "Lynch's Mace on the village, open long hours with a small café.",
+      "title": "Freshford village shop",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "Lidl Waterford Road Kilkenny",
+        "Aldi Hebron Road Kilkenny",
+        "SuperValu Castlecomer"
+      ],
+      "note": "Kilkenny has the full range.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "McGrath's Public House, Freshford",
+        "Campagne, Kilkenny"
+      ],
+      "note": "McGrath's locally; Campagne in Kilkenny for a proper dinner.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "St Luke's General Hospital, Kilkenny",
+        "Midland Regional Hospital Portlaoise"
+      ],
+      "note": "Nearest 24-hour emergency department by drive time.",
+      "title": "St Luke's General Hospital",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Kilkenny Street, Castlecomer, Co. Kilkenny"
+      ],
+      "note": "Castlecomer: SuperValu, pharmacy, GP.",
+      "title": "Castlecomer",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Kilkenny city.",
+      "title": "Kilkenny",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car. The train from Kilkenny is the other way in.",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Kilkenny MacDonagh railway station"
+      ],
+      "note": "Waterford–Heuston line, about 1h30 to Dublin Heuston.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "id": "canal-view-sallins",
+  "name": "Canal View",
+  "address": "Canal View, Sallins, Co. Kildare",
+  "eircode": "W91 FE42",
+  "lat": 53.248872,
+  "lng": -6.663956,
+  "listingUrl": "https://www.daft.ie/for-sale/canal-view-sallins-co-kildare/6648534",
+  "status": "Considering",
+  "added": "2026-10-04",
+  "area": "Sallins, Co. Kildare",
+  "agent": "Cathal O'Reilly",
+  "price": 665000,
+  "type": "Semi-detached house",
+  "beds": 4,
+  "bedsNote": "+ ground-floor office usable as a 5th",
+  "baths": 3,
+  "floorM2": 150,
+  "ber": "Exempt",
+  "heating": "Boiler in outside store; Stanley stove in sitting room",
+  "listed": "2026-09-01",
+  "views": 2716,
+  "stampDuty": 6650,
+  "tagline": "A four-bed semi-detached house facing the Grand Canal in Sallins, Co. Kildare, a walk from the station and the village school.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI0XC9lXC80ZTJjYzI1ZS04YTVkLTRlZjQtYjA3Ni0wZTlkMjY5ZGU0ZDguanBnIn0=?signature=483aaacb7108c81196151db1017ccee797e7be68d65116b9d0664cc77a7dd54a",
+      "caption": "Listing photo",
+      "role": "facade"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjJcLzhcLzI4ZjcwYWQwLTkyMGUtNDQ0NC1iNTc3LTBlOTEwYmQ4MzdjOC5qcGcifQ==?signature=4bbeb917b566f24184156108ee21c898ec0841bed8f2ae7ee9d5ee45baa2c83e",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImFcLzNcL2EzYzU2NmNjLTM1NmMtNGZlOS1iMmIyLTA0MTYwOGE1NmM2Ni5qcGcifQ==?signature=8ad80f62ca5fa9f6266d016f668c2f47c24ef0a7be823bddadab12632767f42c",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjdcL2FcLzdhYmQ1ZDA5LTk4NWMtNDNkZC1iOGVkLTlhMzliMWZmNWUxZS5qcGcifQ==?signature=c44f29819d1e76cea92fc7917462f51de4f12048a7146a31cbaf5ad1c261bbb2",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Walk to a direct Dublin train",
+      "weight": 3,
+      "detail": "Sallins & Naas station is in the village; fastest trains about 41 min to Heuston."
+    },
+    {
+      "text": "Ground-floor office could be the parents' room",
+      "weight": 2,
+      "detail": "Office 4.18 × 3.0 m at the front, next to a guest WC (1.44 × 1.27 m). No shower downstairs yet."
+    },
+    {
+      "text": "School 170 m away",
+      "weight": 2,
+      "detail": "St Laurence's NS, 652 pupils. Scoil Bhríde (1.9 km) is the alternative."
+    },
+    {
+      "text": "Canal-side village",
+      "weight": 2,
+      "detail": "Front bedrooms look over the Grand Canal; towpath walks for the dogs, Lock 13 brewpub and Lidl in the village."
+    },
+    {
+      "text": "Naas General 4 km",
+      "weight": 2,
+      "detail": "24-hour ED for adults; Tallaght for children."
+    },
+    {
+      "text": "Inside the size band: 150 m²",
+      "weight": 1,
+      "detail": "Four doubles upstairs, one en suite; bathroom updated 2018."
+    }
+  ],
+  "cons": [
+    {
+      "text": "€665k for a semi",
+      "weight": 3,
+      "detail": "€165k over the ideal, at the top of the near-a-train allowance. Stamp duty about €6,650."
+    },
+    {
+      "text": "Small garden for two vizslas",
+      "weight": 3,
+      "detail": "Site size not stated; a south-facing back garden behind a semi, nowhere near an acre."
+    },
+    {
+      "text": "Commuter-belt in-between",
+      "weight": 2,
+      "detail": "Sallins grew sevenfold since 1996 to about 6,300; mostly estates. It's the suburbia the brief avoids."
+    },
+    {
+      "text": "Ground-floor bedroom needs work",
+      "weight": 2,
+      "detail": "The office qualifies as a bedroom, but the WC would need to become a shower room; rough €10–20k."
+    },
+    {
+      "text": "BER exempt",
+      "weight": 1,
+      "detail": "No energy rating; heating and insulation unknown, so budget a survey."
+    },
+    {
+      "text": "Semi-detached",
+      "weight": 1,
+      "detail": "Shared wall and less privacy than the brief's rural ideal."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "St Laurence's National School, Sallins"
+      ],
+      "note": "About 170 m, 652 pupils. Scoil Bhríde (1.9 km) and the Naas schools (3–4 km) are the fallbacks.",
+      "category": "Schools"
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "Sallins Post Office",
+        "Lidl Sallins"
+      ],
+      "note": "The village post office.",
+      "title": "Sallins village",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "Lidl Sallins",
+        "Tesco Naas",
+        "Aldi Naas"
+      ],
+      "note": "Lidl in the village; Naas has the full set.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "Lock 13 BrewPub, Sallins"
+      ],
+      "note": "Lock 13 is the village's best-reviewed pub for food.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "Naas General Hospital",
+        "Tallaght University Hospital"
+      ],
+      "note": "Naas is adults only (16+); children go to Tallaght.",
+      "title": "Naas General Hospital",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Main Street, Naas"
+      ],
+      "note": "Naas: county town with GPs, pharmacies and shopping.",
+      "title": "Naas",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "Carlow town centre"
+      ],
+      "note": "Dublin is the real city here; Kilkenny for a day out.",
+      "title": "Kilkenny",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "The train from the village is the easy way in.",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Sallins and Naas railway station"
+      ],
+      "note": "Heuston line. Walk here, then about 41–55 min to Heuston.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ],
+  "questions": [
+    "What is the site size, and where exactly are the boundaries?"
+  ]
+}

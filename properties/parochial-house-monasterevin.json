@@ -27,7 +27,8 @@
   "photos": [
     {
       "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIyXC8zXC8yM2VhYzY1ZS00MTJhLTRhMTAtYjc1ZS03Yjk4ZmUzMjcwNzcuanBnIn0=?signature=5f74718e4733484f9fed85466be550bbf795becd44b783820b854dd16ad2b86a",
-      "caption": "Listing photo"
+      "caption": "Listing photo",
+      "role": "facade"
     },
     {
       "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjNcLzRcLzM0YWQ2ODdjLTljNGYtNDY3ZS1iY2Y1LTY2Yzg2YzUyZTIzZS5qcGcifQ==?signature=067a9ea50211d8ebf61cc2365c0f40c5dca4c4cf7def0eccd1715be69e916ef9",
@@ -272,5 +273,8 @@
     "Health",
     "Towns and cities",
     "Getting away"
+  ],
+  "questions": [
+    "Is the house a protected structure, and has any work been done on it under planning?"
   ]
 }

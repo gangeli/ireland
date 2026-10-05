@@ -1,0 +1,275 @@
+{
+  "id": "bluebell-lodge-carlow",
+  "name": "Bluebell Lodge",
+  "address": "Bluebell Lodge, Old Dublin Road, Carlow, Co. Carlow",
+  "eircode": "R93 RR83",
+  "lat": 52.8430012,
+  "lng": -6.9228355,
+  "listingUrl": "https://www.daft.ie/for-sale/bluebell-lodge-old-dublin-road-carlow-town-co-carlow/6682845",
+  "status": "Considering",
+  "added": "2026-10-04",
+  "area": "Carlow, Co. Carlow",
+  "agent": "Harry Sothern, REA Sothern",
+  "price": 600000,
+  "type": "Detached period house with separate cottage",
+  "beds": 4,
+  "bedsNote": "+ separate 3-bed cottage",
+  "baths": 3,
+  "ber": "Pending",
+  "listed": "2026-09-29",
+  "views": 2067,
+  "stampDuty": 6000,
+  "tagline": "A period house with a separate three-bed cottage and mature gardens on the Old Dublin Road, a short walk from Carlow town centre.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI4XC9jXC84YzNmNDY2Yi1jMjNiLTQ1NjktYWE5ZC0xODJkODI3YmMyN2YuanBnIn0=?signature=8c2ca3b0e077e32842e62384ed086bcdcd123fd2d938d2fc79919bed027bbe91",
+      "caption": "Listing photo",
+      "role": "facade"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjZcLzhcLzY4OTAyYTI1LTUzYTUtNGU4Ny04OWQzLTYzMTYxNDA1MzE1Zi5qcGcifQ==?signature=2bee63b74ea54ad394c5b979a05297cdbcd2b5049ea04200eb42e95175c83aa5",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImFcL2RcL2FkMDVlY2Y4LWVhNmYtNDI2My1iMzQwLTU3NjUwODM1NmNhZi5qcGcifQ==?signature=b8cb6ac739fc3ea5110b76361121cee49603a5efc7530f29b1737ce591ad3fba",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjFcL2RcLzFkYmIzYjk1LTZlODktNDg2MS1iM2UzLTJhNTdlMWMxNmM3Ni5qcGcifQ==?signature=e55872ab921d88220d3ef38e62ad6a6556bff5f65d094e6b912a8b23e6b9045d",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Separate cottage could be the parents' annex",
+      "weight": 3,
+      "detail": "A detached 3-bed cottage on the same site; if any of it is single-storey it solves the summer-parents problem and lets out the rest of the year."
+    },
+    {
+      "text": "Schools on the doorstep",
+      "weight": 2,
+      "detail": "Bishop Foley NS 240 m (195 pupils), St Joseph's NS 450 m, Scoil Mhuire Gan Smál 540 m."
+    },
+    {
+      "text": "Walk into Carlow town",
+      "weight": 2,
+      "detail": "On the Old Dublin Road at the edge of the centre: shops, GP, restaurants and the station without the car."
+    },
+    {
+      "text": "Direct train from Carlow",
+      "weight": 2,
+      "detail": "Carlow station is in town; about 10 trains a weekday to Heuston, roughly 1h05–1h20."
+    },
+    {
+      "text": "Period character",
+      "weight": 1,
+      "detail": "Gables, tall windows, ceiling plasterwork and fireplaces; sitting room, dining room, kitchen and conservatory downstairs."
+    },
+    {
+      "text": "Rental income from the cottage",
+      "weight": 1,
+      "detail": "A second dwelling is a real let; a B&B called Bluebell Lodge Townhouse is listed on this road, so ask whether this was it."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Ground-floor bedroom unconfirmed",
+      "weight": 3,
+      "detail": "All four main-house bedrooms are upstairs. The cottage layout isn't given; confirm it has a bedroom and bathroom at ground level."
+    },
+    {
+      "text": "€600k, over the €500k line",
+      "weight": 2,
+      "detail": "€100k above the ideal, though inside the near-a-train allowance. Stamp duty about €6,000."
+    },
+    {
+      "text": "Town garden, not an acre",
+      "weight": 2,
+      "detail": "Site size isn't stated; 'mature gardens' on a town road is unlikely to approach the 1 acre the dogs want."
+    },
+    {
+      "text": "Floor area, BER and heating not stated",
+      "weight": 2,
+      "detail": "BER pending. No m² for either building, so the 140–280 m² test can't be checked yet."
+    },
+    {
+      "text": "No ED in Carlow",
+      "weight": 2,
+      "detail": "Nearest 24-hour EDs are St Luke's Kilkenny or Portlaoise, each roughly 40 km; Naas (about 50 km) is adults only."
+    },
+    {
+      "text": "Town, not village or rural",
+      "weight": 1,
+      "detail": "Carlow is a town of about 27,000; the Old Dublin Road is a busy approach road, so check traffic noise."
+    },
+    {
+      "text": "Two old buildings to maintain",
+      "weight": 1,
+      "detail": "Period house plus cottage; budget a survey of both roofs, windows and services."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "Bishop Foley National School, Carlow"
+      ],
+      "note": "About 240 m, 195 pupils. St Joseph's NS (450 m) and Scoil Mhuire Gan Smál (540 m) are the fallbacks.",
+      "category": "Schools"
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "Carlow Post Office, Kennedy Avenue",
+        "Tesco Carlow Fairgreen"
+      ],
+      "note": "Carlow's main post office, in the town centre.",
+      "title": "Carlow town centre",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "Tesco Carlow Fairgreen",
+        "Lidl Tullow Road Carlow",
+        "Aldi Carlow"
+      ],
+      "note": "Tesco in the Fairgreen centre; Lidl and Aldi on the edges of town.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "Teach Dolmain, Carlow",
+        "Mimosa Wine & Tapas Bar, Carlow"
+      ],
+      "note": "Teach Dolmain is Carlow's top-ranked pub restaurant on Tripadvisor; Mimosa for tapas.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "St Luke's General Hospital, Kilkenny",
+        "Midland Regional Hospital Portlaoise",
+        "Naas General Hospital"
+      ],
+      "note": "Kilkenny or Portlaoise take all ages; Naas is adults only (16+).",
+      "title": "St Luke's General Hospital",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Tullow Street, Carlow"
+      ],
+      "note": "You're in it: Carlow has GPs, pharmacies and the shopping centres.",
+      "title": "Carlow",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Kilkenny is the nearest city.",
+      "title": "Kilkenny",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "The train from Carlow is the easy way in.",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Carlow railway station"
+      ],
+      "note": "Dublin–Waterford line. About 10 trains a weekday, roughly 1h05–1h20 to Heuston.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ],
+  "questions": [
+    "Is there a bedroom on the ground floor, or a room that could be used as one? Could you send the floor plan?",
+    "What is the total floor area of the house?",
+    "What is the site size, and where exactly are the boundaries?",
+    "Is the BER certificate available yet, and what heating system does the house have?"
+  ]
+}

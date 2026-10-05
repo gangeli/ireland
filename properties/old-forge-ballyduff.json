@@ -27,7 +27,8 @@
   "photos": [
     {
       "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIwXC9hXC8wYWExMTNlNC1kZWJkLTRmODUtOTUxNi1lN2FlNWZjNTRhMjQuSlBFRyJ9?signature=712d4d9c4158b1cdb9a16abcdd257d27182e2045cea61a8c5d403b9f2b687f9a",
-      "caption": "Listing photo"
+      "caption": "Listing photo",
+      "role": "facade"
     },
     {
       "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjdcL2VcLzdlMDRlZmQwLWJlYmUtNDQxYi1iNjYzLWM4YjlkZDIxNWQxNS5KUEVHIn0=?signature=1dfd1591b33f043f6c6441ba48dd8ce4adfdc9991623722b9e58a36cfb4d26ac",
@@ -274,5 +275,8 @@
     "Health",
     "Towns and cities",
     "Getting away"
+  ],
+  "questions": [
+    "Has the house been tested for radon?"
   ]
 }
