@@ -142,10 +142,12 @@
     const svDd = $("hero-services"); svDd.textContent = "";
     for (const [k, icon, name] of SV) {
       const v = sv[k] || { status: "unknown", detail: "Not stated" };
+      // Internet shows what you'd actually get: type · estimated speed · provider
+      const net = k === "internet" && v.type ? [v.type, v.speed, v.provider].filter(Boolean).join(" · ") : null;
       svDd.append(el("div", { class: "svc-row svc-" + v.status, title: `${name}: ${v.detail}` },
         el("span", { class: "svc-ico", text: icon }),
         el("span", { class: "svc-name", text: name }),
-        el("span", { class: "svc-val", text: v.detail.split(/[;,(]/)[0] })));
+        el("span", { class: "svc-val", text: net || v.detail.split(/[;,(]/)[0] })));
     }
 
 
@@ -203,7 +205,8 @@
           el("button", { type: "button", class: "trip-card", id: "card-" + t.id, onclick: () => openTrip(t) },
             el("img", { class: "trip-photo", alt: "", id: "ph-" + t.id }),
             el("div", { class: "trip-main" },
-              el("span", { class: "trip-label", text: t.kind }),
+              el("span", { class: "trip-label" }, document.createTextNode(t.kind),
+                t.rating && t.rating.level ? el("span", { class: "school-q q-" + t.rating.level.toLowerCase().replace(/[^a-z]+/g, "-"), text: t.rating.level, title: t.rating.basis || "" }) : null),
               el("span", { class: "trip-dest", id: "dn-" + t.id, text: t.title || t.candidates[0].split(",")[0] }),
               t.note ? el("p", { class: "trip-note", text: t.note }) : null,
               el("p", { class: "trip-alt", id: "alt-" + t.id })),
@@ -414,6 +417,9 @@
   // How far (straight line, km) a sensible answer for each trip can be, and what to map-search for if the named candidates fail.
   const TRIP_RULES = {
     school:   { maxKm: 15,  types: ["primary_school"], radius: 12000 },
+    "school-good": { maxKm: 30 },
+    secondary: { maxKm: 30, types: ["secondary_school"], radius: 25000 },
+    "secondary-good": { maxKm: 45 },
     shop:     { maxKm: 10,  types: ["convenience_store", "grocery_store", "supermarket"], radius: 10000 },
     bigshop:  { maxKm: 40,  types: ["supermarket"], radius: 30000 },
     dinner:   { maxKm: 25,  types: ["restaurant", "pub"], radius: 15000 },
