@@ -679,4 +679,5 @@ body.idx .idx-main[data-view="split"] { grid-template-columns: minmax(0, 1fr) mi
 .idx-sec { list-style: none; display: flex; align-items: baseline; gap: 10px; padding: 6px 2px 0; font: 700 11.5px var(--f-body); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
 .idx-sec small { font: 500 12.5px var(--f-body); letter-spacing: 0; text-transform: none; }
 .idx-sec-new span { color: var(--gorse); }
-.pin.is-new::after { content: "NEW"; position: absolute; top: -9px; right: -8px; font: 800 9px var(--f-body); letter-spacing: .06em; color: #1d1a0c; background: var(--gorse); border-radius: 3px; padding: 1px 3px; }
+.pin.is-new::before { content: "NEW"; position: absolute; top: -8px; right: -8px; font: 800 8.5px/1 var(--f-body); letter-spacing: .05em; color: #1d1a0c; background: var(--gorse); border: 1px solid #fff; border-radius: 3px; padding: 2px 3px; pointer-events: none; }
+.pin.is-new.dot::before { top: -10px; right: -12px; }
