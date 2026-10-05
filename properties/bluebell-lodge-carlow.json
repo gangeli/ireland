@@ -336,7 +336,7 @@
       "detail": "Fibre or cable likely. This is central Carlow town, which has open eir FTTH, Siro and Virgin Media cable. Not stated in the listing; confirm with R93 RR83.",
       "type": "Fibre",
       "speed": "up to 1 Gb",
-      "provider": "Siro / open eir; Virgin Media cable"
+      "provider": "Siro / open eir / Virgin Media"
     }
   },
   "groundFloorBedroom": {

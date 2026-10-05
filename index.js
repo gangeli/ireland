@@ -221,9 +221,9 @@
   }
 
   async function boot() {
-    const man = await (await fetch("properties/index.json")).json();
+    const man = await (await fetch("properties/index.json", { cache: "no-cache" })).json();
     const ids = man.properties || [];
-    props = (await Promise.all(ids.map((id) => fetch(`properties/${encodeURIComponent(id)}.json`).then((r) => r.json()).catch(() => null)))).filter(Boolean);
+    props = (await Promise.all(ids.map((id) => fetch(`properties/${encodeURIComponent(id)}.json`, { cache: "no-cache" }).then((r) => r.json()).catch(() => null)))).filter(Boolean);
     markSeen(props.map((p) => p.id));
     renderList();
     $("sort").addEventListener("change", renderList);

@@ -322,7 +322,7 @@
       "detail": "Fibre likely but not stated in the listing: NBI had passed 98.9% of Kilkenny's intervention-area premises by March 2026, and houses this close to the city may instead be on Eir's own rural FTTH. Confirm by Eircode.",
       "type": "Fibre",
       "speed": "up to 1 Gb",
-      "provider": "NBI or Eir (any retailer)"
+      "provider": "Eir / NBI"
     }
   },
   "groundFloorBedroom": {

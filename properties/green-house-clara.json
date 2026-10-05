@@ -349,7 +349,7 @@
       "detail": "Fibre likely; NBI switched on the townlands around Clara in June 2024 and Clara town is served by eir's FTTH network, but the listing says nothing, so check eircode R35 CH76.",
       "type": "Fibre",
       "speed": "up to 1 Gb",
-      "provider": "open eir FTTH (any retailer) in town; NBI around Clara"
+      "provider": "open eir / NBI"
     }
   },
   "groundFloorBedroom": {

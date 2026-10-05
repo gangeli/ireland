@@ -836,7 +836,7 @@
   /* ---------- boot ---------- */
   async function boot() {
     try {
-      const res = await fetch(`properties/${encodeURIComponent(PID)}.json`);
+      const res = await fetch(`properties/${encodeURIComponent(PID)}.json`, { cache: "no-cache" });  // revalidate: data changes nightly
       P = await res.json();
     } catch (e) {
       document.body.prepend(el("p", { class: "wrap", text: `Couldn't load property "${PID}".` }));

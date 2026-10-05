@@ -330,7 +330,7 @@
       "detail": "Fibre likely; NBI declared its Westmeath main build complete in July 2026 (12,000+ premises passed), and Castlepollard town is otherwise eir FTTH territory; not in the listing, so check eircode N91 HT38.",
       "type": "Fibre",
       "speed": "up to 1 Gb",
-      "provider": "open eir FTTH or NBI (any retailer)"
+      "provider": "open eir / NBI"
     }
   },
   "groundFloorBedroom": {

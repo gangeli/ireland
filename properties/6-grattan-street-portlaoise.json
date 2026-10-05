@@ -341,7 +341,7 @@
       "detail": "Fibre or cable likely; the house is in Portlaoise town centre, which has open eir FTTH and Virgin Media cable coverage — listing says nothing, so confirm on the eircode R32 TF1P.",
       "type": "Fibre",
       "speed": "up to 1 Gb",
-      "provider": "open eir FTTH (Eir etc.) or Virgin Media cable"
+      "provider": "open eir / Virgin Media"
     }
   },
   "groundFloorBedroom": {
