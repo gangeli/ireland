@@ -220,3 +220,53 @@ figcaption { font-size: 13px; color: var(--muted); margin-top: 6px; }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }
 }
+
+/* back link on property pages */
+.backlink { position: absolute; z-index: 3; top: calc(14px + env(safe-area-inset-top, 0px)); left: 16px; text-decoration: none; font-weight: 600; font-size: 14px; color: #fff; background: rgba(0,0,0,.45); padding: 6px 12px; border-radius: 999px; backdrop-filter: blur(4px); }
+.backlink:hover { background: rgba(0,0,0,.65); }
+
+/* index: the shortlist */
+.idx-head { padding-block: 40px 18px; }
+.idx-head h1 { font-size: clamp(40px, 7vw, 72px); line-height: 1; margin: 8px 0 6px; }
+.idx-tools { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; margin-top: 18px; }
+.seg { display: inline-flex; background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
+.seg button { border: 0; background: none; color: var(--muted); padding: 7px 14px; border-radius: 999px; font-weight: 600; font-size: 14px; }
+.seg button[aria-selected="true"] { background: var(--sign); color: #fff; }
+.sortby { display: inline-flex; gap: 8px; align-items: center; font-size: 14px; color: var(--muted); font-weight: 600; }
+.sortby select { font: inherit; color: var(--ink); background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; }
+.idx-main { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 20px; align-items: start; padding-bottom: 20px; }
+.idx-map { position: sticky; top: calc(16px + env(safe-area-inset-top, 0px)); min-width: 0; }
+.idx-map .mapbox { aspect-ratio: auto; height: calc(100vh - 140px); min-height: 380px; border: 1px solid var(--line); }
+.idx-main[data-view="map"] { grid-template-columns: 1fr; }
+.idx-main[data-view="map"] .idx-list { display: none; }
+.idx-main[data-view="list"] { grid-template-columns: 1fr; }
+.idx-main[data-view="list"] .idx-map { display: none; }
+.idx-main[data-view="list"] .idx-list { grid-template-columns: repeat(auto-fill, minmax(min(100%, 460px), 1fr)); }
+.idx-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; min-width: 0; }
+.ic { display: grid; grid-template-columns: 170px minmax(0, 1fr); background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; transition: box-shadow .15s ease, border-color .15s ease; }
+.ic.hot { border-color: var(--gorse); box-shadow: var(--shadow); }
+.ic-photo img { width: 100%; height: 100%; min-height: 170px; object-fit: cover; background: var(--line); }
+.ic-body { padding: 14px 16px; display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.ic-top { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.status { font: 700 11px/1 var(--f-body); letter-spacing: .1em; text-transform: uppercase; padding: 5px 8px; border-radius: 4px; background: var(--line); color: var(--ink); }
+.st-front-runner { background: var(--gorse); color: #1b2421; }
+.st-considering { background: var(--moss-soft); color: var(--ink); }
+.st-sale-agreed, .st-sold { background: var(--rust-soft); color: var(--ink); }
+.st-rejected, .st-passed { background: var(--line); color: var(--muted); }
+.ic-score { font: 500 15px var(--f-mono); color: var(--moss); }
+.ic-name { font-family: var(--f-display); font-size: 26px; line-height: 1.05; text-decoration: none; margin-top: 4px; overflow-wrap: anywhere; }
+.ic-name:hover { text-decoration: underline; }
+.ic-area { margin: 0; color: var(--muted); font-size: 14px; }
+.ic-price { font: 500 20px var(--f-mono); font-variant-numeric: tabular-nums; margin-top: 4px; }
+.ic-price small { font-size: 14px; color: var(--muted); }
+.ic-facts { margin: 0; font: 14px var(--f-mono); color: var(--ink); }
+.ic-tag { margin: 4px 0 0; font-size: 14px; color: var(--muted); }
+.ic-links { display: flex; gap: 14px; margin-top: 8px; font-weight: 700; font-size: 14px; }
+.ic-links a { color: var(--moss); text-decoration: none; }
+.ic-links a:hover { text-decoration: underline; }
+@media (max-width: 860px) {
+  .idx-main, .idx-main[data-view="split"] { grid-template-columns: 1fr; }
+  .idx-map { position: static; }
+  .idx-map .mapbox { height: 56vh; min-height: 300px; }
+  .ic { grid-template-columns: 120px minmax(0, 1fr); }
+}

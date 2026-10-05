@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Forty Shades, Inistioge</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gloock&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="keybar" class="keybar" hidden>
+  <form id="keyform" class="keybar-inner">
+    <label for="keyinput">Google Maps browser key</label>
+    <input id="keyinput" type="password" autocomplete="off" placeholder="AIza…" spellcheck="false">
+    <button type="submit">Load maps</button>
+    <span class="keybar-hint">Stored only in this browser.</span>
+  </form>
+</div>
+
+<a class="backlink" href="./">← All properties</a>
+<header class="hero" id="hero">
+  <img class="hero-img" id="heroimg" alt="">
+  <div class="hero-text">
+    <p class="eyebrow" id="addr"></p>
+    <h1 id="name"></h1>
+    <p class="tagline" id="tagline"></p>
+    <div class="hero-links">
+      <a id="listinglink" target="_blank" rel="noopener">Listing on Daft</a>
+      <a id="gmapslink" target="_blank" rel="noopener">Open in Google Maps</a>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="stats" id="stats" aria-label="Key facts"></section>
+
+  <section class="block" aria-labelledby="ledger-h">
+    <div class="block-head">
+      <h2 id="ledger-h">The ledger</h2>
+      <p class="sub">Weighted against your brief: price, land, schools, hospital, train, size.</p>
+    </div>
+    <div class="ledger" id="ledger"></div>
+    <p class="ledger-score" id="ledgerscore"></p>
+  </section>
+
+  <section class="block" aria-labelledby="gallery-h">
+    <div class="block-head">
+      <h2 id="gallery-h">The place</h2>
+      <p class="sub">Listing photos, the plot from above, and the road at the gate.</p>
+    </div>
+    <div class="gallery" id="gallery">
+      <div class="g-photos" id="photos"></div>
+      <figure class="g-map">
+        <div id="satmap" class="mapbox needs-key"><span>Satellite view loads with a Maps key</span></div>
+        <figcaption>From above. The pin is the listing's location.</figcaption>
+      </figure>
+      <figure class="g-pano">
+        <div id="pano" class="mapbox needs-key"><span>Street View loads with a Maps key</span></div>
+        <figcaption id="panocap">Street View on the nearest public road. Drag to look around.</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="block" aria-labelledby="day-h">
+    <div class="block-head">
+      <h2 id="day-h">A day from here</h2>
+      <p class="sub">Drive times use Google's traffic forecast for a typical trip. Pick any one to ride along.</p>
+    </div>
+    <div id="trips"></div>
+  </section>
+
+</main>
+
+<footer class="foot wrap">
+  <p>Built from the Daft listing, Google Maps (routes, places, Street View) and the Department of Education school list. Place photos via Google, credited on each image.</p>
+  <p><button type="button" id="forgetkey" class="linkish">Forget my Maps key</button> · <button type="button" id="clearcache" class="linkish">Refresh drive times</button></p>
+</footer>
+
+<dialog id="player" class="player" aria-labelledby="pl-title">
+  <div class="pl-top">
+    <div>
+      <p class="eyebrow" id="pl-kind"></p>
+      <h2 id="pl-title"></h2>
+    </div>
+    <button type="button" class="pl-close" id="pl-close" aria-label="Close">✕</button>
+  </div>
+
+  <div class="pl-body">
+    <div class="pl-stage" id="pl-stage">
+      <img id="pl-a" alt="" class="frame on">
+      <img id="pl-b" alt="" class="frame">
+      <div class="pl-gap" id="pl-gap" hidden>No Street View on this stretch</div>
+      <div class="pl-buffer" id="pl-buffer" hidden></div>
+      <div class="pl-hud">
+        <span class="hud-clock" id="pl-clock">08:20</span>
+        <span class="roadsign" id="pl-sign"><b id="pl-signname"></b><i id="pl-signkm"></i></span>
+      </div>
+      <div class="pl-arrive" id="pl-arrive" hidden>
+        <img id="pl-destimg" alt="">
+        <div>
+          <p class="eyebrow">Arrived</p>
+          <p class="arrive-name" id="pl-destname"></p>
+          <p class="arrive-meta" id="pl-destmeta"></p>
+          <p class="credit" id="pl-destcredit"></p>
+        </div>
+      </div>
+      <div class="pl-loading" id="pl-loading">Plotting the route…</div>
+    </div>
+
+    <aside class="pl-side">
+      <div id="pl-map" class="pl-map"></div>
+      <dl class="pl-readout">
+        <div><dt>Elapsed</dt><dd id="pl-elapsed">0 min</dd></div>
+        <div><dt>To go</dt><dd id="pl-left">–</dd></div>
+        <div><dt>Distance</dt><dd id="pl-dist">–</dd></div>
+      </dl>
+      <p class="pl-note" id="pl-note"></p>
+    </aside>
+  </div>
+
+  <div class="pl-controls">
+    <button type="button" id="pl-play" class="playbtn" aria-label="Play">▶</button>
+    <input type="range" id="pl-scrub" min="0" max="1000" value="0" aria-label="Position along the trip">
+    <div class="dial" id="pl-dial" role="radiogroup" aria-label="Playback speed"></div>
+  </div>
+</dialog>
+
+<script src="config.js" onerror="void 0"></script>
+<script src="app.js"></script>
+</body>
+</html>
