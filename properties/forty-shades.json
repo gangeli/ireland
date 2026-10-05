@@ -125,7 +125,8 @@
       "candidates": [
         "St Colmcille's National School, Inistioge"
       ],
-      "note": "The nearest school, about 116 pupils. Marymount NS (6.6 km) and St Mary's NS (7.9 km) are the fallbacks."
+      "note": "The nearest school, about 116 pupils. Marymount NS (6.6 km) and St Mary's NS (7.9 km) are the fallbacks.",
+      "category": "Schools"
     },
     {
       "id": "shop",
@@ -138,7 +139,8 @@
         "Inistioge Post Office"
       ],
       "note": "The village shop and post office.",
-      "title": "Inistioge village shop"
+      "title": "Inistioge village shop",
+      "category": "Groceries"
     },
     {
       "id": "bigshop",
@@ -151,32 +153,8 @@
         "Lidl Thomastown",
         "Lidl New Ross"
       ],
-      "note": "Thomastown has both a SuperValu and a Lidl."
-    },
-    {
-      "id": "town",
-      "group": "weekday",
-      "when": "12:30",
-      "label": "Errands in town",
-      "kind": "Small town",
-      "candidates": [
-        "Market Street, Thomastown, Co. Kilkenny"
-      ],
-      "note": "Thomastown: pharmacies, GP, cafés and the train station.",
-      "title": "Thomastown"
-    },
-    {
-      "id": "city",
-      "group": "weekday",
-      "when": "15:00",
-      "label": "Into the city",
-      "kind": "City",
-      "candidates": [
-        "Kilkenny Castle, Kilkenny",
-        "The Quay, Waterford"
-      ],
-      "note": "Kilkenny city, with Waterford as the alternative.",
-      "title": "Kilkenny"
+      "note": "Thomastown has both a SuperValu and a Lidl.",
+      "category": "Groceries"
     },
     {
       "id": "dinner",
@@ -188,57 +166,8 @@
         "The Otter Pub, Inistioge",
         "Woodstock Arms, Inistioge"
       ],
-      "note": "The Otter is the village's best-reviewed pub for food."
-    },
-    {
-      "id": "train",
-      "group": "further",
-      "when": "07:15",
-      "day": "weekday",
-      "label": "Train to Dublin",
-      "kind": "Station",
-      "candidates": [
-        "Thomastown railway station"
-      ],
-      "note": "Waterford–Heuston line. Drive here, then about 1h45 to Dublin Heuston."
-    },
-    {
-      "id": "airport",
-      "group": "further",
-      "when": "06:00",
-      "day": "friday",
-      "label": "Flight home",
-      "kind": "Airport",
-      "candidates": [
-        "Dublin Airport"
-      ],
-      "note": "The trip you and your parents will make most."
-    },
-    {
-      "id": "dublin",
-      "group": "further",
-      "when": "09:30",
-      "day": "saturday",
-      "label": "Day in Dublin",
-      "kind": "Capital",
-      "candidates": [
-        "St Stephen's Green, Dublin"
-      ],
-      "note": "City centre by car. The train from Thomastown is the other way in.",
-      "title": "Dublin city centre"
-    },
-    {
-      "id": "cork",
-      "group": "further",
-      "when": "09:30",
-      "day": "saturday",
-      "label": "Weekend in Cork",
-      "kind": "City",
-      "candidates": [
-        "English Market, Cork"
-      ],
-      "note": "",
-      "title": "Cork city centre"
+      "note": "The Otter is the village's best-reviewed pub for food.",
+      "category": "Eating out"
     },
     {
       "id": "hospital",
@@ -251,7 +180,97 @@
         "University Hospital Waterford"
       ],
       "note": "Nearest 24-hour emergency department by drive time.",
-      "title": "St Luke's General Hospital"
+      "title": "St Luke's General Hospital",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Market Street, Thomastown, Co. Kilkenny"
+      ],
+      "note": "Thomastown: pharmacies, GP, cafés and the train station.",
+      "title": "Thomastown",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "The Quay, Waterford"
+      ],
+      "note": "Kilkenny city, with Waterford as the alternative.",
+      "title": "Kilkenny",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car. The train from Thomastown is the other way in.",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Thomastown railway station"
+      ],
+      "note": "Waterford–Heuston line. Drive here, then about 1h45 to Dublin Heuston.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
     }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
   ]
 }

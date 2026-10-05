@@ -64,7 +64,7 @@ button { font: inherit; cursor: pointer; }
 .hero { position: relative; min-height: 340px; max-height: 620px; height: 62vh; overflow: hidden; background: var(--ink); }
 .hero-img { width: 100%; height: 100%; object-fit: cover; opacity: .9; }
 .hero::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(10,16,13,0) 35%, rgba(10,16,13,.82) 100%); }
-.hero-text { position: absolute; z-index: 1; left: 0; right: 0; bottom: 0; max-width: 1080px; margin: 0 auto; padding: 0 20px 28px; color: #f4f6f2; }
+.hero-text { position: absolute; z-index: 1; left: 0; right: 0; bottom: 0; max-width: 1080px; margin: 0 auto; padding: 0 20px 64px; color: #f4f6f2; }
 .hero-text .eyebrow { color: #cfd8d2; }
 .hero h1 { font-size: clamp(44px, 8vw, 92px); line-height: .95; margin: 8px 0 10px; }
 .tagline { max-width: 52ch; margin: 0 0 14px; font-size: 17px; color: #e3e9e5; }
@@ -131,11 +131,11 @@ figcaption { font-size: 13px; color: var(--muted); margin-top: 6px; }
 
 /* timeline */
 .group-h { font-family: var(--f-body); font-weight: 700; font-size: 13px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin: 30px 0 12px; }
-.timeline { list-style: none; margin: 0; padding: 0 0 0 0; display: grid; gap: 12px; position: relative; }
-.trip { display: grid; grid-template-columns: 68px 1fr; gap: 14px; align-items: stretch; }
+.timeline { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 480px), 1fr)); gap: 12px; }
+.trip { display: block; }
 .trip-time { font: 500 18px/1 var(--f-mono); font-variant-numeric: tabular-nums; padding-top: 18px; text-align: right; position: relative; }
 .trip-time small { display: block; font: 600 11px/1.3 var(--f-body); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin-top: 4px; }
-.trip-card { display: grid; grid-template-columns: 168px minmax(0, 1fr) auto; gap: 0; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; text-align: left; padding: 0; color: inherit; width: 100%; min-width: 0; transition: transform .15s ease, box-shadow .15s ease; }
+.trip-card { height: 100%; display: grid; grid-template-columns: 140px minmax(0, 1fr) auto; gap: 0; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; text-align: left; padding: 0; color: inherit; width: 100%; min-width: 0; transition: transform .15s ease, box-shadow .15s ease; }
 .trip-card:hover { transform: translateY(-1px); box-shadow: var(--shadow); }
 .trip-photo { width: 100%; height: 100%; min-height: 112px; object-fit: cover; background: var(--line); }
 .trip-main { padding: 14px 16px; min-width: 0; display: flex; flex-direction: column; gap: 6px; }
@@ -148,9 +148,6 @@ figcaption { font-size: 13px; color: var(--muted); margin-top: 6px; }
 .mins small { font: 600 12px var(--f-body); color: var(--muted); margin-left: 3px; }
 .ride { font: 700 13px var(--f-body); color: var(--moss); white-space: nowrap; }
 @media (max-width: 680px) {
-  .trip { grid-template-columns: 1fr; gap: 6px; }
-  .trip-time { text-align: left; padding-top: 0; display: flex; gap: 8px; align-items: baseline; }
-  .trip-time small { margin: 0; }
   .trip-card { grid-template-columns: 110px 1fr; }
   .trip-go { grid-column: 1 / -1; flex-direction: row; justify-content: space-between; align-items: center; border-top: 1px solid var(--line); padding: 10px 16px; }
 }

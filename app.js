@@ -146,21 +146,26 @@
     for (const x of P.photos) ph.append(el("img", { src: x.url, alt: x.caption, loading: "lazy", referrerpolicy: "no-referrer" }));
     $("heroimg").referrerPolicy = "no-referrer";
 
-    for (const t of P.trips) {
-      const list = $("tl-" + t.group);
-      const card = el("button", { type: "button", class: "trip-card", id: "card-" + t.id, onclick: () => openTrip(t) },
-        el("img", { class: "trip-photo", alt: "", id: "ph-" + t.id }),
-        el("div", { class: "trip-main" },
-          el("span", { class: "trip-label", text: `${t.label} · ${t.kind}` }),
-          el("span", { class: "trip-dest", id: "dn-" + t.id, text: t.title || t.candidates[0].split(",")[0] }),
-          t.note ? el("p", { class: "trip-note", text: t.note }) : null,
-          el("p", { class: "trip-alt", id: "alt-" + t.id })),
-        el("div", { class: "trip-go" },
-          el("span", { class: "mins", id: "mn-" + t.id, text: "–" }),
-          el("span", { class: "ride", text: "Ride along →" })));
-      const dayLabel = t.day === "friday" ? "Fri" : t.day === "saturday" ? "Sat" : t.group === "night" ? "Wed" : "Tue";
-      list.append(el("li", { class: "trip" },
-        el("div", { class: "trip-time" }, document.createTextNode(t.when), el("small", { text: dayLabel })), card));
+    const cats = P.categories || [...new Set(P.trips.map((t) => t.category))];
+    const box2 = $("trips");
+    for (const c of cats) {
+      const ts = P.trips.filter((t) => t.category === c);
+      if (!ts.length) continue;
+      const list = el("ol", { class: "timeline" });
+      for (const t of ts) {
+        list.append(el("li", { class: "trip" },
+          el("button", { type: "button", class: "trip-card", id: "card-" + t.id, onclick: () => openTrip(t) },
+            el("img", { class: "trip-photo", alt: "", id: "ph-" + t.id }),
+            el("div", { class: "trip-main" },
+              el("span", { class: "trip-label", text: t.kind }),
+              el("span", { class: "trip-dest", id: "dn-" + t.id, text: t.title || t.candidates[0].split(",")[0] }),
+              t.note ? el("p", { class: "trip-note", text: t.note }) : null,
+              el("p", { class: "trip-alt", id: "alt-" + t.id })),
+            el("div", { class: "trip-go" },
+              el("span", { class: "mins", id: "mn-" + t.id, text: "–" }),
+              el("span", { class: "ride", text: "Ride along →" })))));
+      }
+      box2.append(el("h3", { class: "group-h", text: c }), list);
     }
   }
 
@@ -307,7 +312,8 @@
         mn.textContent = "";
         mn.append(fmtMin(r.route.duration).replace(" min", ""), el("small", { text: r.route.duration < 3600 ? "min" : "" }));
         $("alt-" + t.id).textContent = fmtKm(r.route.distance) + (r.alts.length ? " · vs " + r.alts.map((a) => `${a.name} ${fmtMin(a.duration)}`).join(", ") : "");
-        if (r.dest.photo) { const im = $("ph-" + t.id); im.src = r.dest.photo; im.alt = r.dest.name; }
+        const im = $("ph-" + t.id); im.alt = r.dest.name;
+        im.src = r.dest.photo || destStreetView(r.dest);
       } catch (e) {
         console.warn(e);
         $("mn-" + t.id).textContent = "?";
@@ -373,6 +379,8 @@
     return { frames, total, pts };
   }
   const svUrl = (f) => `https://maps.googleapis.com/maps/api/streetview?size=640x360&location=${f.lat.toFixed(6)},${f.lng.toFixed(6)}&heading=${Math.round(f.h)}&pitch=-3&fov=90&source=outdoor&return_error_code=true&key=${encodeURIComponent(KEY)}`;
+
+  const destStreetView = (d) => `https://maps.googleapis.com/maps/api/streetview?size=640x400&location=${d.lat.toFixed(6)},${d.lng.toFixed(6)}&radius=80&source=outdoor&key=${encodeURIComponent(KEY)}`;
 
   /* ---------- player ---------- */
   const PL = { t: null, r: null, frames: [], dist: 0, simT: 0, total: 1, speed: 30, playing: false, shown: -1, lastSwap: 0, front: "a", cache: new Map(), buffering: false, contig: -1, loadToken: 0, raf: 0, map: null, line: null, marker: null };
@@ -516,7 +524,7 @@
 
   async function openTrip(t) {
     const dlg = $("player");
-    $("pl-kind").textContent = `${t.label} · ${t.kind}`;
+    $("pl-kind").textContent = `${t.category} · ${t.kind}`;
     $("pl-title").textContent = t.title || t.candidates[0].split(",")[0];
     $("pl-note").textContent = t.note || "";
     $("pl-loading").hidden = false; $("pl-loading").textContent = mapsReady ? "Plotting the route…" : "Add a Maps key at the top of the page to ride along.";
@@ -542,7 +550,7 @@
     $("pl-destname").textContent = r.dest.name;
     $("pl-destmeta").textContent = `${fmtMin(r.route.duration)} · ${fmtKm(r.route.distance)} · arrive ${clockAt(r.depMs + r.route.duration * 1000)}` + (r.dest.rating ? ` · ${r.dest.rating}★ (${r.dest.ratings})` : "");
     const di = $("pl-destimg");
-    if (r.dest.photo) { di.src = r.dest.photo; di.hidden = false; } else di.hidden = true;
+    di.src = r.dest.photo || destStreetView(r.dest); di.hidden = false;
     const cr = $("pl-destcredit"); cr.textContent = "";
     if (r.dest.credit) cr.append("Photo: ", el("a", { href: r.dest.credit.uri, target: "_blank", rel: "noopener", text: r.dest.credit.name }), " via Google");
 
