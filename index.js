@@ -27,7 +27,7 @@
   const R = window.HDRatings;
   const avgOf = (p) => { const x = R.summary(p.id); return x.avg == null ? -1 : x.avg; };
   const sorters = {
-    combined: (a, b) => (blend(b) ?? -1) - (blend(a) ?? -1) || R.summary(b.id).n - R.summary(a.id).n,
+    quality: (a, b) => (blend(b) ?? -1) - (blend(a) ?? -1) || R.summary(b.id).n - R.summary(a.id).n,
     rating: (a, b) => avgOf(b) - avgOf(a) || ((b.ai && b.ai.stars) || 0) - ((a.ai && a.ai.stars) || 0),
     ai: (a, b) => ((b.ai && b.ai.stars) || 0) - ((a.ai && a.ai.stars) || 0) || avgOf(b) - avgOf(a),
     score: (a, b) => score(b) - score(a),
@@ -60,7 +60,7 @@
     computeLabels();
     const list = $("idx-list"); list.textContent = "";
     $("idx-count").textContent = String(props.length);
-    const sorted = [...props].sort(sorters[$("sort").value] || sorters.combined);
+    const sorted = [...props].sort(sorters[$("sort").value] || sorters.quality);
     for (const p of sorted) {
       const href = `property.html?p=${encodeURIComponent(p.id)}`;
       const lb = label(p);
@@ -81,7 +81,7 @@
             el("div", { class: "ic-titleline" },
               el("a", { class: "ic-name", href, text: p.name }),
               el("span", { class: "ic-area", title: p.area || p.address || "", text: (p.area || p.address || "").split(",").map((x) => x.trim()).filter((x) => x && x.toLowerCase() !== p.name.toLowerCase()).join(", ") }),
-              el("span", { class: "status " + statusClass(lb), text: lb, title: blend(p) != null ? `Combined score ${blend(p).toFixed(2)}` : "" })),
+              el("span", { class: "status " + statusClass(lb), text: lb, title: blend(p) != null ? `Quality ${blend(p).toFixed(2)}` : "" })),
             el("p", { class: "ic-line" }, price, facts ? el("span", { class: "ic-facts", text: facts }) : null),
             p.tagline ? el("p", { class: "ic-tag", text: p.tagline }) : null),
           scoresBadge(p)));
@@ -227,7 +227,7 @@
       for (const p of props) {
         const chip = document.querySelector(`#ic-${CSS.escape(p.id)} .status`);
         if (chip && chip.textContent !== label(p)) { chip.textContent = label(p); chip.className = "status " + statusClass(label(p)); }
-        if (chip) chip.title = blend(p) != null ? `Combined score ${blend(p).toFixed(2)}` : "";
+        if (chip) chip.title = blend(p) != null ? `Quality ${blend(p).toFixed(2)}` : "";
         if (markers[p.id]) paintPin(markers[p.id].content, p);
       }
       // update ratings in place so cards don't jump while you rate
