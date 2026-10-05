@@ -346,3 +346,15 @@ figcaption { font-size: 13px; color: var(--muted); margin-top: 6px; }
 .ic-rate { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; margin-top: 6px; }
 .ic-avg { font: 500 13px var(--f-mono); color: var(--muted); }
 .ic-avg b { color: var(--gorse); font-weight: 400; letter-spacing: 1px; }
+
+/* first-rating name prompt */
+.namedlg { border: 0; border-radius: 12px; padding: 0; width: min(420px, 100vw - 32px); background: var(--panel); color: var(--ink); box-shadow: 0 20px 60px rgba(0,0,0,.4); }
+.namedlg::backdrop { background: rgba(8,12,10,.6); }
+.namedlg-form { display: flex; flex-direction: column; gap: 10px; padding: 22px; }
+.namedlg h2 { font-size: 28px; }
+.namedlg p { margin: 0; color: var(--muted); font-size: 14.5px; }
+.namedlg label { font-weight: 600; font-size: 14px; margin-top: 6px; }
+.namedlg input { font: 16px var(--f-body); color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 10px 12px; }
+.namedlg-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 8px; }
+.namedlg-actions button { border-radius: 6px; padding: 9px 16px; font-weight: 700; border: 1px solid var(--line); background: var(--bg); color: var(--ink); }
+.namedlg-actions .namedlg-ok { background: var(--sign); color: #fff; border-color: var(--sign); }

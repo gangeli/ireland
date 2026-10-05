@@ -240,8 +240,10 @@
     name.addEventListener("change", () => { R.setMe(name.value); touched = false; });
     $("rate-form").addEventListener("submit", async (e) => {
       e.preventDefault();
-      if (!name.value.trim()) { status.textContent = "Add your name first."; name.focus(); return; }
-      R.setMe(name.value);
+      if (name.value.trim()) R.setMe(name.value);
+      const who = await window.HDAskName();
+      if (!who) { status.textContent = "Ratings need a name."; return; }
+      name.value = who;
       if (!pick) { status.textContent = "Pick 1 to 5 stars."; return; }
       status.textContent = "Saving…";
       const r = await R.rate(P.id, pick, note.value);

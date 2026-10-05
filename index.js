@@ -72,8 +72,11 @@
     const sig = JSON.stringify([mine && mine.stars, R.forProperty(p.id).map((r) => [r.person, r.stars])]);
     return el("div", { class: "ic-rate", "data-sig": sig },
       window.HDStars(mine ? mine.stars : 0, async (n) => {
-        if (!R.me()) { $("idx-name").focus(); $("idx-name").placeholder = "Your name first"; return; }
-        await R.rate(p.id, n, mine ? mine.note : "");
+        const who = await window.HDAskName();
+        if (!who) return;
+        $("idx-name").value = who;
+        const cur = R.mine(p.id);
+        await R.rate(p.id, n, cur ? cur.note : "");
       }, { small: true, label: `Your rating for ${p.name}` }),
       el("span", { class: "ic-avg", title: others },
         sum.n ? el("b", { text: window.HDStarText(sum.avg) }) : null,

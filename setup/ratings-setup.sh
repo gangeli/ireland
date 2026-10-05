@@ -8,7 +8,8 @@ set -euo pipefail
 export CLOUDSDK_CORE_DISABLE_PROMPTS=1
 
 PROJECT="${PROJECT:-ireland-7844}"
-REGION="${REGION:-europe-west1}"
+REGION="${REGION:-us-central1}"          # Cloud Function region
+DB_LOCATION="${DB_LOCATION:-nam5}"       # Firestore location (nam5 = US multi-region)
 FN="house-days-ratings"
 
 say()  { printf '\033[1;32m==>\033[0m %s\n' "$*"; }
@@ -31,11 +32,17 @@ for s in firestore.googleapis.com cloudfunctions.googleapis.com run.googleapis.c
 done
 
 # 2. Firestore database
-if gcloud firestore databases describe --database='(default)' --project="$PROJECT" >/dev/null 2>&1; then
-  say "Firestore database exists"
+HAVE_LOC="$(gcloud firestore databases describe --database='(default)' --project="$PROJECT" --format='value(locationId)' 2>/dev/null || true)"
+if [[ -z "$HAVE_LOC" ]]; then
+  say "Creating Firestore database in $DB_LOCATION"
+  gcloud firestore databases create --location="$DB_LOCATION" --type=firestore-native --project="$PROJECT" >/dev/null \
+    || die "Couldn't create the database. If you just deleted one, Google can take a few minutes to free the name; wait and re-run."
+elif [[ "$HAVE_LOC" != "$DB_LOCATION" ]]; then
+  die "The Firestore database is in $HAVE_LOC, not $DB_LOCATION. A database can't be moved. If it holds nothing you need, delete it with:
+     gcloud firestore databases delete --database='(default)' --project=$PROJECT
+   then re-run this script."
 else
-  say "Creating Firestore database in $REGION"
-  gcloud firestore databases create --location="$REGION" --type=firestore-native --project="$PROJECT" >/dev/null
+  say "Firestore database exists in $DB_LOCATION"
 fi
 
 # 3. Permissions for the default compute service account (builds the function and runs it)
@@ -46,7 +53,12 @@ for role in roles/cloudbuild.builds.builder roles/datastore.user roles/logging.l
     echo "   has $role"
   else
     say "Granting $role to $SA"
-    gcloud projects add-iam-policy-binding "$PROJECT" --member="serviceAccount:$SA" --role="$role" --condition=None >/dev/null
+    ok=""
+    for attempt in 1 2 3 4 5; do   # concurrent IAM edits return an etag conflict; retry with backoff
+      if gcloud projects add-iam-policy-binding "$PROJECT" --member="serviceAccount:$SA" --role="$role" --condition=None >/dev/null 2>&1; then ok=1; break; fi
+      sleep $((attempt * 3))
+    done
+    [[ -n "$ok" ]] || die "Couldn't grant $role after 5 tries; re-run in a minute"
   fi
 done
 

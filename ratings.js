@@ -117,3 +117,41 @@ window.HDStars = function (value, onPick, opts) {
   return box;
 };
 window.HDStarText = (avg) => avg == null ? "" : "★".repeat(Math.round(avg)) + "☆".repeat(5 - Math.round(avg));
+
+/* Ask for a name the first time someone rates; remembered in this browser.
+ * Resolves with the name, or null if they cancel. */
+window.HDAskName = function () {
+  const R = window.HDRatings;
+  if (R.me()) return Promise.resolve(R.me());
+  return new Promise((resolve) => {
+    const dlg = document.createElement("dialog");
+    dlg.className = "namedlg";
+    dlg.innerHTML = `<form method="dialog" class="namedlg-form">
+        <h2>Who's rating?</h2>
+        <p>Your ratings show under this name, so everyone can see who thought what. We'll remember it on this device.</p>
+        <label for="hd-name-in">Your name</label>
+        <input id="hd-name-in" list="hd-name-list" maxlength="40" autocomplete="nickname" required>
+        <datalist id="hd-name-list"></datalist>
+        <div class="namedlg-actions">
+          <button type="button" value="cancel" class="namedlg-cancel">Cancel</button>
+          <button type="submit" value="ok" class="namedlg-ok">Save and rate</button>
+        </div>
+      </form>`;
+    document.body.append(dlg);
+    const input = dlg.querySelector("input");
+    const list = dlg.querySelector("datalist");
+    for (const p of R.people()) { const o = document.createElement("option"); o.value = p; list.append(o); }
+    let done = false;
+    const finish = (v) => {
+      if (done) return; done = true;
+      if (v) R.setMe(v);
+      dlg.close(); dlg.remove();
+      resolve(v || null);
+    };
+    dlg.querySelector(".namedlg-cancel").addEventListener("click", () => finish(null));
+    dlg.querySelector("form").addEventListener("submit", (e) => { e.preventDefault(); const v = input.value.trim(); if (v) finish(v); else input.focus(); });
+    dlg.addEventListener("cancel", (e) => { e.preventDefault(); finish(null); });
+    dlg.showModal();
+    input.focus();
+  });
+};
