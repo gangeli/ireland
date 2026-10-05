@@ -114,4 +114,19 @@ EOF
   say "Wrote config.js (commit and push it)"
 fi
 
+# 7. GitHub Pages for gangeli/ireland (needs the gh CLI, logged in)
+REPO="${REPO:-gangeli/ireland}"
+if command -v gh >/dev/null; then
+  if gh api "repos/$REPO/pages" >/dev/null 2>&1; then
+    say "GitHub Pages already on for $REPO"
+  else
+    say "Turning on GitHub Pages for $REPO (main, /)"
+    gh api -X POST "repos/$REPO/pages" -f "source[branch]=main" -f "source[path]=/" >/dev/null \
+      || warn "Couldn't enable Pages; do it under Settings > Pages"
+  fi
+else
+  warn "gh not installed; enable Pages under https://github.com/$REPO/settings/pages"
+fi
+
 say "Done. Project $PROJECT, billing $BILLING, key $KEY_STRING"
+say "Site: https://${REPO%%/*}.github.io/${REPO##*/}/"
