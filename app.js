@@ -423,7 +423,8 @@
     shop:     { maxKm: 10,  types: ["convenience_store", "grocery_store", "supermarket"], radius: 10000 },
     bigshop:  { maxKm: 40,  types: ["supermarket"], radius: 30000 },
     dinner:   { maxKm: 25,  types: ["restaurant", "pub"], radius: 15000 },
-    hospital: { maxKm: 120, types: ["hospital"], radius: 50000 },
+    // Naas and Connolly EDs are 16+ only, so they can't take children; never land on them.
+    hospital: { maxKm: 120, types: ["hospital"], radius: 50000, exclude: /naas general|connolly hospital|naas hospital/i },
     train:    { maxKm: 60,  types: ["train_station"], radius: 40000 },
     town:     { maxKm: 50 }, city: { maxKm: 100 },
   };
@@ -512,7 +513,7 @@
     if (hit && Date.now() - hit.ts < CACHE_DAYS * 86400000) return hit;
     const depMs = departureFor(t);
     const rule = TRIP_RULES[t.id] || {};
-    const near = (d) => !rule.maxKm || hav([P.lat, P.lng], [d.lat, d.lng]) / 1000 <= rule.maxKm;
+    const near = (d) => (!rule.maxKm || hav([P.lat, P.lng], [d.lat, d.lng]) / 1000 <= rule.maxKm) && !(rule.exclude && rule.exclude.test(d.name || ""));
     const options = [];
     const tryDest = async (dest) => {
       try { options.push({ dest, route: await routeTo(dest, depMs) }); } catch (e) { console.warn("route", t.id, dest.name, e); }
@@ -527,7 +528,7 @@
     }
     // Named candidates all failed: fall back to the nearest place of the right type on the map.
     if (!options.length && rule.types) {
-      try { for (const dest of (await findNearby(rule)).slice(0, 2)) await tryDest(dest); }
+      try { for (const dest of (await findNearby(rule)).filter(near).slice(0, 2)) await tryDest(dest); }
       catch (e) { console.warn("trip", t.id, "nearby search failed", e); }
     }
     if (!options.length) throw new Error("nothing found for " + t.id);
