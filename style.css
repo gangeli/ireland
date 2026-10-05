@@ -253,7 +253,9 @@ figcaption { font-size: 13px; color: var(--muted); margin-top: 6px; }
 .ic-top { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
 .status { font: 700 11px/1 var(--f-body); letter-spacing: .1em; text-transform: uppercase; padding: 5px 8px; border-radius: 4px; background: var(--line); color: var(--ink); }
 .st-front-runner { background: var(--gorse); color: #1b2421; }
+.st-strong-contender { background: var(--moss); color: #fff; }
 .st-considering { background: var(--moss-soft); color: var(--ink); }
+.st-long-shot { background: transparent; color: var(--muted); box-shadow: inset 0 0 0 1px var(--line); }
 .st-sale-agreed, .st-sold { background: var(--rust-soft); color: var(--ink); }
 .st-rejected, .st-passed { background: var(--line); color: var(--muted); }
 .ic-score { font: 500 15px var(--f-mono); color: var(--moss); }

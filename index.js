@@ -34,9 +34,30 @@
     added: (a, b) => String(b.added || "").localeCompare(String(a.added || "")),
     land: (a, b) => (b.landAcres || 0) - (a.landAcres || 0),
   };
+  /* Labels come from the ratings: AI score blended with the people's average
+     (people weigh more as more of them rate). Sale agreed / Passed are facts and win. */
+  const blend = (p) => {
+    const ai = p.ai ? p.ai.stars : null, sum = R.summary(p.id);
+    if (!sum.n) return ai;
+    if (ai == null) return sum.avg;
+    const w = sum.n / (sum.n + 1);
+    return (1 - w) * ai + w * sum.avg;
+  };
+  let labels = {};
+  function computeLabels() {
+    labels = {};
+    const active = props.filter((p) => !/sale agreed|sold|passed/i.test(p.status || ""));
+    for (const p of props) if (!active.includes(p)) labels[p.id] = p.status;
+    const ranked = active.map((p) => [p, blend(p)]).sort((a, b) => (b[1] ?? 0) - (a[1] ?? 0));
+    ranked.forEach(([p, b], i) => {
+      labels[p.id] = b == null ? "Considering" : (i === 0 && b >= 4) ? "Front-runner" : b >= 3.5 ? "Strong contender" : b >= 2.75 ? "Considering" : "Long shot";
+    });
+  }
+  const label = (p) => labels[p.id] || p.status || "Considering";
   const statusClass = (s) => "st-" + String(s || "considering").toLowerCase().replace(/[^a-z]+/g, "-");
 
   function renderList() {
+    computeLabels();
     const list = $("idx-list"); list.textContent = "";
     $("idx-count").textContent = String(props.length);
     const sorted = [...props].sort(sorters[$("sort").value] || sorters.score);
@@ -51,7 +72,7 @@
           el("img", { src: p.photos && p.photos[0] ? p.photos[0].url : "", alt: "", loading: "lazy", referrerpolicy: "no-referrer" })),
         el("div", { class: "ic-body" },
           el("div", { class: "ic-top" },
-            el("span", { class: "status " + statusClass(p.status), text: p.status || "Considering" }),
+            el("span", { class: "status " + statusClass(label(p)), text: label(p), title: blend(p) != null ? `Blended score ${blend(p).toFixed(2)}` : "" }),
             scoresBadge(p)),
           el("a", { class: "ic-name", href, text: p.name }),
           el("p", { class: "ic-area", text: p.area || p.address }),
@@ -121,7 +142,7 @@
   function pill(p, hot) {
     const label = euroK(p.price);
     const w = 14 + label.length * 8.2;
-    const out = /passed|sale agreed|sold/i.test(p.status || "");
+    const out = /passed|sale agreed|sold/i.test(label(p));
     const fill = hot ? "#e3b21f" : out ? "#8a948f" : "#0b6b3a", ink = hot ? "#1b2421" : "#ffffff";
     const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="34"><path d="M4 1h${w - 8}a3 3 0 0 1 3 3v18a3 3 0 0 1-3 3H${w / 2 + 6}l-6 7-6-7H4a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3z" fill="${fill}" stroke="#ffffff" stroke-width="1.5"/><text x="${w / 2}" y="18" font-family="IBM Plex Mono, monospace" font-size="13" font-weight="600" fill="${ink}" text-anchor="middle">${label}</text></svg>`;
     return { url: "data:image/svg+xml;charset=UTF-8," + encodeURIComponent(svg), anchor: new google.maps.Point(w / 2, 33) };
@@ -175,6 +196,12 @@
     nm.value = R.me();
     nm.addEventListener("change", () => R.setMe(nm.value));
     R.onChange(() => {
+      computeLabels();
+      for (const p of props) {
+        const chip = document.querySelector(`#ic-${CSS.escape(p.id)} .status`);
+        if (chip && chip.textContent !== label(p)) { chip.textContent = label(p); chip.className = "status " + statusClass(label(p)); }
+        if (markers[p.id]) markers[p.id].setIcon(pill(p, false));
+      }
       // update ratings in place so cards don't jump while you rate
       for (const p of props) {
         const row = document.querySelector(`#ic-${CSS.escape(p.id)} .ic-rate`);

@@ -88,7 +88,7 @@ Each trip also has:
 `id, name, address, eircode, lat, lng, listingUrl, status, added, area, agent, agentEmail, questions[], ai, price, type, beds, bedsNote, baths, floorM2, atticM2, landHa, landAcres, ber, berKwh, heating, listed, views, stampDuty, tagline, photos[], pros[], cons[], trips[], categories[]`
 
 Notes on the keys:
-- `status`: one of `Front-runner`, `Considering`, `Sale agreed`, `Passed`. New houses start as `Considering`.
+- `status`: `Considering` for any house that's still on the market, or `Sale agreed` / `Passed` once it isn't. The index works out Front-runner, Strong contender, Considering and Long shot itself, from the AI score and people's ratings, so don't set those.
 - `added`: today's date, as YYYY-MM-DD.
 - `area`: "Village, Co. County".
 - Leave out keys you don't have, such as `atticM2` or `views`, rather than inventing them.
