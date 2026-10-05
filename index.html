@@ -6,10 +6,13 @@
 <title>Ireland Shortlist</title>
 <meta name="robots" content="noindex,nofollow">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="theme-color" content="#0b6b3a">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gloock&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
-<link rel="stylesheet" href="style.css?v=20261005043632">
+<link rel="stylesheet" href="style.css?v=20261005044637">
 </head>
 <body class="idx">
 
@@ -35,6 +38,7 @@
       <input id="idx-name" list="idx-raters" placeholder="Your name" maxlength="40" size="12">
     </label>
     <datalist id="idx-raters"></datalist>
+    <button type="button" class="alerts-btn" id="alerts-btn" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 16V11a6 6 0 0 1 12 0v5l2 2H4z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg><span class="ab-text">Alerts</span></button>
     <label class="sortby">Sort
       <select id="sort">
         <option value="quality">All ratings</option>
@@ -58,8 +62,9 @@
 </main>
 
 
-<script src="config.js?v=20261005043632"></script>
-<script src="ratings.js?v=20261005043632"></script>
-<script src="index.js?v=20261005043632"></script>
+<script src="config.js?v=20261005044637"></script>
+<script src="ratings.js?v=20261005044637"></script>
+<script src="index.js?v=20261005044637"></script>
+<script src="alerts.js?v=20261005044637"></script>
 </body>
 </html>

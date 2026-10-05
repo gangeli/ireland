@@ -21,6 +21,15 @@
   const euro = (n) => "€" + Math.round(n).toLocaleString("en-IE");
 
   let props = [], rate = null, map = null;
+  // Houses added since this browser last saw the list get a "New" chip (and ?new=a,b from an alert).
+  let fresh = new Set();
+  function markSeen(ids) {
+    const seen = load("hd:seen");
+    const fromAlert = (new URLSearchParams(location.search).get("new") || "").split(",").filter(Boolean);
+    fresh = new Set(seen ? ids.filter((i) => !seen.includes(i)) : []);
+    for (const i of fromAlert) if (ids.includes(i)) fresh.add(i);
+    store("hd:seen", [...new Set([...(seen || []), ...ids])]);
+  }
   const markers = {};
 
   const score = (p) => (p.pros || []).reduce((a, b) => a + b.weight, 0) - (p.cons || []).reduce((a, b) => a + b.weight, 0);
@@ -67,7 +76,7 @@
       const price = el("span", { class: "ic-price", text: euro(p.price) });
       if (rate) price.append(el("small", { text: " ≈ $" + Math.round(p.price * rate).toLocaleString("en-US") }));
       const facts = [p.beds ? `${p.beds} bed` : null, p.floorM2 ? `${p.floorM2} m²` : null, p.landAcres ? `${p.landAcres} ac` : null, p.ber ? `BER ${p.ber}` : null].filter(Boolean).join(" · ");
-      const li = el("li", { class: "ic", id: "ic-" + p.id,
+      const li = el("li", { class: "ic" + (fresh.has(p.id) ? " is-new" : ""), id: "ic-" + p.id,
         onmouseenter: () => highlight(p.id, true), onmouseleave: () => highlight(p.id, false),
         onclick: (e) => {
           // the whole card opens the house, except the ratings badge and real links
@@ -80,6 +89,7 @@
           el("div", { class: "ic-main" },
             el("div", { class: "ic-titleline" },
               el("a", { class: "ic-name", href, text: p.name }),
+              fresh.has(p.id) ? el("span", { class: "new-chip", text: "New", title: "Added since you last looked" }) : null,
               el("span", { class: "ic-area", title: p.area || p.address || "", text: (p.area || p.address || "").split(",").map((x) => x.trim()).filter((x) => x && x.toLowerCase() !== p.name.toLowerCase()).join(", ") }),
               el("span", { class: "status " + statusClass(lb), text: lb, title: blend(p) != null ? `All ratings ${blend(p).toFixed(2)}` : "" })),
             el("p", { class: "ic-line" }, price, facts ? el("span", { class: "ic-facts", text: facts }) : null),
@@ -204,6 +214,7 @@
     const man = await (await fetch("properties/index.json")).json();
     const ids = man.properties || [];
     props = (await Promise.all(ids.map((id) => fetch(`properties/${encodeURIComponent(id)}.json`).then((r) => r.json()).catch(() => null)))).filter(Boolean);
+    markSeen(props.map((p) => p.id));
     renderList();
     $("sort").addEventListener("change", renderList);
     const nm = $("idx-name");

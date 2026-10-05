@@ -643,3 +643,20 @@ body.idx .idx-main[data-view="split"] { grid-template-columns: minmax(0, 1fr) mi
   .hero-img { inset: 0; width: 100%; }
   .hero-map { display: none; }
 }
+
+/* New-house alerts */
+.alerts-btn { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--line); background: var(--panel); color: var(--muted); border-radius: 999px; padding: 6px 12px 6px 9px; font: 600 13.5px var(--f-body); cursor: pointer; }
+.alerts-btn svg { width: 17px; height: 17px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linejoin: round; }
+.alerts-btn:hover { color: var(--ink); border-color: var(--sign); }
+.alerts-btn.on { color: #fff; background: var(--sign); border-color: var(--sign); }
+.alerts-btn.on svg { fill: currentColor; }
+.alertdlg { width: min(500px, 100vw - 32px); }
+.alertdlg-title { display: inline-flex; align-items: center; gap: 10px; color: #fff; font: 700 15px var(--f-body); letter-spacing: .02em; }
+.alertdlg-list { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 8px; color: var(--muted); font-size: 14.5px; line-height: 1.5; }
+.alertdlg-list b { color: var(--ink); }
+.alertdlg-copy p + ul { margin-top: 10px; }
+.alertdlg-msg { min-height: 1.2em; font-weight: 600; color: var(--sign) !important; }
+.alertdlg-msg.bad { color: #b4401f !important; }
+/* "New" chip for houses added since your last visit */
+.new-chip { flex: none; font: 700 10.5px var(--f-body); letter-spacing: .08em; text-transform: uppercase; color: #1d1a0c; background: var(--gorse); border-radius: 4px; padding: 2px 6px; }
+.ic.is-new { box-shadow: inset 3px 0 0 var(--gorse); }

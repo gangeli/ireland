@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Idempotent setup for shared house ratings: Firestore + a tiny public Cloud Function.
+# Idempotent setup for shared house ratings and new-listing alerts: Firestore, a tiny public
+# Cloud Function, and a Cloud Scheduler job that checks the shortlist every 30 minutes.
 # No auth on purpose: anyone with the site can read and post ratings (with a name).
 # Safe to re-run: skips what exists, redeploys the function only when its code changes.
 #
@@ -26,7 +27,8 @@ NUM="$(gcloud projects describe "$PROJECT" --format='value(projectNumber)')"
 # 1. APIs
 say "Enabling APIs"
 for s in firestore.googleapis.com cloudfunctions.googleapis.com run.googleapis.com \
-         cloudbuild.googleapis.com artifactregistry.googleapis.com logging.googleapis.com; do
+         cloudbuild.googleapis.com artifactregistry.googleapis.com logging.googleapis.com \
+         cloudscheduler.googleapis.com; do
   printf '   %-40s ' "$s"
   if gcloud services enable "$s" --project="$PROJECT" >/dev/null 2>&1; then echo on; else echo FAILED; fi
 done
@@ -68,25 +70,90 @@ trap 'rm -rf "$SRC"' EXIT
 cat > "$SRC/package.json" <<'EOF'
 {
   "name": "house-days-ratings",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "engines": { "node": ">=20" },
   "dependencies": {
     "@google-cloud/functions-framework": "^3.4.0",
-    "@google-cloud/firestore": "^7.10.0"
+    "@google-cloud/firestore": "^7.10.0",
+    "web-push": "^3.6.7"
   }
 }
 EOF
 cat > "$SRC/index.js" <<'EOF'
-// Shared ratings for the House Days site. Open by design: no auth.
-// GET  -> { ratings: [{ property, person, stars, note, updated }] }
-// POST -> body (JSON, sent as text/plain) { property, person, stars 1-5, note } upserts one
-//         person's rating of one property; { property, person, delete: true } removes it.
+// Shared ratings + new-listing alerts for the House Days site. Open by design: no auth.
+// Ratings
+//   GET                      -> { ratings: [{ property, person, stars, note, updated }] }
+//   POST { property, person, stars 1-5, note }   upserts one person's rating of one property
+//   POST { property, person, delete: true }      removes it
+// Alerts (Web Push)
+//   GET  ?action=vapid       -> { key }  public VAPID key for pushManager.subscribe
+//   POST { action:"subscribe", sub, person }     stores a push subscription
+//   POST { action:"unsubscribe", endpoint }      removes it
+//   POST { action:"test", endpoint }             sends a test alert to that one subscription
+//   GET  ?action=check       compares the live shortlist with every house seen before and alerts all
+//                            subscribers about new ones. Cloud Scheduler calls it; harmless to call by hand.
+// POST bodies are JSON sent as text/plain so browsers skip the CORS preflight.
 const functions = require("@google-cloud/functions-framework");
 const { Firestore } = require("@google-cloud/firestore");
+const webpush = require("web-push");
+const crypto = require("crypto");
 const db = new Firestore();
 const col = db.collection("ratings");
+const subs = db.collection("push");
+const meta = db.collection("meta");
+const SITE = "https://gangeli.github.io/ireland/";
+const RAW = "https://raw.githubusercontent.com/gangeli/ireland/main/properties/";
 const slug = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+const hash = (s) => crypto.createHash("sha256").update(String(s)).digest("hex").slice(0, 32);
+
+let keysCache = null;
+async function vapid() {
+  if (!keysCache) {
+    const ref = meta.doc("vapid");
+    const got = await ref.get();
+    keysCache = got.exists ? got.data() : null;
+    if (!keysCache) { keysCache = webpush.generateVAPIDKeys(); await ref.set(keysCache); }
+  }
+  webpush.setVapidDetails("mailto:house-days@users.noreply.github.com", keysCache.publicKey, keysCache.privateKey);
+  return keysCache;
+}
+async function send(doc, payload) {
+  try { await webpush.sendNotification(doc.data().sub, JSON.stringify(payload), { TTL: 86400 }); return true; }
+  catch (e) {
+    if (e.statusCode === 404 || e.statusCode === 410) await doc.ref.delete(); // subscription expired
+    else console.error("push failed", e.statusCode, e.body);
+    return false;
+  }
+}
+const getJSON = async (u) => { const r = await fetch(u + "?t=" + Date.now()); if (!r.ok) throw new Error(u + " " + r.status); return r.json(); };
+const euro = (n) => (n ? "€" + Math.round(n / 1000) + "k" : "");
+
+async function check() {
+  await vapid();
+  const idx = await getJSON(RAW + "index.json");
+  const ids = idx.properties || [];
+  const ref = meta.doc("seen");
+  const got = await ref.get();
+  if (!got.exists) { await ref.set({ ids, updated: new Date().toISOString() }); return { baseline: ids.length }; }
+  const seen = new Set(got.data().ids || []);
+  const fresh = ids.filter((i) => !seen.has(i));
+  if (!fresh.length) return { fresh: 0 };
+  await ref.set({ ids: [...new Set([...seen, ...ids])], updated: new Date().toISOString() });
+  const houses = [];
+  for (const id of fresh) {
+    try { const d = await getJSON(RAW + id + ".json"); houses.push({ id, name: d.name, area: d.area, price: d.price }); }
+    catch { houses.push({ id, name: id }); }
+  }
+  const h = houses[0];
+  const payload = houses.length === 1
+    ? { title: "New on the shortlist: " + h.name, body: [h.area, euro(h.price)].filter(Boolean).join(" · "), url: SITE + "property.html?p=" + h.id, tag: "new-" + h.id }
+    : { title: houses.length + " new houses on the shortlist", body: houses.map((x) => x.name).join(", "), url: SITE + "?new=" + fresh.join(","), tag: "new-batch" };
+  const all = await subs.get();
+  let sent = 0;
+  for (const d of all.docs) if (await send(d, payload)) sent++;
+  return { fresh: fresh.length, sent };
+}
 
 functions.http("ratings", async (req, res) => {
   res.set("Access-Control-Allow-Origin", "*");
@@ -96,13 +163,34 @@ functions.http("ratings", async (req, res) => {
   if (req.method === "OPTIONS") return res.status(204).send("");
   try {
     if (req.method === "GET") {
+      const action = String(req.query.action || "");
+      if (action === "vapid") return res.json({ key: (await vapid()).publicKey });
+      if (action === "check") return res.json(await check());
       const snap = await col.limit(5000).get();
       return res.json({ ratings: snap.docs.map((d) => d.data()) });
     }
     if (req.method !== "POST") return res.status(405).json({ error: "GET or POST" });
     let b = req.body;
+    if (Buffer.isBuffer(b)) b = b.toString("utf8");
     if (typeof b === "string") b = JSON.parse(b || "{}");
-    if (Buffer.isBuffer(b)) b = JSON.parse(b.toString("utf8") || "{}");
+    b = b || {};
+    if (b.action === "subscribe") {
+      const sub = b.sub || {};
+      if (!/^https:\/\//.test(sub.endpoint || "") || !sub.keys || !sub.keys.p256dh || !sub.keys.auth) return res.status(400).json({ error: "bad subscription" });
+      await subs.doc(hash(sub.endpoint)).set({
+        sub: { endpoint: sub.endpoint, keys: { p256dh: sub.keys.p256dh, auth: sub.keys.auth } },
+        person: String(b.person || "").slice(0, 40), created: new Date().toISOString(),
+      });
+      return res.json({ ok: true });
+    }
+    if (b.action === "unsubscribe") { await subs.doc(hash(b.endpoint || "")).delete(); return res.json({ ok: true }); }
+    if (b.action === "test") {
+      await vapid();
+      const d = await subs.doc(hash(b.endpoint || "")).get();
+      if (!d.exists) return res.status(404).json({ error: "not subscribed" });
+      const ok = await send(d, { title: "Alerts are on", body: "This browser will hear about new houses on the shortlist.", url: SITE, tag: "test" });
+      return res.json({ ok });
+    }
     const property = String(b.property || "");
     const person = String(b.person || "").trim().slice(0, 40);
     if (!/^[a-z0-9-]{1,80}$/.test(property)) return res.status(400).json({ error: "property must be a page id" });
@@ -137,11 +225,25 @@ fi
 
 URL="$(gcloud functions describe "$FN" --gen2 --region="$REGION" --project="$PROJECT" --format='value(serviceConfig.uri)')"
 
-# 6. Smoke test
+# 6. Alerts: check the shortlist for new houses every 30 minutes (Cloud Scheduler; the free tier covers it)
+JOB="house-days-alerts"
+if gcloud scheduler jobs describe "$JOB" --location="$REGION" --project="$PROJECT" >/dev/null 2>&1; then
+  gcloud scheduler jobs update http "$JOB" --location="$REGION" --project="$PROJECT" \
+    --schedule="*/30 * * * *" --uri="$URL?action=check" --http-method=GET >/dev/null && say "Alert schedule is up to date"
+else
+  say "Scheduling the new-listing check every 30 minutes"
+  gcloud scheduler jobs create http "$JOB" --location="$REGION" --project="$PROJECT" \
+    --schedule="*/30 * * * *" --uri="$URL?action=check" --http-method=GET --time-zone="Etc/UTC" >/dev/null \
+    || warn "Couldn't create the scheduler job; alerts then go out only when $URL?action=check is opened"
+fi
+
+# 7. Smoke test
 say "Testing $URL"
 if curl -fsS "$URL" | grep -q '"ratings"'; then
   say "Ratings endpoint is live"
 else
   warn "The endpoint didn't answer as expected; check: gcloud functions logs read $FN --gen2 --region=$REGION --project=$PROJECT"
 fi
+if curl -fsS "$URL?action=vapid" | grep -q '"key"'; then say "Alerts endpoint is live"; else warn "The alerts endpoint didn't answer; see the function logs"; fi
+curl -fsS "$URL?action=check" >/dev/null || true   # the first check records today's shortlist as the baseline
 say "Done. Ratings URL: $URL"
