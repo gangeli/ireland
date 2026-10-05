@@ -608,3 +608,5 @@ body.idx .idx-main[data-view="split"] { grid-template-columns: minmax(0, 1fr) mi
 #hero-scores .star { color: rgba(255,255,255,.35); }
 #hero-scores .star.on, #hero-scores .star.hover { color: var(--gorse); }
 #hero-scores .spop { right: 0; top: auto; bottom: calc(100% + 8px); color: var(--ink); }
+.plan-missing { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px; padding-top: 10px; border-top: 1px dashed #d3d9d2; color: #5b6862; font-size: 14px; }
+.plan-missing .md-btn { background: #fff; color: #1b2421; }

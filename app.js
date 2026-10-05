@@ -234,6 +234,9 @@
         sheet.prepend(tabs);
       }
       sheet.append(el("p", { class: "plan-hint", text: "Click to enlarge" }));
+      if (!plans.length) sheet.append(el("div", { class: "plan-missing" },
+        el("span", { text: "No floor plan in the listing, only a site plan." }),
+        el("button", { type: "button", class: "md-btn", text: "Ask the agent", onclick: () => openMail() })));
     } else {
       sheet.classList.add("plan-none");
       sheet.append(el("p", { class: "plan-none-h", text: "No floor plan in the listing" }),

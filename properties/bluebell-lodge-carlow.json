@@ -22,24 +22,37 @@
   "tagline": "A period house with a separate three-bed cottage and mature gardens on the Old Dublin Road, a short walk from Carlow town centre.",
   "photos": [
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI4XC9jXC84YzNmNDY2Yi1jMjNiLTQ1NjktYWE5ZC0xODJkODI3YmMyN2YuanBnIn0=?signature=8c2ca3b0e077e32842e62384ed086bcdcd123fd2d938d2fc79919bed027bbe91",
-      "caption": "Listing photo",
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI2XC84XC82ODkwMmEyNS01M2E1LTRlODctODlkMy02MzE2MTQwNTMxNWYuanBnIn0=?signature=201a8511cc1a87c044037465101ee2ace91fe8da10d2ea5141b7a74a508701bc",
       "role": "facade"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjZcLzhcLzY4OTAyYTI1LTUzYTUtNGU4Ny04OWQzLTYzMTYxNDA1MzE1Zi5qcGcifQ==?signature=2bee63b74ea54ad394c5b979a05297cdbcd2b5049ea04200eb42e95175c83aa5",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI3XC80XC83NGZkY2M3Ny0xMjI3LTRkZjYtYjkyZi1kZjQ5MmZhNzEyNGMuanBnIn0=?signature=73f82c87196df73f8262787e595206ff2d1c4e369e7dba08014488c5287b0c94",
+      "role": "garden"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImFcL2RcL2FkMDVlY2Y4LWVhNmYtNDI2My1iMzQwLTU3NjUwODM1NmNhZi5qcGcifQ==?signature=b8cb6ac739fc3ea5110b76361121cee49603a5efc7530f29b1737ce591ad3fba",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJjXC81XC9jNWZlODU0ZS03MjhjLTQxODYtODVhMS1iZmQ1Yjc5OGM5ZjUuanBnIn0=?signature=9cc8c15d5cf8bc4ce0680e75447729a7723067a1e8edb995abb578d95672784b",
+      "role": "interior"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjFcL2RcLzFkYmIzYjk1LTZlODktNDg2MS1iM2UzLTJhNTdlMWMxNmM3Ni5qcGcifQ==?signature=e55872ab921d88220d3ef38e62ad6a6556bff5f65d094e6b912a8b23e6b9045d",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIyXC82XC8yNmU5MDU5NC1mMWJjLTRjYjAtODY3ZS03MmJjNjg3OTcxYTYuanBnIn0=?signature=4b1bb72192cd77e0d835d470a38a22c396dcaf760894c476dc8927ee99f7a717",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI5XC9kXC85ZDQwNTA3Zi01YjIzLTRlYTAtYTY1YS1kMGE0MGFlM2JlMGEuanBnIn0=?signature=bc237c341abe3d9e7e727c03ec030a6cab08e553c8066eb95e0ec13eaa7e2a62"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIzXC81XC8zNWRlODNmMi1hZDkxLTRjZGEtYTEyZC1kMmI2NGFlZTdlZjUuanBnIn0=?signature=a1a91bb7794fa236f20803cedb86467ab54580388a28774675ec12e619cd7bde"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI0XC9kXC80ZDE1MjUzNi0yZmNlLTRiNzEtYmRmNy1mYjUzZWM2OTFlOGMuanBnIn0=?signature=1d0fa3dd2792979ef6f6983661a819148e115a31c5a0b3e0e006978be0dcc1d1"
     }
   ],
   "pros": [
+    {
+      "text": "Single-storey cottage as an annex",
+      "weight": 3,
+      "detail": "The floor plan shows a separate one-level cottage with its own bedrooms and bathroom: a ready-made ground-floor home for the parents."
+    },
     {
       "text": "Separate cottage could be the parents' annex",
       "weight": 3,
@@ -72,11 +85,6 @@
     }
   ],
   "cons": [
-    {
-      "text": "Ground-floor bedroom unconfirmed",
-      "weight": 3,
-      "detail": "All four main-house bedrooms are upstairs. The cottage layout isn't given; confirm it has a bedroom and bathroom at ground level."
-    },
     {
       "text": "€600k, over the €500k line",
       "weight": 2,
@@ -267,14 +275,13 @@
     "Getting away"
   ],
   "questions": [
-    "Is there a bedroom on the ground floor, or a room that could be used as one? Could you send the floor plan?",
     "What is the total floor area of the house?",
     "What is the site size, and where exactly are the boundaries?",
     "Is the BER certificate available yet, and what heating system does the house have?"
   ],
   "ai": {
-    "stars": 2.0,
-    "why": "Cottage could be an annex, walk into Carlow. Over budget, size unknown, town garden."
+    "stars": 2.5,
+    "why": "The one-level cottage solves the parents' bedroom, and it's a walk into Carlow. Over budget, with a town garden and the size not stated."
   },
   "services": {
     "electricity": {
@@ -295,7 +302,7 @@
     }
   },
   "groundFloorBedroom": {
-    "status": "unknown",
-    "detail": "Main-house bedrooms are upstairs; the separate cottage could work as an annex, layout not given."
+    "status": "ok",
+    "detail": "The separate single-storey cottage has its own bedrooms and bathroom; the main house's bedrooms are upstairs."
   }
 }

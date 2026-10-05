@@ -28,8 +28,29 @@ WebFetch the Daft or MyHome URL. Pull out:
 - lat/lng: on Daft, from the "Satellite View" link (`google.com/maps?t=k&q=<lat>,<lng>`); otherwise geocode the Eircode with a web search. Get this right; every trip starts here.
 - price, type, beds (+ any convertible room), baths, floor area m², land (ha and acres; 1 ha = 2.471 ac), BER and kWh/m²/yr, heating, date listed, views
 - stamp duty: 1% of price up to €1m
-- photos, chosen on purpose rather than in page order. The page has labelled slots for `role`: `facade` (the front of the house; also the hero), `garden` (grounds or back garden), `interior` (the one room that best shows the house), and `floorplan`. The satellite view and the road at the gate are added live, so don't look for those. Daft's page only exposes its og:image and a few unlabelled thumbnails, so look for a fuller, labelled gallery on MyHome, the agent's own site, or the agent's PDF brochure, where floor plans are usually marked. Give a photo a `role` only when its source labels it or you can actually see what it shows; otherwise leave the role off. The og:image is the listing's lead shot, so it's normally safe as `facade`. Copy each URL exactly, including any `?signature=` part. Hotlink them; never copy listing photos into the repo.
+- photos: see "Pick the photos and floor plan" below.
 - the agent's email address, if the listing or the agency's site shows it publicly (`agentEmail`).
+
+## 2b. Pick the photos and floor plan (in a browser)
+
+Daft only shows its lead photo to a plain fetch, and its image host is blocked from the cloud workspace. So photo picking runs in a browser on Gabor's computer: the built-in browser if its tools are present, otherwise Claude in Chrome. Read that browser's skill first. If no browser is available (for example in an unattended cloud run), keep the og:image as the only photo with `role: "facade"`, note in your report that photos and the floor plan still need a browser pass, and carry on.
+
+1. Open the Daft listing. The full gallery is in the page's data: `JSON.parse(document.getElementById('__NEXT_DATA__').textContent).props.pageProps.listing.media.images`. Each item has `size1440x960`, `size1200x1200` and `size360x240` URLs. A "View Floor Plan" button on the page means the listing has a plan, usually among the last images.
+2. Build a contact sheet so you can look at every photo at once: overlay a fixed full-screen grid of the `size360x240` thumbnails, each labelled with its index, wait about 4 seconds for them to load, and screenshot it. Render any thumbnail that looks blank, or any candidate you're unsure about, at full size (`size1200x1200`) before deciding.
+3. Choose by eye, one per role:
+   - `facade`: the front of the house, in daylight, the whole building visible.
+   - `garden`: the grounds or back garden, ideally showing how much land there is.
+   - `interior`: the one room that best represents the house (usually the main living room or the kitchen).
+   - `floorplan`: every floor-plan sheet, in floor order (ground first).
+   - `siteplan`: a boundary map or marked-up aerial, if there is one.
+   - Two or three extras without a role (an aerial, the kitchen, an outbuilding).
+   Skip agent promo images (stock trains, schools, logos) and anything labelled as a projection or a CGI.
+4. Read the floor plan, not just the listing text, for the ground-floor bedroom question. The plans have overturned the listing more than once (Kilcoltrim and Bluebell Lodge both turned out to have one).
+5. Daft image URLs are base64 settings plus a signature. To keep them short, read back each pick as `role|key|signature|gravity|size`, where `key` is the decoded `key`, gravity is the 6th letter of the watermark gravity (`e` or `w`) and size is the digit in `watermark-daft-logo-small<N>`. In page JavaScript:
+   `const m=JSON.parse(atob(u.slice(22).split('?')[0])); [role, m.key, u.split('signature=')[1], m.edits.overlayWith.options.gravity[5], m.edits.overlayWith.key.match(/small(\d)/)[1]].join('|')`
+   Write the lines into a picks file under a `# <id>` header and run `python3 setup/apply-photos.py <picks-file>`, which rebuilds the exact URLs and writes them into the property file.
+
+If Daft has no floor plan, check the same house on MyHome and the agent's own site before giving up. The page shows an "Ask the agent" card when there's no plan.
 
 ## 3. Write the ledger against the brief
 
@@ -85,7 +106,7 @@ Each trip also has:
 
 `id` is a lowercase slug of the house name plus the townland or village, for example `forty-shades` or `old-station-house-monasterevin`. Copy the shape of `properties/forty-shades.json` exactly, with these top-level keys:
 
-`id, name, address, eircode, lat, lng, listingUrl, status, added, area, agent, agentEmail, questions[], ai, price, type, beds, bedsNote, baths, floorM2, atticM2, landHa, landAcres, ber, berKwh, heating, listed, views, stampDuty, tagline, photos[], pros[], cons[], trips[], categories[]`
+`id, name, address, eircode, lat, lng, listingUrl, status, added, area, agent, agentEmail, agentPhone, questions[], ai, services, groundFloorBedroom, price, type, beds, bedsNote, baths, floorM2, atticM2, landHa, landAcres, ber, berKwh, heating, listed, views, stampDuty, tagline, photos[], pros[], cons[], trips[], categories[]`
 
 Notes on the keys:
 - `status`: `Considering` for any house that's still on the market, or `Sale agreed` / `Passed` once it isn't. The index works out Front-runner, Strong contender, Considering and Long shot itself, from the AI score and people's ratings, so don't set those.
@@ -96,6 +117,8 @@ Notes on the keys:
 - `categories`: always `["Schools","Groceries","Eating out","Health","Towns and cities","Getting away"]`.
 - `questions`: 3–5 questions for the agent that are specific to this house: the unknowns and risks in your cons, such as floor area, site boundaries, ground-floor bedroom, BER, protected-structure status or radon. The page's "Email the agent" button opens a draft with these first, followed by a standard set: availability and offers, water and septic, broadband, title and planning, flooding, and a remote viewing. So don't repeat those.
 - `agentEmail` and `agentPhone`: optional; include them when the listing or the agency's site shows them publicly.
+- `services`: one entry each for `electricity`, `water`, `sewer` and `internet`, as `{ "status": ..., "detail": ... }`. Status is `ok` (stated and good: mains, fibre, connected), `check` (stated but worth checking: septic tank, private well), `likely` (not stated but strongly implied, such as mains in a town centre) or `unknown`. Start `detail` with the conclusion, because the page shows its first phrase: "Mains", "Own septic tank", "Eir fibre, 1 Gb", "Probably mains; not stated (town centre)", "Unknown; not stated". Search the listing description and features for mains, well, septic, treatment unit, drainage, broadband, fibre, ESB and solar; the features list often has them even when the description doesn't.
+- `groundFloorBedroom`: `{ "status": "ok" | "check" | "issue" | "unknown", "detail": "one sentence naming the room" }`. `ok` = a real bedroom downstairs (or a single-storey annex), `check` = a room that could convert, `issue` = nothing workable, `unknown` = no plan and the listing doesn't say.
 - `ai`: `{ "stars": 1–5 in half steps, "why": "one or two short sentences" }`. This is your own judgement of fit with the brief, shown on the index next to the people's average, so make it comparable across houses. Read a few existing files to calibrate: Forty Shades is 4.5, the shortlist's benchmark; a house that badly misses the size or the ground-floor bedroom requirement scores 2–2.5.
 
 Then add the id to `properties/index.json`, keeping existing ids and never duplicating one.
@@ -103,7 +126,7 @@ Then add the id to `properties/index.json`, keeping existing ids and never dupli
 Validate before committing:
 ```bash
 cd /home/claude/ireland
-python3 -c "import json,sys; d=json.load(open('properties/<id>.json')); assert d['id']=='<id>' and d['lat'] and d['lng'] and len(d['trips'])==11; json.load(open('properties/index.json')); print('ok')"
+python3 -c "import json,sys; d=json.load(open('properties/<id>.json')); assert d['id']=='<id>' and d['lat'] and d['lng'] and len(d['trips'])==11 and set(d['services'])=={'electricity','water','sewer','internet'} and d['groundFloorBedroom']['status']; json.load(open('properties/index.json')); print('ok')"
 ```
 
 ## 6. Publish

@@ -26,21 +26,34 @@
   "tagline": "A small three-bed house needing modernisation on just over an acre in the Mount Leinster foothills, about 2 km from Borris village.",
   "photos": [
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJjXC9mXC9jZjNhMjdmNy03NDY5LTQzZGQtODdmMi01NzYyY2Q1YjMzODQuanBnIn0=?signature=721f57d006424fa038a410a2bd189734a3d9b74a1ce3e035cc0d0c8734dc6c27",
-      "caption": "Listing photo",
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJjXC9jXC9jY2M4NWZhOS1kOTI3LTQzNDMtODdhMC0yNmZkOGQxZDNkYjYuanBnIn0=?signature=6b63aaeada9d2dac0826bdbae1f175414e01837b7442162a02d79b350d7a60f9",
       "role": "facade"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjFcLzhcLzE4NTY3OGQ1LTg1YmYtNGY1Ny04OTNmLTJkM2MwNmFhYTRjYS5qcGcifQ==?signature=30c69146de6c8a1fbe92c4c2a5f5c4ee27a101ab49fe2826ee4cde42c4d26285",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI0XC85XC80OTQzZjIyYi00ZjNmLTQxY2YtODE0My0zYWM3NGYzNWJlN2IuanBnIn0=?signature=d4b91e1d5e1f4b785ea64e0e8eacaa4ba452b04ab8effbb374ab9707335f8033",
+      "role": "garden"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjNcLzlcLzM5YmQ2ZmVkLWMwODctNDdkYS1hOTc2LTZkYzFjZmRiMjQxMS5qcGcifQ==?signature=1de3b7d3e9be320d51c7456d5eae8eb53c00e66a2a01b5048c80d22a8c517a20",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI5XC83XC85NzRmOGY3NS03MzIxLTRhY2QtYTdhOC0xYWUzODIwYTBiYjYuanBnIn0=?signature=70aa265b2f9e7c9ca7118604e2f251299611baab42afb55cf6f78eb8c99be5b4",
+      "role": "interior"
     },
     {
-      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImNcL2NcL2NjYzg1ZmE5LWQ5MjctNDM0My04N2EwLTI2ZmQ4ZDFkM2RiNi5qcGcifQ==?signature=2fa7599d6b951e42566c126adaacb26141c83bf1a940d290a36e1b4ac0ac97cf",
-      "caption": "Listing photo"
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJlXC8zXC9lM2I4YTFlOS01YjA3LTQwYjktOGJlYS1mMDUxNDhlMjg5NWIucG5nIn0=?signature=16cf57cbe6c04dae79830045627901354ca25d983883929039c7f7ec9f0caa86",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIxXC82XC8xNmY3MDc5MC0wYTgzLTQxMDgtYWYzNi0xY2U4ZTZkNWZhMDcucG5nIn0=?signature=7d8fbef6313bc1481a59d27911d154e0689dc21bc6a01a1a2b9667797b7ce919",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJkXC9kXC9kZDk3Nzc0OS03ZDg3LTRhYjYtYTkzMy03YzQ0ZDYyOThkN2EuanBnIn0=?signature=797cb4f9cc543448ce74cacd30c6575c39093aa30b79fc06467b3c3b36d0c99c",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJjXC9mXC9jZjNhMjdmNy03NDY5LTQzZGQtODdmMi01NzYyY2Q1YjMzODQuanBnIn0=?signature=721f57d006424fa038a410a2bd189734a3d9b74a1ce3e035cc0d0c8734dc6c27"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIwXC9kXC8wZDQ5N2YzZS05YmZjLTQ3MzMtYjdkYi0wMjVjZTljZWRlYWIuanBnIn0=?signature=a89e2892500d17de2647007ba3f3aac4be937be952d4dafd3054db7a1fae64c8"
     }
   ],
   "pros": [
@@ -48,6 +61,11 @@
       "text": "€225k, far under budget",
       "weight": 3,
       "detail": "Stamp duty about €2,250. Leaves €250k+ for renovation and extension inside the €500k line."
+    },
+    {
+      "text": "Ground-floor bedroom",
+      "weight": 3,
+      "detail": "The floor plan shows a 2.7 × 3.65 m bedroom downstairs, beside the bathroom; two more bedrooms upstairs."
     },
     {
       "text": "Just over an acre",
@@ -76,11 +94,6 @@
     }
   ],
   "cons": [
-    {
-      "text": "Ground-floor bedroom unconfirmed",
-      "weight": 3,
-      "detail": "The listing gives three bedrooms (2.7–3.6 m) but doesn't say whether it is single-storey; confirm with the agent."
-    },
     {
       "text": "Far too small",
       "weight": 3,
@@ -269,12 +282,11 @@
     "Getting away"
   ],
   "questions": [
-    "Is there a bedroom on the ground floor, or a room that could be used as one? Could you send the floor plan?",
     "What is the total floor area of the house?"
   ],
   "ai": {
-    "stars": 2.0,
-    "why": "A cheap acre near lovely Borris. Far too small and needs everything."
+    "stars": 2.5,
+    "why": "A cheap acre near lovely Borris with a ground-floor bedroom by the bathroom. Still far too small (about 85 m²) and needs everything."
   },
   "services": {
     "electricity": {
@@ -295,7 +307,7 @@
     }
   },
   "groundFloorBedroom": {
-    "status": "unknown",
-    "detail": "Not stated; ask for the floor plan."
+    "status": "ok",
+    "detail": "A 2.7 × 3.65 m bedroom on the ground floor, beside the bathroom; two more bedrooms upstairs."
   }
 }
