@@ -129,9 +129,29 @@
   }
 
   /* Price pins are plain HTML (AdvancedMarkerElement), styled in style.css. */
+  function pinPreview(p) {
+    const sum = R.summary(p.id), aiS = p.ai ? p.ai.stars : null, lb = label(p);
+    const row = (icon, v, cls, extra) => el("div", { class: "pp-row" }, el("span", { class: "pp-ico", text: icon }), bar(v, cls),
+      el("span", { class: "pp-val", text: v == null ? "–" : v.toFixed(1) }), extra ? el("span", { class: "pp-extra", text: extra }) : null);
+    const photo = p.photos && (p.photos.find((x) => x.role === "facade") || p.photos[0]);
+    return el("div", { class: "pin-pop" },
+      photo ? el("img", { src: photo.url, alt: "", referrerpolicy: "no-referrer" }) : null,
+      el("div", { class: "pp-body" },
+        el("div", { class: "pp-title" }, el("b", { text: p.name }), el("span", { class: "status " + statusClass(lb), text: lb })),
+        el("div", { class: "pp-area", text: (p.area || "").split(",").map((x) => x.trim()).filter((x) => x && x.toLowerCase() !== p.name.toLowerCase()).join(", ") }),
+        el("div", { class: "pp-price", text: euro(p.price) + (rate ? `  ≈ $${Math.round(p.price * rate).toLocaleString("en-US")}` : "") }),
+        row("🤖", aiS, "ai"),
+        row("👥", sum.avg, "us", sum.n ? `${sum.n} ${sum.n === 1 ? "rating" : "ratings"}` : "not rated")));
+  }
   function pin(p) {
-    const d = el("div", { class: "pin" + (/passed|sale agreed|sold/i.test(label(p)) ? " out" : ""), text: euroK(p.price) });
-    d.addEventListener("mouseenter", () => highlight(p.id, true));
+    const d = el("div", { class: "pin" + (/passed|sale agreed|sold/i.test(label(p)) ? " out" : "") }, el("span", { class: "pin-price", text: euroK(p.price) }));
+    d.addEventListener("mouseenter", () => {
+      d.querySelector(".pin-pop")?.remove();
+      d.append(pinPreview(p));
+      const mapTop = $("idxmap").getBoundingClientRect().top, pinTop = d.getBoundingClientRect().top;
+      d.classList.toggle("below", pinTop - mapTop < 250);
+      highlight(p.id, true);
+    });
     d.addEventListener("mouseleave", () => highlight(p.id, false));
     return d;
   }
