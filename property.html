@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gloock&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
-<link rel="stylesheet" href="style.css?v=20261005032904">
+<link rel="stylesheet" href="style.css?v=20261005033013">
 </head>
 <body>
 
@@ -88,6 +88,33 @@
   <p><button type="button" id="forgetkey" class="linkish">Forget my Maps key</button> · <button type="button" id="clearcache" class="linkish">Refresh drive times</button></p>
 </footer>
 
+<dialog id="maildlg" class="maildlg" aria-labelledby="md-title">
+  <div class="md-head">
+    <div>
+      <p class="eyebrow">Email the agent</p>
+      <h2 id="md-title"></h2>
+    </div>
+    <button type="button" class="pl-close" id="md-close" aria-label="Close">✕</button>
+  </div>
+  <div class="md-body">
+    <dl class="md-agent" id="md-agent"></dl>
+    <div class="md-field">
+      <div class="md-label"><span>Subject</span><button type="button" class="md-copy" data-copy="md-subject">Copy</button></div>
+      <input id="md-subject" readonly>
+    </div>
+    <div class="md-field">
+      <div class="md-label"><span>Message</span><button type="button" class="md-copy" data-copy="md-text">Copy</button></div>
+      <textarea id="md-text" rows="14"></textarea>
+    </div>
+    <div class="md-actions">
+      <a class="md-btn md-primary" id="md-gmail" target="_blank" rel="noopener">Open in Gmail</a>
+      <a class="md-btn" id="md-mailto">Open mail app</a>
+      <a class="md-btn" id="md-listing" target="_blank" rel="noopener">Contact form on the listing</a>
+    </div>
+    <p class="md-hint">Edit the message here first if you like; the buttons send what's in the box.</p>
+  </div>
+</dialog>
+
 <dialog id="lightbox" class="lightbox" aria-label="Photo">
   <button type="button" class="lb-close" id="lb-close" aria-label="Close">✕</button>
   <button type="button" class="lb-nav lb-prev" id="lb-prev" aria-label="Previous photo">‹</button>
@@ -144,8 +171,8 @@
   </div>
 </dialog>
 
-<script src="config.js?v=20261005032904"></script>
-<script src="ratings.js?v=20261005032904"></script>
-<script src="app.js?v=20261005032904"></script>
+<script src="config.js?v=20261005033013"></script>
+<script src="ratings.js?v=20261005033013"></script>
+<script src="app.js?v=20261005033013"></script>
 </body>
 </html>

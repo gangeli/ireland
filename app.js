@@ -112,7 +112,8 @@
     $("tagline").textContent = P.tagline || "";
     $("listinglink").href = P.listingUrl;
     $("gmapslink").href = `https://www.google.com/maps/search/?api=1&query=${P.lat},${P.lng}`;
-    $("maillink").href = mailto();
+    $("maillink").href = "#";
+    $("maillink").addEventListener("click", (e) => { e.preventDefault(); openMail(); });
 
     const has = (v) => v !== undefined && v !== null && v !== "";
     const dom = has(P.listed) ? Math.max(0, Math.round((Date.now() - Date.parse(P.listed)) / 86400000)) : null;
@@ -212,7 +213,7 @@
   function stepLB(d) { LB.i = (LB.i + d + LB.items.length) % LB.items.length; showLB(); }
 
   /* ---------- email the agent ---------- */
-  function mailto() {
+  function draft() {
     const town = (P.area || P.address).split(",")[0].trim();
     const standard = [
       "Is it still available? Is there a closing date, and have any offers come in?",
@@ -223,9 +224,36 @@
       "We're based in California. Could you do a video walk-through, and send the floor plan and the BER advisory report?",
     ];
     const qs = [...(P.questions || []), ...standard];
-    const body = `Hello,\n\nI'm interested in ${P.name}, ${P.address} (${P.listingUrl}). Before arranging a viewing, could you help with a few questions?\n\n` +
-      qs.map((q, i) => `${i + 1}. ${q}`).join("\n") + "\n\nMany thanks,\n";
-    return `mailto:${encodeURIComponent(P.agentEmail || "")}?subject=${encodeURIComponent(`Enquiry: ${P.name}, ${town}`)}&body=${encodeURIComponent(body)}`;
+    return {
+      subject: `Enquiry: ${P.name}, ${town}`,
+      body: `Hello,\n\nI'm interested in ${P.name}, ${P.address} (${P.listingUrl}). Before arranging a viewing, could you help with a few questions?\n\n` +
+        qs.map((q, i) => `${i + 1}. ${q}`).join("\n") + "\n\nMany thanks,\n",
+    };
+  }
+  function syncMailLinks() {
+    const to = P.agentEmail || "", su = $("md-subject").value, body = $("md-text").value;
+    $("md-mailto").href = `mailto:${encodeURIComponent(to)}?subject=${encodeURIComponent(su)}&body=${encodeURIComponent(body)}`;
+    $("md-gmail").href = `https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(to)}&su=${encodeURIComponent(su)}&body=${encodeURIComponent(body)}`;
+  }
+  function openMail() {
+    const d = draft();
+    $("md-title").textContent = P.name;
+    const ag = $("md-agent"); ag.textContent = "";
+    const row = (k, v, copy) => { if (!v) return; const dd = el("dd", {}, el("span", { class: "md-val", text: v })); if (copy) dd.append(el("button", { type: "button", class: "md-copy", "data-text": v, text: "Copy" })); ag.append(el("div", {}, el("dt", { text: k }), dd)); };
+    row("Agent", P.agent);
+    row("Email", P.agentEmail || "Not public. Use the listing's contact form, or ask the agency by phone.", !!P.agentEmail);
+    row("Phone", P.agentPhone, true);
+    row("Listing", P.listingUrl, true);
+    $("md-subject").value = d.subject;
+    if (!$("md-text").dataset.pid || $("md-text").dataset.pid !== P.id) { $("md-text").value = d.body; $("md-text").dataset.pid = P.id; }
+    $("md-listing").href = P.listingUrl;
+    syncMailLinks();
+    $("maildlg").showModal();
+  }
+  async function copyText(text, btn) {
+    try { await navigator.clipboard.writeText(text); btn.textContent = "Copied"; }
+    catch (e) { btn.textContent = "Select and copy"; }
+    setTimeout(() => { btn.textContent = "Copy"; }, 1600);
   }
 
   /* ---------- ratings ---------- */
@@ -728,6 +756,14 @@
     showDollars();
     initRatings();
     $("lb-close").addEventListener("click", () => $("lightbox").close());
+    $("md-close").addEventListener("click", () => $("maildlg").close());
+    $("maildlg").addEventListener("click", (e) => {
+      if (e.target === $("maildlg")) { $("maildlg").close(); return; }
+      const b = e.target.closest(".md-copy"); if (!b) return;
+      const src = b.dataset.copy ? $(b.dataset.copy) : null;
+      if (src) { src.select(); copyText(src.value, b); } else copyText(b.dataset.text, b);
+    });
+    $("md-text").addEventListener("input", syncMailLinks);
     $("lb-prev").addEventListener("click", () => stepLB(-1));
     $("lb-next").addEventListener("click", () => stepLB(1));
     $("lightbox").addEventListener("click", (e) => { if (e.target === $("lightbox")) $("lightbox").close(); });

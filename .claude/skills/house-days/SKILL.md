@@ -95,7 +95,7 @@ Notes on the keys:
 - `tagline`: one plain sentence on what the house is and where.
 - `categories`: always `["Schools","Groceries","Eating out","Health","Towns and cities","Getting away"]`.
 - `questions`: 3–5 questions for the agent that are specific to this house: the unknowns and risks in your cons, such as floor area, site boundaries, ground-floor bedroom, BER, protected-structure status or radon. The page's "Email the agent" button opens a draft with these first, followed by a standard set: availability and offers, water and septic, broadband, title and planning, flooding, and a remote viewing. So don't repeat those.
-- `agentEmail`: optional; leave it out if it isn't public.
+- `agentEmail` and `agentPhone`: optional; include them when the listing or the agency's site shows them publicly.
 - `ai`: `{ "stars": 1–5 in half steps, "why": "one or two short sentences" }`. This is your own judgement of fit with the brief, shown on the index next to the people's average, so make it comparable across houses. Read a few existing files to calibrate: Forty Shades is 4.5, the shortlist's benchmark; a house that badly misses the size or the ground-floor bedroom requirement scores 2–2.5.
 
 Then add the id to `properties/index.json`, keeping existing ids and never duplicating one.
