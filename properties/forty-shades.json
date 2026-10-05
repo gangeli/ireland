@@ -1,0 +1,257 @@
+{
+  "id": "forty-shades",
+  "name": "Forty Shades",
+  "address": "Laurelhill, Inistioge, Co. Kilkenny",
+  "eircode": "R95 P9H3",
+  "lat": 52.48424,
+  "lng": -7.044501,
+  "listingUrl": "https://www.daft.ie/for-sale/forty-shades-laurelhill-inistioge-co-kilkenny/6672069",
+  "agent": "John Doherty, Property Partners Doherty Buggy",
+  "price": 475000,
+  "type": "Detached bungalow",
+  "beds": 5,
+  "bedsNote": "+ sitting room usable as a 6th",
+  "baths": 3,
+  "floorM2": 172,
+  "atticM2": 68,
+  "landHa": 0.65,
+  "landAcres": 1.6,
+  "ber": "E2",
+  "berKwh": 373.37,
+  "heating": "Oil (Firebird boiler in garage)",
+  "listed": "2026-09-16",
+  "views": 2839,
+  "stampDuty": 4750,
+  "tagline": "A hidden bungalow on 1.6 acres of orchard and old trees, five minutes above a river village in the Nore valley.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI0XC9kXC80ZGYwNDhhMi05MmIwLTQyYTItODM0Zi0zYTlkYTNkN2ZhMDEuSlBFRyJ9?signature=505405b509774d0114231cd5410423e522ed5887561a4d08f72e53817258b308",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImRcLzZcL2Q2MjVhYmM4LTIxYTctNDM3OC04MjRkLTBkNDc2NzQ1Zjk5OS5KUEVHIn0=?signature=d548af543be9319f3812ec43d0618c80054d98db777e79053ad75a3383e749c8",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjhcLzFcLzgxNWQxNzFiLTcwOGQtNGJjMi1hNTI1LTExZGJiYzUwMzBiNy5KUEVHIn0=?signature=efb746f9d8d3e0cd6817b5e06cd891d15c6e65ad10244017f19800e1ca0b22b3",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImZcLzZcL2Y2NGJjY2ZiLWViNzYtNGY2NC1iZjhmLTdjNmUyODk1Y2I1OC5KUEVHIn0=?signature=7c438bc695a5777e2ca45c2d9f277173316fbb80f113ed2d92c62a76a22dfb0c",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€475k, under the €500k line",
+      "weight": 3,
+      "detail": "€2,762/m². Stamp duty about €4,750."
+    },
+    {
+      "text": "1.6 acres of mature grounds",
+      "weight": 3,
+      "detail": "Orchard, old oaks and chestnuts, hidden from the road. Room for the dogs to run."
+    },
+    {
+      "text": "Village school 1.5 km away",
+      "weight": 2,
+      "detail": "St Colmcille's NS, about 116 pupils."
+    },
+    {
+      "text": "Right size: 172 m² plus attic",
+      "weight": 2,
+      "detail": "1,851 sq ft, inside the 140–280 m² target, with a 68 m² floored attic as bonus space."
+    },
+    {
+      "text": "River village with the basics",
+      "weight": 2,
+      "detail": "Inistioge has a shop, post office, two pubs and Woodstock Gardens."
+    },
+    {
+      "text": "Garage, glasshouse, shed",
+      "weight": 1,
+      "detail": "Detached garage with power."
+    },
+    {
+      "text": "Lets well to visitors",
+      "weight": 1,
+      "detail": "Inistioge is a known tourist village; good for summers when you're away."
+    }
+  ],
+  "cons": [
+    {
+      "text": "BER E2 and oil heating",
+      "weight": 3,
+      "detail": "373 kWh/m²/yr. A heat pump and insulation retrofit is a rough €40–70k before SEAI grants."
+    },
+    {
+      "text": "Not really walkable",
+      "weight": 2,
+      "detail": "1.5 km to the village on a rural road, probably without a footpath. Every errand is a drive."
+    },
+    {
+      "text": "No train in the village",
+      "weight": 2,
+      "detail": "Thomastown station is about 15 minutes by car."
+    },
+    {
+      "text": "Emergency department 30+ min",
+      "weight": 2,
+      "detail": "St Luke's, Kilkenny, or University Hospital Waterford. See the 3 a.m. trip below."
+    },
+    {
+      "text": "Dated fit-out",
+      "weight": 1,
+      "detail": "Pine kitchen, two jacuzzi baths, a steam cabin in a bedroom, fitted carpets."
+    },
+    {
+      "text": "Village flood history",
+      "weight": 1,
+      "detail": "Storm Babet flooded Inistioge in Oct 2023 and the school was evacuated. The house sits high; check the access road."
+    },
+    {
+      "text": "Water and septic not stated",
+      "weight": 1,
+      "detail": "Ask the agent about well, septic tank and broadband."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "St Colmcille's National School, Inistioge"
+      ],
+      "note": "The nearest school, about 116 pupils. Marymount NS (6.6 km) and St Mary's NS (7.9 km) are the fallbacks."
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "grocery shop, Inistioge, Co. Kilkenny",
+        "Inistioge Post Office"
+      ],
+      "note": "The village shop and post office.",
+      "title": "Inistioge village shop"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "SuperValu Thomastown",
+        "Lidl Thomastown",
+        "Lidl New Ross"
+      ],
+      "note": "Thomastown has both a SuperValu and a Lidl."
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Market Street, Thomastown, Co. Kilkenny"
+      ],
+      "note": "Thomastown: pharmacies, GP, cafés and the train station.",
+      "title": "Thomastown"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "The Quay, Waterford"
+      ],
+      "note": "Kilkenny city, with Waterford as the alternative.",
+      "title": "Kilkenny"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "The Otter Pub, Inistioge",
+        "Woodstock Arms, Inistioge"
+      ],
+      "note": "The Otter is the village's best-reviewed pub for food."
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Thomastown railway station"
+      ],
+      "note": "Waterford–Heuston line. Drive here, then about 1h45 to Dublin Heuston."
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most."
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car. The train from Thomastown is the other way in.",
+      "title": "Dublin city centre"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "St Luke's General Hospital, Kilkenny",
+        "University Hospital Waterford"
+      ],
+      "note": "Nearest 24-hour emergency department by drive time.",
+      "title": "St Luke's General Hospital"
+    }
+  ]
+}
