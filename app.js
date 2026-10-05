@@ -170,12 +170,22 @@
     }
   }
 
+  async function eurUsd() {
+    // Frankfurter (ECB rates) moved to frankfurter.dev; the old .app host no longer sends CORS headers.
+    const tries = [
+      ["https://api.frankfurter.dev/v1/latest?base=EUR&symbols=USD", (j) => ({ rate: j.rates && j.rates.USD, date: j.date })],
+      ["https://open.er-api.com/v6/latest/EUR", (j) => ({ rate: j.rates && j.rates.USD, date: (j.time_last_update_utc || "").slice(5, 16) })],
+    ];
+    for (const [url, pick] of tries) {
+      try { const r = pick(await (await fetch(url)).json()); if (r.rate) return r; } catch (e) { /* try next */ }
+    }
+    return null;
+  }
   async function showDollars() {
     try {
-      const res = await fetch("https://api.frankfurter.app/latest?from=EUR&to=USD");
-      const j = await res.json();
-      const rate = j.rates && j.rates.USD;
-      if (!rate) return;
+      const fx = await eurUsd();
+      if (!fx) return;
+      const rate = fx.rate, j = { date: fx.date };
       const usd = (n) => "$" + Math.round(n * rate).toLocaleString("en-US");
       const box = $("usd-asking");
       box.textContent = `≈ ${usd(P.price)}`;

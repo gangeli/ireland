@@ -105,6 +105,18 @@
     try { localStorage.setItem("hd:view", v); } catch (e) { /* ignore */ }
   }
 
+  async function eurUsd() {
+    // Frankfurter (ECB rates) moved to frankfurter.dev; the old .app host no longer sends CORS headers.
+    const tries = [
+      ["https://api.frankfurter.dev/v1/latest?base=EUR&symbols=USD", (j) => ({ rate: j.rates && j.rates.USD, date: j.date })],
+      ["https://open.er-api.com/v6/latest/EUR", (j) => ({ rate: j.rates && j.rates.USD, date: (j.time_last_update_utc || "").slice(5, 16) })],
+    ];
+    for (const [url, pick] of tries) {
+      try { const r = pick(await (await fetch(url)).json()); if (r.rate) return r; } catch (e) { /* try next */ }
+    }
+    return null;
+  }
+
   async function boot() {
     const man = await (await fetch("properties/index.json")).json();
     const ids = man.properties || [];
@@ -115,7 +127,7 @@
     let saved = null; try { saved = localStorage.getItem("hd:view"); } catch (e) { /* ignore */ }
     if (saved) setView(saved);
 
-    fetch("https://api.frankfurter.app/latest?from=EUR&to=USD").then((r) => r.json()).then((j) => { rate = j.rates && j.rates.USD; if (rate) renderList(); }).catch(() => {});
+    eurUsd().then((fx) => { if (fx) { rate = fx.rate; renderList(); } });
 
     $("keyform").addEventListener("submit", (e) => { e.preventDefault(); const k = $("keyinput").value.trim(); if (k) { store("hd:key", k); location.reload(); } });
     const KEY = load("hd:key") || window.HOUSE_DAYS_KEY || "";
