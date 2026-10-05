@@ -532,3 +532,13 @@ body.idx .idx-main[data-view="split"] { grid-template-columns: minmax(0, 1fr) mi
 .pin.below .pin-pop { bottom: auto; top: calc(100% + 12px); }
 .ic { cursor: pointer; }
 .ic .scores { cursor: default; }
+
+/* pins coloured by your rating */
+.pin { background: var(--pin, var(--sign)); }
+.pin::after { border-top-color: var(--pin, var(--sign)) !important; }
+.pin.rated .pin-price::before { content: "★ "; font-size: 11px; }
+.pin.hot { background: var(--pin, var(--sign)); color: #fff; transform: translateY(-4px) scale(1.18); box-shadow: 0 0 0 3px #fff, 0 4px 14px rgba(0,0,0,.45); }
+.pin-legend { margin: 0 0 10px 10px; display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; padding: 6px 10px; border-radius: 8px; background: rgba(255,255,255,.92); color: #1b2421; font: 600 11.5px "Public Sans", system-ui, sans-serif; box-shadow: 0 1px 4px rgba(0,0,0,.25); max-width: calc(100% - 20px); }
+.pl-t { text-transform: uppercase; letter-spacing: .08em; font-size: 10px; color: #5b6862; }
+.pl-i { display: inline-flex; align-items: center; gap: 4px; }
+.pl-i i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }

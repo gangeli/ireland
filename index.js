@@ -148,8 +148,18 @@
         row("🤖", aiS, "ai"),
         row("👥", sum.avg, "us", sum.n ? `${sum.n} ${sum.n === 1 ? "rating" : "ratings"}` : "not rated")));
   }
+  // Pin colour = your own rating: red (1) → green (5); slate blue if you haven't rated it.
+  const MINE_COLORS = { 1: "#c2271d", 2: "#e0701c", 3: "#cfa915", 4: "#6fa83a", 5: "#1a8a3a" };
+  function paintPin(d, p) {
+    const out = /passed|sale agreed|sold/i.test(label(p)), mine = R.mine(p.id);
+    d.classList.toggle("out", out);
+    d.classList.toggle("rated", !!mine && !out);
+    d.style.setProperty("--pin", out ? "#8a948f" : mine ? MINE_COLORS[mine.stars] : "#3b6a7a");
+    d.title = mine ? `You rated it ${mine.stars} of 5` : "You haven't rated this yet";
+  }
   function pin(p) {
-    const d = el("div", { class: "pin" + (/passed|sale agreed|sold/i.test(label(p)) ? " out" : "") }, el("span", { class: "pin-price", text: euroK(p.price) }));
+    const d = el("div", { class: "pin" }, el("span", { class: "pin-price", text: euroK(p.price) }));
+    paintPin(d, p);
     d.addEventListener("mouseenter", () => {
       d.querySelector(".pin-pop")?.remove();
       d.append(pinPreview(p));
@@ -176,6 +186,10 @@
       });
       markers[p.id] = m; bounds.extend(pos);
     }
+    const legend = el("div", { class: "pin-legend" }, el("span", { class: "pl-t", text: "Your rating" }),
+      ...[1, 2, 3, 4, 5].map((n) => el("span", { class: "pl-i" }, el("i", { style: `background:${MINE_COLORS[n]}` }), document.createTextNode(String(n)))),
+      el("span", { class: "pl-i" }, el("i", { style: "background:#3b6a7a" }), document.createTextNode("not yet")));
+    map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(legend);
     if (props.length > 1) map.fitBounds(bounds, 48);
     else if (props.length === 1) { map.setCenter(bounds.getCenter()); map.setZoom(10); }
   }
@@ -213,7 +227,7 @@
       for (const p of props) {
         const chip = document.querySelector(`#ic-${CSS.escape(p.id)} .status`);
         if (chip && chip.textContent !== label(p)) { chip.textContent = label(p); chip.className = "status " + statusClass(label(p)); }
-        if (markers[p.id]) markers[p.id].content.classList.toggle("out", /passed|sale agreed|sold/i.test(label(p)));
+        if (markers[p.id]) paintPin(markers[p.id].content, p);
       }
       // update ratings in place so cards don't jump while you rate
       for (const p of props) {
