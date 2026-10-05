@@ -10,3 +10,7 @@
 ## Ratings
 
 Anyone on the site can rate a house (1–5 stars and a note) under a name. Ratings sync through a small public Cloud Function backed by Firestore; set it up with `bash setup/ratings-setup.sh` (idempotent). Until it's deployed, ratings are kept in each browser and pushed up automatically once the service answers.
+
+## Daily sweep
+
+A scheduled Claude sweep keeps the shortlist to the top 20 houses: it adds new finds, updates prices and status, and retires sold or low-rated houses to `properties/archive.json` (house files are never deleted). People's ratings outrank the AI score. Every run is logged in `log/sweep-log.md`, and a raw snapshot of the ratings goes to `log/ratings/`. The procedure is in `SWEEP.md`.
