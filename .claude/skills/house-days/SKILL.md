@@ -57,7 +57,7 @@ Rules for the ledger:
 
 ## 4. Pick the trips
 
-Use these 11 trips, in this order, with these ids, categories and kinds. Research the `candidates`. Each candidate is a Google Places text query, specific enough to land on the right place (for example `SuperValu Thomastown`, not `supermarket`). The page tries every candidate and keeps the fastest drive, so give 1–3.
+Use these 11 trips, in this order, with these ids, categories and kinds. Every house needs both grocery trips: the nearest small shop (often a Centra, Spar, Londis or Mace, and in many villages at the filling station) and the nearest proper supermarket. For each one, search the village name with shop, Centra, Spar, Londis, Mace, Costcutter and filling station before concluding it has no shop. Research the `candidates`. Each candidate is a Google Places text query, specific enough to land on the right place (for example `SuperValu Thomastown`, not `supermarket`). Include the brand and the town, and the county if the town name is common (for example `Mace Inver Freshford, Co. Kilkenny`). If none of your candidates match, the page falls back to a map search for the nearest place of the right type, but named candidates give better results. The page tries every candidate and keeps the fastest drive, so give 1–3.
 
 | id | category | kind | how to choose |
 |---|---|---|---|

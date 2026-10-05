@@ -9,7 +9,7 @@
   const SPEEDS = [5, 15, 30, 60, 120, 300, 600];
   const SWAP_MS = 110;            // fastest frame swap (~9 fps)
   const CACHE_DAYS = 7;
-  const CACHE_VER = "v1";
+  const CACHE_VER = "v2";
 
   const $ = (id) => document.getElementById(id);
   const params = new URLSearchParams(location.search);
@@ -369,28 +369,53 @@
   }
 
   /* ---------- places + routes ---------- */
+  const PLACE_FIELDS = ["displayName", "location", "photos", "formattedAddress", "googleMapsURI", "rating", "userRatingCount"];
+  // How far (straight line, km) a sensible answer for each trip can be, and what to map-search for if the named candidates fail.
+  const TRIP_RULES = {
+    school:   { maxKm: 15,  types: ["primary_school"], radius: 12000 },
+    shop:     { maxKm: 10,  types: ["convenience_store", "grocery_store", "supermarket"], radius: 10000 },
+    bigshop:  { maxKm: 40,  types: ["supermarket"], radius: 30000 },
+    dinner:   { maxKm: 25,  types: ["restaurant", "pub"], radius: 15000 },
+    hospital: { maxKm: 120, types: ["hospital"], radius: 50000 },
+    train:    { maxKm: 60,  types: ["train_station"], radius: 40000 },
+    town:     { maxKm: 50 }, city: { maxKm: 100 },
+  };
+  function toDest(pl, how) {
+    const photo = pl.photos && pl.photos[0];
+    return {
+      name: pl.displayName, address: pl.formattedAddress, uri: pl.googleMapsURI,
+      rating: pl.rating || null, ratings: pl.userRatingCount || 0,
+      lat: pl.location.lat(), lng: pl.location.lng(), how: how || "named",
+      photo: photo ? photo.getURI({ maxWidth: 900 }) : null,
+      credit: photo && photo.authorAttributions && photo.authorAttributions[0]
+        ? { name: photo.authorAttributions[0].displayName, uri: photo.authorAttributions[0].uri } : null,
+    };
+  }
+  async function findNearby(rule) {
+    const { Place, SearchNearbyRankPreference } = await google.maps.importLibrary("places");
+    const { places } = await Place.searchNearby({
+      fields: PLACE_FIELDS,
+      locationRestriction: { center: { lat: P.lat, lng: P.lng }, radius: rule.radius },
+      includedPrimaryTypes: rule.types,
+      maxResultCount: 3,
+      rankPreference: SearchNearbyRankPreference.DISTANCE,
+      region: "ie",
+    });
+    return (places || []).map((pl) => toDest(pl, "nearby"));
+  }
   async function findPlace(query) {
     const { Place } = await google.maps.importLibrary("places");
     const { places } = await Place.searchByText({
       textQuery: query,
-      fields: ["displayName", "location", "photos", "formattedAddress", "googleMapsURI", "rating", "userRatingCount"],
+      fields: PLACE_FIELDS,
       locationBias: { center: { lat: P.lat, lng: P.lng }, radius: 50000 },
       maxResultCount: 1,
       region: "ie",
     });
     const pl = places && places[0];
     if (!pl) return null;
-    const photo = pl.photos && pl.photos[0];
-    return {
-      name: pl.displayName, address: pl.formattedAddress, uri: pl.googleMapsURI,
-      rating: pl.rating || null, ratings: pl.userRatingCount || 0,
-      lat: pl.location.lat(), lng: pl.location.lng(),
-      photo: photo ? photo.getURI({ maxWidth: 900 }) : null,
-      credit: photo && photo.authorAttributions && photo.authorAttributions[0]
-        ? { name: photo.authorAttributions[0].displayName, uri: photo.authorAttributions[0].uri } : null,
-    };
+    return toDest(pl, "named");
   }
-
   const secs = (s) => (typeof s === "string" ? parseFloat(s) : Number(s || 0));
   async function routeViaRoutesApi(dest, depMs) {
     const body = {
@@ -439,14 +464,24 @@
     const hit = load(ck);
     if (hit && Date.now() - hit.ts < CACHE_DAYS * 86400000) return hit;
     const depMs = departureFor(t);
+    const rule = TRIP_RULES[t.id] || {};
+    const near = (d) => !rule.maxKm || hav([P.lat, P.lng], [d.lat, d.lng]) / 1000 <= rule.maxKm;
     const options = [];
+    const tryDest = async (dest) => {
+      try { options.push({ dest, route: await routeTo(dest, depMs) }); } catch (e) { console.warn("route", t.id, dest.name, e); }
+    };
     for (const q of t.candidates) {
       try {
         const dest = await findPlace(q);
-        if (!dest) continue;
-        const route = await routeTo(dest, depMs);
-        options.push({ dest, route });
+        if (!dest) { console.warn("trip", t.id, "no match for", q); continue; }
+        if (!near(dest)) { console.warn("trip", t.id, q, "matched", dest.name, "too far away; skipping"); continue; }
+        await tryDest(dest);
       } catch (e) { console.warn("trip", t.id, q, e); }
+    }
+    // Named candidates all failed: fall back to the nearest place of the right type on the map.
+    if (!options.length && rule.types) {
+      try { for (const dest of (await findNearby(rule)).slice(0, 2)) await tryDest(dest); }
+      catch (e) { console.warn("trip", t.id, "nearby search failed", e); }
     }
     if (!options.length) throw new Error("nothing found for " + t.id);
     options.sort((a, b) => a.route.duration - b.route.duration);
@@ -469,7 +504,7 @@
         const mn = $("mn-" + t.id);
         mn.textContent = "";
         mn.append(fmtMin(r.route.duration).replace(" min", ""), el("small", { text: r.route.duration < 3600 ? "min" : "" }));
-        $("alt-" + t.id).textContent = fmtKm(r.route.distance) + (r.alts.length ? " · vs " + r.alts.map((a) => `${a.name} ${fmtMin(a.duration)}`).join(", ") : "");
+        $("alt-" + t.id).textContent = fmtKm(r.route.distance) + (r.dest.how === "nearby" ? " · nearest found by map search" : "") + (r.alts.length ? " · vs " + r.alts.map((a) => `${a.name} ${fmtMin(a.duration)}`).join(", ") : "");
         const im = $("ph-" + t.id); im.alt = r.dest.name;
         im.src = r.dest.photo || destStreetView(r.dest);
       } catch (e) {

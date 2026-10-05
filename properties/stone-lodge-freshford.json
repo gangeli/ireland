@@ -132,10 +132,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "Mace Freshford",
+        "Mace Inver Freshford, Co. Kilkenny",
+        "Lynch's Mace Freshford",
         "Freshford Post Office"
       ],
-      "note": "Lynch's Mace on the village, open long hours with a small café.",
+      "note": "The Mace at the Inver filling station in the village, with a chipper next door.",
       "title": "Freshford village shop",
       "category": "Groceries"
     },
