@@ -6,7 +6,8 @@
 (function () {
   "use strict";
 
-  const SPEEDS = [5, 15, 30, 60, 120, 300, 600];
+  const SPEEDS = [1, 5, 15, 30, 60, 120, 300, 600];
+  const ARRIVE_M = 1500;   // over the last 1.5 km, frames get denser and playback eases down to 1x
   const SWAP_MS = 110;            // fastest frame swap (~9 fps)
   const CACHE_DAYS = 7;
   const CACHE_VER = "v3";
@@ -375,7 +376,22 @@
   }
 
   /* ---------- gallery maps ---------- */
+  const CITIES = [["Dublin", 53.3498, -6.2603], ["Cork", 51.8985, -8.4756], ["Limerick", 52.6638, -8.6267], ["Galway", 53.2707, -9.0568], ["Waterford", 52.2593, -7.1101], ["Kilkenny", 52.6541, -7.2448]];
+  function initHeroMap() {
+    const box = $("heromap"); if (!box || getComputedStyle(box).display === "none") return;
+    const here = [P.lat, P.lng];
+    const [cname, clat, clng] = CITIES.slice().sort((a, b) => hav(here, [a[1], a[2]]) - hav(here, [b[1], b[2]]))[0];
+    const m = new google.maps.Map(box, { mapId: window.HOUSE_DAYS_MAP_ID || "DEMO_MAP_ID", disableDefaultUI: true, gestureHandling: "none", keyboardShortcuts: false, clickableIcons: false });
+    const b = new google.maps.LatLngBounds(); b.extend({ lat: P.lat, lng: P.lng }); b.extend({ lat: clat, lng: clng });
+    m.fitBounds(b, { top: 70, right: 40, bottom: 250, left: 60 });
+    const tag = (text, cls) => el("div", { class: "hm-tag " + cls, text });
+    new google.maps.marker.AdvancedMarkerElement({ map: m, position: { lat: P.lat, lng: P.lng }, content: tag(P.name, "hm-house") });
+    const km = Math.round(hav(here, [clat, clng]) / 1000);
+    new google.maps.marker.AdvancedMarkerElement({ map: m, position: { lat: clat, lng: clng }, content: tag(`${cname} · ${km} km`, "hm-city") });
+  }
+
   function initGalleryMaps() {
+    try { initHeroMap(); } catch (e) { console.warn("hero map", e); }
     const here = { lat: P.lat, lng: P.lng };
     const sat = $("satmap"); sat.classList.remove("needs-key"); sat.textContent = "";
     const m = new google.maps.Map(sat, { center: here, zoom: 17, mapId: window.HOUSE_DAYS_MAP_ID || "DEMO_MAP_ID", mapTypeId: "satellite", disableDefaultUI: true, zoomControl: true, gestureHandling: "cooperative" });
@@ -570,7 +586,9 @@
       return [a[0] + (b[0] - a[0]) * f, a[1] + (b[1] - a[1]) * f, d, a[3] + (b[3] - a[3]) * f, a[4]];
     };
     const spacing = (d, spd) => {
-      if (d < 1500 || total - d < 1500) return 22;          // the character is at the ends
+      if (total - d < 500) return 10;                        // arrival: dense, played at ~1x
+      if (total - d < ARRIVE_M) return 15;
+      if (d < 1500) return 22;                               // the character is at the ends
       if (spd > 24) return 320;                              // motorway: sparse
       if (spd > 16) return 90;                               // national roads
       return 35;                                             // lanes and towns
@@ -709,6 +727,7 @@
     $("pl-clock").textContent = (hh ? hh + ":" + String(mm).padStart(2, "0") : mm) + ":" + String(ss).padStart(2, "0");
     $("pl-left").textContent = fmtMin(Math.max(0, PL.total - t));
     $("pl-dist").textContent = fmtKm(Math.max(0, PL.dist - f.d));
+    $("pl-signkm").title = PL.eff && PL.eff < PL.speed - 0.5 ? `Slowing for arrival: ${PL.eff.toFixed(0)}×` : "";
     $("pl-signkm").textContent = fmtKm(Math.max(0, PL.dist - f.d));
     if (PL.marker) PL.marker.position = { lat: f.lat, lng: f.lng };
     if (!PL.scrubbing) $("pl-scrub").value = String(Math.round((t / PL.total) * 1000));
@@ -723,7 +742,12 @@
     if (PL.playing) {
       let cap = PL.total;
       if (PL.buffering) cap = PL.contig >= 0 ? PL.frames[PL.contig].t : 0;
-      PL.simT = Math.min(cap, PL.total, PL.simT + dt * PL.speed);
+      // ease toward 1x over the final stretch so the arrival plays at real speed
+      const fNow = PL.frames[frameAt(PL.simT)];
+      const rem = PL.dist - (fNow ? fNow.d : 0);
+      const k = rem < ARRIVE_M ? Math.pow(Math.max(0, rem) / ARRIVE_M, 2) : 1;
+      PL.eff = 1 + (PL.speed - 1) * k;
+      PL.simT = Math.min(cap, PL.total, PL.simT + dt * PL.eff);
       if (PL.simT >= PL.total) arrive(true);
     }
     const target = frameAt(PL.simT);
@@ -775,7 +799,7 @@
 
     // default speed: whole trip in ~40 seconds
     const ideal = r.route.duration / 40;
-    let best = 0; SPEEDS.forEach((s, i) => { if (Math.abs(Math.log(s / ideal)) < Math.abs(Math.log(SPEEDS[best] / ideal))) best = i; });
+    let best = 1; SPEEDS.forEach((s, i) => { if (i > 0 && Math.abs(Math.log(s / ideal)) < Math.abs(Math.log(SPEEDS[best] / ideal))) best = i; });
     setSpeed(best);
 
     if (!PL.map) {

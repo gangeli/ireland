@@ -156,6 +156,27 @@
       ...[1, 2, 3, 4, 5].map((n) => el("span", { class: "pl-i" }, el("i", { style: `background:${MINE_COLORS[n]}` }), document.createTextNode(String(n)))),
       el("span", { class: "pl-i" }, el("i", { style: "background:#3b6a7a" }), document.createTextNode("not yet")));
     map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(legend);
+    // Declutter: place pins best-first; any pin that would overlap a placed one shrinks to a dot.
+    const proj = new google.maps.OverlayView();
+    proj.onAdd = () => {}; proj.onRemove = () => {}; proj.draw = () => {};
+    proj.setMap(map);
+    const declutter = () => {
+      const pr = proj.getProjection(); if (!pr) return;
+      const placed = [];
+      const order = [...props].sort((a, b) => (blend(b) ?? 0) - (blend(a) ?? 0));
+      for (const p of order) {
+        const m = markers[p.id]; if (!m) continue;
+        const pt = pr.fromLatLngToContainerPixel(new google.maps.LatLng(p.lat, p.lng));
+        const w = 14 + euroK(p.price).length * 8.6 + (R.mine(p.id) ? 12 : 0), h = 30;
+        const box = { x0: pt.x - w / 2 - 3, x1: pt.x + w / 2 + 3, y0: pt.y - h - 8, y1: pt.y + 2 };
+        const hit = placed.some((b) => box.x0 < b.x1 && box.x1 > b.x0 && box.y0 < b.y1 && box.y1 > b.y0);
+        m.content.classList.toggle("dot", hit);
+        m.zIndex = hit ? 1 : 100;
+        if (!hit) placed.push(box);
+      }
+    };
+    map.addListener("idle", declutter);
+    window.__hdDeclutter = declutter;
     if (props.length > 1) map.fitBounds(bounds, 48);
     else if (props.length === 1) { map.setCenter(bounds.getCenter()); map.setZoom(10); }
   }
@@ -196,6 +217,7 @@
         if (chip) chip.title = blend(p) != null ? `All ratings ${blend(p).toFixed(2)}` : "";
         if (markers[p.id]) paintPin(markers[p.id].content, p);
       }
+      if (window.__hdDeclutter) window.__hdDeclutter();
       // update ratings in place so cards don't jump while you rate
       for (const p of props) {
         const badge = document.querySelector(`#ic-${CSS.escape(p.id)} .scores`);
