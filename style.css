@@ -36,6 +36,7 @@
 }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 html, body { margin: 0; }
 body {
   background: var(--bg); color: var(--ink);
@@ -173,6 +174,7 @@ figcaption { font-size: 13px; color: var(--muted); margin-top: 6px; }
 .frame { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity .14s linear; }
 .frame.on { opacity: 1; }
 .pl-gap { position: absolute; inset: auto 12px 56px 12px; text-align: center; color: #fff; background: rgba(0,0,0,.55); padding: 6px 10px; border-radius: 6px; font-size: 13px; }
+.pl-buffer { position: absolute; left: 12px; bottom: 12px; color: #fff; background: rgba(0,0,0,.6); padding: 5px 10px; border-radius: 6px; font: 500 12.5px var(--f-mono); font-variant-numeric: tabular-nums; }
 .pl-hud { position: absolute; left: 12px; right: 12px; top: 12px; display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; pointer-events: none; }
 .hud-clock { font: 500 20px/1 var(--f-mono); color: #fff; background: rgba(0,0,0,.55); padding: 7px 10px; border-radius: 6px; font-variant-numeric: tabular-nums; }
 .pl-hud .roadsign { --sign-ink: #fff; }
@@ -212,6 +214,8 @@ figcaption { font-size: 13px; color: var(--muted); margin-top: 6px; }
 .dial .hub { fill: var(--ink); }
 .dial button { position: absolute; transform: translate(-50%, -50%); border: 0; background: none; color: var(--muted); font: 600 12px var(--f-mono); padding: 4px; border-radius: 4px; }
 .dial button[aria-checked="true"] { color: var(--ink); background: var(--gorse); color: #1b2421; }
+.dial.locked { opacity: .45; }
+.dial button:disabled { cursor: not-allowed; }
 .dial .dial-label { position: absolute; left: 0; right: 0; bottom: -2px; text-align: center; font: 600 10.5px var(--f-body); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
 
 @media (prefers-reduced-motion: reduce) {

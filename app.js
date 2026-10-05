@@ -375,7 +375,7 @@
   const svUrl = (f) => `https://maps.googleapis.com/maps/api/streetview?size=640x360&location=${f.lat.toFixed(6)},${f.lng.toFixed(6)}&heading=${Math.round(f.h)}&pitch=-3&fov=90&source=outdoor&return_error_code=true&key=${encodeURIComponent(KEY)}`;
 
   /* ---------- player ---------- */
-  const PL = { t: null, r: null, frames: [], dist: 0, simT: 0, total: 1, speed: 30, playing: false, shown: -1, lastSwap: 0, front: "a", cache: new Map(), raf: 0, map: null, line: null, marker: null };
+  const PL = { t: null, r: null, frames: [], dist: 0, simT: 0, total: 1, speed: 30, playing: false, shown: -1, lastSwap: 0, front: "a", cache: new Map(), buffering: false, contig: -1, loadToken: 0, raf: 0, map: null, line: null, marker: null };
 
   function buildDial() {
     const dial = $("pl-dial");
@@ -395,6 +395,7 @@
     });
     dial.append(el("span", { class: "dial-label", text: "Speed" }));
     dial.addEventListener("keydown", (e) => {
+      if (dial.classList.contains("locked")) return;
       const cur = SPEEDS.indexOf(PL.speed);
       if (e.key === "ArrowRight" || e.key === "ArrowUp") { setSpeed(Math.min(SPEEDS.length - 1, cur + 1)); e.preventDefault(); }
       if (e.key === "ArrowLeft" || e.key === "ArrowDown") { setSpeed(Math.max(0, cur - 1)); e.preventDefault(); }
@@ -404,11 +405,41 @@
     PL.speed = SPEEDS[i];
     const frac = i / (SPEEDS.length - 1);
     $("dial-on").setAttribute("stroke-dashoffset", String(100 - frac * 100));
+    $("dial-on").style.strokeOpacity = frac === 0 ? "0" : "1";
     $("dial-needle").style.transform = `rotate(${frac * 180}deg)`;
     $("pl-dial").querySelectorAll("button").forEach((b) => {
       const on = Number(b.dataset.i) === i;
       b.setAttribute("aria-checked", String(on)); b.tabIndex = on ? 0 : -1;
     });
+  }
+
+  function lockDial(locked) {
+    const dial = $("pl-dial");
+    dial.classList.toggle("locked", locked);
+    dial.title = locked ? "Speed unlocks once every frame has loaded" : "";
+    dial.querySelectorAll("button").forEach((b) => { b.disabled = locked; });
+  }
+
+  /* First ride: fetch frames in order, a few at a time, and only let playback
+     run as far as the frames that have arrived. Once all are in, unlock speed. */
+  function startLoader() {
+    const token = ++PL.loadToken, N = PL.frames.length, CONC = 6;
+    let next = 0, inflight = 0;
+    const entry = (i) => PL.cache.get(svUrl(PL.frames[i]));
+    const pump = () => {
+      if (PL.loadToken !== token) return;
+      while (inflight < CONC && next < N) {
+        const e = getImg(next++);
+        if (e.done) continue;
+        inflight++;
+        e.waiters.push(() => { if (PL.loadToken !== token) return; inflight--; pump(); });
+      }
+      while (PL.contig + 1 < N && (entry(PL.contig + 1) || {}).done) PL.contig++;
+      const got = PL.contig + 1;
+      $("pl-buffer").textContent = `Loading Street View · ${got} of ${N} frames`;
+      if (got >= N) { PL.buffering = false; $("pl-buffer").hidden = true; lockDial(false); }
+    };
+    pump();
   }
 
   function frameAt(t) {
@@ -464,12 +495,14 @@
     const dt = PL.last ? Math.min(0.25, (now - PL.last) / 1000) : 0;
     PL.last = now;
     if (PL.playing) {
-      PL.simT = Math.min(PL.total, PL.simT + dt * PL.speed);
+      let cap = PL.total;
+      if (PL.buffering) cap = PL.contig >= 0 ? PL.frames[PL.contig].t : 0;
+      PL.simT = Math.min(cap, PL.total, PL.simT + dt * PL.speed);
       if (PL.simT >= PL.total) arrive(true);
     }
     const target = frameAt(PL.simT);
     if (target !== PL.wanted && now - PL.lastSwap >= SWAP_MS) { PL.lastSwap = now; paint(target); }
-    if (PL.playing) for (let k = 1; k <= 6; k++) getImg(frameAt(Math.min(PL.total, PL.simT + k * PL.speed * SWAP_MS / 1000)));
+    if (PL.playing && !PL.buffering) for (let k = 1; k <= 6; k++) getImg(frameAt(Math.min(PL.total, PL.simT + k * PL.speed * SWAP_MS / 1000)));
     hud();
     PL.raf = requestAnimationFrame(tick);
   }
@@ -496,7 +529,13 @@
     catch (e) { $("pl-loading").textContent = "Couldn't plot this trip. The browser console has details."; return; }
 
     const { frames, total, pts } = buildFrames(r.route);
-    Object.assign(PL, { t, r, frames, dist: total, total: r.route.duration, simT: 0, shown: -1, wanted: -1, playing: false, last: 0 });
+    Object.assign(PL, { t, r, frames, dist: total, total: r.route.duration, simT: 0, shown: -1, wanted: -1, playing: false, last: 0, contig: -1 });
+    PL.loadToken++;
+    const allCached = frames.every((f) => (PL.cache.get(svUrl(f)) || {}).done);
+    PL.buffering = !allCached;
+    lockDial(PL.buffering);
+    $("pl-buffer").hidden = !PL.buffering;
+    $("pl-loading").textContent = "Loading Street View…";
     $("pl-title").textContent = r.dest.name;
     $("pl-signname").textContent = r.dest.name;
     $("pl-note").textContent = `${frames.length} Street View frames over ${fmtKm(total)}, leaving ${clockAt(r.depMs)}. ` + (t.note || "");
@@ -523,15 +562,16 @@
     pts.forEach((p) => bounds.extend({ lat: p[0], lng: p[1] }));
     PL.map.fitBounds(bounds, 24);
 
+    if (PL.buffering) startLoader(); else PL.contig = frames.length - 1;
     paint(0);
     const first = getImg(0);
     const ready = () => { $("pl-loading").hidden = true; };
     if (first.done) ready(); else first.waiters.push(ready);
-    for (let i = 1; i < 6; i++) getImg(i);
     if (!PL.raf) PL.raf = requestAnimationFrame(tick);
     togglePlay();
   }
   function closeTrip() {
+    PL.loadToken++;
     PL.playing = false; cancelAnimationFrame(PL.raf); PL.raf = 0;
     $("player").close();
   }
@@ -554,6 +594,7 @@
     scrub.addEventListener("input", () => {
       PL.scrubbing = true;
       PL.simT = (Number(scrub.value) / 1000) * PL.total;
+      if (PL.buffering) PL.simT = Math.min(PL.simT, PL.contig >= 0 ? PL.frames[PL.contig].t : 0);
       arrive(PL.simT >= PL.total);
       PL.lastSwap = 0;
     });
@@ -587,6 +628,5 @@
       showKeyBar("Maps didn't load: check the key");
     }
   }
-  window.__hd = { buildFrames, decodePolyline, departureFor, clockAt };
   boot();
 })();
