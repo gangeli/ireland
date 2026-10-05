@@ -26,26 +26,19 @@ The scheduled daily sweep, a Claude task that runs at 14:53 UTC, keeps this site
 
 ## Ranking
 
-Use the same blend the site uses, so the list and the labels agree:
+**The score is one average in which the AI counts as one vote and each person counts as one vote.** The site sorts and labels houses the same way.
 
 ```
-n   = number of human ratings for the house
-avg = mean human stars
-blend = ai.stars                               if n == 0
-      = avg                                    if no ai score
-      = (1/(n+1))·ai.stars + (n/(n+1))·avg     otherwise
+score = (ai.stars + sum of human stars) / (1 + number of human ratings)
 ```
 
-Rules, in order of precedence:
+With no ratings, the score is the AI's stars. One person at 2 against an AI 4 gives 3.0. Three people at 2 give 2.5. The more people rate, the less the AI matters, and that's the whole "trust people over AI" rule. No extra overrides are needed.
 
-1. **People's judgment beats the AI's.** Drop a house when the people's average is ≤ 2, or when Gabor (or his family) rates it ≤ 2 with a reason. Don't argue it back in on AI stars.
-2. **Never drop a house people rated ≥ 4** unless it's off the market. If such a house is the 21st, drop the lowest AI-only house instead.
-3. **Mediocre human ratings (2.5–3.5) are a judgment call.** One lukewarm 3 is weak evidence. Weigh it against the facts, and against what the notes say people want. Explain the call in the log.
-4. **Admit a new house only if its blend beats the current #20** (or there's room). A new house has no human ratings yet, so its AI stars are its blend. Be honest with them: don't inflate a new find to get it on the list.
-5. **Fill to 20.** If dropping leaves room, the best-scoring new or archived-but-still-for-sale house can come back. Log it as a re-add.
-6. **Ties go to the house that fits more hard requirements**: a ground-floor bedroom (or a room that can convert to one), land for the dogs, school and ED access, and budget.
-
-Use judgment over arithmetic when they disagree, and say so in the log.
+1. **Live list = the 20 highest scores** among houses still on the market. Off-market houses (sale agreed, sold, withdrawn) leave regardless of score.
+2. **A new house** starts with only the AI vote, so it gets in only if its AI stars beat the current #20's score (or there's room). Be honest with the AI stars: don't inflate a new find to get it on the list.
+3. **Keep the AI vote current.** Re-score a house's `ai.stars` when facts change (a price cut, a confirmed floor plan), or when people's notes reveal a preference the AI was missing ("too far from Dublin", "need fenced land"). Apply those lessons to similar houses too, and log them. The AI's vote should get smarter. It shouldn't get louder.
+4. **Ties and near-ties** (within 0.25) go to the house that fits more hard requirements: a ground-floor bedroom (or a room that can convert), land for the dogs, school and ED access, and budget. Note each such call in the log.
+5. **Fill to 20.** When slots open, the best new or archived-but-still-for-sale house comes back. Log it as a re-add.
 
 ## Archive entry shape
 
@@ -58,8 +51,7 @@ Use judgment over arithmetic when they disagree, and say so in the log.
 
 `reason` is one of:
 - `sale agreed` / `sold` / `withdrawn` (set `recheck: true` for sale agreed)
-- `rated low by people` (quote the ratings)
-- `bumped by <new house>`
+- `bumped by <new house>` (give both scores and the ratings behind them)
 - `passed by Gabor`
 
 ## Log entry shape (append to `log/sweep-log.md`)
@@ -72,9 +64,9 @@ Use judgment over arithmetic when they disagree, and say so in the log.
 - Updated: Forty Shades – price €475k → €450k; AI 4.5 → 4.5
 - Archived: Kilcoltrim, Borris – bumped by The Old Mill (AI 2.0, no ratings)
 - Re-added: —
-- Judgment calls: kept Canal View over X despite lower AI because Gabor rated it 4
+- Judgment calls: near-tie at #20, kept X over Y (ground-floor bedroom confirmed)
 - Lessons from notes: "dogs need fenced land" → weighting fencing/enclosure higher
-- Shortlist now 20: forty-shades (4.5), … (top-to-bottom with blend scores)
+- Shortlist now 20: forty-shades (score 4.5: AI 4.5, no ratings), … (top-to-bottom)
 ```
 
 Every run writes an entry, even "no changes", so a gap in the log means a run failed.
