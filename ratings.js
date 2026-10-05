@@ -83,6 +83,9 @@ window.HDRatings = (function () {
   }
   function people() { return [...new Set(Object.values(byKey).map((r) => r.person))].sort(); }
 
+  // Start from this browser's copy so the first paint already has ratings; refresh() merges the shared ones.
+  for (const [k, v] of Object.entries(local())) if (!v.deleted) byKey[k] = v;
+
   window.addEventListener("focus", () => { refresh(); });
   setInterval(() => { if (!document.hidden) refresh(); }, 60000);
 

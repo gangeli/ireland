@@ -27,6 +27,7 @@
   const R = window.HDRatings;
   const avgOf = (p) => { const x = R.summary(p.id); return x.avg == null ? -1 : x.avg; };
   const sorters = {
+    combined: (a, b) => (blend(b) ?? -1) - (blend(a) ?? -1) || R.summary(b.id).n - R.summary(a.id).n,
     rating: (a, b) => avgOf(b) - avgOf(a) || ((b.ai && b.ai.stars) || 0) - ((a.ai && a.ai.stars) || 0),
     ai: (a, b) => ((b.ai && b.ai.stars) || 0) - ((a.ai && a.ai.stars) || 0) || avgOf(b) - avgOf(a),
     score: (a, b) => score(b) - score(a),
@@ -36,12 +37,11 @@
   };
   /* Labels come from the ratings: AI score blended with the people's average
      (people weigh more as more of them rate). Sale agreed / Passed are facts and win. */
+  // Combined score: the AI counts as one rating and each person as one more.
   const blend = (p) => {
-    const ai = p.ai ? p.ai.stars : null, sum = R.summary(p.id);
-    if (!sum.n) return ai;
-    if (ai == null) return sum.avg;
-    const w = sum.n / (sum.n + 1);
-    return (1 - w) * ai + w * sum.avg;
+    const ai = p.ai ? p.ai.stars : null, rs = R.forProperty(p.id);
+    const all = (ai == null ? [] : [ai]).concat(rs.map((r) => r.stars));
+    return all.length ? all.reduce((a, b) => a + b, 0) / all.length : null;
   };
   let labels = {};
   function computeLabels() {
@@ -60,7 +60,7 @@
     computeLabels();
     const list = $("idx-list"); list.textContent = "";
     $("idx-count").textContent = String(props.length);
-    const sorted = [...props].sort(sorters[$("sort").value] || sorters.score);
+    const sorted = [...props].sort(sorters[$("sort").value] || sorters.combined);
     for (const p of sorted) {
       const href = `property.html?p=${encodeURIComponent(p.id)}`;
       const lb = label(p);
@@ -81,7 +81,7 @@
             el("div", { class: "ic-titleline" },
               el("a", { class: "ic-name", href, text: p.name }),
               el("span", { class: "ic-area", title: p.area || p.address || "", text: (p.area || p.address || "").split(",").map((x) => x.trim()).filter((x) => x && x.toLowerCase() !== p.name.toLowerCase()).join(", ") }),
-              el("span", { class: "status " + statusClass(lb), text: lb, title: blend(p) != null ? `Blended score ${blend(p).toFixed(2)}` : "" })),
+              el("span", { class: "status " + statusClass(lb), text: lb, title: blend(p) != null ? `Combined score ${blend(p).toFixed(2)}` : "" })),
             el("p", { class: "ic-line" }, price, facts ? el("span", { class: "ic-facts", text: facts }) : null),
             p.tagline ? el("p", { class: "ic-tag", text: p.tagline }) : null),
           scoresBadge(p)));
@@ -227,6 +227,7 @@
       for (const p of props) {
         const chip = document.querySelector(`#ic-${CSS.escape(p.id)} .status`);
         if (chip && chip.textContent !== label(p)) { chip.textContent = label(p); chip.className = "status " + statusClass(label(p)); }
+        if (chip) chip.title = blend(p) != null ? `Combined score ${blend(p).toFixed(2)}` : "";
         if (markers[p.id]) paintPin(markers[p.id].content, p);
       }
       // update ratings in place so cards don't jump while you rate
@@ -238,7 +239,7 @@
       const dl = $("idx-raters"); dl.textContent = "";
       for (const p of R.people()) dl.append(el("option", { value: p }));
     });
-    R.refresh();
+    R.refresh().then(renderList);   // re-sort once when the shared ratings arrive
     for (const b of ["split", "map", "list"]) $("v-" + b).addEventListener("click", () => setView(b));
     let saved = null; try { saved = localStorage.getItem("hd:view"); } catch (e) { /* ignore */ }
     if (saved) setView(saved);
