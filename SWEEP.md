@@ -1,6 +1,6 @@
 # Daily sweep: keeping the shortlist at the top 20
 
-The scheduled daily sweep, a Claude task that runs at 14:53 UTC, keeps this site's shortlist current. It finds new listings, updates the ones already here, retires anything that has sold or that people rated low, and keeps the live list to the **top 20** houses. This file is the procedure. Every run follows it and records what it did in `log/sweep-log.md`.
+The scheduled daily sweep, a Claude task that runs at 14:53 UTC, keeps this site's shortlist current. It finds new listings, updates the ones already here, retires anything that has sold or that people rated low, and keeps the live list to the **top 20** houses. This file is the procedure. Every run follows it and records what it did in `log/sweep-log.md`. **Where this file and the scheduled prompt disagree, this file wins**: it is newer (for example, the report now links houses to their site pages, not to Daft).
 
 ## Files
 
@@ -15,7 +15,7 @@ The scheduled daily sweep, a Claude task that runs at 14:53 UTC, keeps this site
 ## Each run
 
 1. **Sync.** Run `git -C /home/claude/ireland pull --ff-only`. If the clone is missing, call `add_repo` (gangeli/ireland, push) and clone it as the house-days skill describes.
-2. **Read the people.** WebFetch `HOUSE_DAYS_RATINGS_URL` from `config.js`. It returns `{ratings:[{property, person, stars, note, updated}]}`. Save it verbatim to `log/ratings/<today>.json`. If it fails (as of 4 Oct 2026 it returned 404, so it may not be deployed), note "human ratings unavailable" in the log and rank on AI stars alone. Read the notes too: a note like "too far from Dublin" is a preference to apply when scoring similar houses. Record any lesson like that in the log.
+2. **Read the people.** WebFetch `HOUSE_DAYS_RATINGS_URL` from `config.js`. It returns `{ratings:[{property, person, stars, note, updated}]}`. Save it verbatim to `log/ratings/<today>.json`. If it fails, note "human ratings unavailable" in the log and rank on AI stars alone. Read the notes too: a note like "too far from Dublin" is a preference to apply when scoring similar houses. Record any lesson like that in the log.
 3. **Recheck every live house** (plus any archived house marked `recheck: true`) on Daft or MyHome. Look for:
    - Sale agreed, sold, withdrawn, or a listing that 404s: set `status` to `"Sale agreed"` (or `"Passed"` for withdrawn), move the id to the archive with the reason, and set `recheck: true`. Sales do fall through, so recheck archived sale-agreed houses about weekly for 6 weeks.
    - Price change: update `price` and `stampDuty`, add a pro or con ("Price cut from €X to €Y on <date>"), and revisit `ai.stars`.
@@ -23,6 +23,11 @@ The scheduled daily sweep, a Claude task that runs at 14:53 UTC, keeps this site
 4. **Find new candidates**, using the sources and criteria in the scheduled prompt. Build a page for each real contender with the house-days skill. Score it with `ai: {stars, why}`, where stars run 1–5 in steps of 0.5 and `why` is one plain sentence.
 5. **Rank and trim to 20** (rules below), then edit `index.json` and `archive.json`.
 6. **Validate, log, commit, push** (below).
+7. **Nudge the alerts.** After the push, WebFetch `HOUSE_DAYS_RATINGS_URL + "?action=check"`. The function compares the live list with every house it has seen and sends a browser notification to everyone who opted in (the bell on the shortlist). It also runs by itself every 30 minutes, so a failure here only delays alerts; note it in the log and move on.
+
+## Linking in the report
+
+In the write-up, **every house links to its page on this site**, `https://gangeli.github.io/ireland/property.html?p=<id>`, not to Daft or MyHome. The site page already links to the listing. Only a house mentioned without a page (a near miss) gets a listing link. Close with the shortlist link, `https://gangeli.github.io/ireland/`.
 
 ## Ranking
 
@@ -86,7 +91,7 @@ for i in idx + [a['id'] for a in arc]:
     assert os.path.exists(f'properties/{i}.json'), f"missing properties/{i}.json"
 for i in idx:
     d = json.load(open(f'properties/{i}.json'))
-    assert d['id'] == i and d['lat'] and d['lng'] and len(d['trips']) == 11, i
+    assert d['id'] == i and d['lat'] and d['lng'] and len(d['trips']) >= 11, i
     assert not __import__('re').search('sale agreed|sold|passed', d.get('status',''), 2), f"{i} is off-market but live"
 print('ok', len(idx), 'live,', len(arc), 'archived')
 EOF

@@ -142,7 +142,9 @@ If the push is rejected, `git pull --rebase origin main` and push again. Pages r
 
 ## 7. Report
 
-Give the house link (`https://gangeli.github.io/ireland/property.html?p=<id>`) and the index link, plus one line on the ledger: for/against weights and the biggest con. When this runs inside the property sweep, put the link in that house's write-up.
+Give the house link (`https://gangeli.github.io/ireland/property.html?p=<id>`) and the index link, plus one line on the ledger: for/against weights and the biggest con. When this runs inside the property sweep, the site page is **the** link for that house in the write-up. Don't link Daft or MyHome for a house that has a page; the page links to the listing itself. Only near misses without a page get a listing link.
+
+People who turned on the bell on the shortlist get a browser notification about each new house automatically (the ratings function checks `index.json` every 30 minutes). After pushing, WebFetch `<HOUSE_DAYS_RATINGS_URL>?action=check` to send it straight away; if that fails, say so and move on.
 
 ## Updating a house
 
