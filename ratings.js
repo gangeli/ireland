@@ -127,20 +127,31 @@ window.HDAskName = function () {
     const dlg = document.createElement("dialog");
     dlg.className = "namedlg";
     dlg.innerHTML = `<form method="dialog" class="namedlg-form">
-        <h2>Who's rating?</h2>
-        <p>Your ratings show under this name, so everyone can see who thought what. We'll remember it on this device.</p>
-        <label for="hd-name-in">Your name</label>
-        <input id="hd-name-in" list="hd-name-list" maxlength="40" autocomplete="nickname" required>
-        <datalist id="hd-name-list"></datalist>
-        <div class="namedlg-actions">
-          <button type="button" value="cancel" class="namedlg-cancel">Cancel</button>
-          <button type="submit" value="ok" class="namedlg-ok">Save and rate</button>
+        <div class="namedlg-sign" aria-hidden="true">
+          <svg viewBox="0 0 64 64" width="40" height="40"><path d="M16 33 32 19l16 14" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M21 31v15h22V31" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/><rect x="29" y="37" width="6" height="9" fill="#e3b21f"/></svg>
+          <span class="namedlg-stars">★★★★★</span>
+        </div>
+        <div class="namedlg-body">
+          <h2>Who's rating?</h2>
+          <p>Your stars go up under your name, so everyone can see who loved what. This device will remember you.</p>
+          <div class="namedlg-chips" hidden></div>
+          <label for="hd-name-in">Your name</label>
+          <input id="hd-name-in" maxlength="40" autocomplete="nickname" placeholder="e.g. Gabor" required>
+          <div class="namedlg-actions">
+            <button type="button" class="namedlg-cancel">Not now</button>
+            <button type="submit" class="namedlg-ok">Save and rate</button>
+          </div>
         </div>
       </form>`;
     document.body.append(dlg);
     const input = dlg.querySelector("input");
-    const list = dlg.querySelector("datalist");
-    for (const p of R.people()) { const o = document.createElement("option"); o.value = p; list.append(o); }
+    const chips = dlg.querySelector(".namedlg-chips");
+    for (const p of R.people()) {
+      const b = document.createElement("button");
+      b.type = "button"; b.className = "namedlg-chip"; b.textContent = "I'm " + p;
+      b.addEventListener("click", () => finish(p));
+      chips.append(b); chips.hidden = false;
+    }
     let done = false;
     const finish = (v) => {
       if (done) return; done = true;
