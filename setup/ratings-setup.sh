@@ -24,6 +24,15 @@ gcloud projects describe "$PROJECT" >/dev/null 2>&1 || die "Project $PROJECT not
   || die "Billing isn't enabled on $PROJECT; run the main setup first"
 NUM="$(gcloud projects describe "$PROJECT" --format='value(projectNumber)')"
 
+# Bill API quota to this project instead of gcloud's shared default client project, whose
+# per-minute read quota is shared by everyone and runs out (RESOURCE_EXHAUSTED on get-iam-policy).
+gcloud services enable cloudresourcemanager.googleapis.com serviceusage.googleapis.com --project="$PROJECT" >/dev/null 2>&1 || true
+export CLOUDSDK_BILLING_QUOTA_PROJECT="$PROJECT"
+gcloud projects describe "$PROJECT" >/dev/null 2>&1 || unset CLOUDSDK_BILLING_QUOTA_PROJECT   # fall back if not allowed yet
+
+# Retry a gcloud command on quota / etag / transient errors, with backoff.
+retry() { local n; for n in 1 2 3 4 5 6; do "$@" && return 0; sleep $((n * 5)); done; return 1; }
+
 # 1. APIs
 say "Enabling APIs"
 for s in firestore.googleapis.com cloudfunctions.googleapis.com run.googleapis.com \
@@ -49,18 +58,20 @@ fi
 
 # 3. Permissions for the default compute service account (builds the function and runs it)
 SA="${NUM}-compute@developer.gserviceaccount.com"
+# Read the policy once (not once per role), retrying if the quota is briefly exhausted.
+POLICY=""
+for n in 1 2 3 4 5 6; do
+  POLICY="$(gcloud projects get-iam-policy "$PROJECT" --flatten='bindings[].members' \
+    --filter="bindings.members=serviceAccount:$SA" --format='value(bindings.role)' 2>/dev/null)" && break
+  POLICY="?"; warn "Couldn't read the IAM policy (quota?); retrying in $((n * 5))s"; sleep $((n * 5))
+done
 for role in roles/cloudbuild.builds.builder roles/datastore.user roles/logging.logWriter roles/artifactregistry.writer; do
-  if gcloud projects get-iam-policy "$PROJECT" --flatten='bindings[].members' \
-       --filter="bindings.role=$role AND bindings.members=serviceAccount:$SA" --format='value(bindings.role)' | grep -q .; then
+  if [[ "$POLICY" != "?" ]] && grep -qx "$role" <<<"$POLICY"; then
     echo "   has $role"
   else
-    say "Granting $role to $SA"
-    ok=""
-    for attempt in 1 2 3 4 5; do   # concurrent IAM edits return an etag conflict; retry with backoff
-      if gcloud projects add-iam-policy-binding "$PROJECT" --member="serviceAccount:$SA" --role="$role" --condition=None >/dev/null 2>&1; then ok=1; break; fi
-      sleep $((attempt * 3))
-    done
-    [[ -n "$ok" ]] || die "Couldn't grant $role after 5 tries; re-run in a minute"
+    say "Granting $role to $SA"   # idempotent: adding an existing binding is a no-op
+    retry gcloud projects add-iam-policy-binding "$PROJECT" --member="serviceAccount:$SA" --role="$role" --condition=None >/dev/null 2>&1 \
+      || die "Couldn't grant $role after several tries; wait a minute and re-run"
   fi
 done
 
