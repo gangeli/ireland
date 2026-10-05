@@ -193,11 +193,10 @@
       "label": "The 3 a.m. trip",
       "kind": "Emergency department",
       "candidates": [
-        "Naas General Hospital",
-        "Tallaght University Hospital"
+        "Tallaght University Hospital, Dublin"
       ],
-      "note": "Naas is adults only (16+); children go to Tallaght.",
-      "title": "Naas General Hospital",
+      "note": "Tallaght has adult and children's 24-hour EDs; Naas General (4 km) is 16+ only, so it can't take the boys.",
+      "title": "Tallaght University Hospital",
       "category": "Health"
     },
     {

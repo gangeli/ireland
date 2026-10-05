@@ -223,11 +223,10 @@
       "label": "The 3 a.m. trip",
       "kind": "Emergency department",
       "candidates": [
-        "Naas General Hospital",
         "Midland Regional Hospital Portlaoise"
       ],
-      "note": "Naas is adults only (16+); Portlaoise takes children.",
-      "title": "Naas General Hospital",
+      "note": "Portlaoise takes all ages; Naas General is nearer but 16+ only, so it can't take the boys.",
+      "title": "Midland Regional Hospital Portlaoise",
       "category": "Health"
     },
     {

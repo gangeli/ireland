@@ -225,11 +225,11 @@
       "label": "The 3 a.m. trip",
       "kind": "Emergency department",
       "candidates": [
-        "Connolly Hospital Blanchardstown",
-        "Children's Health Ireland at Temple Street"
+        "Tallaght University Hospital, Dublin",
+        "Children's Health Ireland at Temple Street, Dublin"
       ],
-      "note": "Connolly for adults; children go to CHI Temple Street (24-hour paediatric ED), about 20 km.",
-      "title": "Connolly Hospital Blanchardstown",
+      "note": "Tallaght and Temple Street take children; Connolly (nearer, for adults) is 16+ only.",
+      "title": "Tallaght University Hospital",
       "category": "Health"
     },
     {

@@ -203,10 +203,9 @@
       "label": "The 3 a.m. trip",
       "kind": "Emergency department",
       "candidates": [
-        "St Luke's General Hospital, Kilkenny",
-        "Naas General Hospital"
+        "St Luke's General Hospital, Kilkenny"
       ],
-      "note": "St Luke's takes all ages; Naas (closer) is adults 16+ only.",
+      "note": "St Luke's takes all ages; Naas General is nearer but 16+ only.",
       "title": "St Luke's General Hospital",
       "category": "Health"
     },
