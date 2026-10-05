@@ -111,7 +111,7 @@
 
     const dom = Math.max(0, Math.round((Date.now() - Date.parse(P.listed)) / 86400000));
     const stats = [
-      ["Asking", euro(P.price), `${euro(P.price / P.floorM2)}/m² · stamp duty ${euro(P.stampDuty)}`],
+      ["Asking", euro(P.price), `${euro(P.price / P.floorM2)}/m² · stamp duty ${euro(P.stampDuty)}`, "asking"],
       ["Beds / baths", `${P.beds} / ${P.baths}`, P.bedsNote],
       ["House", `${P.floorM2} m²`, `${Math.round(P.floorM2 * 10.764).toLocaleString("en-IE")} sq ft + ${P.atticM2} m² attic`],
       ["Land", `${P.landAcres} ac`, `${P.landHa} ha`],
@@ -119,10 +119,11 @@
       ["On market", `${dom} days`, `Listed ${new Date(P.listed).toLocaleDateString("en-IE", { day: "numeric", month: "short" })} · ${P.views.toLocaleString("en-IE")} views`],
     ];
     const box = $("stats");
-    for (const [k, v, small] of stats) {
+    for (const [k, v, small, id] of stats) {
       const dd = el("dd");
       if (v == null) dd.append(el("span", { class: "ber", text: P.ber }));
       else dd.textContent = v;
+      if (id) dd.append(el("small", { id: "usd-" + id, class: "usd" }));
       if (small) dd.append(el("small", { text: small }));
       box.append(el("dl", { class: "stat" }, el("dt", { text: k }), dd));
     }
@@ -167,6 +168,21 @@
       }
       box2.append(el("h3", { class: "group-h", text: c }), list);
     }
+  }
+
+  async function showDollars() {
+    try {
+      const res = await fetch("https://api.frankfurter.app/latest?from=EUR&to=USD");
+      const j = await res.json();
+      const rate = j.rates && j.rates.USD;
+      if (!rate) return;
+      const usd = (n) => "$" + Math.round(n * rate).toLocaleString("en-US");
+      const box = $("usd-asking");
+      box.textContent = `≈ ${usd(P.price)}`;
+      box.title = `At €1 = $${rate.toFixed(4)} (ECB rate, ${j.date})`;
+      const next = box.nextElementSibling;
+      if (next) next.textContent = `${euro(P.price / P.floorM2)}/m² (${usd(P.price / P.floorM2)}) · stamp duty ${euro(P.stampDuty)} (${usd(P.stampDuty)})`;
+    } catch (e) { /* no rate, euros only */ }
   }
 
   /* ---------- Maps loading ---------- */
@@ -594,6 +610,7 @@
       return;
     }
     renderStatic();
+    showDollars();
     buildDial();
     $("pl-play").addEventListener("click", togglePlay);
     $("pl-close").addEventListener("click", closeTrip);

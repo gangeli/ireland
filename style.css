@@ -77,6 +77,8 @@ button { font: inherit; cursor: pointer; }
 .stat { background: var(--panel); padding: 14px 16px; min-width: 0; }
 .stat dt { font: 600 11px/1.2 var(--f-body); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
 .stat dd { margin: 4px 0 0; font: 500 22px/1.15 var(--f-mono); font-variant-numeric: tabular-nums; }
+.stat .usd { color: var(--ink); font-family: var(--f-mono); font-size: 14px; }
+.stat .usd:empty { display: none; }
 .stat small { display: block; font: 13px/1.35 var(--f-body); color: var(--muted); margin-top: 3px; }
 .ber { display: inline-block; padding: 0 8px 0 6px; color: #fff; border-radius: 3px 0 0 3px; clip-path: polygon(0 0, 85% 0, 100% 50%, 85% 100%, 0 100%); padding-right: 16px; background: #e97f1c; }
 
