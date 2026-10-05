@@ -68,7 +68,12 @@
       if (rate) price.append(el("small", { text: " ≈ $" + Math.round(p.price * rate).toLocaleString("en-US") }));
       const facts = [p.beds ? `${p.beds} bed` : null, p.floorM2 ? `${p.floorM2} m²` : null, p.landAcres ? `${p.landAcres} ac` : null, p.ber ? `BER ${p.ber}` : null].filter(Boolean).join(" · ");
       const li = el("li", { class: "ic", id: "ic-" + p.id,
-        onmouseenter: () => highlight(p.id, true), onmouseleave: () => highlight(p.id, false) },
+        onmouseenter: () => highlight(p.id, true), onmouseleave: () => highlight(p.id, false),
+        onclick: (e) => {
+          // the whole card opens the house, except the ratings badge and real links
+          if (e.target.closest(".scores") || e.target.closest("a")) return;
+          if (e.metaKey || e.ctrlKey) window.open(href, "_blank"); else location.href = href;
+        } },
         el("a", { class: "ic-photo", href, "aria-label": p.name },
           el("img", { src: p.photos && p.photos[0] ? p.photos[0].url : "", alt: "", loading: "lazy", referrerpolicy: "no-referrer" })),
         el("div", { class: "ic-body" },
