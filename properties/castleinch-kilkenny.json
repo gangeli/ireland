@@ -18,7 +18,7 @@
   "landAcres": 1.0,
   "landHa": 0.4,
   "ber": "F",
-  "heating": "Solid-fuel stove and range",
+  "heating": "Solid-fuel stove only (range-style cooker in the kitchen)",
   "listed": "2026-09-17",
   "views": 3535,
   "stampDuty": 3500,
@@ -83,18 +83,23 @@
       "text": "Move-in ready",
       "weight": 1,
       "detail": "Listed as turnkey, with timber floors and a range in the kitchen."
+    },
+    {
+      "text": "Strong secondaries 4-6 km",
+      "weight": 2,
+      "detail": "St Kieran's College (boys, 100% to third level in 2023), CBS Kilkenny and Kilkenny College (mixed) are all a short drive."
     }
   ],
   "cons": [
     {
-      "text": "Probably under 140 m²",
+      "text": "About 94 m², well under 140 m²",
       "weight": 3,
-      "detail": "Listing says 1,015 m², which must be a typo; a 3-bed, 1-bath cottage is more like 100 m², below the 140 m² floor. Confirm, and budget a rough €80–150k to extend."
+      "detail": "The listing's '1,015 m²' reads as 1,015 sq ft ≈ 94 m². Reaching 140 m²+ means a ~50 m² extension (rough €100-150k)."
     },
     {
-      "text": "BER F, no central heating listed",
+      "text": "BER F, only a stove listed",
       "weight": 3,
-      "detail": "Stove and range only; a heating and insulation retrofit is a rough €40–70k before grants."
+      "detail": "The sitting-room stove is the only heat source named ('range-style cooker' is a cooker). Heating and insulation retrofit a rough €40-70k before grants."
     },
     {
       "text": "One bathroom",
@@ -102,14 +107,9 @@
       "detail": "A single shower room for a family plus summering parents."
     },
     {
-      "text": "Gate onto the N76",
+      "text": "Near the N76 Callan road",
       "weight": 1,
-      "detail": "Aerials show fields on all sides and only a handful of houses, so there's plenty of space; the cost is the busy Callan road at the gate. Check traffic noise and pulling out."
-    },
-    {
-      "text": "Main-road noise and traffic",
-      "weight": 1,
-      "detail": "The N76 is the main Kilkenny–Clonmel road; check frontage and dog-proof fencing."
+      "detail": "Listed as 'just off the main Callan Road': check whether the gate is on the N76 or a side road, the traffic noise, and dog-proof frontage."
     },
     {
       "text": "Water and septic not stated",
@@ -124,11 +124,33 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "Church Hill National School",
       "candidates": [
-        "Church Hill National School, Cuffesgrange"
+        "Church Hill National School, Cuffesgrange, Co. Kilkenny R95 T253"
       ],
-      "note": "About 192 pupils, 2.5 km. Kilkenny city schools are the fallbacks.",
-      "category": "Schools"
+      "note": "192 pupils, Catholic, co-ed, roll 05927L; ~2.5 km. Claims to be Ireland's oldest functioning school (1833).",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Catholic co-ed school, not DEIS, with steady enrolment, a special-class 'Sunflower Rooms' and an on-site pre-school; no inspection report retrieved."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "St Kieran's College",
+      "candidates": [
+        "St Kieran's College, College Road, Kilkenny"
+      ],
+      "note": "Boys only, ~830 pupils, non-fee-paying; ~4 km straight line. Nearer Presentation (3.8 km) is girls-only.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "100% progression to third level in the 2023 feeder-school report (Kilkenny People/Irish Independent); large, non-fee-paying, not DEIS."
+      }
     },
     {
       "id": "shop",
@@ -280,7 +302,7 @@
   ],
   "ai": {
     "stars": 3.0,
-    "why": "Single storey on an acre, 10 minutes from Kilkenny's hospital. Probably too small; needs heating."
+    "why": "Single storey on an acre, 10 minutes from Kilkenny's hospital and schools. About 94 m², BER F, stove only."
   },
   "services": {
     "electricity": {
@@ -296,12 +318,16 @@
       "detail": "Unknown; not stated (rural, likely septic)"
     },
     "internet": {
-      "status": "unknown",
-      "detail": "Unknown; not stated"
+      "status": "likely",
+      "detail": "Fibre likely but not stated in the listing: NBI had passed 98.9% of Kilkenny's intervention-area premises by March 2026, and houses this close to the city may instead be on Eir's own rural FTTH. Confirm by Eircode.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "NBI or Eir (any retailer)"
     }
   },
   "groundFloorBedroom": {
     "status": "ok",
     "detail": "Single storey: all bedrooms are downstairs."
-  }
+  },
+  "floorM2": 94
 }

@@ -72,12 +72,12 @@
     {
       "text": "Village school 1.5 km",
       "weight": 2,
-      "detail": "Mullinahone NS, about 142 pupils; S N Cill Mheanman (28 pupils) at 1.7 km."
+      "detail": "Mullinahone NS (DEIS), about 137 pupils; Scoil Mhuire Cill Mheanman (32 pupils) at 1.7 km."
     },
     {
-      "text": "Properly rural, village close",
-      "weight": 2,
-      "detail": "Mullinahone has a Gala shop, post office and pubs about 1.5 km away."
+      "text": "Space, with a village close",
+      "weight": 1,
+      "detail": "3.4 acres on the edge of Mullinahone, which has a Gala shop, post office and pubs about 1.5 km away."
     },
     {
       "text": "Character for rental",
@@ -112,14 +112,24 @@
       "detail": "Tipperary University Hospital Clonmel or St Luke's, Kilkenny, each roughly 25–30 km."
     },
     {
-      "text": "Water, septic, flooding unknown",
+      "text": "Mill pond, flood and water unknowns",
       "weight": 2,
-      "detail": "Only electricity is mentioned. A mill with a pond needs a flood check, plus well and septic details."
+      "detail": "An old mill pond is on site: water safety for small kids and dogs, plus flood risk on the mill race (check floodinfo.ie). Water supply and septic aren't stated."
     },
     {
       "text": "Far from Dublin Airport",
       "weight": 1,
       "detail": "Roughly 2 hours by car."
+    },
+    {
+      "text": "Frontage onto the R690",
+      "weight": 1,
+      "detail": "The regional Mullinahone-Ninemilehouse road runs along one side; fence it for the dogs."
+    },
+    {
+      "text": "Strong secondaries 30 km away",
+      "weight": 1,
+      "detail": "Nearest is the new Coláiste Abhainn Rí in Callan (~10 km); St Kieran's, Kilkenny, is about 35 minutes."
     }
   ],
   "trips": [
@@ -129,11 +139,51 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "Mullinahone National School (S N Michil Naofa)",
       "candidates": [
-        "Mullinahone National School"
+        "Mullinahone National School, Mullinahone, Co. Tipperary",
+        "S N Michil Naofa, Mullinahone, Co. Tipperary"
       ],
-      "note": "About 142 pupils, 1.5 km. S N Cill Mheanman (1.7 km) and Poulacapple NS (4.9 km) are the fallbacks.",
-      "category": "Schools"
+      "note": "~137 pupils, Catholic, co-ed, DEIS, roll 20562S; ~1.5 km. Scoil Mhuire Cill Mheanman (32 pupils) is the 1.7 km alternative.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Catholic co-ed village school with DEIS status; no inspection report retrieved."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Coláiste Abhainn Rí",
+      "candidates": [
+        "Coláiste Abhainn Rí, Callan, Co. Kilkenny"
+      ],
+      "note": "Mixed, ~706 pupils, Catholic, non-fee-paying; ~10 km. Daft still lists the old Callan CBS and St Brigid's separately.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "New school formed in 2023 by merging Callan CBS (Coláiste Éamann Rís) and St Brigid's; no progression data yet under the new name, so this is a cautious middle rating."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "St Kieran's College",
+      "candidates": [
+        "St Kieran's College, College Road, Kilkenny"
+      ],
+      "note": "Boys only, ~830 pupils, non-fee-paying; ~28 km straight line, about 35 min.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "100% progression to third level in the 2023 feeder-school report (Kilkenny People/Irish Independent); large, non-fee-paying, not DEIS."
+      }
     },
     {
       "id": "shop",
@@ -174,7 +224,7 @@
         "The Stack of Barley, Mullinahone",
         "Fennelly's of Callan"
       ],
-      "note": "The Stack of Barley is the village pub; Fennelly's in Callan for a café meal.",
+      "note": "Brett's (The Stack of Barley) is the village pub; Fennelly's in Callan for food.",
       "category": "Eating out"
     },
     {
@@ -284,11 +334,11 @@
   ],
   "questions": [
     "Is the BER certificate available yet, and what heating system does the house have?",
-    "Is the house a protected structure, and has any work been done on it under planning?"
+    "The listing says it's a protected structure: what does its Record of Protected Structures entry cover, and is there a Section 57 declaration on what works are allowed?"
   ],
   "ai": {
-    "stars": 3.0,
-    "why": "A mill on 3.4 acres for €199k. Protected-structure restoration and no train make it a project."
+    "stars": 2.5,
+    "why": "A mill on 3.4 acres for €199k. Protected-structure restoration, a mill pond with small boys, and no train make it a project."
   },
   "services": {
     "electricity": {
@@ -304,8 +354,11 @@
       "detail": "Unknown; not stated"
     },
     "internet": {
-      "status": "unknown",
-      "detail": "Unknown; not stated"
+      "status": "likely",
+      "detail": "NBI fibre likely: NBI said in Dec 2023 that the 1,718-premises Mullinahone/Ballingarry/Cloneen deployment would be complete by early 2024 (Mullinoly isn't named). The listing doesn't mention broadband.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "NBI (any retailer)"
     }
   },
   "groundFloorBedroom": {

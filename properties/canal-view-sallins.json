@@ -66,12 +66,17 @@
     {
       "text": "Naas General 4 km",
       "weight": 2,
-      "detail": "24-hour ED for adults; Tallaght for children."
+      "detail": "24-hour ED, but only for ages 16+ (HSE). Children go to CHI at Tallaght (24-hour paediatric ED), about 20 km away."
     },
     {
       "text": "Inside the size band: 150 m²",
       "weight": 1,
       "detail": "Four doubles upstairs, one en suite; bathroom updated 2018."
+    },
+    {
+      "text": "Good boys' secondary 3 km away",
+      "weight": 1,
+      "detail": "Naas CBS (boys, 77% to third level in 2025) is on the Sallins Road; Clongowes Wood (fee-paying) is ~8 km."
     }
   ],
   "cons": [
@@ -83,7 +88,7 @@
     {
       "text": "Small garden for two vizslas",
       "weight": 3,
-      "detail": "Site size not stated; a south-facing back garden behind a semi, nowhere near an acre."
+      "detail": "Site size still not stated; a south-facing back garden with a long patio behind a semi in the village centre, nowhere near an acre. The canal towpath is the dog walk."
     },
     {
       "text": "Tight village-centre plot",
@@ -101,9 +106,9 @@
       "detail": "No energy rating; heating and insulation unknown, so budget a survey."
     },
     {
-      "text": "Semi-detached",
+      "text": "Semi-detached period house, probably protected",
       "weight": 1,
-      "detail": "Shared wall and less privacy than the brief's rural ideal."
+      "detail": "Attached to its neighbour since 1900. Recorded on the National Inventory of Architectural Heritage (Regional), and BER-exempt on sale, which suggests it's on Kildare's Record of Protected Structures; external changes would need planning consent."
     }
   ],
   "trips": [
@@ -113,11 +118,33 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "St Laurence's National School",
       "candidates": [
-        "St Laurence's National School, Sallins"
+        "St Laurence's National School, Sallins, Co. Kildare"
       ],
-      "note": "About 170 m, 652 pupils. Scoil Bhríde (1.9 km) and the Naas schools (3–4 km) are the fallbacks.",
-      "category": "Schools"
+      "note": "Co-ed Catholic NS, 646 pupils, non-DEIS; enrolment down 6% since 2019/20.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Large Catholic co-ed school, 646 pupils, non-DEIS (Scoilscout); a curriculum evaluation was published March 2023, but its findings couldn't be retrieved, so no verdict."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Naas CBS",
+      "candidates": [
+        "Naas CBS, Sallins Road, Naas, Co. Kildare"
+      ],
+      "note": "Boys' school, ~1,013 pupils, non-fee-paying, about 3 km; Naas Community College (mixed, 76%) and Clongowes Wood (fee-paying boys, 85%, ~8 km) are alternatives.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "77% progression to third level in the Irish Times 2025 feeder table (168 LC sits)."
+      }
     },
     {
       "id": "shop",
@@ -267,8 +294,8 @@
     "What is the site size, and where exactly are the boundaries?"
   ],
   "ai": {
-    "stars": 2.5,
-    "why": "Walk to the train in a canal village. €665k for a semi with a small garden."
+    "stars": 2.0,
+    "why": "Walk to the train in a canal village. €665k for a semi with a small garden and no space around it."
   },
   "services": {
     "electricity": {
@@ -284,8 +311,11 @@
       "detail": "Probably mains; not stated (in the village)"
     },
     "internet": {
-      "status": "unknown",
-      "detail": "Unknown; not stated"
+      "status": "likely",
+      "detail": "Fibre likely; SIRO lists Sallins as a live roll-out town, and the house is in the village centre (not stated in listing; Virgin Media cable possible but not verified).",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "Siro (also likely open eir)"
     }
   },
   "groundFloorBedroom": {

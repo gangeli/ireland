@@ -59,8 +59,8 @@
   "pros": [
     {
       "text": "€225k, far under budget",
-      "weight": 3,
-      "detail": "Stamp duty about €2,250. Leaves €250k+ for renovation and extension inside the €500k line."
+      "weight": 2,
+      "detail": "Stamp duty about €2,250. But purchase plus a realistic extension and refurb (rough €250–350k) lands at or above €500k, and takes a year or more."
     },
     {
       "text": "Ground-floor bedroom",
@@ -83,9 +83,9 @@
       "detail": "Borris has a Centra, the Step House Hotel and the Barrow Way; a short drive, possibly a long walk."
     },
     {
-      "text": "Rural, under Mount Leinster",
+      "text": "Space and views under Mount Leinster",
       "weight": 1,
-      "detail": "Properly rural setting near the Carlow–Wexford border."
+      "detail": "An acre in open country near the Carlow–Wexford border, 2 km from a good village."
     },
     {
       "text": "Grant potential",
@@ -97,7 +97,7 @@
     {
       "text": "Far too small",
       "weight": 3,
-      "detail": "Floor area not stated; the room sizes add up to roughly 75 m² (rough), about half the 140 m² minimum. Plan on a substantial extension, a rough €150–250k."
+      "detail": "Floor area not stated; the room sizes add up to about 74 m² net (roughly 85 m² gross), about half the 140 m² minimum. Plan on an extension of 60–80 m² plus a full refurb: a rough €250–350k at 2026 build costs."
     },
     {
       "text": "Needs modernisation throughout",
@@ -107,7 +107,7 @@
     {
       "text": "No train nearby",
       "weight": 2,
-      "detail": "Muine Bheag (Bagenalstown) is about 20 minutes away, with about 5 trains a day and 1h15–1h25 to Dublin Heuston."
+      "detail": "Muine Bheag (Bagenalstown) is about 20 minutes' drive, with about 7 trains a weekday and 1h15–1h25 to Dublin Heuston."
     },
     {
       "text": "ED about 30+ minutes",
@@ -123,6 +123,11 @@
       "text": "Well and septic",
       "weight": 1,
       "detail": "Private well and septic tank; test water quality and septic compliance."
+    },
+    {
+      "text": "Long time on the market",
+      "weight": 1,
+      "detail": "Listed May 2026, about 15,000 views, not sale agreed; ask what has put buyers off."
     }
   ],
   "trips": [
@@ -132,11 +137,35 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "Borris Mixed NS (Sacred Heart NS, Borris)",
       "candidates": [
-        "Borris National School, Co. Carlow"
+        "Borris National School, Borris, Co. Carlow",
+        "Sacred Heart National School, Borris, Co. Carlow"
       ],
-      "note": "1.9 km, 198 pupils. St Patrick's NS (3.3 km) and Newtown NS (5.1 km) are the fallbacks.",
-      "category": "Schools"
+      "note": "About 196 pupils, Catholic, co-ed, not DEIS.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "A gov.ie inspection report exists but couldn't be fetched (403). The school is not DEIS and has a stable roll of about 196, balanced by gender."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Borris College (Borris Vocational School)",
+      "candidates": [
+        "Borris Vocational School, Borris, Co. Carlow",
+        "Borris College, Borris, Co. Carlow"
+      ],
+      "note": "Mixed ETB school, about 2 km away, 558 pupils, non-fee-paying.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Over 80% progression to third level in the 2016 feeder tables (KCLR), enrolment growing (558) with a new ETB-funded extension; recent Irish Times figures could not be read."
+      }
     },
     {
       "id": "shop",
@@ -201,10 +230,10 @@
       "kind": "Small town",
       "candidates": [
         "Main Street, Bagenalstown",
-        "The Quay, New Ross"
+        "Main Street, Graiguenamanagh, Co. Kilkenny"
       ],
-      "note": "Bagenalstown for errands; New Ross the alternative.",
-      "title": "Bagenalstown",
+      "note": "Bagenalstown for errands; Graiguenamanagh is nearer for the basics.",
+      "title": "Main Street",
       "category": "Towns and cities"
     },
     {
@@ -259,7 +288,7 @@
       "candidates": [
         "Muine Bheag railway station, Bagenalstown"
       ],
-      "note": "Waterford–Heuston line. Drive here, then 1h15–1h25 to Dublin Heuston; about 5 trains a day.",
+      "note": "Waterford–Heuston line: drive here, then 1h15–1h25 to Heuston; about 7 trains a weekday.",
       "category": "Getting away"
     },
     {
@@ -305,8 +334,11 @@
       "detail": "Septic tank"
     },
     "internet": {
-      "status": "unknown",
-      "detail": "Unknown; not stated"
+      "status": "likely",
+      "detail": "Fibre likely. The house is 2 km from Borris, in NBI's Borris deployment area (800 premises opened for pre-orders in March 2023, build completing that year). Confirm on nbi.ie with R95 D6Y9; it may be open eir FTTH instead.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "NBI (any retailer)"
     }
   },
   "groundFloorBedroom": {

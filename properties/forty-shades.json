@@ -70,7 +70,7 @@
     {
       "text": "Village school 1.5 km away",
       "weight": 2,
-      "detail": "St Colmcille's NS, about 116 pupils."
+      "detail": "St Colmcille's NS, about 105-115 pupils, Catholic, co-ed."
     },
     {
       "text": "Right size: 172 m² plus attic",
@@ -133,6 +133,11 @@
       "text": "Own septic tank",
       "weight": 1,
       "detail": "Mains water, but drainage is its own septic tank: ask its age and certification."
+    },
+    {
+      "text": "Strong secondaries are 25 km away",
+      "weight": 2,
+      "detail": "Nearest is Grennan College, Thomastown (small, DEIS). Scoil Aireagail in Ballyhale (~15 km) has good progression; St Kieran's and Kilkenny College are in the city."
     }
   ],
   "trips": [
@@ -142,11 +147,51 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "St Colmcille's National School (S N Cholmcille)",
       "candidates": [
-        "St Colmcille's National School, Inistioge"
+        "St Colmcille's National School, Inistioge, Co. Kilkenny",
+        "S N Cholmcille, Inistioge, Co. Kilkenny"
       ],
-      "note": "The nearest school, about 116 pupils. Marymount NS (6.6 km) and St Mary's NS (7.9 km) are the fallbacks.",
-      "category": "Schools"
+      "note": "~104-115 pupils (Scoil Scout 2025/26: 104; Schooldays: 115), Catholic, co-ed, roll 17073V.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Small Catholic village school, not DEIS; no inspection report could be retrieved and no notable reputation either way found."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Grennan College",
+      "candidates": [
+        "Grennan College, Ladywell Street, Thomastown, Co. Kilkenny"
+      ],
+      "note": "Mixed, ~310-334 pupils, ETB/multi-denominational, DEIS, non-fee-paying, ~10 km by road.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "Small DEIS ETB school; Oct 2023 subject inspection rated teaching 'good, with some very good practice' but no published progression figure found; Irish Times shows ~310 pupils."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Scoil Aireagail",
+      "candidates": [
+        "Scoil Aireagail, Ballyhale, Co. Kilkenny"
+      ],
+      "note": "Mixed, ~200 pupils, KCETB, non-fee-paying; ~15 km by road via Knocktopher.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Small ETB school with historically very high CAO/progression rates (over 100% in 2016 KCLR report; +12 pts in 2023 report). For a Strong option, St Kieran's (boys) or Kilkenny College (mixed) are ~25 km in Kilkenny city."
+      }
     },
     {
       "id": "shop",
@@ -320,7 +365,10 @@
     },
     "internet": {
       "status": "ok",
-      "detail": "Eir fibre, 1 Gb"
+      "detail": "Eir fibre, 1 Gb; stated in the listing's features.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "Eir"
     }
   },
   "groundFloorBedroom": {

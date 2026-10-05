@@ -51,14 +51,14 @@
       "detail": "€1,568/m². Stamp duty about €3,700, leaving room in the budget for the refurbishment."
     },
     {
-      "text": "Direct train a 5-minute walk away",
+      "text": "Direct train a 10-minute walk away",
       "weight": 3,
-      "detail": "Monasterevin station: about 25 trains a day, 43–59 minutes to Dublin Heuston."
+      "detail": "The listing puts Monasterevin station about 800 m away; roughly 25 trains a day, 43–59 minutes to Dublin Heuston."
     },
     {
-      "text": "Three schools within 310 m",
+      "text": "Primary school for boys 310 m away",
       "weight": 2,
-      "detail": "St Evin's NS (60 m, 382 pupils), St Peter's NS (310 m, 231) and St John's NS (70 m, 44); St Paul's secondary is 390 m."
+      "detail": "St Evin's (60 m) takes boys only in junior and senior infants, so the boys would go to St Peter's Boys' NS (310 m, 239 pupils). St John's (70 m) is a 44-pupil Church of Ireland school. St Paul's secondary has moved to Moore Abbey, about 1 km, and sent 60% to third level in 2025."
     },
     {
       "text": "Right size: 236 m²",
@@ -100,7 +100,7 @@
     {
       "text": "Hemmed in by town",
       "weight": 1,
-      "detail": "Aerials show a big, wooded garden, but terraces and estates all round and a large building site next door (ask what's going up). Private, but no open land beyond the walls."
+      "detail": "Aerials show a big, wooded garden, but terraces and estates all round and a large building site next door (ask what's going up). Private, but no open land beyond the walls. Fine for the 'space' brief only inside the walls."
     },
     {
       "text": "Possible conservation constraints",
@@ -115,7 +115,12 @@
     {
       "text": "ED about 25–30 minutes",
       "weight": 1,
-      "detail": "Midland Regional Hospital Portlaoise or Naas General. See the 3 a.m. trip below."
+      "detail": "Midland Regional Hospital Portlaoise takes all ages. Naas General is 16+ only, so children can't go there."
+    },
+    {
+      "text": "Local secondary is middling",
+      "weight": 1,
+      "detail": "St Paul's (mixed, DEIS) sent 60% to third level in 2025; Ardscoil Rath Iomgháin in Rathangan (81%) is about 11 km."
     }
   ],
   "trips": [
@@ -125,11 +130,51 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "St Peter's National School",
       "candidates": [
-        "St Evin's National School, Monasterevin"
+        "St Peter's National School, Monasterevin, Co. Kildare",
+        "Scoil Naisiunta Naomh Pheadar, Monasterevin"
       ],
-      "note": "60 m from the house, 382 pupils. St Peter's NS (310 m) and St John's NS (70 m) are the fallbacks.",
-      "category": "Schools"
+      "note": "Boys-only Catholic NS (boys move here from St Evin's after senior infants); amalgamation with St Evin's into a new 24-classroom school was approved in 2021.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Catholic boys' school, 239 pupils, non-DEIS, stable enrolment (Scoilscout 2025/26); no inspection findings could be retrieved (gov.ie report pages blocked), so no quality verdict."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "St Paul's Secondary School",
+      "candidates": [
+        "St Paul's Secondary School, Moore Abbey Demesne, Monasterevin, Co. Kildare"
+      ],
+      "note": "Mixed, ~444 pupils, DEIS, non-fee-paying; new 850-pupil building at Moore Abbey Demesne, about 1-1.5 km south of the town centre.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "60% progression to third level in the Irish Times 2025 feeder table (86 LC sits), below the Kildare schools nearby; DEIS school (DEIS action-planning inspection, 2023)."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Ardscoil Rath Iomgháin",
+      "candidates": [
+        "Ardscoil Rath Iomgháin, Rathangan, Co. Kildare"
+      ],
+      "note": "Mixed KWETB community school, ~751 pupils, DEIS, non-fee-paying; about 11 km by road.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "81% progression to third level in the Irish Times 2025 feeder table (102 LC sits), well above St Paul's."
+      }
     },
     {
       "id": "shop",
@@ -179,10 +224,9 @@
       "label": "The 3 a.m. trip",
       "kind": "Emergency department",
       "candidates": [
-        "Midland Regional Hospital Portlaoise",
-        "Naas General Hospital"
+        "Midland Regional Hospital Portlaoise"
       ],
-      "note": "Nearest 24-hour emergency department by drive time.",
+      "note": "Nearest 24-hour ED and takes all ages; Naas is 16+ only.",
       "title": "Midland Regional Hospital Portlaoise",
       "category": "Health"
     },
@@ -298,8 +342,11 @@
       "detail": "Mains drainage"
     },
     "internet": {
-      "status": "unknown",
-      "detail": "Unknown; not stated"
+      "status": "likely",
+      "detail": "Fibre likely; SIRO says its FTTH is live in Monasterevin and the house is on Drogheda Street in the town centre (not stated in listing; vacant 2+ years, so a new connection order is needed).",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "Siro (also likely open eir)"
     }
   },
   "groundFloorBedroom": {

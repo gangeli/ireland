@@ -83,6 +83,16 @@
       "text": "Kilkenny 15 minutes",
       "weight": 2,
       "detail": "St Luke's 24-hour ED and Kilkenny station are both about 15 km."
+    },
+    {
+      "text": "Gated, with outbuildings and paddock",
+      "weight": 1,
+      "detail": "Electronic gates with intercom help keep the vizslas in; the outbuildings suit storage, a workshop or kennels."
+    },
+    {
+      "text": "Strong secondary 15 km",
+      "weight": 1,
+      "detail": "St Kieran's College, Kilkenny (boys, 100% to third level in 2023); the nearest, Coláiste Mhuire Johnstown, is a DEIS school."
     }
   ],
   "cons": [
@@ -124,11 +134,51 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "Freshford National School (Scoil Naomh Lachtain)",
       "candidates": [
-        "Freshford National School"
+        "Freshford National School, Freshford, Co. Kilkenny",
+        "Scoil Naomh Lachtain, Freshford, Co. Kilkenny"
       ],
-      "note": "About 201 pupils, 820 m. Clontubrid NS (2.1 km) and Clinstown NS (5.2 km) are the fallbacks.",
-      "category": "Schools"
+      "note": "201 pupils (2025/26), Catholic, co-ed, DEIS, roll 00796U; 820 m.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Catholic co-ed with DEIS status and enrolment growing about 6% since 2019; no inspection report could be retrieved."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Coláiste Mhuire",
+      "candidates": [
+        "Coláiste Mhuire, Johnstown, Co. Kilkenny"
+      ],
+      "note": "Mixed, ~660 pupils, KCETB, DEIS, non-fee-paying; ~13 km by road west.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "DEIS ETB community-style school; its progression rate rose 17 points in the 2023 feeder report, but no absolute figure was found."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "St Kieran's College",
+      "candidates": [
+        "St Kieran's College, College Road, Kilkenny"
+      ],
+      "note": "Boys only, ~830 pupils, non-fee-paying; ~15 km by road. Kilkenny College (mixed, Church of Ireland, boarding/day) is the co-ed option.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "100% progression to third level in the 2023 feeder-school report (Kilkenny People/Irish Independent); large, non-fee-paying, not DEIS."
+      }
     },
     {
       "id": "shop",
@@ -179,10 +229,9 @@
       "label": "The 3 a.m. trip",
       "kind": "Emergency department",
       "candidates": [
-        "St Luke's General Hospital, Kilkenny",
-        "Midland Regional Hospital Portlaoise"
+        "St Luke's General Hospital, Kilkenny"
       ],
-      "note": "Nearest 24-hour emergency department by drive time.",
+      "note": "St Luke's, Kilkenny: 24-hour ED, about 15 km.",
       "title": "St Luke's General Hospital",
       "category": "Health"
     },
@@ -193,10 +242,10 @@
       "label": "Errands in town",
       "kind": "Small town",
       "candidates": [
-        "Kilkenny Street, Castlecomer, Co. Kilkenny"
+        "Castle Street, Ballyragget, Co. Kilkenny"
       ],
-      "note": "Castlecomer: SuperValu, pharmacy, GP.",
-      "title": "Castlecomer",
+      "note": "Ballyragget: SuperValu, pharmacy; Kilkenny city for everything else.",
+      "title": "Castle Street",
       "category": "Towns and cities"
     },
     {
@@ -294,7 +343,10 @@
     },
     "internet": {
       "status": "ok",
-      "detail": "Virgin Media; fibre on the road"
+      "detail": "Virgin Media broadband, stated in the listing; fibre also on the road.",
+      "type": "Cable",
+      "speed": "up to 1 Gb",
+      "provider": "Virgin Media"
     }
   },
   "groundFloorBedroom": {

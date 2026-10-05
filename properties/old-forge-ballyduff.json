@@ -66,12 +66,12 @@
     {
       "text": "Village school 660 m away",
       "weight": 2,
-      "detail": "Ballyduff NS, about 71 pupils; Camolin NS (4.3 km) is the fallback."
+      "detail": "Ballyduff NS, 64 pupils (multi-grade classes); Camolin NS (4.3 km) is the fallback. Gorey Community School is the secondary, ~14 km."
     },
     {
-      "text": "Properly rural, already set up for dogs",
+      "text": "Private site already set up for dogs",
       "weight": 2,
-      "detail": "0.6 acres in open country with a dog pen and timber shed."
+      "detail": "0.6 acres, secluded and tree-lined, with a dog pen and timber shed."
     },
     {
       "text": "Character and kept up",
@@ -118,12 +118,17 @@
     {
       "text": "Train is a drive and infrequent",
       "weight": 1,
-      "detail": "Gorey station is about 15 minutes away, with roughly 6 trains a day and about 1h45 to Dublin Connolly."
+      "detail": "Gorey station about 15 minutes away; about 5 direct trains a day, fastest 1h43 to Connolly."
     },
     {
       "text": "Well, septic and radon",
       "weight": 1,
       "detail": "Private well and septic tank; the area is EPA high-radon, so test before buying (remediation a rough €800–2,000)."
+    },
+    {
+      "text": "Tiny kitchen and small rooms",
+      "weight": 2,
+      "detail": "Kitchen 2.7 × 2.1 m, sitting room 2.5 × 3.8 m; family life needs a new kitchen-living extension, not just more bedrooms."
     }
   ],
   "trips": [
@@ -133,11 +138,33 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "Ballyduff NS",
       "candidates": [
-        "Ballyduff National School, Camolin"
+        "Ballyduff National School, Ballyduff, Camolin, Co. Wexford"
       ],
-      "note": "660 m from the house, about 71 pupils. Camolin NS (4.3 km) and Ballyroebuck NS (5.6 km) are the fallbacks.",
-      "category": "Schools"
+      "note": "Co-ed, 64 pupils, 660 m.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Last listed inspection is a WSE-MLL follow-through (Feb 2017), findings not readable; very small (64 pupils, 32 boys/32 girls), probably 3 teachers with multi-grade classes."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Gorey Community School",
+      "candidates": [
+        "Gorey Community School, Esmonde Street, Gorey, Co. Wexford"
+      ],
+      "note": "Mixed, ~1,540 pupils, ~14 km; Creagh College (mixed ETB, 671) is also in Gorey.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Ireland's largest school (~1,540, mixed, free) with wide subject choice and a long good reputation; no recent progression % retrieved, so moderate confidence."
+      }
     },
     {
       "id": "shop",
@@ -175,10 +202,10 @@
       "label": "Dinner out",
       "kind": "Restaurant",
       "candidates": [
-        "Jacks Tavern, Camolin",
-        "Partridges Restaurant, Gorey"
+        "Partridge's Bistro, Main Street, Gorey, Co. Wexford",
+        "Jacks Tavern, Main Street, Camolin"
       ],
-      "note": "Jacks Tavern locally; Partridges in Gorey is the better-reviewed dinner.",
+      "note": "Jacks Tavern in Camolin for pub food; Partridge's Bistro in Gorey is the better-reviewed dinner.",
       "category": "Eating out"
     },
     {
@@ -188,10 +215,9 @@
       "label": "The 3 a.m. trip",
       "kind": "Emergency department",
       "candidates": [
-        "Wexford General Hospital",
-        "St Luke's General Hospital, Kilkenny"
+        "Wexford General Hospital"
       ],
-      "note": "Nearest 24-hour emergency department by drive time.",
+      "note": "Wexford General is the nearest 24-hour ED, about 35–40 minutes.",
       "title": "Wexford General Hospital",
       "category": "Health"
     },
@@ -309,7 +335,10 @@
     },
     "internet": {
       "status": "likely",
-      "detail": "Fibre reportedly available; not in the listing"
+      "detail": "Fibre likely; BuyerIQ's address report lists 'full fibre' at Y21 A8X6, consistent with NBI's rural rollout in north Wexford, though the listing itself doesn't mention broadband.",
+      "type": "Fibre",
+      "speed": "~500 Mb–1 Gb",
+      "provider": "NBI (any retailer)"
     }
   },
   "groundFloorBedroom": {

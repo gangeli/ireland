@@ -82,14 +82,19 @@
     {
       "text": "Train 6 km away",
       "weight": 1,
-      "detail": "Muine Bheag (Bagenalstown) station, about 8 Dublin trains a weekday, roughly 1h15 to Heuston."
+      "detail": "Muine Bheag (Bagenalstown) station: about 7 Dublin trains a weekday, roughly 1h15–1h25 to Heuston."
+    },
+    {
+      "text": "Good secondary 5 km away",
+      "weight": 1,
+      "detail": "Borris College, a mixed ETB school of 558 pupils with over 80% going to third level in 2016; Presentation/De La Salle in Bagenalstown (769, mixed) is the other choice."
     }
   ],
   "cons": [
     {
       "text": "Village is tiny",
       "weight": 2,
-      "detail": "Ballinkillen has a school, church, GAA pitch and a small shop; for anything else it's a 6–7 km drive to Bagenalstown or Borris."
+      "detail": "Ballinkillen has a school, church and GAA pitch; no trading shop could be confirmed. Anything else means a 5–7 km drive to Borris or Bagenalstown."
     },
     {
       "text": "Emergency department about 30 min",
@@ -97,9 +102,9 @@
       "detail": "St Luke's, Kilkenny is about 22 km as the crow flies; Wexford General and UH Waterford are 45+ km."
     },
     {
-      "text": "Only 8 trains a day",
+      "text": "Only about 7 trains a day",
       "weight": 1,
-      "detail": "Bagenalstown is on the Waterford line, so no frequent commuter service."
+      "detail": "Bagenalstown is on the Waterford line, so there's no frequent commuter service; Carlow (about 10 a day) is 20 km north."
     },
     {
       "text": "Oil heating",
@@ -110,11 +115,6 @@
       "text": "Private well and septic tank",
       "weight": 1,
       "detail": "Ask for water test results and the septic tank's age and compliance."
-    },
-    {
-      "text": "Only one listing photo seen",
-      "weight": 1,
-      "detail": "Condition and finish are hard to judge from what the fetch returned; check the full gallery and ask about the roof and windows."
     }
   ],
   "trips": [
@@ -124,11 +124,35 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "Baile an Chuilinn NS (Ballinkillen National School)",
       "candidates": [
-        "Ballinkillen National School, Co. Carlow"
+        "Ballinkillen National School, Ballinkillen, Co. Carlow",
+        "Baile An Chuilinn N S, Muinebeag, Co. Carlow"
       ],
-      "note": "About 990 m, 126 pupils. Borris NS and Drumphea NS (both 5.3 km) are the fallbacks.",
-      "category": "Schools"
+      "note": "126 pupils (64 boys, 62 girls), Catholic, co-ed, not DEIS, 6 teachers.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "A gov.ie inspection report exists but couldn't be fetched (403). Proxies are fine: not DEIS, roll up about 5% since 2019/20, pupil-teacher ratio 21:1."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Borris College (Borris Vocational School)",
+      "candidates": [
+        "Borris Vocational School, Borris, Co. Carlow",
+        "Borris College, Borris, Co. Carlow"
+      ],
+      "note": "Mixed ETB school, multi-denominational, non-fee-paying, 558 pupils.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Over 80% progression to third level in the 2016 feeder tables (KCLR), enrolment growing (558) with a new ETB-funded extension; recent Irish Times figures could not be read."
+      }
     },
     {
       "id": "shop",
@@ -252,7 +276,7 @@
       "candidates": [
         "Muine Bheag railway station, Bagenalstown"
       ],
-      "note": "Waterford–Heuston line. About 8 trains a weekday, roughly 1h15 to Heuston.",
+      "note": "Waterford–Heuston line: about 7 trains a weekday, 1h15–1h25 to Heuston.",
       "category": "Getting away"
     },
     {
@@ -295,8 +319,11 @@
       "detail": "Septic tank"
     },
     "internet": {
-      "status": "unknown",
-      "detail": "Unknown; not stated"
+      "status": "likely",
+      "detail": "NBI fibre likely. Ballinkillen was named in NBI's 2020 south Carlow survey, and the Borris deployment area (800 premises) opened for pre-orders in March 2023. Confirm on nbi.ie with R21 AD77.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "NBI (any retailer)"
     }
   },
   "groundFloorBedroom": {

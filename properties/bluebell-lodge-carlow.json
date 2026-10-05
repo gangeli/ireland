@@ -54,14 +54,9 @@
       "detail": "The floor plan shows a separate one-level cottage with its own bedrooms and bathroom: a ready-made ground-floor home for the parents."
     },
     {
-      "text": "Separate cottage could be the parents' annex",
-      "weight": 3,
-      "detail": "A detached 3-bed cottage on the same site; if any of it is single-storey it solves the summer-parents problem and lets out the rest of the year."
-    },
-    {
       "text": "Schools on the doorstep",
-      "weight": 2,
-      "detail": "Bishop Foley NS 240 m (195 pupils), St Joseph's NS 450 m, Scoil Mhuire Gan Smál 540 m."
+      "weight": 1,
+      "detail": "The walkable primaries are boys-only and DEIS: St Joseph's (juniors, 111) and Bishop Foley (seniors, 165), both with falling rolls; Scoil Mhuire Gan Smál is girls-only. Knockbeg (boys, 92% to third level) and Presentation Askea (mixed) are the strong secondaries."
     },
     {
       "text": "Walk into Carlow town",
@@ -107,8 +102,8 @@
     },
     {
       "text": "Built up on every side",
-      "weight": 1,
-      "detail": "Aerials show schools, car parks and estates around it and the railway behind; no open land nearby. Check traffic and train noise."
+      "weight": 2,
+      "detail": "Aerials show schools, car parks and estates around it and the railway behind; no open land nearby. Check traffic, school-run congestion and train noise."
     },
     {
       "text": "Two old buildings to maintain",
@@ -123,11 +118,50 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "Bishop Foley Memorial School",
       "candidates": [
-        "Bishop Foley National School, Carlow"
+        "Bishop Foley Memorial School, Station Road, Carlow"
       ],
-      "note": "About 240 m, 195 pupils. St Joseph's NS (450 m) and Scoil Mhuire Gan Smál (540 m) are the fallbacks.",
-      "category": "Schools"
+      "note": "165 boys, Catholic, DEIS, senior classes only; St Joseph's NS (111, DEIS) takes the juniors.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "A boys-only senior school with DEIS status and a roll down 34% since 2019/20 (scoilscout). Its junior feeder, St Joseph's NS, is also DEIS and falling (down 19%). The inspection report couldn't be read."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "St Mary's Academy CBS",
+      "candidates": [
+        "St Mary's Academy CBS, Station Road, Carlow"
+      ],
+      "note": "Boys, Catholic, DEIS, 367 pupils, a few hundred metres away.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "Over 80% progression in the 2016 tables (KCLR), but it's now a small DEIS boys' school (367) with 4.5 special classes, so its intake has changed."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "St Mary's Knockbeg College",
+      "candidates": [
+        "St Mary's Knockbeg College, Knockbeg, Co. Carlow"
+      ],
+      "note": "Boys, Catholic, non-fee-paying, 515 pupils, about 5 km north. Presentation College Askea (mixed, 802) is the co-ed choice.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "92% progression to third level in 2016, the top Carlow school in KCLR's report; roll up 17% since 2019/20, pupil-teacher ratio 13.9:1."
+      }
     },
     {
       "id": "shop",
@@ -298,8 +332,11 @@
       "detail": "Probably mains; not stated (in Carlow town)"
     },
     "internet": {
-      "status": "unknown",
-      "detail": "Unknown; not stated"
+      "status": "likely",
+      "detail": "Fibre or cable likely. This is central Carlow town, which has open eir FTTH, Siro and Virgin Media cable. Not stated in the listing; confirm with R93 RR83.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "Siro / open eir; Virgin Media cable"
     }
   },
   "groundFloorBedroom": {

@@ -63,7 +63,7 @@
     {
       "text": "24-hour ED in town",
       "weight": 3,
-      "detail": "Midland Regional Hospital Portlaoise, roughly 1.5 km, takes all ages."
+      "detail": "Midland Regional Hospital Portlaoise, roughly 1.5 km; a new ED extension with paediatric rooms opened May 2026. A downgrade was mooted in 2017 but never happened; 2026 reports of surgeons being redeployed to Tullamore are worth watching."
     },
     {
       "text": "Direct train to Heuston",
@@ -79,6 +79,11 @@
       "text": "Long private garden with vehicle access",
       "weight": 1,
       "detail": "Arched gated entrance, old stone shed; a rare yard for a town-centre house."
+    },
+    {
+      "text": "Secondary schools on foot",
+      "weight": 2,
+      "detail": "Dunamase College (mixed) 400 m and Portlaoise College 600 m; St Mary's CBS (boys, 839 pupils) 2.3 km."
     }
   ],
   "cons": [
@@ -95,7 +100,7 @@
     {
       "text": "Garden size not stated",
       "weight": 2,
-      "detail": "Described as very large for a townhouse, but it won't be an acre; check it holds two vizslas."
+      "detail": "The listing calls it a 'massive site' with a 'huge', very private rear garden and vehicle access, but gives no area; it won't be an acre. Ask for the folio map."
     },
     {
       "text": "130 m², under the 140 m² floor",
@@ -120,11 +125,50 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "Portlaoise Educate Together NS",
       "candidates": [
-        "Portlaoise Educate Together National School"
+        "Portlaoise Educate Together National School, Summerhill Downs, Stradbally Road, Portlaoise, Co. Laois"
       ],
-      "note": "About 310 m. Gaelscoil Phort Laoise (560 m) and Scoil Bhríde NS (730 m) are the fallbacks.",
-      "category": "Schools"
+      "note": "420 pupils, Educate Together, co-ed, non-DEIS; Daft says 310 m.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "No published inspection report found on gov.ie; 420 pupils (221 boys/199 girls), non-DEIS, multi-denominational, large and growing, which suggests demand but is not a quality verdict."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Dunamase College (Coláiste Dhún Másc)",
+      "candidates": [
+        "Dunamase College, Railway Street, Portlaoise, Co. Laois"
+      ],
+      "note": "Mixed ETB, 268 boys/286 girls, 400 m; some classes through Irish.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Newer LOETB mixed school (554 pupils, non-DEIS, free); no progression figure or inspection report retrieved; Laois county average progression was ~71% (2023)."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "St Mary's CBS",
+      "candidates": [
+        "St Mary's CBS, Borris Road, Portlaoise, Co. Laois"
+      ],
+      "note": "Boys only, 839 pupils, free, 2.3 km; Scoil Chríost Rí (girls, ~104-111%) is the town's top school but unusable for sons.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Established ERST boys' school, the largest in Laois (839 boys), with a solid local reputation; exact Irish Times progression % not retrievable (charts are JS-only), so 'Good' is moderate-confidence."
+      }
     },
     {
       "id": "shop",
@@ -178,7 +222,7 @@
         "Midland Regional Hospital Portlaoise",
         "Midland Regional Hospital Tullamore"
       ],
-      "note": "Portlaoise is the 24-hour ED, in town.",
+      "note": "Portlaoise has a 24-hour ED in town (new extension opened May 2026); Tullamore is the backup, about 35 minutes.",
       "title": "Midland Regional Hospital Portlaoise",
       "category": "Health"
     },
@@ -293,8 +337,11 @@
       "detail": "Probably mains; not stated (town centre)"
     },
     "internet": {
-      "status": "unknown",
-      "detail": "Unknown; not stated"
+      "status": "likely",
+      "detail": "Fibre or cable likely; the house is in Portlaoise town centre, which has open eir FTTH and Virgin Media cable coverage — listing says nothing, so confirm on the eircode R32 TF1P.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "open eir FTTH (Eir etc.) or Virgin Media cable"
     }
   },
   "groundFloorBedroom": {

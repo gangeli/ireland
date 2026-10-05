@@ -64,9 +64,9 @@
       "detail": "Leixlip Confey, on the Maynooth line: about 35–40 minutes to Dublin Connolly."
     },
     {
-      "text": "Primary schools about 1 km",
+      "text": "Schools close by, good secondary",
       "weight": 2,
-      "detail": "San Carlo Senior NS (960 m, 312 pupils) and San Carlo Junior NS (1.0 km, 263); Confey Community College is 1.4 km."
+      "detail": "San Carlo Senior NS (about 960 m, 301 pupils) and Junior NS (1.0 km, 265). Confey College (mixed, 1.4 km) sent 84% to third level in 2025."
     },
     {
       "text": "Fastest airport and Dublin access of the shortlist",
@@ -89,9 +89,14 @@
       "detail": "Commuter-belt Leixlip lets readily, year-round."
     },
     {
-      "text": "Space around it, despite the Leixlip address",
-      "weight": 2,
-      "detail": "Aerials show open fields on most sides and only a few scattered neighbours; Leixlip's estates are a field or more away. The 0.62 ac plot is the limit, not the setting."
+      "text": "Fields around it, for now",
+      "weight": 1,
+      "detail": "Aerials show open fields and few neighbours today. But the plot itself is zoned residential, and the Leixlip Local Area Plan's Confey Key Development Area plans at least 1,350 homes on the grassland on Leixlip's northern edge by the railway. The open setting may not last; check the LAP map against this plot."
+    },
+    {
+      "text": "No onward chain",
+      "weight": 1,
+      "detail": "Vacant and available immediately; with six months on the market, there's leverage on price."
     }
   ],
   "cons": [
@@ -124,6 +129,16 @@
       "text": "Long time on the market",
       "weight": 1,
       "detail": "Listed since 31 March 2026 with about 27,000 views; ask why it has not sold, and expect room to negotiate."
+    },
+    {
+      "text": "Mapped flood zone ~10 m away",
+      "weight": 2,
+      "detail": "A BuyerIQ property report says a mapped river flood zone lies about 10 m from the address. Check floodinfo.ie and get a buildings-insurance quote with flood cover before bidding."
+    },
+    {
+      "text": "Big development planned at Confey",
+      "weight": 2,
+      "detail": "The Leixlip LAP's Confey KDA (1,350+ homes, northern Leixlip, near the station) could bring years of construction and estate housing next door. Ask the council planning office what's zoned around Leavalley."
     }
   ],
   "trips": [
@@ -133,12 +148,35 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "San Carlo Senior National School",
       "candidates": [
-        "San Carlo Senior National School, Leixlip",
-        "San Carlo Junior National School, Leixlip"
+        "San Carlo Senior National School, Captain's Hill, Leixlip, Co. Kildare",
+        "San Carlo Junior National School, Confey, Leixlip"
       ],
-      "note": "About 1 km away. Scoil Chearbhaill Uí Dhálaigh (1.7 km) is the fallback.",
-      "category": "Schools"
+      "note": "Junior (infants to 2nd) and senior (3rd–6th) schools side by side about 1 km away; Scoil Bhríde (295) and Leixlip Educate Together (207) are alternatives.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Catholic, co-ed, non-DEIS; senior 301 pupils (3rd–6th), junior 265 (Scoilscout/Headstart); no inspection findings retrieved, so no verdict."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Confey College",
+      "candidates": [
+        "Confey College, Leixlip, Co. Kildare",
+        "Confey Community College, Leixlip"
+      ],
+      "note": "Mixed KWETB community college, ~900 pupils, about 1.4 km; Maynooth Post Primary (90%) is ~8 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "84% progression to third level in the Irish Times 2025 feeder table (128 LC sits), among the better non-fee-paying schools in Kildare."
+      }
     },
     {
       "id": "shop",
@@ -188,9 +226,9 @@
       "kind": "Emergency department",
       "candidates": [
         "Connolly Hospital Blanchardstown",
-        "Naas General Hospital"
+        "Children's Health Ireland at Temple Street"
       ],
-      "note": "Nearest 24-hour emergency department by drive time.",
+      "note": "Connolly for adults; children go to CHI Temple Street (24-hour paediatric ED), about 20 km.",
       "title": "Connolly Hospital Blanchardstown",
       "category": "Health"
     },
@@ -285,8 +323,8 @@
     "Getting away"
   ],
   "ai": {
-    "stars": 2.5,
-    "why": "Best Dublin and airport access, with fields around it. BER G and over budget."
+    "stars": 2.0,
+    "why": "Best Dublin and airport access, with fields around it for now. BER G, over budget, flood zone and zoning to check."
   },
   "services": {
     "electricity": {
@@ -302,8 +340,11 @@
       "detail": "Septic tank"
     },
     "internet": {
-      "status": "unknown",
-      "detail": "Unknown; not stated"
+      "status": "check",
+      "detail": "Fibre probable but check; SIRO says its FTTH is live in Leixlip and a BuyerIQ report flags 'fast broadband' at this address, but it's a rural-edge plot with its own road frontage, so confirm the eircode on siro.ie and the eir checker.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "Siro or open eir"
     }
   },
   "groundFloorBedroom": {

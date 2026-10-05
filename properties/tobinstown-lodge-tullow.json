@@ -18,7 +18,7 @@
   "floorM2": 228,
   "landHa": 1.28,
   "landAcres": 3.16,
-  "ber": "B",
+  "ber": "C3",
   "berKwh": 207.82,
   "heating": "Two solid-fuel stoves (no central heating system stated)",
   "listed": "2026-10-01",
@@ -67,19 +67,19 @@
       "detail": "About 2,450 sq ft, inside the 140–280 m² target; four bedrooms upstairs plus the ground-floor room."
     },
     {
-      "text": "BER B",
+      "text": "Tullow 6–7 km with everything",
       "weight": 1,
-      "detail": "208 kWh/m²/yr, better than most country houses at this price."
+      "detail": "SuperValu, Tesco, Aldi and Lidl, plus Tullow Community School (901 pupils, mixed, over 80% to third level in 2016)."
     },
     {
-      "text": "Tullow 5 km with everything",
+      "text": "Open land around it",
       "weight": 1,
-      "detail": "SuperValu, Tesco, Aldi and Lidl, plus Tullow Community School (871 pupils)."
+      "detail": "Open countryside between Tullow and Rathvilly; no estate neighbours."
     },
     {
-      "text": "Properly rural",
+      "text": "Stables, yard and paddock",
       "weight": 1,
-      "detail": "Open countryside off the Tullow–Rathvilly road; no suburban sprawl."
+      "detail": "Two stables, sheds, a yard with a crush and a gated paddock: good for dogs, and storage or workshop space."
     }
   ],
   "cons": [
@@ -96,7 +96,7 @@
     {
       "text": "Heating is two stoves only",
       "weight": 2,
-      "detail": "No oil, gas or heat pump is mentioned despite the B rating; ask what heats the bedrooms and water."
+      "detail": "BER C3 with no central heating, oil or heat pump mentioned; budget a rough €20–30k for a heat pump and radiators (before SEAI grants) if that's confirmed."
     },
     {
       "text": "School 4+ km away",
@@ -112,6 +112,11 @@
       "text": "Well and septic tank",
       "weight": 1,
       "detail": "Well pump replaced last year; ask for a water test and septic certification."
+    },
+    {
+      "text": "Former pub on two roads",
+      "weight": 1,
+      "detail": "A converted country pub with dual road frontage: check traffic on both roads, confirm residential planning and certification for the change of use, and check the boundary walls keep the dogs in."
     }
   ],
   "trips": [
@@ -121,11 +126,33 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "St Patrick's NS, Rathvilly",
       "candidates": [
-        "St Patrick's National School, Rathvilly"
+        "St Patrick's National School, Rathvilly, Co. Carlow"
       ],
-      "note": "About 4.2 km, 199 pupils. Ballyconnell NS (4.5 km, 203) and Tullow's schools (6 km) are the fallbacks.",
-      "category": "Schools"
+      "note": "About 200–207 pupils, Catholic, co-ed, DEIS, one special class.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "DEIS school with a stable roll (down 2% since 2019/20); the gov.ie inspection report couldn't be fetched."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Tullow Community School",
+      "candidates": [
+        "Tullow Community School, Tullow, Co. Carlow"
+      ],
+      "note": "Mixed, inter-denominational, non-fee-paying, 901 pupils, about 7 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Over 80% progression to third level in the 2016 feeder tables (KCLR); a large, growing mixed school (901). Recent Irish Times figures couldn't be read."
+      }
     },
     {
       "id": "shop",
@@ -176,12 +203,11 @@
       "label": "The 3 a.m. trip",
       "kind": "Emergency department",
       "candidates": [
-        "Naas General Hospital",
         "St Luke's General Hospital, Kilkenny",
-        "Midland Regional Hospital Portlaoise"
+        "Naas General Hospital"
       ],
-      "note": "Naas is adults only (16+); children go to St Luke's or Portlaoise.",
-      "title": "Naas General Hospital",
+      "note": "St Luke's takes all ages; Naas (closer) is adults 16+ only.",
+      "title": "St Luke's General Hospital",
       "category": "Health"
     },
     {
@@ -250,7 +276,7 @@
         "Carlow railway station",
         "Kildare railway station"
       ],
-      "note": "Carlow: about 8 trains a weekday, ~1h to Heuston. Kildare has far more trains but is a longer drive.",
+      "note": "Carlow: about 10 trains a weekday, ~1h to Heuston. Kildare has far more trains but is a longer drive.",
       "category": "Getting away"
     },
     {
@@ -277,7 +303,7 @@
   ],
   "ai": {
     "stars": 3.5,
-    "why": "Three acres, good BER, right size. Far from an ED, a station and schools."
+    "why": "Three acres, right size, a ground-floor room with a bathroom. BER C3 on stoves only, a former pub on two roads, far from an all-ages ED."
   },
   "services": {
     "electricity": {
@@ -293,8 +319,11 @@
       "detail": "Septic tank"
     },
     "internet": {
-      "status": "unknown",
-      "detail": "Unknown; not stated"
+      "status": "check",
+      "detail": "NBI fibre likely or imminent; NBI began building near Tullow in July 2025 and expects Carlow done by end-2026. Check R93 FK76 on nbi.ie.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "NBI (any retailer)"
     }
   },
   "groundFloorBedroom": {

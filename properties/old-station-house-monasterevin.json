@@ -60,7 +60,7 @@
     {
       "text": "Walk to everything",
       "weight": 3,
-      "detail": "Town centre, SuperValu, pubs, GP and pharmacy all on foot; St Peter's NS is 240 m and St Paul's secondary 240 m."
+      "detail": "Town centre, SuperValu, pubs, GP and pharmacy all on foot. St Peter's NS (boys) is about 240 m; St Paul's secondary has moved to Moore Abbey Demesne, roughly 1.3 km south."
     },
     {
       "text": "Character: c.1849 Gothic limestone",
@@ -68,9 +68,9 @@
       "detail": "The kind of period house the brief prizes, at 199 m², inside the 140–280 m² target."
     },
     {
-      "text": "Two 24-hour EDs within ~30 km",
+      "text": "24-hour ED within ~25 minutes",
       "weight": 2,
-      "detail": "Portlaoise ~20 km and Naas ~29 km as the crow flies."
+      "detail": "Portlaoise (~20 km) takes all ages. Naas (~29 km) is only for ages 16+, so for the boys the fallback is CHI Crumlin or Tallaght in Dublin."
     },
     {
       "text": "Strong letting prospect",
@@ -81,6 +81,11 @@
       "text": "Outbuildings and a sweeping drive",
       "weight": 1,
       "detail": "Room for a workshop or a future annex, subject to planning."
+    },
+    {
+      "text": "Zoned residential",
+      "weight": 1,
+      "detail": "The listing says the 0.52 acres are zoned residential with development potential (subject to planning): resale upside, or room for a separate granny flat."
     }
   ],
   "cons": [
@@ -110,14 +115,19 @@
       "detail": "On the market since 19 June 2026 with 14,000+ views; ask why, and whether there's room on price."
     },
     {
-      "text": "Rail line and canal next door",
-      "weight": 1,
-      "detail": "Expect train noise; check flood history at the canal harbour."
+      "text": "Beside a live platform",
+      "weight": 2,
+      "detail": "The house is the old station building, next to today's platform: 20+ passenger trains a weekday plus InterCity and freight passing, and commuters walking past the drive. Visit at rush hour. Also check flood history at the canal harbour."
     },
     {
-      "text": "Protected-structure status and services not stated",
+      "text": "Former 1849 station building, probably a protected structure",
+      "weight": 2,
+      "detail": "It's the old Monasterevin railway station, recorded on the National Inventory of Architectural Heritage (Regional). Being BER-exempt on sale suggests it's also on Kildare's Record of Protected Structures, which would mean planning consent for most changes, insulation and window work included. Confirm with the agent and the council."
+    },
+    {
+      "text": "Local secondary is middling",
       "weight": 1,
-      "detail": "Ask about RPS listing (limits on alterations), water, sewerage and broadband."
+      "detail": "St Paul's (mixed, DEIS) sent 60% to third level in 2025. Ardscoil Rath Iomgháin in Rathangan (81%) is about 11 km away."
     }
   ],
   "trips": [
@@ -127,11 +137,51 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "St Peter's National School",
       "candidates": [
-        "St Peter's National School, Monasterevin"
+        "St Peter's National School, Monasterevin, Co. Kildare",
+        "Scoil Naisiunta Naomh Pheadar, Monasterevin"
       ],
-      "note": "About 240 m. St John's NS (500 m) and St Evin's NS (570 m) are the fallbacks.",
-      "category": "Schools"
+      "note": "Boys-only Catholic NS (boys move here from St Evin's after senior infants); amalgamation with St Evin's into a new 24-classroom school was approved in 2021.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Catholic boys' school, 239 pupils, non-DEIS, stable enrolment (Scoilscout 2025/26); no inspection findings could be retrieved (gov.ie report pages blocked), so no quality verdict."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "St Paul's Secondary School",
+      "candidates": [
+        "St Paul's Secondary School, Moore Abbey Demesne, Monasterevin, Co. Kildare"
+      ],
+      "note": "Mixed, ~444 pupils, DEIS, non-fee-paying; new 850-pupil building at Moore Abbey Demesne, about 1-1.5 km south of the town centre.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "60% progression to third level in the Irish Times 2025 feeder table (86 LC sits), below the Kildare schools nearby; DEIS school (DEIS action-planning inspection, 2023)."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Ardscoil Rath Iomgháin",
+      "candidates": [
+        "Ardscoil Rath Iomgháin, Rathangan, Co. Kildare"
+      ],
+      "note": "Mixed KWETB community school, ~751 pupils, DEIS, non-fee-paying; about 11 km by road.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "81% progression to third level in the Irish Times 2025 feeder table (102 LC sits), well above St Paul's."
+      }
     },
     {
       "id": "shop",
@@ -182,9 +232,9 @@
       "kind": "Emergency department",
       "candidates": [
         "Midland Regional Hospital Portlaoise",
-        "Naas General Hospital"
+        "Children's Health Ireland at Crumlin"
       ],
-      "note": "Portlaoise is the closer 24-hour ED and takes all ages; Naas is adults only.",
+      "note": "Portlaoise is the nearest 24-hour ED and takes all ages; Naas is 16+ only, so for the boys the backup is CHI Crumlin.",
       "title": "Midland Regional Hospital Portlaoise",
       "category": "Health"
     },
@@ -283,8 +333,8 @@
     "Is there a bedroom on the ground floor, or a room that could be used as one? Could you send the floor plan?"
   ],
   "ai": {
-    "stars": 3.5,
-    "why": "Real character, 150 m from Dublin trains. Over budget, half an acre, ground-floor bedroom unconfirmed."
+    "stars": 3.0,
+    "why": "Real character beside the Dublin trains. Over budget, half an acre, ground-floor bedroom unconfirmed, likely protected."
   },
   "services": {
     "electricity": {
@@ -300,8 +350,11 @@
       "detail": "Probably mains; not stated (in town)"
     },
     "internet": {
-      "status": "unknown",
-      "detail": "Unknown; not stated"
+      "status": "likely",
+      "detail": "Fibre likely; SIRO's roll-out page says its FTTH is live in Monasterevin town, and this house is 600 m from the centre (not stated in listing; check the eircode on siro.ie).",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "Siro (also likely open eir)"
     }
   },
   "groundFloorBedroom": {

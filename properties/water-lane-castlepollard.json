@@ -54,8 +54,8 @@
     },
     {
       "text": "School on the doorstep",
-      "weight": 3,
-      "detail": "Castlepollard Mixed NS (163 pupils) is 160 m away; the community college is 1.1 km."
+      "weight": 2,
+      "detail": "Castlepollard Mixed NS (160 pupils, DEIS) is on the same street, 160 m; the community college (DEIS, 318) is 1.1 km. St Finian's in Mullingar (~20 km) is the stronger secondary."
     },
     {
       "text": "Walkable town",
@@ -117,11 +117,50 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "Castlepollard Mixed NS",
       "candidates": [
-        "Castlepollard Mixed National School"
+        "Castlepollard Mixed National School, Water Street, Castlepollard, Co. Westmeath"
       ],
-      "note": "About 163 pupils, 160 m. St Michael's NS (630 m) and Whitehall NS (4.3 km) are the fallbacks.",
-      "category": "Schools"
+      "note": "Catholic, co-ed, DEIS, 160 pupils, on the same street (160 m).",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Only a curriculum-evaluation report is listed on gov.ie (findings not readable); DEIS, 160 pupils (91 boys/69 girls), Catholic."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Castlepollard Community College",
+      "candidates": [
+        "Castlepollard Community College, Castlepollard, Co. Westmeath"
+      ],
+      "note": "Mixed ETB, DEIS, 318 pupils, 1.1 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "Small LWETB mixed DEIS school (318 pupils); no recent progression figure found; Westmeath average was ~75% (2023)."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "St Finian's College",
+      "candidates": [
+        "St Finian's College, Mullingar, Co. Westmeath"
+      ],
+      "note": "Mixed, ~800 pupils, free, ~20 km; Coláiste Mhuire (boys, 873) is the alternative.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Large mixed Catholic school (775–891 pupils), non-DEIS, long-standing Mullingar reputation; exact progression % not retrievable, so moderate confidence."
+      }
     },
     {
       "id": "shop",
@@ -159,10 +198,10 @@
       "label": "Dinner out",
       "kind": "Restaurant",
       "candidates": [
-        "Tom's Bar & Bistro, Castlepollard",
-        "Hotel Castlepollard"
+        "Tom's Bar & Bistro, Castle Varagh Hotel, Castlepollard",
+        "Castle Varagh Hotel, Castlepollard, Co. Westmeath"
       ],
-      "note": "Two food options in the town.",
+      "note": "Tom's Bistro in the Castle Varagh Hotel (ex-Hotel Castlepollard) on the square; Mullingar for more choice.",
       "category": "Eating out"
     },
     {
@@ -287,8 +326,11 @@
       "detail": "Probably mains; not stated (in town)"
     },
     "internet": {
-      "status": "unknown",
-      "detail": "Unknown; not stated"
+      "status": "likely",
+      "detail": "Fibre likely; NBI declared its Westmeath main build complete in July 2026 (12,000+ premises passed), and Castlepollard town is otherwise eir FTTH territory; not in the listing, so check eircode N91 HT38.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "open eir FTTH or NBI (any retailer)"
     }
   },
   "groundFloorBedroom": {

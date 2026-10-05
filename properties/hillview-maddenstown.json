@@ -76,9 +76,14 @@
       "detail": "1,790 sq ft, inside the 140–280 m² target."
     },
     {
-      "text": "Plenty of schools within 5 km",
+      "text": "Primary schools close, good secondaries a short drive away",
       "weight": 1,
-      "detail": "Ballysax NS 2.9 km (151 pupils), Suncroft NS 3 km, Kildare Town Educate Together 3.5 km."
+      "detail": "Ballysax NS 2.9 km (167 pupils), Suncroft NS 3 km, Kildare Town Educate Together 3.5 km. The nearest secondary, Curragh Community College, is weak (35% to third level), but Patrician Newbridge (boys, 77%), Cross and Passion Kilcullen (mixed, 82%) and Newbridge College (fee-paying, 98%) are within ~9 km."
+    },
+    {
+      "text": "Gated, with a big garage",
+      "weight": 1,
+      "detail": "Electric gates, an elevated site and a ~50 m² detached garage: secure for the dogs, and a workshop or store."
     }
   ],
   "cons": [
@@ -88,9 +93,9 @@
       "detail": "About 0.17 ha, under the 1-acre ideal; a decent yard rather than land."
     },
     {
-      "text": "Commercial yard next door",
+      "text": "Yard next door",
       "weight": 1,
-      "detail": "Aerials show farmland on most sides, so it isn't suburbia, but there's a yard and car park right beside the plot on the road. With 0.42 ac, ask what that neighbour is and how noisy."
+      "detail": "Aerials show farmland on most sides, but a yard and car park right beside the plot. Maddenstown is a horse-training and stud hub, so it may be a racing yard (speculation): horseboxes early in the morning rather than industry. Ask."
     },
     {
       "text": "Dated interior",
@@ -111,6 +116,11 @@
       "text": "Less charm than the brief's favourites",
       "weight": 1,
       "detail": "A tidy 1970s–80s-style bungalow rather than a period or striking modern house."
+    },
+    {
+      "text": "Curragh and racecourse traffic",
+      "weight": 1,
+      "detail": "About 1–2 km from Curragh Racecourse and near the army camp and its ranges: race-day traffic and occasional firing noise are worth asking about (unverified for this address)."
     }
   ],
   "trips": [
@@ -120,11 +130,50 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "St Brigid's National School, Ballysax",
       "candidates": [
-        "St Brigid's National School, Ballysax, The Curragh"
+        "St Brigid's National School, Ballysax, The Curragh, Co. Kildare"
       ],
-      "note": "Ballysax NS, about 2.9 km, 151 pupils. Suncroft NS (3 km) and Kildare Town Educate Together (3.5 km) are the fallbacks.",
-      "category": "Schools"
+      "note": "Co-ed Catholic NS, 167 pupils, one special class; Suncroft NS and Kildare Town Educate Together are the alternatives.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Catholic, co-ed, 167 pupils, non-DEIS, enrolment down ~5% since 2019/20 (Scoilscout); no inspection findings retrievable, so no quality verdict."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Curragh Community College",
+      "candidates": [
+        "Curragh Community College, McSwiney Road, Curragh Camp, Co. Kildare"
+      ],
+      "note": "Mixed KWETB school, 288 pupils and growing fast (+112% since 2019/20), DEIS.",
+      "category": "Schools",
+      "rating": {
+        "level": "Below average",
+        "basis": "35% progression to third level in the Irish Times 2025 feeder table (31 LC sits), the lowest in Kildare; DEIS."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Patrician Secondary School",
+      "candidates": [
+        "Patrician Secondary School, Newbridge, Co. Kildare"
+      ],
+      "note": "Boys' school about 7 km away; Cross and Passion College Kilcullen (mixed, 82%) is ~9 km and Newbridge College (fee-paying, mixed, 98%) ~7 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "77% progression to third level in the Irish Times 2025 feeder table (134 LC sits)."
+      }
     },
     {
       "id": "shop",
@@ -291,7 +340,10 @@
     },
     "internet": {
       "status": "ok",
-      "detail": "Broadband connected (type not stated)"
+      "detail": "Broadband connected (listing); NBI fibre opened for orders in the Curragh Camp area in July 2024.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "NBI (any retailer)"
     }
   },
   "groundFloorBedroom": {

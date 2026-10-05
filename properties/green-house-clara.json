@@ -60,9 +60,9 @@
       "detail": "On the green in a town of about 3,400: shops, pharmacies, GP, library, swimming pool."
     },
     {
-      "text": "Two primary schools under 1 km",
+      "text": "Boys' primary school 510 m",
       "weight": 2,
-      "detail": "St Francis NS 510 m (190 pupils), Clara Convent NS 730 m (183)."
+      "detail": "St Francis NS is effectively a boys' school (~183 pupils), ideal for two sons; the other town school, Scoil Bhríde (ex-Clara Convent, 730 m), is girls-only."
     },
     {
       "text": "Right size: 207 m²",
@@ -115,6 +115,16 @@
       "text": "Development land next door in the pitch",
       "weight": 1,
       "detail": "Lapsed permission for four houses on the site; check what neighbours might build and whether the garden stays intact."
+    },
+    {
+      "text": "Local secondary is small and DEIS",
+      "weight": 1,
+      "detail": "Ard Scoil Chiaráin Naofa (331 pupils) sent 70% to third level in 2018; Killina Presentation (90%) is about 8 km away."
+    },
+    {
+      "text": "Likely a protected structure",
+      "weight": 1,
+      "detail": "NIAH rates it Regional (c.1780); check Offaly's RPS. Protection limits insulation, windows and extension work."
     }
   ],
   "trips": [
@@ -124,11 +134,51 @@
       "when": "08:20",
       "label": "School run",
       "kind": "Primary school",
+      "title": "St Francis Boys' NS (Scoil Phroinsiais Naofa)",
       "candidates": [
-        "St Francis National School, Clara"
+        "St. Francis Boys National School, Clara, Co. Offaly",
+        "Scoil Phroinsiais Naofa, Clara, Co. Offaly"
       ],
-      "note": "About 510 m, 190 pupils. Clara Convent NS (730 m, 183) is the other in town; Tubber NS (4.9 km) the fallback.",
-      "category": "Schools"
+      "note": "Boys' NS, ~183 pupils, 510 m; fine for two sons.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Has gov.ie inspection reports but the page was not readable (403); ~183 pupils, effectively a boys' school (182 boys, 1 girl), Catholic."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Ard Scoil Chiaráin Naofa",
+      "candidates": [
+        "Ard Scoil Chiaráin Naofa, Frederick Street, Clara, Co. Offaly"
+      ],
+      "note": "Mixed ETB, DEIS, 331 pupils, 500 m.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "Small LOETB mixed DEIS school (331 pupils); 70% progression to third level in the 2018 Offaly table, below the county's better schools (Killina 90%)."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Killina Presentation Secondary School",
+      "candidates": [
+        "Killina Presentation Secondary School, Rahan, Tullamore, Co. Offaly"
+      ],
+      "note": "Mixed, 715 pupils, 90% to third level (2018), ~8 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Top Offaly school by progression in the 2018 table (90%); mixed, Catholic, free, non-DEIS, 715 pupils; school bus area covers west of Tullamore."
+      }
     },
     {
       "id": "shop",
@@ -278,8 +328,8 @@
     "Getting away"
   ],
   "ai": {
-    "stars": 2.0,
-    "why": "Walkable town with a train. No ground-floor bedroom or bathroom; over budget."
+    "stars": 2.5,
+    "why": "A walled 0.83 ac in a walkable town with a train. No ground-floor bedroom or bathroom; over budget."
   },
   "services": {
     "electricity": {
@@ -295,8 +345,11 @@
       "detail": "Probably mains; not stated (in Clara town)"
     },
     "internet": {
-      "status": "unknown",
-      "detail": "Unknown; not stated"
+      "status": "likely",
+      "detail": "Fibre likely; NBI switched on the townlands around Clara in June 2024 and Clara town is served by eir's FTTH network, but the listing says nothing, so check eircode R35 CH76.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "open eir FTTH (any retailer) in town; NBI around Clara"
     }
   },
   "groundFloorBedroom": {
