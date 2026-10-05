@@ -681,3 +681,6 @@ body.idx .idx-main[data-view="split"] { grid-template-columns: minmax(0, 1fr) mi
 .idx-sec-new span { color: var(--gorse); }
 .pin.is-new::before { content: "NEW"; position: absolute; top: -8px; right: -8px; font: 800 8.5px/1 var(--f-body); letter-spacing: .05em; color: #1d1a0c; background: var(--gorse); border: 1px solid #fff; border-radius: 3px; padding: 2px 3px; pointer-events: none; }
 .pin.is-new.dot::before { top: -10px; right: -12px; }
+/* Unrated pins recede a little so your rated houses stand out */
+.pin.unrated { opacity: .82; box-shadow: 0 1px 3px rgba(0,0,0,.2); }
+.pin.unrated:hover, .pin.unrated.hot, .pin.unrated.is-new { opacity: 1; }

@@ -151,7 +151,8 @@
     d.classList.toggle("out", out);
     d.classList.toggle("rated", !!mine && !out);
     d.classList.toggle("is-new", isNew(p));
-    d.style.setProperty("--pin", out ? "#8a948f" : mine ? MINE_COLORS[mine.stars] : "#3b6a7a");
+    d.classList.toggle("unrated", !mine && !out);
+    d.style.setProperty("--pin", out ? "#8a948f" : mine ? MINE_COLORS[mine.stars] : "#7d9299");
     d.title = mine ? `You rated it ${mine.stars} of 5` : "You haven't rated this yet";
   }
   function pin(p) {
@@ -185,7 +186,7 @@
     }
     const legend = el("div", { class: "pin-legend" }, el("span", { class: "pl-t", text: "Your rating" }),
       ...[1, 2, 3, 4, 5].map((n) => el("span", { class: "pl-i" }, el("i", { style: `background:${MINE_COLORS[n]}` }), document.createTextNode(String(n)))),
-      el("span", { class: "pl-i" }, el("i", { style: "background:#3b6a7a" }), document.createTextNode("not yet")));
+      el("span", { class: "pl-i" }, el("i", { style: "background:#7d9299" }), document.createTextNode("not yet")));
     map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(legend);
     // Declutter: place pins best-first; any pin that would overlap a placed one shrinks to a dot.
     const proj = new google.maps.OverlayView();
