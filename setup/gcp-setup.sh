@@ -7,6 +7,7 @@
 #
 # Prints the browser key at the end and writes it to config.js.
 set -euo pipefail
+export CLOUDSDK_CORE_DISABLE_PROMPTS=1
 
 PROJECT="${PROJECT:-ireland-7844}"
 KEY_NAME="house-days browser key"
@@ -59,7 +60,9 @@ fi
 
 # 3. APIs (enable is a no-op when already on)
 say "Enabling APIs"
-gcloud services enable --project="$PROJECT" apikeys.googleapis.com billingbudgets.googleapis.com
+for s in apikeys.googleapis.com billingbudgets.googleapis.com; do
+  gcloud services enable "$s" --project="$PROJECT" || warn "could not enable $s"
+done
 for s in "${SERVICES[@]}"; do
   if gcloud services enable "$s" --project="$PROJECT" >/dev/null 2>&1; then
     echo "   on: $s"
