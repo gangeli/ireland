@@ -88,9 +88,9 @@
       "detail": "About 0.17 ha, under the 1-acre ideal; a decent yard rather than land."
     },
     {
-      "text": "In-between location",
-      "weight": 2,
-      "detail": "Rural edge between Kildare town and Newbridge, near the Curragh Camp; not walkable to a village and not deeply rural."
+      "text": "Commercial yard next door",
+      "weight": 1,
+      "detail": "Aerials show farmland on most sides, so it isn't suburbia, but there's a yard and car park right beside the plot on the road. With 0.42 ac, ask what that neighbour is and how noisy."
     },
     {
       "text": "Dated interior",
@@ -274,7 +274,7 @@
   ],
   "ai": {
     "stars": 3.5,
-    "why": "Single storey near Kildare's trains at €475k. Under half an acre, in in-between country."
+    "why": "Single storey near Kildare's trains at €475k. Under half an acre, with farmland around but a yard next door."
   },
   "services": {
     "electricity": {

@@ -87,6 +87,11 @@
       "text": "Strong rental demand",
       "weight": 1,
       "detail": "Commuter-belt Leixlip lets readily, year-round."
+    },
+    {
+      "text": "Space around it, despite the Leixlip address",
+      "weight": 2,
+      "detail": "Aerials show open fields on most sides and only a few scattered neighbours; Leixlip's estates are a field or more away. The 0.62 ac plot is the limit, not the setting."
     }
   ],
   "cons": [
@@ -99,11 +104,6 @@
       "text": "BER G, extensive refurbishment",
       "weight": 3,
       "detail": "Listed as needing extensive work. Heat pump, insulation, windows, kitchen and baths: a rough €120–200k."
-    },
-    {
-      "text": "Suburban edge, not rural",
-      "weight": 2,
-      "detail": "Confey is a pocket of country surrounded by Leixlip estates; the brief dislikes in-between suburbia."
     },
     {
       "text": "0.62 acres, under the acre",
@@ -286,7 +286,7 @@
   ],
   "ai": {
     "stars": 2.5,
-    "why": "Best Dublin and airport access. Suburban, BER G and over budget."
+    "why": "Best Dublin and airport access, with fields around it. BER G and over budget."
   },
   "services": {
     "electricity": {
