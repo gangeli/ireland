@@ -137,12 +137,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "Mace Inver Freshford, Co. Kilkenny",
-        "Lynch's Mace Freshford",
-        "Freshford Post Office"
+        "Mace, Freshford, Co. Kilkenny R95 NC84",
+        "Lynch's Mace Inver, Freshford, Co. Kilkenny"
       ],
-      "note": "The Mace at the Inver filling station in the village, with a chipper next door.",
-      "title": "Freshford village shop",
+      "note": "The Mace at the Inver filling station in Freshford, about 1 km.",
+      "title": "Mace Freshford",
       "category": "Groceries"
     },
     {
@@ -152,12 +151,13 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "Lidl Waterford Road Kilkenny",
-        "Aldi Hebron Road Kilkenny",
-        "SuperValu Castlecomer"
+        "Dick's SuperValu, Castle Street, Ballyragget, Co. Kilkenny",
+        "Dunnes Stores, MacDonagh Junction, Dublin Road, Kilkenny",
+        "Aldi, Waterford Road, Kilkenny"
       ],
-      "note": "Kilkenny has the full range.",
-      "category": "Groceries"
+      "note": "Dick's SuperValu in Ballyragget, about 7 km; Kilkenny city's supermarkets are about 14 km.",
+      "category": "Groceries",
+      "title": "SuperValu Ballyragget"
     },
     {
       "id": "dinner",

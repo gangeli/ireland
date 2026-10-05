@@ -155,11 +155,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "grocery shop, Inistioge, Co. Kilkenny",
-        "Inistioge Post Office"
+        "Everyday Inistioge, Church Street, Inistioge, Co. Kilkenny",
+        "Inistioge Post Office, Church Street, Inistioge, Co. Kilkenny"
       ],
-      "note": "The village shop and post office.",
-      "title": "Inistioge village shop",
+      "note": "Everyday, the grocery shop on Church Street in Inistioge village, about 1.5 km away.",
+      "title": "Everyday Inistioge",
       "category": "Groceries"
     },
     {
@@ -169,12 +169,13 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "SuperValu Thomastown",
-        "Lidl Thomastown",
-        "Lidl New Ross"
+        "SuperValu, Dublin Road, Thomastown, Co. Kilkenny",
+        "Lidl, Logan Street, Thomastown, Co. Kilkenny",
+        "SuperValu Doran's, Main Street, Graiguenamanagh, Co. Kilkenny"
       ],
-      "note": "Thomastown has both a SuperValu and a Lidl.",
-      "category": "Groceries"
+      "note": "SuperValu and Lidl in Thomastown, about 8 km; Graiguenamanagh's SuperValu is a similar distance over the hill.",
+      "category": "Groceries",
+      "title": "SuperValu Thomastown"
     },
     {
       "id": "dinner",

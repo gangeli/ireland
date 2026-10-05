@@ -126,11 +126,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "Sallins Post Office",
-        "Lidl Sallins"
+        "Top Oil Marron's service station Main Street Sallins Co. Kildare",
+        "Totu Sallins Polish Grocery Clane Road Sallins Co. Kildare"
       ],
-      "note": "The village post office.",
-      "title": "Sallins village",
+      "note": "Marron's Top Oil forecourt shop on Main Street, Sallins, is a 3-minute walk (about 200 m).",
+      "title": "Marron's Top Oil, Sallins",
       "category": "Groceries"
     },
     {
@@ -140,11 +140,11 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "Lidl Sallins",
-        "Tesco Naas",
-        "Aldi Naas"
+        "Reilly's SuperValu The Waterways Sallins Co. Kildare",
+        "Lidl Main Street Sallins Co. Kildare",
+        "Tesco Extra Monread Road Naas Co. Kildare"
       ],
-      "note": "Lidl in the village; Naas has the full set.",
+      "note": "Reilly's SuperValu and Lidl are both in Sallins, about 300 m away (a 5-minute walk); Tesco Extra on Monread Road, Naas, is about 1 km.",
       "category": "Groceries"
     },
     {

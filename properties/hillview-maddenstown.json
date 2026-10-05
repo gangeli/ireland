@@ -133,10 +133,10 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "Centra Curragh Camp",
-        "Centra Kildare Town"
+        "Centra Curragh Camp Co. Kildare R56 AE83",
+        "Top Oil Chapmans Service Station Curragh Road Kildare"
       ],
-      "note": "Centra in the Curragh Camp.",
+      "note": "Centra in the Curragh Camp is about 2.6 km away, a short drive across the plains.",
       "title": "Centra Curragh",
       "category": "Groceries"
     },
@@ -147,11 +147,11 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "Tesco Kildare",
-        "Lidl Kildare",
-        "Aldi Kildare"
+        "Lidl Dublin Street Kildare Town Co. Kildare",
+        "ALDI Grey Abbey Road Kildare Town Co. Kildare",
+        "Tesco Superstore Monasterevin Road Kildare Town Co. Kildare"
       ],
-      "note": "Kildare town has Tesco, Lidl and Aldi; Newbridge has Dunnes and the Whitewater centre.",
+      "note": "Kildare town has Lidl (about 3.2 km), Aldi (3.5 km) and Tesco (4 km); Newbridge's Tesco and Dunnes are about 6 km.",
       "category": "Groceries"
     },
     {

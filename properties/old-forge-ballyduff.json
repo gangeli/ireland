@@ -146,10 +146,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "Lamberts Londis Camolin"
+        "Lambert's Londis Service Station, Camolin, Co. Wexford",
+        "Centra, Main Street, Ferns, Co. Wexford"
       ],
-      "note": "Camolin's shop and fuel.",
-      "title": "Camolin shop",
+      "note": "Lambert's Londis and filling station in Camolin, about 4 km south-east; Ballyduff itself has no shop that could be confirmed, and Centra Ferns (about 6 km) is the fallback.",
+      "title": "Lambert's Londis Camolin",
       "category": "Groceries"
     },
     {
@@ -159,11 +160,12 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "SuperValu Gorey",
-        "Tesco Gorey",
-        "Lidl Gorey"
+        "Tesco Extra, Paul Funge Boulevard, Gorey, Co. Wexford",
+        "Pettitt's SuperValu, Main Street, Gorey, Co. Wexford",
+        "O'Reilly's SuperValu, Carrigduff, Bunclody, Co. Wexford"
       ],
-      "note": "Gorey has the full set.",
+      "note": "Gorey, about 12 km east, has Tesco Extra, Pettitt's SuperValu, Lidl and Aldi; O'Reilly's SuperValu in Bunclody is a similar distance west.",
+      "title": "Tesco Extra Gorey",
       "category": "Groceries"
     },
     {

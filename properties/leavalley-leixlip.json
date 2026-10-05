@@ -147,11 +147,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "Spar Main Street Leixlip",
-        "Eurospar Barnhall Leixlip"
+        "River Forest Newsagency Riverforest Shopping Centre Captain's Hill Leixlip Co. Kildare",
+        "SPAR Main Street Leixlip Co. Kildare"
       ],
-      "note": "Leixlip Main Street shops.",
-      "title": "Leixlip shop",
+      "note": "River Forest Newsagency in the Riverforest centre, Confey, Leixlip, is about 900 m away, a 12-minute walk.",
+      "title": "River Forest Newsagency",
       "category": "Groceries"
     },
     {
@@ -161,10 +161,11 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "Aldi Pound Street Leixlip",
-        "Lidl Station Road Leixlip"
+        "SuperValu Riverforest Shopping Centre Captain's Hill Leixlip Co. Kildare",
+        "ALDI Pound Street Leixlip Co. Kildare",
+        "Lidl Station Road Leixlip Co. Kildare"
       ],
-      "note": "Both in Leixlip.",
+      "note": "Staunton's SuperValu in the Riverforest centre is about 900 m away; Aldi on Pound Street is 1.8 km and Lidl on Station Road 2.5 km, all in Leixlip.",
       "category": "Groceries"
     },
     {

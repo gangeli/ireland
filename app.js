@@ -9,7 +9,8 @@
   const SPEEDS = [5, 15, 30, 60, 120, 300, 600];
   const SWAP_MS = 110;            // fastest frame swap (~9 fps)
   const CACHE_DAYS = 7;
-  const CACHE_VER = "v2";
+  const CACHE_VER = "v3";
+  const hashStr = (s) => { let h = 5381; for (let i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) | 0; return (h >>> 0).toString(36); };
 
   const $ = (id) => document.getElementById(id);
   const params = new URLSearchParams(location.search);
@@ -137,7 +138,7 @@
     }
     const SV = [["electricity", "⚡", "Power"], ["water", "💧", "Water"], ["sewer", "🚽", "Sewer"], ["internet", "🌐", "Internet"]];
     const sv = P.services || {};
-    const svDd = el("dd", { class: "svc" });
+    const svDd = $("hero-services"); svDd.textContent = "";
     for (const [k, icon, name] of SV) {
       const v = sv[k] || { status: "unknown", detail: "Not stated" };
       svDd.append(el("div", { class: "svc-row svc-" + v.status, title: `${name}: ${v.detail}` },
@@ -145,7 +146,7 @@
         el("span", { class: "svc-name", text: name }),
         el("span", { class: "svc-val", text: v.detail.split(/[;,(]/)[0] })));
     }
-    box.append(el("dl", { class: "stat stat-svc" }, el("dt", { text: "Services" }), svDd));
+
 
     // Ledger, with a balance bar up top: total weight for vs against
     const sp = P.pros.reduce((a, b) => a + b.weight, 0), sc = P.cons.reduce((a, b) => a + b.weight, 0);
@@ -316,16 +317,14 @@
   /* ---------- ratings ---------- */
   function initRatings() {
     const R = window.HDRatings; if (!R) return;
-    const lab = () => {
-      const sum = R.summary(P.id), mine = R.mine(P.id);
-      $("ratelabel").textContent = mine ? `You: ${window.HDStarText(mine.stars)}` + (sum.n > 1 ? ` · avg ${sum.avg.toFixed(1)}` : "") : sum.n ? `Rate it · avg ${sum.avg.toFixed(1)} (${sum.n})` : "Rate it";
-    };
-    $("ratelink").addEventListener("click", (e) => { e.preventDefault(); window.HDRateDialog({ id: P.id, name: P.name, ai: P.ai }); });
+    $("hp-note").addEventListener("click", () => window.HDRateDialog({ id: P.id, name: P.name, ai: P.ai }));
     const badge = () => {
       const box = $("hero-scores"), cur = box.firstChild, fresh = window.HDScores(P);
       if (!cur || cur.dataset.sig !== fresh.dataset.sig) box.replaceChildren(fresh);
+      const mine = R.mine(P.id);
+      $("hp-note").textContent = mine && mine.note ? "Edit your note" : "Add a note";
     };
-    R.onChange(() => { lab(); badge(); }); lab(); badge(); R.refresh();
+    R.onChange(badge); badge(); R.refresh();
   }
 
   async function eurUsd() {
@@ -486,7 +485,7 @@
   const slim = (route) => ({ ...route, steps: route.steps.map((s) => ({ ...s, pts: s.pts.map(([a, b]) => [+a.toFixed(5), +b.toFixed(5)]) })) });
 
   async function resolveTrip(t) {
-    const ck = `hd:${CACHE_VER}:${PID}:${t.id}`;
+    const ck = `hd:${CACHE_VER}:${PID}:${t.id}:${hashStr(JSON.stringify(t.candidates))}`;
     const hit = load(ck);
     if (hit && Date.now() - hit.ts < CACHE_DAYS * 86400000) return hit;
     const depMs = departureFor(t);

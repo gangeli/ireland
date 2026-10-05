@@ -145,10 +145,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "Centra Borris"
+        "Centra, Main Street, Borris, Co. Carlow",
+        "Mace, Borris Service Station, Factory Cross, Borris, Co. Carlow"
       ],
-      "note": "The village shop on Main Street.",
-      "title": "Borris village shop",
+      "note": "Centra on Main Street in Borris, about 2 km.",
+      "title": "Centra Borris",
       "category": "Groceries"
     },
     {
@@ -158,11 +159,13 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "SuperValu Connolly's Bagenalstown",
-        "Lidl Bagenalstown"
+        "SuperValu Doran's, Main Street, Graiguenamanagh, Co. Kilkenny",
+        "Aldi, Old Creamery, Upper Main Street, Graiguenamanagh, Co. Kilkenny",
+        "Lidl, Royal Oak Road, Bagenalstown, Co. Carlow"
       ],
-      "note": "Bagenalstown has both.",
-      "category": "Groceries"
+      "note": "SuperValu and Aldi in Graiguenamanagh, about 7 km; Bagenalstown is about 13 km.",
+      "category": "Groceries",
+      "title": "SuperValu Graiguenamanagh"
     },
     {
       "id": "dinner",

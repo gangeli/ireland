@@ -133,11 +133,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "An Post Portlaoise",
-        "Brown's Grocers, Dublin Road, Portlaoise"
+        "Bosco's Gala, 30 Grattan Street, Portlaoise, Co. Laois",
+        "Mulhall's SuperValu, Kellyville Centre, Portlaoise, Co. Laois"
       ],
-      "note": "Walkable on Main Street.",
-      "title": "Portlaoise Main Street",
+      "note": "Bosco's Gala is a few doors down on Grattan Street in Portlaoise, a 1-minute walk.",
+      "title": "Bosco's Gala",
       "category": "Groceries"
     },
     {
@@ -147,12 +147,13 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "Tesco Extra Portlaoise",
-        "Lidl Portlaoise",
-        "Aldi Portlaoise"
+        "Mulhall's SuperValu, Kellyville Centre, Portlaoise, Co. Laois",
+        "Lidl, James Fintan Lalor Avenue, Portlaoise, Co. Laois",
+        "Tesco Extra, Laois Shopping Centre, James Fintan Lalor Avenue, Portlaoise, Co. Laois"
       ],
-      "note": "Tesco Extra, Lidl and Aldi cluster on James Fintan Lalor Avenue.",
-      "category": "Groceries"
+      "note": "Mulhall's SuperValu at Kellyville in Portlaoise is about 300 m away, a 5-minute walk, with Lidl, Tesco Extra, Aldi and Dunnes all within about 700 m.",
+      "category": "Groceries",
+      "title": "Mulhall's SuperValu"
     },
     {
       "id": "dinner",

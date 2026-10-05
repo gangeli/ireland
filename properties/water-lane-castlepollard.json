@@ -130,10 +130,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "Centra Castlepollard"
+        "Tesco Express, Castlepollard Shopping Centre, Church Street, Castlepollard, Co. Westmeath",
+        "Mace, Green Street, Castlepollard, Co. Westmeath"
       ],
-      "note": "Centra in the town.",
-      "title": "Castlepollard Centra",
+      "note": "Tesco Express in Castlepollard Shopping Centre on Church Street is about 300 m away, a 4-minute walk, with Mace on Green Street off the square about 400 m away.",
+      "title": "Tesco Express Castlepollard",
       "category": "Groceries"
     },
     {
@@ -143,11 +144,13 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "Lidl Dublin Road Mullingar",
-        "Tesco Mullingar"
+        "Cadden's SuperValu, The Square, Oldcastle, Co. Meath",
+        "Aldi, Green Road, Mullingar, Co. Westmeath",
+        "Tesco Superstore, Ashe Road, Mullingar, Co. Westmeath"
       ],
-      "note": "Mullingar has the full range of supermarkets.",
-      "category": "Groceries"
+      "note": "The nearest supermarket is Cadden's SuperValu in Oldcastle, about 13 km away, with Aldi, Tesco, Lidl and SuperValu in Mullingar at about 17 to 18 km.",
+      "category": "Groceries",
+      "title": "Cadden's SuperValu Oldcastle"
     },
     {
       "id": "dinner",

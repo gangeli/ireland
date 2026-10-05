@@ -140,10 +140,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "SPAR Monasterevin"
+        "Circle K Express Rathangan Road Monasterevin Co. Kildare",
+        "Fitzpatrick's New Lodge Spar Dublin Road Monasterevin Co. Kildare"
       ],
-      "note": "Walkable.",
-      "title": "SPAR Monasterevin",
+      "note": "The Circle K Express on Rathangan Road, Monasterevin, is about 650 m away, under a 10-minute walk.",
+      "title": "Circle K Express Monasterevin",
       "category": "Groceries"
     },
     {
@@ -153,10 +154,11 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "SuperValu Monasterevin",
-        "Tesco Kildare"
+        "McConville's SuperValu Monasterevin Shopping Centre Co. Kildare",
+        "Lidl Canal Road Portarlington Co. Laois",
+        "ALDI Main Street Portarlington Co. Laois"
       ],
-      "note": "McConville's SuperValu is in town; Tesco Kildare for a bigger shop.",
+      "note": "McConville's SuperValu in Monasterevin is about 600 m away; Lidl and Aldi in Portarlington are about 8 km, and Tesco Kildare about 10 km.",
       "category": "Groceries"
     },
     {

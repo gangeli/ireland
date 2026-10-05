@@ -137,10 +137,10 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "Spar Express Callan Road Kilkenny"
+        "SPAR Express, Callan Road, Sugarloafhill, Kilkenny"
       ],
-      "note": "The nearest convenience shop, on the way into town.",
-      "title": "Callan Road Spar",
+      "note": "SPAR Express at the filling station on the Callan Road into Kilkenny, about 3 km.",
+      "title": "SPAR Express Callan Road",
       "category": "Groceries"
     },
     {
@@ -150,12 +150,13 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "Lidl Waterford Road Kilkenny",
-        "Aldi Hebron Road Kilkenny",
-        "SuperValu Callan"
+        "Aldi, Waterford Road, Kilkenny",
+        "Lidl, Waterford Road, Loughboy, Kilkenny",
+        "SuperValu, Loughboy Shopping Centre, Kilkenny"
       ],
-      "note": "Kilkenny supermarkets are about 10 minutes away.",
-      "category": "Groceries"
+      "note": "Aldi and Lidl on the Waterford Road and SuperValu in Loughboy, all about 4 to 5 km.",
+      "category": "Groceries",
+      "title": "Aldi Waterford Road"
     },
     {
       "id": "dinner",

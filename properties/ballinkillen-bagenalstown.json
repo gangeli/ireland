@@ -137,11 +137,12 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "shop, Ballinkillen, Co. Carlow",
-        "SuperValu Bagenalstown"
+        "Mace, Borris Service Station, Factory Cross, Borris, Co. Carlow",
+        "Centra, Main Street, Borris, Co. Carlow",
+        "SPAR, Church Street, Bagenalstown, Co. Carlow"
       ],
-      "note": "Ballinkillen has a small shop; otherwise Bagenalstown.",
-      "title": "Ballinkillen shop",
+      "note": "The Mace at the Factory Cross filling station in Borris, about 5 km; no shop in Ballinkillen could be confirmed as trading.",
+      "title": "Mace Borris",
       "category": "Groceries"
     },
     {
@@ -151,12 +152,13 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "SuperValu Bagenalstown",
-        "Aldi Bagenalstown",
-        "Lidl Bagenalstown"
+        "Lidl, Royal Oak Road, Bagenalstown, Co. Carlow",
+        "Aldi, Bolgers Yard, The Parade, Bagenalstown, Co. Carlow",
+        "SuperValu Connolly's, Pump Street, Bagenalstown, Co. Carlow"
       ],
-      "note": "Bagenalstown has a SuperValu, Aldi and Lidl.",
-      "category": "Groceries"
+      "note": "Bagenalstown has a Lidl, an Aldi and a SuperValu, all about 6 to 7 km.",
+      "category": "Groceries",
+      "title": "Lidl Bagenalstown"
     },
     {
       "id": "dinner",

@@ -134,11 +134,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "Mace, Rathvilly",
-        "SuperValu Tullow"
+        "Brennan's Centra, Rathvilly, Co. Carlow",
+        "Centra, The Square, Tullow, Co. Carlow"
       ],
-      "note": "Mace at The Corner House, Rathvilly.",
-      "title": "Mace Rathvilly",
+      "note": "Brennan's Centra (with the post office) in Rathvilly, about 4.5 km north; Centra on the Square in Tullow is the fallback at about 6.5 km.",
+      "title": "Brennan's Centra Rathvilly",
       "category": "Groceries"
     },
     {
@@ -148,11 +148,12 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "SuperValu Tullow",
-        "Tesco Tullow",
-        "Aldi Tullow"
+        "Aldi, Dublin Road, Tullow, Co. Carlow",
+        "Hickson's SuperValu, Bridge Street, Tullow, Co. Carlow",
+        "Tesco Superstore, Abbey Street, Tullow, Co. Carlow"
       ],
-      "note": "Tullow has SuperValu, Tesco, Aldi and Lidl.",
+      "note": "Tullow, about 6 km south-west, has Aldi, SuperValu, Tesco and Lidl.",
+      "title": "Aldi Tullow",
       "category": "Groceries"
     },
     {

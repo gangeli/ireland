@@ -137,10 +137,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "Centra Clara"
+        "Centra, Main Street, Clara, Co. Offaly",
+        "Londis, Bridge Street, Clara, Co. Offaly"
       ],
-      "note": "Centra on Main Street.",
-      "title": "Clara Main Street",
+      "note": "Centra on Main Street in Clara is about 150 m away, a 2-minute walk, with Londis on Bridge Street just beyond it.",
+      "title": "Centra Clara",
       "category": "Groceries"
     },
     {
@@ -150,12 +151,13 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "Tesco Extra Tullamore",
-        "Aldi Tullamore",
-        "Lidl Tullamore"
+        "Buckley's SuperValu, Main Street, Moate, Co. Westmeath",
+        "Dunnes Stores, Bridge Street, Tullamore, Co. Offaly",
+        "Lidl, Church Road, Tullamore, Co. Offaly"
       ],
-      "note": "Tullamore has the big supermarkets, about 12 km.",
-      "category": "Groceries"
+      "note": "Clara has no supermarket, so the nearest is Buckley's SuperValu in Moate, about 9 km away, with Dunnes, Lidl, Tesco Extra and Aldi in Tullamore at about 11 to 13 km.",
+      "category": "Groceries",
+      "title": "Buckley's SuperValu Moate"
     },
     {
       "id": "dinner",

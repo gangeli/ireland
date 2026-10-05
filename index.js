@@ -81,7 +81,7 @@
             el("div", { class: "ic-titleline" },
               el("a", { class: "ic-name", href, text: p.name }),
               el("span", { class: "ic-area", title: p.area || p.address || "", text: (p.area || p.address || "").split(",").map((x) => x.trim()).filter((x) => x && x.toLowerCase() !== p.name.toLowerCase()).join(", ") }),
-              el("span", { class: "status " + statusClass(lb), text: lb, title: blend(p) != null ? `Quality ${blend(p).toFixed(2)}` : "" })),
+              el("span", { class: "status " + statusClass(lb), text: lb, title: blend(p) != null ? `All ratings ${blend(p).toFixed(2)}` : "" })),
             el("p", { class: "ic-line" }, price, facts ? el("span", { class: "ic-facts", text: facts }) : null),
             p.tagline ? el("p", { class: "ic-tag", text: p.tagline }) : null),
           scoresBadge(p)));
@@ -193,7 +193,7 @@
       for (const p of props) {
         const chip = document.querySelector(`#ic-${CSS.escape(p.id)} .status`);
         if (chip && chip.textContent !== label(p)) { chip.textContent = label(p); chip.className = "status " + statusClass(label(p)); }
-        if (chip) chip.title = blend(p) != null ? `Quality ${blend(p).toFixed(2)}` : "";
+        if (chip) chip.title = blend(p) != null ? `All ratings ${blend(p).toFixed(2)}` : "";
         if (markers[p.id]) paintPin(markers[p.id].content, p);
       }
       // update ratings in place so cards don't jump while you rate

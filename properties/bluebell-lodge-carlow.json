@@ -136,11 +136,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "Carlow Post Office, Kennedy Avenue",
-        "Tesco Carlow Fairgreen"
+        "Rath's Londis Plus, 4 Pollerton Road, Carlow",
+        "Raths Londis, Pollerton Road, Carlow, R93 V6P5"
       ],
-      "note": "Carlow's main post office, in the town centre.",
-      "title": "Carlow town centre",
+      "note": "Rath's Londis Plus on Pollerton Road, about 0.8 km away in Carlow town.",
+      "title": "Rath's Londis Plus",
       "category": "Groceries"
     },
     {
@@ -150,11 +150,12 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "Tesco Carlow Fairgreen",
-        "Lidl Tullow Road Carlow",
-        "Aldi Carlow"
+        "Tesco, Fairgreen Shopping Centre, Barrack Street, Carlow",
+        "Aldi, Hanover Road, Carlow",
+        "Arthurs' SuperValu, Sandhills Shopping Centre, Hacketstown Road, Carlow"
       ],
-      "note": "Tesco in the Fairgreen centre; Lidl and Aldi on the edges of town.",
+      "note": "All in Carlow town: Tesco in the Fairgreen centre about 1 km away, Aldi on Hanover Road and Arthurs' SuperValu at Sandhills both about 1.2 km.",
+      "title": "Tesco Carlow Fairgreen",
       "category": "Groceries"
     },
     {

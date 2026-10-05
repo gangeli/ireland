@@ -142,11 +142,11 @@
       "label": "Milk and the paper",
       "kind": "Village shop",
       "candidates": [
-        "Lonergan's Gala, Mullinahone",
-        "Mullinahone Post Office"
+        "Lonergan's, Carrick Street, Mullinahone, Co. Tipperary",
+        "Lonergans Gala, Carrick Street, Mullinahone, Co. Tipperary"
       ],
-      "note": "The village shop and post office.",
-      "title": "Mullinahone village shop",
+      "note": "Lonergan's family grocery, newsagent and deli on Carrick Street in Mullinahone village, about 1.5 km away.",
+      "title": "Lonergan's of Mullinahone",
       "category": "Groceries"
     },
     {
@@ -156,11 +156,12 @@
       "label": "The big shop",
       "kind": "Supermarket",
       "candidates": [
-        "SuperValu Callan",
-        "Aldi Callan",
-        "Lidl Clonmel"
+        "SuperValu, Green Street, Callan, Co. Kilkenny",
+        "Aldi, Chapel Lane, Callan, Co. Kilkenny",
+        "SuperValu, Greystone Street, Carrick-on-Suir, Co. Tipperary"
       ],
-      "note": "Callan has both a SuperValu and an Aldi.",
+      "note": "Callan, about 9 km east, has a SuperValu on Green Street and an Aldi on Chapel Lane; Carrick-on-Suir (about 18 km south) has the full set.",
+      "title": "SuperValu Callan",
       "category": "Groceries"
     },
     {
