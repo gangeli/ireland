@@ -1,0 +1,276 @@
+{
+  "id": "parochial-house-monasterevin",
+  "name": "Parochial House",
+  "address": "Drogheda Street, Monasterevin, Co. Kildare",
+  "eircode": "W34 AV67",
+  "lat": 53.140695,
+  "lng": -7.061986,
+  "listingUrl": "https://www.daft.ie/for-sale/parochial-house-drogheda-street-monasterevin-co-kildare/6672709",
+  "status": "Considering",
+  "added": "2026-10-04",
+  "area": "Monasterevin, Co. Kildare",
+  "agent": "Mark Neylon, Jordan Auctioneers",
+  "price": 370000,
+  "type": "Detached Victorian house",
+  "beds": 4,
+  "bedsNote": "+ first-floor office; three ground-floor reception rooms, one convertible to a bedroom",
+  "baths": 2,
+  "floorM2": 236,
+  "landHa": 0.32,
+  "landAcres": 0.8,
+  "ber": "Exempt",
+  "heating": "Solid fuel (back-boiler stove in dining room, Stanley stove in sitting room)",
+  "listed": "2026-09-16",
+  "views": 13403,
+  "stampDuty": 3700,
+  "tagline": "A mid-Victorian former parochial house on 0.8 acres in the middle of Monasterevin, a five-minute walk from a direct train to Dublin; vacant two years and in need of refurbishment.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIyXC8zXC8yM2VhYzY1ZS00MTJhLTRhMTAtYjc1ZS03Yjk4ZmUzMjcwNzcuanBnIn0=?signature=5f74718e4733484f9fed85466be550bbf795becd44b783820b854dd16ad2b86a",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjNcLzRcLzM0YWQ2ODdjLTljNGYtNDY3ZS1iY2Y1LTY2Yzg2YzUyZTIzZS5qcGcifQ==?signature=067a9ea50211d8ebf61cc2365c0f40c5dca4c4cf7def0eccd1715be69e916ef9",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjRcLzRcLzQ0MDBjYWU1LTI0NGEtNDU1MC1iMDQ3LWE2NTA5MjU2N2I5ZC5qcGcifQ==?signature=112ba5625fd8b7243e70c06bbd8eb56e29f1ed930553ba42faf2f341a0b67053",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImNcLzdcL2M3YjlkOTA4LTFmNmEtNDdjNC1hOWY3LTFhMzRlZTliYWUyYi5qcGcifQ==?signature=9c0f3cba5196ea7aeeb9b6d605a24c913d398cbd61566564ea3e6a1ef5c64e5d",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€370k, well under €500k",
+      "weight": 3,
+      "detail": "€1,568/m². Stamp duty about €3,700, leaving room in the budget for the refurbishment."
+    },
+    {
+      "text": "Direct train a 5-minute walk away",
+      "weight": 3,
+      "detail": "Monasterevin station: about 25 trains a day, 43–59 minutes to Dublin Heuston."
+    },
+    {
+      "text": "Three schools within 310 m",
+      "weight": 2,
+      "detail": "St Evin's NS (60 m, 382 pupils), St Peter's NS (310 m, 231) and St John's NS (70 m, 44); St Paul's secondary is 390 m."
+    },
+    {
+      "text": "Right size: 236 m²",
+      "weight": 2,
+      "detail": "About 2,525 sq ft over two floors, inside the 140–280 m² target."
+    },
+    {
+      "text": "Walk to everything in town",
+      "weight": 2,
+      "detail": "Town-centre address on Drogheda Street: SuperValu, pubs, pharmacy and the canal on foot."
+    },
+    {
+      "text": "Period character",
+      "weight": 1,
+      "detail": "Mid-Victorian, full-height canted bay, marble fireplaces in five rooms, shutters, slate-roofed outbuilding and garage."
+    },
+    {
+      "text": "Mains water and drainage; grant potential",
+      "weight": 1,
+      "detail": "No well or septic to worry about. Vacant 2+ years, so it may qualify for the Vacant Property Refurbishment Grant (up to €50k)."
+    }
+  ],
+  "cons": [
+    {
+      "text": "No ground-floor bedroom yet",
+      "weight": 3,
+      "detail": "All four bedrooms are upstairs. The ground-floor family room (4.26 × 4.23 m) or living room (4.25 × 4.08 m) could become one; there is already a ground-floor shower room (4.24 × 3.76 m)."
+    },
+    {
+      "text": "Needs full refurbishment",
+      "weight": 3,
+      "detail": "Vacant for over two years, BER-exempt, solid-fuel stoves only. A rough €150–250k for heating, insulation, wiring, kitchen and baths; get a survey."
+    },
+    {
+      "text": "0.8 acres, short of the 1-acre ideal",
+      "weight": 2,
+      "detail": "Extensive gardens for a town house, but under the acre wanted for two vizslas. Check boundaries and fencing."
+    },
+    {
+      "text": "Town house, not rural",
+      "weight": 1,
+      "detail": "A market town of about 4,000 on a street front; walkable, but it is a town rather than a village or countryside."
+    },
+    {
+      "text": "Possible conservation constraints",
+      "weight": 1,
+      "detail": "Drogheda Street has several buildings on the National Inventory of Architectural Heritage; check whether the house is a protected structure before planning changes."
+    },
+    {
+      "text": "Small kitchen",
+      "weight": 1,
+      "detail": "Kitchen is 4.25 × 2.43 m; expect to rework the layout with the dining room."
+    },
+    {
+      "text": "ED about 25–30 minutes",
+      "weight": 1,
+      "detail": "Midland Regional Hospital Portlaoise or Naas General. See the 3 a.m. trip below."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "St Evin's National School, Monasterevin"
+      ],
+      "note": "60 m from the house, 382 pupils. St Peter's NS (310 m) and St John's NS (70 m) are the fallbacks.",
+      "category": "Schools"
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "Fitzpatrick's Spar Monasterevin"
+      ],
+      "note": "Spar and Texaco in town.",
+      "title": "Monasterevin shop",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "McConville's SuperValu Monasterevin",
+        "Tesco Kildare Monasterevin Road"
+      ],
+      "note": "SuperValu is in town; Tesco Kildare is the bigger alternative.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "The Venice of Ireland Tavern, Monasterevin",
+        "Hazel Hotel, Monasterevin"
+      ],
+      "note": "Monasterevin is thin on restaurants; Kildare Village and Newbridge are the step up.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "Midland Regional Hospital Portlaoise",
+        "Naas General Hospital"
+      ],
+      "note": "Nearest 24-hour emergency department by drive time.",
+      "title": "Midland Regional Hospital Portlaoise",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Market Square, Kildare",
+        "Main Street, Newbridge"
+      ],
+      "note": "Kildare town and Newbridge for bigger errands; Monasterevin covers the basics.",
+      "title": "Kildare town",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "Carlow town centre"
+      ],
+      "note": "Kilkenny is the nearest city outside Dublin; Carlow is closer.",
+      "title": "Kilkenny",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car. The train from Monasterevin is the easier way in.",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Monasterevin railway station"
+      ],
+      "note": "Dublin–Portlaoise/Cork line. Walk here, then 43–59 minutes to Dublin Heuston.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

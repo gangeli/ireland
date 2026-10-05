@@ -1,0 +1,275 @@
+{
+  "id": "tobinstown-lodge-tullow",
+  "name": "Tobinstown Lodge",
+  "address": "Tobinstown, Tullow, Co. Carlow",
+  "eircode": "R93 FK76",
+  "lat": 52.844093,
+  "lng": -6.671332,
+  "listingUrl": "https://www.daft.ie/for-sale/tobinstown-lodge-tobinstown-tullow-co-carlow/6684775",
+  "status": "Considering",
+  "added": "2026-10-04",
+  "area": "Tullow, Co. Carlow",
+  "agent": "Thomas Byrne",
+  "price": 500000,
+  "type": "Detached house",
+  "beds": 4,
+  "bedsNote": "+ ground-floor office/bedroom next to a ground-floor bathroom",
+  "baths": 3,
+  "floorM2": 228,
+  "landHa": 1.28,
+  "landAcres": 3.16,
+  "ber": "B",
+  "berKwh": 207.82,
+  "heating": "Two solid-fuel stoves (no central heating system stated)",
+  "listed": "2026-10-01",
+  "views": 1228,
+  "stampDuty": 5000,
+  "tagline": "A four-bed country lodge on 3.2 acres between Tullow and Rathvilly in north Carlow, about 5 km from Tullow.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIzXC80XC8zNGIwZmE4ZS05YjhiLTQwNmQtYjA4Yi0xOGM4YTQ0NzUxZmMuanBnIn0=?signature=ef4e3cad21faaa84fc82207efaaf742de1f8251b344834bda2ea32f418811d23",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjlcLzlcLzk5YjgzNzdlLTliOGUtNDkxNS1hZTg5LTQ1ZmVmMmUzMzAwNy5qcGcifQ==?signature=48197b67bbbe8bd480f3c4399bbee7e2f3ac2f32f80334b0dd8ae7d16536b766",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjZcL2JcLzZiNDQzMThhLTI4YTMtNDFmZC1iYzZhLTIzM2Q1ODFjMWE2My5qcGcifQ==?signature=084f4cd06c9160d8422e96d68e794c273428b05c31e22f5feef36e19dad6e275",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjJcLzFcLzIxMTUzMmYyLTE0YmUtNDYwYi1iNDhmLTFhM2NmOGEwZmJlMy5qcGcifQ==?signature=608aed14c07e1ef11b955c5b33d599e732b2e5c35aa6838752773dd8a1a8493f",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "3.16 acres",
+      "weight": 3,
+      "detail": "1.28 ha: the most land in this batch, plenty for two vizslas."
+    },
+    {
+      "text": "Ground-floor office/bedroom with its own bathroom nearby",
+      "weight": 3,
+      "detail": "Office/bedroom (3.95 × 3.85 m) downstairs, beside a large ground-floor bathroom (4.28 × 3.22 m) with double shower and clawfoot bath."
+    },
+    {
+      "text": "€500k, on the line",
+      "weight": 2,
+      "detail": "€2,193/m². Stamp duty about €5,000."
+    },
+    {
+      "text": "Right size: 228 m²",
+      "weight": 2,
+      "detail": "About 2,450 sq ft, inside the 140–280 m² target; four bedrooms upstairs plus the ground-floor room."
+    },
+    {
+      "text": "BER B",
+      "weight": 1,
+      "detail": "208 kWh/m²/yr, better than most country houses at this price."
+    },
+    {
+      "text": "Tullow 5 km with everything",
+      "weight": 1,
+      "detail": "SuperValu, Tesco, Aldi and Lidl, plus Tullow Community School (871 pupils)."
+    },
+    {
+      "text": "Properly rural",
+      "weight": 1,
+      "detail": "Open countryside off the Tullow–Rathvilly road; no suburban sprawl."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Emergency department 40+ km",
+      "weight": 3,
+      "detail": "Naas General ~41 km (adults 16+ only), St Luke's Kilkenny ~43 km, Portlaoise ~47 km, all as the crow flies."
+    },
+    {
+      "text": "No station nearby",
+      "weight": 2,
+      "detail": "Carlow station is ~17 km (about 8 trains a weekday, ~1h to Heuston); Kildare ~39 km."
+    },
+    {
+      "text": "Heating is two stoves only",
+      "weight": 2,
+      "detail": "No oil, gas or heat pump is mentioned despite the B rating; ask what heats the bedrooms and water."
+    },
+    {
+      "text": "School 4+ km away",
+      "weight": 1,
+      "detail": "St Patrick's NS (199 pupils) 4.2 km; Ballyconnell NS 4.5 km. Every school run is a drive."
+    },
+    {
+      "text": "Not walkable",
+      "weight": 1,
+      "detail": "Nearest shop is in Rathvilly, about 4–5 km."
+    },
+    {
+      "text": "Well and septic tank",
+      "weight": 1,
+      "detail": "Well pump replaced last year; ask for a water test and septic certification."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "St Patrick's National School, Rathvilly"
+      ],
+      "note": "About 4.2 km, 199 pupils. Ballyconnell NS (4.5 km, 203) and Tullow's schools (6 km) are the fallbacks.",
+      "category": "Schools"
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "Mace, Rathvilly",
+        "SuperValu Tullow"
+      ],
+      "note": "Mace at The Corner House, Rathvilly.",
+      "title": "Mace Rathvilly",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "SuperValu Tullow",
+        "Tesco Tullow",
+        "Aldi Tullow"
+      ],
+      "note": "Tullow has SuperValu, Tesco, Aldi and Lidl.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "The Tara Arms, Tullow",
+        "Mount Wolseley Hotel, Tullow"
+      ],
+      "note": "The Tara Arms is Tullow's top-rated food pub on Tripadvisor; Frederick's at Mount Wolseley for a smarter night.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "Naas General Hospital",
+        "St Luke's General Hospital, Kilkenny",
+        "Midland Regional Hospital Portlaoise"
+      ],
+      "note": "Naas is adults only (16+); children go to St Luke's or Portlaoise.",
+      "title": "Naas General Hospital",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Bridge Street, Tullow, Co. Carlow"
+      ],
+      "note": "Tullow: GP, pharmacies, supermarkets, secondary school.",
+      "title": "Tullow",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Carlow town centre",
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Carlow, with Kilkenny further on.",
+      "title": "Carlow",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Carlow railway station",
+        "Kildare railway station"
+      ],
+      "note": "Carlow: about 8 trains a weekday, ~1h to Heuston. Kildare has far more trains but is a longer drive.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

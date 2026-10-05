@@ -1,0 +1,273 @@
+{
+  "id": "hillview-maddenstown",
+  "name": "Hillview",
+  "address": "Hillview, Maddenstown, The Curragh, Co. Kildare",
+  "eircode": "R56 NA49",
+  "lat": 53.135744,
+  "lng": -6.868078,
+  "listingUrl": "https://www.daft.ie/for-sale/hillview-maddenstown-the-curragh-co-kildare/6678201",
+  "status": "Considering",
+  "added": "2026-10-04",
+  "area": "The Curragh, Co. Kildare",
+  "agent": "Liam Hargaden, Jordan Auctioneers",
+  "price": 475000,
+  "type": "Detached bungalow",
+  "beds": 4,
+  "bedsNote": "single-storey bungalow, so all bedrooms are at ground level",
+  "baths": 3,
+  "floorM2": 166.36,
+  "landHa": 0.17,
+  "landAcres": 0.42,
+  "ber": "C1",
+  "heating": "Zoned oil central heating, plus a Stanley stove",
+  "listed": "2026-09-23",
+  "views": 1678,
+  "stampDuty": 4750,
+  "tagline": "A four-bed bungalow on 0.42 acres at Maddenstown, a kilometre from the open Curragh plains and 5 km from Kildare town and station.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJlXC8wXC9lMGY3M2QzMS1jNTdmLTRkNDMtYWQ1Mi1kNTY4NzIyOTUwZmUuSlBFRyJ9?signature=91954f5bec787489e550e857c6444f9ea83abe8d8122dee2845167e970763d1c",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImFcLzFcL2ExZTczMmM0LWY0OTQtNGViMS1hM2ZiLTdkZmVjNTA1YWVhMS5KUEVHIn0=?signature=53cccee6d682edf5789fd92f677558e151228538a0d0960140acbe13285f7cc6",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjRcL2ZcLzRmNmZmZjBlLTQ2NWQtNGRjOS1iODRlLWRlNmU3M2ZmNDEyZC5KUEVHIn0=?signature=832b65899bc43154975b255bb95f199501622a1462fb9c4e6cc8f3331616da7b",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjBcL2JcLzBiMGZmOGNlLWQyNGYtNGU4NS1iMWE3LTZjNzI3YWY4ZDc5MC5KUEVHIn0=?signature=330c62540ba059629b21a9006112dedcf6281ec37745ddc789664645414d4db4",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Single-storey: every bedroom is ground-level",
+      "weight": 3,
+      "detail": "Bungalow; Bedroom 1 (4.06 × 4.28 m, own walk-in shower) or Bedroom 2 (3.31 × 3.33 m, en-suite) suit the parents with no stairs."
+    },
+    {
+      "text": "€475k, under the €500k line",
+      "weight": 3,
+      "detail": "€2,855/m². Stamp duty about €4,750."
+    },
+    {
+      "text": "Kildare station 5 km",
+      "weight": 3,
+      "detail": "30+ trains a weekday, direct InterCity in ~30–35 min to Heuston; Newbridge station 7 km."
+    },
+    {
+      "text": "Naas ED ~17 km",
+      "weight": 2,
+      "detail": "Naas General (adults 16+) is the closest ED in this batch; Portlaoise ~31 km takes all ages."
+    },
+    {
+      "text": "Curragh plains 1 km away",
+      "weight": 2,
+      "detail": "About 4,500 acres of open grassland to walk the vizslas, which offsets the small garden."
+    },
+    {
+      "text": "Right size: 166 m²",
+      "weight": 2,
+      "detail": "1,790 sq ft, inside the 140–280 m² target."
+    },
+    {
+      "text": "Plenty of schools within 5 km",
+      "weight": 1,
+      "detail": "Ballysax NS 2.9 km (151 pupils), Suncroft NS 3 km, Kildare Town Educate Together 3.5 km."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Only 0.42 acres",
+      "weight": 2,
+      "detail": "About 0.17 ha, under the 1-acre ideal; a decent yard rather than land."
+    },
+    {
+      "text": "In-between location",
+      "weight": 2,
+      "detail": "Rural edge between Kildare town and Newbridge, near the Curragh Camp; not walkable to a village and not deeply rural."
+    },
+    {
+      "text": "Dated interior",
+      "weight": 1,
+      "detail": "Marble fireplaces, coving and an older conservatory; budget a rough €30–60k to modernise."
+    },
+    {
+      "text": "Oil heating, BER C1",
+      "weight": 1,
+      "detail": "kWh figure not shown; a heat-pump swap is a rough €15–25k before grants."
+    },
+    {
+      "text": "Septic tank",
+      "weight": 1,
+      "detail": "Mains water, but ask for the septic tank's age and compliance."
+    },
+    {
+      "text": "Less charm than the brief's favourites",
+      "weight": 1,
+      "detail": "A tidy 1970s–80s-style bungalow rather than a period or striking modern house."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "St Brigid's National School, Ballysax, The Curragh"
+      ],
+      "note": "Ballysax NS, about 2.9 km, 151 pupils. Suncroft NS (3 km) and Kildare Town Educate Together (3.5 km) are the fallbacks.",
+      "category": "Schools"
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "Centra Curragh Camp",
+        "Centra Kildare Town"
+      ],
+      "note": "Centra in the Curragh Camp.",
+      "title": "Centra Curragh",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "Tesco Kildare",
+        "Lidl Kildare",
+        "Aldi Kildare"
+      ],
+      "note": "Kildare town has Tesco, Lidl and Aldi; Newbridge has Dunnes and the Whitewater centre.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "Silken Thomas, Kildare",
+        "Orby by Lucy, Newbridge"
+      ],
+      "note": "The Silken Thomas on Kildare's square; Orby by Lucy is the top-rated spot near the Curragh.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "Naas General Hospital",
+        "Midland Regional Hospital Portlaoise"
+      ],
+      "note": "Naas is adults only (16+); Portlaoise takes children.",
+      "title": "Naas General Hospital",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Market Square, Kildare"
+      ],
+      "note": "Kildare town: GP, pharmacies, supermarkets, Kildare Village outlet.",
+      "title": "Kildare",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Carlow town centre",
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Dublin is closer than either; Carlow or Kilkenny for a change.",
+      "title": "Carlow",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "The train from Kildare is often quicker than driving.",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Kildare railway station",
+        "Newbridge railway station"
+      ],
+      "note": "Heuston line. Direct InterCity from Kildare in ~30–35 min; 30+ trains a weekday.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

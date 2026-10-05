@@ -1,0 +1,276 @@
+{
+  "id": "leavalley-leixlip",
+  "name": "Leavalley",
+  "address": "Leavalley, Confey, Leixlip, Co. Kildare",
+  "eircode": "W23 HVX5",
+  "lat": 53.3775148,
+  "lng": -6.4788118,
+  "listingUrl": "https://www.daft.ie/for-sale/leavalley-confey-leixlip-co-kildare/6533852",
+  "status": "Considering",
+  "added": "2026-10-04",
+  "area": "Leixlip, Co. Kildare",
+  "agent": "Fiachra McGrath, McDonald Property",
+  "price": 550000,
+  "type": "Detached house",
+  "beds": 5,
+  "bedsNote": "3 bedrooms on the ground floor, 2 upstairs",
+  "baths": 1,
+  "floorM2": 151,
+  "landHa": 0.25,
+  "landAcres": 0.62,
+  "ber": "G",
+  "heating": "Oil-fired central heating",
+  "listed": "2026-03-31",
+  "views": 26978,
+  "stampDuty": 5500,
+  "tagline": "A detached house needing full refurbishment on 0.6 acres of mature garden at Confey, Leixlip, under 1 km from a station with trains to Dublin.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJhXC80XC9hNDBmNjQxMi0xYmQyLTRkNDAtOTU1NC02MDExMjYyZTNkMjIuanBnIn0=?signature=5fdb0f5709ffae85be7f1c5db769777235dd904f90b5740f8ba0a459fc08a94d",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjFcLzRcLzE0NDc1MTVhLTBhOTktNDdhZC05YWUxLTVlMzE2MWVjODJmMS5qcGcifQ==?signature=3806b27836998e1e6081cfa9b28916584503e3fbe71059ecfe3df236ff47862c",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImNcLzVcL2M1NzYwOTc0LTE0MDEtNDhkZC05ZWNjLWIyNTBjMjY2YWIyYi5qcGcifQ==?signature=d38ca4a8ed43bf3591c7313f5f59dd02b1a7072d3eb4ab4721e4f6f77e98d6aa",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjZcLzNcLzYzMjQ0MjU1LTJkMjAtNGY1Mi05ZmFlLWQzM2ZhNzUzN2UzMC5qcGcifQ==?signature=630b4e0a9989bccd1876e15bad01f0483058258678d0754414ad5b18454ec273",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Ground-floor bedrooms confirmed",
+      "weight": 3,
+      "detail": "Bedrooms 1–3 (up to 4.38 × 2.85 m) and the main bathroom are all on the ground floor."
+    },
+    {
+      "text": "Station under 1 km away",
+      "weight": 3,
+      "detail": "Leixlip Confey, on the Maynooth line: about 35–40 minutes to Dublin Connolly."
+    },
+    {
+      "text": "Primary schools about 1 km",
+      "weight": 2,
+      "detail": "San Carlo Senior NS (960 m, 312 pupils) and San Carlo Junior NS (1.0 km, 263); Confey Community College is 1.4 km."
+    },
+    {
+      "text": "Fastest airport and Dublin access of the shortlist",
+      "weight": 2,
+      "detail": "Edge of Dublin: roughly 25 minutes to Dublin Airport off-peak."
+    },
+    {
+      "text": "Private mature garden",
+      "weight": 1,
+      "detail": "0.62 acres, divided, with tall trees, hedging and four apple trees."
+    },
+    {
+      "text": "Size inside the target",
+      "weight": 1,
+      "detail": "151 m² (about 1,625 sq ft), at the low end of 140–280 m²."
+    },
+    {
+      "text": "Strong rental demand",
+      "weight": 1,
+      "detail": "Commuter-belt Leixlip lets readily, year-round."
+    }
+  ],
+  "cons": [
+    {
+      "text": "€550k, over the €500k line",
+      "weight": 3,
+      "detail": "Only justifiable under the near-a-train exception. Stamp duty about €5,500, before a large refurbishment."
+    },
+    {
+      "text": "BER G, extensive refurbishment",
+      "weight": 3,
+      "detail": "Listed as needing extensive work. Heat pump, insulation, windows, kitchen and baths: a rough €120–200k."
+    },
+    {
+      "text": "Suburban edge, not rural",
+      "weight": 2,
+      "detail": "Confey is a pocket of country surrounded by Leixlip estates; the brief dislikes in-between suburbia."
+    },
+    {
+      "text": "0.62 acres, under the acre",
+      "weight": 2,
+      "detail": "Big garden for the area, but short of 1 acre for two vizslas."
+    },
+    {
+      "text": "One bathroom for five bedrooms",
+      "weight": 1,
+      "detail": "Plus a guest WC. A second bathroom or en suite belongs in the refurbishment budget."
+    },
+    {
+      "text": "Septic tank",
+      "weight": 1,
+      "detail": "Mains water, but a septic tank on the edge of a town; check its condition and compliance."
+    },
+    {
+      "text": "Long time on the market",
+      "weight": 1,
+      "detail": "Listed since 31 March 2026 with about 27,000 views; ask why it has not sold, and expect room to negotiate."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "San Carlo Senior National School, Leixlip",
+        "San Carlo Junior National School, Leixlip"
+      ],
+      "note": "About 1 km away. Scoil Chearbhaill Uí Dhálaigh (1.7 km) is the fallback.",
+      "category": "Schools"
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "Spar Main Street Leixlip",
+        "Eurospar Barnhall Leixlip"
+      ],
+      "note": "Leixlip Main Street shops.",
+      "title": "Leixlip shop",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "Aldi Pound Street Leixlip",
+        "Lidl Station Road Leixlip"
+      ],
+      "note": "Both in Leixlip.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "Salmon Leap Inn, Leixlip"
+      ],
+      "note": "The best-reviewed food pub in Leixlip.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "Connolly Hospital Blanchardstown",
+        "Naas General Hospital"
+      ],
+      "note": "Nearest 24-hour emergency department by drive time.",
+      "title": "Connolly Hospital Blanchardstown",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Main Street, Leixlip",
+        "Main Street, Maynooth"
+      ],
+      "note": "Leixlip for basics, Maynooth for more.",
+      "title": "Leixlip",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Grafton Street, Dublin"
+      ],
+      "note": "Dublin is the city here.",
+      "title": "Dublin",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car. The train from Confey is the other way in.",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Leixlip Confey railway station"
+      ],
+      "note": "Maynooth/Sligo line. Under 1 km, then about 35–40 minutes to Dublin Connolly.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

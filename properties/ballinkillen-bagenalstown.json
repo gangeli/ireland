@@ -1,0 +1,261 @@
+{
+  "id": "ballinkillen-bagenalstown",
+  "name": "Ballinkillen",
+  "address": "Ballinkillen, Bagenalstown (Muine Bheag), Co. Carlow",
+  "eircode": "R21 AD77",
+  "lat": 52.647311,
+  "lng": -6.915607,
+  "listingUrl": "https://www.daft.ie/for-sale/ballinkillen-muine-bheag-co-carlow/6676559",
+  "status": "Considering",
+  "added": "2026-10-04",
+  "area": "Ballinkillen, Co. Carlow",
+  "agent": "Thomas Byrne",
+  "price": 450000,
+  "type": "Detached house",
+  "beds": 4,
+  "bedsNote": "2 of the 4 bedrooms are on the ground floor, incl. the en-suite main bedroom",
+  "baths": 2,
+  "floorM2": 218,
+  "landHa": 0.6,
+  "landAcres": 1.48,
+  "ber": "C",
+  "berKwh": 188.0,
+  "heating": "Oil-fired central heating, plus a solid-fuel stove",
+  "listed": "2026-09-21",
+  "views": 1982,
+  "stampDuty": 4500,
+  "tagline": "A four-bed detached house on about 1.5 acres in the Barrow valley, a kilometre from Ballinkillen's school and church and 6 km from Bagenalstown station.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJiXC83XC9iNzc5YTQ5Ny02ZDY2LTRiOGItODU5Yy0xMzlhZmVmMTk1MzcuanBnIn0=?signature=269b47f2b6934fa7c30321fbba5e2130c28339b91822724696960329d0d418ec",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€450k, comfortably under €500k",
+      "weight": 3,
+      "detail": "€2,064/m². Stamp duty about €4,500."
+    },
+    {
+      "text": "Two ground-floor bedrooms",
+      "weight": 3,
+      "detail": "Main bedroom (4.44 × 4.17 m) with en-suite shower and bath, plus Bedroom 1 (3.84 × 3.77 m), both downstairs. Ready-made for the parents."
+    },
+    {
+      "text": "1.48 acres with outbuildings",
+      "weight": 3,
+      "detail": "Room for the vizslas, plus a stone outhouse and three sheds."
+    },
+    {
+      "text": "Village school under 1 km",
+      "weight": 2,
+      "detail": "Ballinkillen NS, 990 m, about 126 pupils; Borris NS (198) is 5.3 km."
+    },
+    {
+      "text": "Right size: 218 m²",
+      "weight": 2,
+      "detail": "Mid-range of the 140–280 m² target, with a floored attic store on top."
+    },
+    {
+      "text": "BER C, better than most rural stock",
+      "weight": 1,
+      "detail": "188 kWh/m²/yr; oil central heating plus a stove."
+    },
+    {
+      "text": "Train 6 km away",
+      "weight": 1,
+      "detail": "Muine Bheag (Bagenalstown) station, about 8 Dublin trains a weekday, roughly 1h15 to Heuston."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Village is tiny",
+      "weight": 2,
+      "detail": "Ballinkillen has a school, church, GAA pitch and a small shop; for anything else it's a 6–7 km drive to Bagenalstown or Borris."
+    },
+    {
+      "text": "Emergency department about 30 min",
+      "weight": 2,
+      "detail": "St Luke's, Kilkenny is about 22 km as the crow flies; Wexford General and UH Waterford are 45+ km."
+    },
+    {
+      "text": "Only 8 trains a day",
+      "weight": 1,
+      "detail": "Bagenalstown is on the Waterford line, so no frequent commuter service."
+    },
+    {
+      "text": "Oil heating",
+      "weight": 1,
+      "detail": "A heat-pump swap is a rough €15–25k before SEAI grants."
+    },
+    {
+      "text": "Private well and septic tank",
+      "weight": 1,
+      "detail": "Ask for water test results and the septic tank's age and compliance."
+    },
+    {
+      "text": "Only one listing photo seen",
+      "weight": 1,
+      "detail": "Condition and finish are hard to judge from what the fetch returned; check the full gallery and ask about the roof and windows."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "Ballinkillen National School, Co. Carlow"
+      ],
+      "note": "About 990 m, 126 pupils. Borris NS and Drumphea NS (both 5.3 km) are the fallbacks.",
+      "category": "Schools"
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "shop, Ballinkillen, Co. Carlow",
+        "SuperValu Bagenalstown"
+      ],
+      "note": "Ballinkillen has a small shop; otherwise Bagenalstown.",
+      "title": "Ballinkillen shop",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "SuperValu Bagenalstown",
+        "Aldi Bagenalstown",
+        "Lidl Bagenalstown"
+      ],
+      "note": "Bagenalstown has a SuperValu, Aldi and Lidl.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "Step House Restaurant, Borris",
+        "The Lord Bagenal Inn, Leighlinbridge"
+      ],
+      "note": "The Step House in Borris is about 5 km; the Lord Bagenal sits on the Barrow at Leighlinbridge.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "St Luke's General Hospital, Kilkenny",
+        "Wexford General Hospital"
+      ],
+      "note": "Nearest 24-hour emergency department by drive time.",
+      "title": "St Luke's General Hospital",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Main Street, Bagenalstown, Co. Carlow"
+      ],
+      "note": "Bagenalstown: GP, pharmacies, supermarkets and the station.",
+      "title": "Bagenalstown",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "Carlow town centre"
+      ],
+      "note": "Kilkenny, with Carlow as the closer alternative.",
+      "title": "Kilkenny",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Muine Bheag railway station, Bagenalstown"
+      ],
+      "note": "Waterford–Heuston line. About 8 trains a weekday, roughly 1h15 to Heuston.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

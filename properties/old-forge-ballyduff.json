@@ -1,0 +1,278 @@
+{
+  "id": "old-forge-ballyduff",
+  "name": "The Old Forge",
+  "address": "The Old Forge, Ballyduff, Camolin, Co. Wexford",
+  "eircode": "Y21 A8X6",
+  "lat": 52.642788,
+  "lng": -6.470157,
+  "listingUrl": "https://www.daft.ie/for-sale/the-old-forge-ballyduff-camolin-ballyduff-co-wexford/6552918",
+  "status": "Considering",
+  "added": "2026-10-04",
+  "area": "Camolin, Co. Wexford",
+  "agent": "Warren Estates (Gorey)",
+  "price": 350000,
+  "type": "Detached cottage",
+  "beds": 3,
+  "bedsNote": "Main bedroom with en suite on the ground floor; bedroom 2 doubles as the landing",
+  "baths": 2,
+  "floorM2": 115,
+  "landHa": 0.24,
+  "landAcres": 0.6,
+  "ber": "E1",
+  "heating": "Electric",
+  "listed": "2026-04-23",
+  "views": 18997,
+  "stampDuty": 3500,
+  "tagline": "A stone-and-timber cottage on 0.6 acres in rural north Wexford, 4 km from Camolin and about 15 minutes from Gorey and its Dublin train.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIwXC9hXC8wYWExMTNlNC1kZWJkLTRmODUtOTUxNi1lN2FlNWZjNTRhMjQuSlBFRyJ9?signature=712d4d9c4158b1cdb9a16abcdd257d27182e2045cea61a8c5d403b9f2b687f9a",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjdcL2VcLzdlMDRlZmQwLWJlYmUtNDQxYi1iNjYzLWM4YjlkZDIxNWQxNS5KUEVHIn0=?signature=1dfd1591b33f043f6c6441ba48dd8ce4adfdc9991623722b9e58a36cfb4d26ac",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjhcL2ZcLzhmMjkzYTJmLTk1ZjQtNDE1Mi1iMmEwLWNlZWNjYTU0NjhmMS5KUEVHIn0=?signature=9f187e1e815c156a860b7e4f5ef5f6cdcd8fc3ba8f1b2e2fe890e84dc917acf1",
+      "caption": "Listing photo"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjFcLzdcLzE3NzVmYjAyLWNmODUtNDU1My05ZDlkLWY2ZDI4Mjg3ZTMwOS5KUEVHIn0=?signature=83da67f37ae779977ec0f57c5f10cbb09373147d6ddb43880fb0db814762e9cb",
+      "caption": "Listing photo"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€350k, well under €500k",
+      "weight": 3,
+      "detail": "Stamp duty about €3,500."
+    },
+    {
+      "text": "Ground-floor bedroom with en suite",
+      "weight": 3,
+      "detail": "The main bedroom (4.1 × 4.9 m, dual aspect, door to the garden) and its en suite are on the ground floor, plus a separate ground-floor bathroom."
+    },
+    {
+      "text": "Village school 660 m away",
+      "weight": 2,
+      "detail": "Ballyduff NS, about 71 pupils; Camolin NS (4.3 km) is the fallback."
+    },
+    {
+      "text": "Properly rural, already set up for dogs",
+      "weight": 2,
+      "detail": "0.6 acres in open country with a dog pen and timber shed."
+    },
+    {
+      "text": "Character and kept up",
+      "weight": 1,
+      "detail": "Exposed stone, timber floors, feature fireplace and a freestanding stove; presented as move-in ready."
+    },
+    {
+      "text": "Holiday-let appeal",
+      "weight": 1,
+      "detail": "A characterful cottage 20 minutes from the Wexford coast lets well in summer."
+    },
+    {
+      "text": "Fibre broadband available",
+      "weight": 1,
+      "detail": "Third-party report shows full fibre at the address; confirm with the agent."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Too small: 115 m²",
+      "weight": 3,
+      "detail": "Below the 140 m² floor. Bedroom 2 is the landing, so it is effectively a 2-bed plus. An extension is a rough €80–120k."
+    },
+    {
+      "text": "0.6 acres, under the acre",
+      "weight": 2,
+      "detail": "Enough for a fenced run, but short of the 1-acre ideal for two vizslas."
+    },
+    {
+      "text": "BER E1 with electric heating",
+      "weight": 2,
+      "detail": "Expensive to run. A heat pump and insulation is a rough €30–50k before grants."
+    },
+    {
+      "text": "Not walkable",
+      "weight": 2,
+      "detail": "Ballyduff is a crossroads with a school; Camolin's shop is 4 km and everything else is a drive."
+    },
+    {
+      "text": "ED about 35–40 minutes",
+      "weight": 2,
+      "detail": "Wexford General is the nearest 24-hour emergency department. See the 3 a.m. trip below."
+    },
+    {
+      "text": "Train is a drive and infrequent",
+      "weight": 1,
+      "detail": "Gorey station is about 15 minutes away, with roughly 6 trains a day and about 1h45 to Dublin Connolly."
+    },
+    {
+      "text": "Well, septic and radon",
+      "weight": 1,
+      "detail": "Private well and septic tank; the area is EPA high-radon, so test before buying (remediation a rough €800–2,000)."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "candidates": [
+        "Ballyduff National School, Camolin"
+      ],
+      "note": "660 m from the house, about 71 pupils. Camolin NS (4.3 km) and Ballyroebuck NS (5.6 km) are the fallbacks.",
+      "category": "Schools"
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "candidates": [
+        "Lamberts Londis Camolin"
+      ],
+      "note": "Camolin's shop and fuel.",
+      "title": "Camolin shop",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "candidates": [
+        "SuperValu Gorey",
+        "Tesco Gorey",
+        "Lidl Gorey"
+      ],
+      "note": "Gorey has the full set.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "candidates": [
+        "Jacks Tavern, Camolin",
+        "Partridges Restaurant, Gorey"
+      ],
+      "note": "Jacks Tavern locally; Partridges in Gorey is the better-reviewed dinner.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "candidates": [
+        "Wexford General Hospital",
+        "St Luke's General Hospital, Kilkenny"
+      ],
+      "note": "Nearest 24-hour emergency department by drive time.",
+      "title": "Wexford General Hospital",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "candidates": [
+        "Main Street, Gorey",
+        "Market Square, Enniscorthy"
+      ],
+      "note": "Gorey for errands, Enniscorthy the alternative.",
+      "title": "Gorey",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "candidates": [
+        "Main Street, Wexford",
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Wexford town is closest; Kilkenny is the nearest city.",
+      "title": "Wexford",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car.",
+      "title": "Dublin city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "title": "Cork city centre",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "candidates": [
+        "Gorey railway station",
+        "Enniscorthy railway station"
+      ],
+      "note": "Rosslare–Dublin line. Drive here, then about 1h45 to Dublin Connolly; roughly 6 trains a day.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
