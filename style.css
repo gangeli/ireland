@@ -675,3 +675,8 @@ body.idx .idx-main[data-view="split"] { grid-template-columns: minmax(0, 1fr) mi
 .school-q.q-average { background: #b38f12; }
 .school-q.q-below-average { background: #c2571d; }
 .school-q.q-unknown { background: transparent; color: var(--muted); border: 1px solid var(--line); }
+/* "Just added" section at the top of the list */
+.idx-sec { list-style: none; display: flex; align-items: baseline; gap: 10px; padding: 6px 2px 0; font: 700 11.5px var(--f-body); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.idx-sec small { font: 500 12.5px var(--f-body); letter-spacing: 0; text-transform: none; }
+.idx-sec-new span { color: var(--gorse); }
+.pin.is-new::after { content: "NEW"; position: absolute; top: -9px; right: -8px; font: 800 9px var(--f-body); letter-spacing: .06em; color: #1d1a0c; background: var(--gorse); border-radius: 3px; padding: 1px 3px; }

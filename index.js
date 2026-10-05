@@ -30,15 +30,17 @@
   const euro = (n) => "€" + Math.round(n).toLocaleString("en-IE");
 
   let props = [], rate = null, map = null;
-  // Houses added since this browser last saw the list get a "New" chip (and ?new=a,b from an alert).
-  let fresh = new Set();
-  function markSeen(ids) {
-    const seen = load("hd:seen");
-    const fromAlert = (new URLSearchParams(location.search).get("new") || "").split(",").filter(Boolean);
-    fresh = new Set(seen ? ids.filter((i) => !seen.includes(i)) : []);
-    for (const i of fromAlert) if (ids.includes(i)) fresh.add(i);
-    store("hd:seen", [...new Set([...(seen || []), ...ids])]);
-  }
+  // "New": added in the last 3 days and not yet rated by you (or named in an alert link, ?new=a,b).
+  // New houses sit at the top of the list, whatever the sort, until you rate them or they age out.
+  const NEW_DAYS = 3;
+  const fromAlert = new Set((new URLSearchParams(location.search).get("new") || "").split(",").filter(Boolean));
+  const ageDays = (d) => (d && !isNaN(Date.parse(d)) ? (Date.now() - Date.parse(d + "T00:00:00")) / 86400000 : Infinity);
+  const FIRST_BATCH = "2026-10-04";   // the houses the site launched with aren't "new"
+  const isNew = (p) => !R.mine(p.id) && !/sale agreed|sold|passed/i.test(p.status || "") &&
+    ((String(p.added) > FIRST_BATCH && ageDays(p.added) < NEW_DAYS) || fromAlert.has(p.id));
+  const newSig = () => props.filter(isNew).map((p) => p.id).join(",");
+  let lastNewSig = "";
+
   const markers = {};
 
   const score = (p) => (p.pros || []).reduce((a, b) => a + b.weight, 0) - (p.cons || []).reduce((a, b) => a + b.weight, 0);
@@ -79,7 +81,15 @@
     const list = $("idx-list"); list.textContent = "";
     $("idx-count").textContent = String(props.length);
     const sorted = [...props].sort(sorters[$("sort").value] || sorters.quality);
-    for (const p of sorted) {
+    const fresh = new Set(sorted.filter(isNew).map((p) => p.id));
+    lastNewSig = newSig();
+    const ordered = [...sorted.filter((p) => fresh.has(p.id)).sort((a, b) => String(b.added).localeCompare(String(a.added))), ...sorted.filter((p) => !fresh.has(p.id))];
+    if (fresh.size) list.append(el("li", { class: "idx-sec idx-sec-new" },
+      el("span", { text: fresh.size === 1 ? "Just added" : `${fresh.size} just added` }),
+      el("small", { text: "Rate one to move it into the list" })));
+    let ruled = !fresh.size;
+    for (const p of ordered) {
+      if (!ruled && !fresh.has(p.id)) { list.append(el("li", { class: "idx-sec" }, el("span", { text: "The rest" }))); ruled = true; }
       const href = `property.html?p=${encodeURIComponent(p.id)}`;
       const lb = label(p);
       const price = el("span", { class: "ic-price", text: euro(p.price) });
@@ -99,7 +109,7 @@
           el("div", { class: "ic-main" },
             el("div", { class: "ic-titleline" },
               el("a", { class: "ic-name", href, text: p.name }),
-              fresh.has(p.id) ? el("span", { class: "new-chip", text: "New", title: "Added since you last looked" }) : null,
+              fresh.has(p.id) ? el("span", { class: "new-chip", text: "New", title: `Added ${p.added}; shows at the top for ${NEW_DAYS} days or until you rate it` }) : null,
               el("span", { class: "ic-area", title: p.area || p.address || "", text: (p.area || p.address || "").split(",").map((x) => x.trim()).filter((x) => x && x.toLowerCase() !== p.name.toLowerCase()).join(", ") }),
               el("span", { class: "status " + statusClass(lb), text: lb, title: blend(p) != null ? `All ratings ${blend(p).toFixed(2)}` : "" })),
             el("p", { class: "ic-line" }, price, facts ? el("span", { class: "ic-facts", text: facts }) : null),
@@ -140,6 +150,7 @@
     const out = /passed|sale agreed|sold/i.test(label(p)), mine = R.mine(p.id);
     d.classList.toggle("out", out);
     d.classList.toggle("rated", !!mine && !out);
+    d.classList.toggle("is-new", isNew(p));
     d.style.setProperty("--pin", out ? "#8a948f" : mine ? MINE_COLORS[mine.stars] : "#3b6a7a");
     d.title = mine ? `You rated it ${mine.stars} of 5` : "You haven't rated this yet";
   }
@@ -183,7 +194,7 @@
     const declutter = () => {
       const pr = proj.getProjection(); if (!pr) return;
       const placed = [];
-      const order = [...props].sort((a, b) => (blend(b) ?? 0) - (blend(a) ?? 0));
+      const order = [...props].sort((a, b) => (isNew(b) - isNew(a)) || (blend(b) ?? 0) - (blend(a) ?? 0));   // new houses keep full pins
       for (const p of order) {
         const m = markers[p.id]; if (!m) continue;
         const pt = pr.fromLatLngToContainerPixel(new google.maps.LatLng(p.lat, p.lng));
@@ -224,7 +235,6 @@
     const man = await (await fetch("properties/index.json", { cache: "no-cache" })).json();
     const ids = man.properties || [];
     props = (await Promise.all(ids.map((id) => fetch(`properties/${encodeURIComponent(id)}.json`, { cache: "no-cache" }).then((r) => r.json()).catch(() => null)))).filter(Boolean);
-    markSeen(props.map((p) => p.id));
     renderList();
     $("sort").addEventListener("change", renderList);
     const nm = $("idx-name");
@@ -248,6 +258,7 @@
       if (document.activeElement !== nm) nm.value = R.me();
       const dl = $("idx-raters"); dl.textContent = "";
       for (const p of R.people()) dl.append(el("option", { value: p }));
+      if (newSig() !== lastNewSig) renderList();   // rating a new house moves it down into the list
     });
     R.refresh().then(renderList);   // re-sort once when the shared ratings arrive
     for (const b of ["split", "map", "list"]) $("v-" + b).addEventListener("click", () => setView(b));
