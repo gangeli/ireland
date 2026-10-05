@@ -63,47 +63,28 @@
     const sorted = [...props].sort(sorters[$("sort").value] || sorters.score);
     for (const p of sorted) {
       const href = `property.html?p=${encodeURIComponent(p.id)}`;
-      const s = score(p);
+      const lb = label(p);
       const price = el("span", { class: "ic-price", text: euro(p.price) });
       if (rate) price.append(el("small", { text: " ≈ $" + Math.round(p.price * rate).toLocaleString("en-US") }));
+      const facts = [p.beds ? `${p.beds} bed` : null, p.floorM2 ? `${p.floorM2} m²` : null, p.landAcres ? `${p.landAcres} ac` : null, p.ber ? `BER ${p.ber}` : null].filter(Boolean).join(" · ");
       const li = el("li", { class: "ic", id: "ic-" + p.id,
         onmouseenter: () => highlight(p.id, true), onmouseleave: () => highlight(p.id, false) },
         el("a", { class: "ic-photo", href, "aria-label": p.name },
           el("img", { src: p.photos && p.photos[0] ? p.photos[0].url : "", alt: "", loading: "lazy", referrerpolicy: "no-referrer" })),
         el("div", { class: "ic-body" },
-          el("div", { class: "ic-top" },
-            el("span", { class: "status " + statusClass(label(p)), text: label(p), title: blend(p) != null ? `Blended score ${blend(p).toFixed(2)}` : "" }),
-            scoresBadge(p)),
-          el("a", { class: "ic-name", href, text: p.name }),
-          el("p", { class: "ic-area", text: p.area || p.address }),
-          price,
-          el("p", { class: "ic-facts", text: [
-            p.beds ? `${p.beds} bed` : null, p.floorM2 ? `${p.floorM2} m²` : null, p.landAcres ? `${p.landAcres} ac` : null, p.ber ? `BER ${p.ber}` : null,
-          ].filter(Boolean).join(" · ") }),
-          p.tagline ? el("p", { class: "ic-tag", text: p.tagline }) : null,
-          rateRow(p),
-          el("div", { class: "ic-links" },
-            el("a", { href, text: "Day in the life →" }),
-            p.listingUrl ? el("a", { href: p.listingUrl, target: "_blank", rel: "noopener", text: "Listing" }) : null)));
+          el("div", { class: "ic-main" },
+            el("div", { class: "ic-titleline" },
+              el("a", { class: "ic-name", href, text: p.name }),
+              el("span", { class: "ic-area", title: p.area || p.address || "", text: (p.area || p.address || "").split(",").map((x) => x.trim()).filter((x) => x && x.toLowerCase() !== p.name.toLowerCase()).join(", ") }),
+              el("span", { class: "status " + statusClass(lb), text: lb, title: blend(p) != null ? `Blended score ${blend(p).toFixed(2)}` : "" })),
+            el("p", { class: "ic-line" }, price, facts ? el("span", { class: "ic-facts", text: facts }) : null),
+            p.tagline ? el("p", { class: "ic-tag", text: p.tagline }) : null),
+          scoresBadge(p)));
       list.append(li);
     }
   }
 
-  function rateRow(p) {
-    const mine = R.mine(p.id);
-    const sig = JSON.stringify([mine && mine.stars, R.forProperty(p.id).map((r) => [r.person, r.stars])]);
-    return el("div", { class: "ic-rate", "data-sig": sig },
-      el("span", { class: "ic-rate-label", text: mine ? "Your rating" : "Rate it" }),
-      window.HDStars(mine ? mine.stars : 0, async (n) => {
-        const who = await window.HDAskName();
-        if (!who) return;
-        $("idx-name").value = who;
-        const cur = R.mine(p.id);
-        await R.rate(p.id, n, cur ? cur.note : "");
-      }, { small: true, label: `Your rating for ${p.name}` }));
-  }
-
-  /* AI score vs people's average (with spread), each on a 5-star bar; hover or tap for detail. */
+  /* Scores: 🤖 AI and 👥 people on matching 5-star bars, plus your own stars. Hover for detail. */
   function bar(value, cls, range) {
     const b = el("span", { class: "sbar " + cls });
     b.append(el("i", { class: "sbar-fill", style: `width:${value == null ? 0 : (value / 5) * 100}%` }));
@@ -111,24 +92,32 @@
     return b;
   }
   function scoresBadge(p) {
-    const rs = R.forProperty(p.id), sum = R.summary(p.id);
+    const rs = R.forProperty(p.id), sum = R.summary(p.id), mine = R.mine(p.id);
     const sd = rs.length > 1 ? Math.sqrt(rs.reduce((a, r) => a + (r.stars - sum.avg) ** 2, 0) / rs.length) : null;
     const lo = rs.length > 1 ? Math.min(...rs.map((r) => r.stars)) : null, hi = rs.length > 1 ? Math.max(...rs.map((r) => r.stars)) : null;
     const aiS = p.ai ? p.ai.stars : null;
     const pop = el("div", { class: "spop", role: "tooltip" },
-      el("p", { class: "spop-h" }, el("b", { text: "AI" }), document.createTextNode(aiS != null ? ` ${aiS.toFixed(1)} ` : " not scored "), el("span", { class: "spop-stars ai", text: aiS != null ? window.HDStarText(aiS) : "" })),
+      el("p", { class: "spop-h" }, el("b", { text: "🤖 AI" }), document.createTextNode(aiS != null ? ` ${aiS.toFixed(1)} ` : " not scored "), el("span", { class: "spop-stars ai", text: aiS != null ? window.HDStarText(aiS) : "" })),
       p.ai && p.ai.why ? el("p", { class: "spop-why", text: p.ai.why }) : null,
-      el("p", { class: "spop-h" }, el("b", { text: "People" }), document.createTextNode(sum.n ? ` ${sum.avg.toFixed(1)}${sd != null ? ` ± ${sd.toFixed(1)}` : ""} from ${sum.n}` : " no ratings yet")),
+      el("p", { class: "spop-h" }, el("b", { text: "👥 People" }), document.createTextNode(sum.n ? ` ${sum.avg.toFixed(1)}${sd != null ? ` ± ${sd.toFixed(1)}` : ""} from ${sum.n}` : " no ratings yet")),
       rs.length ? el("ul", { class: "spop-list" }, ...rs.map((r) => el("li", {},
         el("span", { class: "spop-name", text: r.person }),
         el("span", { class: "spop-stars", text: window.HDStarText(r.stars) }),
         r.note ? el("span", { class: "spop-note", text: r.note }) : null))) : null);
-    const sig = JSON.stringify(rs.map((r) => [r.person, r.stars, r.note]));
-    return el("button", { type: "button", class: "scores", "data-sig": sig, "aria-label": `AI ${aiS ?? "not scored"}, people ${sum.n ? sum.avg.toFixed(1) : "not rated"}` },
-      el("span", { class: "srow" }, el("span", { class: "slab", text: "AI" }), bar(aiS, "ai"), el("span", { class: "sval", text: aiS != null ? aiS.toFixed(1) : "–" })),
-      el("span", { class: "srow" }, el("span", { class: "slab", text: "Us" }), bar(sum.avg, "us", lo != null && hi > lo ? [lo, hi] : null),
+    const sig = JSON.stringify([mine && mine.stars, rs.map((r) => [r.person, r.stars, r.note])]);
+    const you = window.HDStars(mine ? mine.stars : 0, async (n) => {
+      const who = await window.HDAskName();
+      if (!who) return;
+      $("idx-name").value = who;
+      const cur = R.mine(p.id);
+      await R.rate(p.id, n, cur ? cur.note : "");
+    }, { small: true, label: `Your rating for ${p.name}` });
+    return el("div", { class: "scores", tabindex: "0", "data-sig": sig, "aria-label": `AI ${aiS ?? "not scored"}, people ${sum.n ? sum.avg.toFixed(1) : "not rated"}` },
+      el("span", { class: "srow", title: "AI" }, el("span", { class: "slab", text: "🤖" }), bar(aiS, "ai"), el("span", { class: "sval", text: aiS != null ? aiS.toFixed(1) : "–" })),
+      el("span", { class: "srow", title: "People" }, el("span", { class: "slab", text: "👥" }), bar(sum.avg, "us", lo != null && hi > lo ? [lo, hi] : null),
         el("span", { class: "sval", text: sum.n ? sum.avg.toFixed(1) : "–" }),
         sd != null && sd > 0 ? el("span", { class: "ssd", text: "±" + sd.toFixed(1) }) : null),
+      el("span", { class: "srow srow-you" }, el("span", { class: "slab slab-you", text: "You" }), you),
       pop);
   }
 
@@ -140,11 +129,11 @@
   }
 
   function pill(p, hot) {
-    const label = euroK(p.price);
-    const w = 14 + label.length * 8.2;
+    const txt = euroK(p.price);
+    const w = 14 + txt.length * 8.2;
     const out = /passed|sale agreed|sold/i.test(label(p));
     const fill = hot ? "#e3b21f" : out ? "#8a948f" : "#0b6b3a", ink = hot ? "#1b2421" : "#ffffff";
-    const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="34"><path d="M4 1h${w - 8}a3 3 0 0 1 3 3v18a3 3 0 0 1-3 3H${w / 2 + 6}l-6 7-6-7H4a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3z" fill="${fill}" stroke="#ffffff" stroke-width="1.5"/><text x="${w / 2}" y="18" font-family="IBM Plex Mono, monospace" font-size="13" font-weight="600" fill="${ink}" text-anchor="middle">${label}</text></svg>`;
+    const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="34"><path d="M4 1h${w - 8}a3 3 0 0 1 3 3v18a3 3 0 0 1-3 3H${w / 2 + 6}l-6 7-6-7H4a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3z" fill="${fill}" stroke="#ffffff" stroke-width="1.5"/><text x="${w / 2}" y="18" font-family="IBM Plex Mono, monospace" font-size="13" font-weight="600" fill="${ink}" text-anchor="middle">${txt}</text></svg>`;
     return { url: "data:image/svg+xml;charset=UTF-8," + encodeURIComponent(svg), anchor: new google.maps.Point(w / 2, 33) };
   }
 
@@ -204,9 +193,6 @@
       }
       // update ratings in place so cards don't jump while you rate
       for (const p of props) {
-        const row = document.querySelector(`#ic-${CSS.escape(p.id)} .ic-rate`);
-        const fresh = rateRow(p);
-        if (row && row.dataset.sig !== fresh.dataset.sig) row.replaceWith(fresh);
         const badge = document.querySelector(`#ic-${CSS.escape(p.id)} .scores`);
         const nb = scoresBadge(p);
         if (badge && badge.dataset.sig !== nb.dataset.sig) badge.replaceWith(nb);
