@@ -85,7 +85,7 @@ Each trip also has:
 
 `id` is a lowercase slug of the house name plus the townland or village, for example `forty-shades` or `old-station-house-monasterevin`. Copy the shape of `properties/forty-shades.json` exactly, with these top-level keys:
 
-`id, name, address, eircode, lat, lng, listingUrl, status, added, area, agent, agentEmail, questions[], price, type, beds, bedsNote, baths, floorM2, atticM2, landHa, landAcres, ber, berKwh, heating, listed, views, stampDuty, tagline, photos[], pros[], cons[], trips[], categories[]`
+`id, name, address, eircode, lat, lng, listingUrl, status, added, area, agent, agentEmail, questions[], ai, price, type, beds, bedsNote, baths, floorM2, atticM2, landHa, landAcres, ber, berKwh, heating, listed, views, stampDuty, tagline, photos[], pros[], cons[], trips[], categories[]`
 
 Notes on the keys:
 - `status`: one of `Front-runner`, `Considering`, `Sale agreed`, `Passed`. New houses start as `Considering`.
@@ -96,6 +96,7 @@ Notes on the keys:
 - `categories`: always `["Schools","Groceries","Eating out","Health","Towns and cities","Getting away"]`.
 - `questions`: 3–5 questions for the agent that are specific to this house: the unknowns and risks in your cons, such as floor area, site boundaries, ground-floor bedroom, BER, protected-structure status or radon. The page's "Email the agent" button opens a draft with these first, followed by a standard set: availability and offers, water and septic, broadband, title and planning, flooding, and a remote viewing. So don't repeat those.
 - `agentEmail`: optional; leave it out if it isn't public.
+- `ai`: `{ "stars": 1–5 in half steps, "why": "one or two short sentences" }`. This is your own judgement of fit with the brief, shown on the index next to the people's average, so make it comparable across houses. Read a few existing files to calibrate: Forty Shades is 4.5, the shortlist's benchmark; a house that badly misses the size or the ground-floor bedroom requirement scores 2–2.5.
 
 Then add the id to `properties/index.json`, keeping existing ids and never duplicating one.
 
@@ -131,7 +132,7 @@ People rate houses on the site itself, and those ratings sync through a small Cl
 
 ## Don'ts
 
-- Don't edit `app.js`, `index.js`, `style.css` or the HTML to add a house.
+- Don't edit `app.js`, `index.js`, `style.css` or the HTML to add a house. If you ever do change those, run `setup/stamp.sh` before committing, so browsers don't mix cached old scripts with the new page.
 - Don't commit any key other than the browser key already in `config.js`.
 - Don't copy listing photos into the repo.
 - Don't guess coordinates.

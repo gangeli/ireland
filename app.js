@@ -256,6 +256,10 @@
       const list = R.forProperty(P.id), sum = R.summary(P.id);
       $("rate-avg").textContent = sum.n ? `${window.HDStarText(sum.avg)} ${sum.avg.toFixed(1)} from ${sum.n} ${sum.n === 1 ? "person" : "people"}` : "No ratings yet";
       const ul = $("rate-all"); ul.textContent = "";
+      if (P.ai) ul.append(el("li", { class: "rate-row ai" },
+        el("span", { class: "rate-name", text: `AI · ${P.ai.stars.toFixed(1)}` }),
+        el("span", { class: "rate-stars", "aria-label": `${P.ai.stars} of 5`, text: window.HDStarText(P.ai.stars) }),
+        P.ai.why ? el("p", { class: "rate-note", text: P.ai.why }) : null));
       for (const r of list) {
         ul.append(el("li", { class: "rate-row" + (r.person === R.me() ? " me" : "") },
           el("span", { class: "rate-name", text: r.person }),

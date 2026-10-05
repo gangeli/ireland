@@ -270,5 +270,9 @@
     "Health",
     "Towns and cities",
     "Getting away"
-  ]
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "Single storey near Kildare's trains at €475k. Under half an acre, in in-between country."
+  }
 }

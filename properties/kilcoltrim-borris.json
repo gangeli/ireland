@@ -271,5 +271,9 @@
   "questions": [
     "Is there a bedroom on the ground floor, or a room that could be used as one? Could you send the floor plan?",
     "What is the total floor area of the house?"
-  ]
+  ],
+  "ai": {
+    "stars": 2.0,
+    "why": "A cheap acre near lovely Borris. Far too small and needs everything."
+  }
 }

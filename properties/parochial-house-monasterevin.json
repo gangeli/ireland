@@ -276,5 +276,9 @@
   ],
   "questions": [
     "Is the house a protected structure, and has any work been done on it under planning?"
-  ]
+  ],
+  "ai": {
+    "stars": 3.0,
+    "why": "Big, cheap, train at the door. Needs a full refurb and a ground-floor bedroom."
+  }
 }

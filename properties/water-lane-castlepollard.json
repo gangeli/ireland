@@ -263,5 +263,9 @@
     "Health",
     "Towns and cities",
     "Getting away"
-  ]
+  ],
+  "ai": {
+    "stars": 2.0,
+    "why": "Cheap single storey in a walkable town. Only 94 m² and BER G."
+  }
 }

@@ -270,5 +270,9 @@
   ],
   "questions": [
     "Is there a bedroom on the ground floor, or a room that could be used as one? Could you send the floor plan?"
-  ]
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "Real character, 150 m from Dublin trains. Over budget, half an acre, ground-floor bedroom unconfirmed."
+  }
 }

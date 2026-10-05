@@ -268,5 +268,9 @@
     "Health",
     "Towns and cities",
     "Getting away"
-  ]
+  ],
+  "ai": {
+    "stars": 4.0,
+    "why": "Village edge, an acre, a ground-floor bedroom, under budget. Needs a downstairs shower; no train."
+  }
 }

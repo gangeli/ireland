@@ -272,5 +272,9 @@
     "Health",
     "Towns and cities",
     "Getting away"
-  ]
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "Three acres, good BER, right size. Far from an ED, a station and schools."
+  }
 }

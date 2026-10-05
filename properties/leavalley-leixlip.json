@@ -273,5 +273,9 @@
     "Health",
     "Towns and cities",
     "Getting away"
-  ]
+  ],
+  "ai": {
+    "stars": 2.5,
+    "why": "Best Dublin and airport access. Suburban, BER G and over budget."
+  }
 }

@@ -278,5 +278,9 @@
   ],
   "questions": [
     "Has the house been tested for radon?"
-  ]
+  ],
+  "ai": {
+    "stars": 2.5,
+    "why": "Rural, dog-ready, cheap, with a downstairs suite. Too small at 115 m²."
+  }
 }

@@ -27,7 +27,8 @@
   const R = window.HDRatings;
   const avgOf = (p) => { const x = R.summary(p.id); return x.avg == null ? -1 : x.avg; };
   const sorters = {
-    rating: (a, b) => avgOf(b) - avgOf(a) || score(b) - score(a),
+    rating: (a, b) => avgOf(b) - avgOf(a) || ((b.ai && b.ai.stars) || 0) - ((a.ai && a.ai.stars) || 0),
+    ai: (a, b) => ((b.ai && b.ai.stars) || 0) - ((a.ai && a.ai.stars) || 0) || avgOf(b) - avgOf(a),
     score: (a, b) => score(b) - score(a),
     price: (a, b) => a.price - b.price,
     added: (a, b) => String(b.added || "").localeCompare(String(a.added || "")),
@@ -51,7 +52,7 @@
         el("div", { class: "ic-body" },
           el("div", { class: "ic-top" },
             el("span", { class: "status " + statusClass(p.status), text: p.status || "Considering" }),
-            el("span", { class: "ic-score", title: "Weighted pros minus cons", text: (s > 0 ? "+" : "") + s })),
+            scoresBadge(p)),
           el("a", { class: "ic-name", href, text: p.name }),
           el("p", { class: "ic-area", text: p.area || p.address }),
           price,
@@ -68,20 +69,46 @@
   }
 
   function rateRow(p) {
-    const sum = R.summary(p.id), mine = R.mine(p.id);
-    const others = R.forProperty(p.id).map((r) => `${r.person} ${r.stars}`).join(", ");
+    const mine = R.mine(p.id);
     const sig = JSON.stringify([mine && mine.stars, R.forProperty(p.id).map((r) => [r.person, r.stars])]);
     return el("div", { class: "ic-rate", "data-sig": sig },
+      el("span", { class: "ic-rate-label", text: mine ? "Your rating" : "Rate it" }),
       window.HDStars(mine ? mine.stars : 0, async (n) => {
         const who = await window.HDAskName();
         if (!who) return;
         $("idx-name").value = who;
         const cur = R.mine(p.id);
         await R.rate(p.id, n, cur ? cur.note : "");
-      }, { small: true, label: `Your rating for ${p.name}` }),
-      el("span", { class: "ic-avg", title: others },
-        sum.n ? el("b", { text: window.HDStarText(sum.avg) }) : null,
-        document.createTextNode(sum.n ? ` ${sum.avg.toFixed(1)} · ${others}` : "Not rated yet")));
+      }, { small: true, label: `Your rating for ${p.name}` }));
+  }
+
+  /* AI score vs people's average (with spread), each on a 5-star bar; hover or tap for detail. */
+  function bar(value, cls, range) {
+    const b = el("span", { class: "sbar " + cls });
+    b.append(el("i", { class: "sbar-fill", style: `width:${value == null ? 0 : (value / 5) * 100}%` }));
+    if (range) b.append(el("i", { class: "sbar-range", style: `left:${(range[0] / 5) * 100}%;width:${((range[1] - range[0]) / 5) * 100}%` }));
+    return b;
+  }
+  function scoresBadge(p) {
+    const rs = R.forProperty(p.id), sum = R.summary(p.id);
+    const sd = rs.length > 1 ? Math.sqrt(rs.reduce((a, r) => a + (r.stars - sum.avg) ** 2, 0) / rs.length) : null;
+    const lo = rs.length > 1 ? Math.min(...rs.map((r) => r.stars)) : null, hi = rs.length > 1 ? Math.max(...rs.map((r) => r.stars)) : null;
+    const aiS = p.ai ? p.ai.stars : null;
+    const pop = el("div", { class: "spop", role: "tooltip" },
+      el("p", { class: "spop-h" }, el("b", { text: "AI" }), document.createTextNode(aiS != null ? ` ${aiS.toFixed(1)} ` : " not scored "), el("span", { class: "spop-stars ai", text: aiS != null ? window.HDStarText(aiS) : "" })),
+      p.ai && p.ai.why ? el("p", { class: "spop-why", text: p.ai.why }) : null,
+      el("p", { class: "spop-h" }, el("b", { text: "People" }), document.createTextNode(sum.n ? ` ${sum.avg.toFixed(1)}${sd != null ? ` ± ${sd.toFixed(1)}` : ""} from ${sum.n}` : " no ratings yet")),
+      rs.length ? el("ul", { class: "spop-list" }, ...rs.map((r) => el("li", {},
+        el("span", { class: "spop-name", text: r.person }),
+        el("span", { class: "spop-stars", text: window.HDStarText(r.stars) }),
+        r.note ? el("span", { class: "spop-note", text: r.note }) : null))) : null);
+    const sig = JSON.stringify(rs.map((r) => [r.person, r.stars, r.note]));
+    return el("button", { type: "button", class: "scores", "data-sig": sig, "aria-label": `AI ${aiS ?? "not scored"}, people ${sum.n ? sum.avg.toFixed(1) : "not rated"}` },
+      el("span", { class: "srow" }, el("span", { class: "slab", text: "AI" }), bar(aiS, "ai"), el("span", { class: "sval", text: aiS != null ? aiS.toFixed(1) : "–" })),
+      el("span", { class: "srow" }, el("span", { class: "slab", text: "Us" }), bar(sum.avg, "us", lo != null && hi > lo ? [lo, hi] : null),
+        el("span", { class: "sval", text: sum.n ? sum.avg.toFixed(1) : "–" }),
+        sd != null && sd > 0 ? el("span", { class: "ssd", text: "±" + sd.toFixed(1) }) : null),
+      pop);
   }
 
   function highlight(id, on) {
@@ -109,7 +136,7 @@
       m.addListener("click", () => {
         const card = $("ic-" + p.id);
         if ($("idx-main").dataset.view === "map") { location.href = `property.html?p=${encodeURIComponent(p.id)}`; return; }
-        if (card) { card.scrollIntoView({ behavior: "smooth", block: "center" }); card.classList.add("hot"); setTimeout(() => card.classList.remove("hot"), 1600); }
+        if (card) { card.scrollIntoView({ behavior: "instant", block: "center" }); card.classList.add("hot"); setTimeout(() => card.classList.remove("hot"), 1600); }
       });
       m.addListener("mouseover", () => highlight(p.id, true));
       m.addListener("mouseout", () => highlight(p.id, false));
@@ -153,6 +180,9 @@
         const row = document.querySelector(`#ic-${CSS.escape(p.id)} .ic-rate`);
         const fresh = rateRow(p);
         if (row && row.dataset.sig !== fresh.dataset.sig) row.replaceWith(fresh);
+        const badge = document.querySelector(`#ic-${CSS.escape(p.id)} .scores`);
+        const nb = scoresBadge(p);
+        if (badge && badge.dataset.sig !== nb.dataset.sig) badge.replaceWith(nb);
       }
       const dl = $("idx-raters"); dl.textContent = "";
       for (const p of R.people()) dl.append(el("option", { value: p }));

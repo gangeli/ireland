@@ -258,5 +258,9 @@
     "Health",
     "Towns and cities",
     "Getting away"
-  ]
+  ],
+  "ai": {
+    "stars": 4.0,
+    "why": "Two ground-floor bedrooms on 1.5 acres under €500k, school nearby. Tiny village, few trains."
+  }
 }

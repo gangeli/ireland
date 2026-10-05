@@ -116,7 +116,11 @@ window.HDStars = function (value, onPick, opts) {
   box.addEventListener("mouseleave", () => box.querySelectorAll(".star").forEach((s) => s.classList.remove("hover")));
   return box;
 };
-window.HDStarText = (avg) => avg == null ? "" : "★".repeat(Math.round(avg)) + "☆".repeat(5 - Math.round(avg));
+window.HDStarText = (avg) => {
+  if (avg == null) return "";
+  const half = Math.round(avg * 2) / 2, full = Math.floor(half), h = half - full ? 1 : 0;
+  return "★".repeat(full) + (h ? "½" : "") + "☆".repeat(5 - full - h);
+};
 
 /* Ask for a name the first time someone rates; remembered in this browser.
  * Resolves with the name, or null if they cancel. */

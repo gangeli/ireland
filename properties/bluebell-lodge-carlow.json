@@ -271,5 +271,9 @@
     "What is the total floor area of the house?",
     "What is the site size, and where exactly are the boundaries?",
     "Is the BER certificate available yet, and what heating system does the house have?"
-  ]
+  ],
+  "ai": {
+    "stars": 2.0,
+    "why": "Cottage could be an annex, walk into Carlow. Over budget, size unknown, town garden."
+  }
 }

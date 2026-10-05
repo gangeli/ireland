@@ -262,5 +262,9 @@
   ],
   "questions": [
     "What is the total floor area of the house?"
-  ]
+  ],
+  "ai": {
+    "stars": 3.0,
+    "why": "Single storey on an acre, 10 minutes from Kilkenny's hospital. Probably too small; needs heating."
+  }
 }

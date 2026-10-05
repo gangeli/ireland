@@ -264,5 +264,9 @@
   ],
   "questions": [
     "What is the site size, and where exactly are the boundaries?"
-  ]
+  ],
+  "ai": {
+    "stars": 2.0,
+    "why": "Very cheap with a train and ED in town, but a town terrace is far from the brief."
+  }
 }
