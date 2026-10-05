@@ -260,7 +260,8 @@ figcaption { font-size: 13px; color: var(--muted); margin-top: 6px; }
 .ic-price { font: 500 20px var(--f-mono); font-variant-numeric: tabular-nums; margin-top: 4px; }
 .ic-price small { font-size: 14px; color: var(--muted); }
 .ic-facts { margin: 0; font: 14px var(--f-mono); color: var(--ink); }
-.ic-tag { margin: 4px 0 0; font-size: 14px; color: var(--muted); }
+.ic-tag { margin: 4px 0 0; font-size: 14px; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+@media (max-width: 860px) { .ic-tag { -webkit-line-clamp: 2; } .ic-name { font-size: 22px; } }
 .ic-links { display: flex; gap: 14px; margin-top: 8px; font-weight: 700; font-size: 14px; }
 .ic-links a { color: var(--moss); text-decoration: none; }
 .ic-links a:hover { text-decoration: underline; }
@@ -372,3 +373,35 @@ figcaption { font-size: 13px; color: var(--muted); margin-top: 6px; }
 .namedlg-ok { background: var(--sign); color: #fff; box-shadow: 0 2px 0 rgba(0,0,0,.15); }
 .namedlg-ok:hover { filter: brightness(1.08); }
 @media (prefers-reduced-motion: reduce) { .namedlg[open] { animation: none; } }
+
+/* index: app layout. Slim fixed header, fixed map, only the list scrolls. */
+html:has(body.idx) { height: 100%; }
+body.idx { height: 100%; display: flex; flex-direction: column; overflow: hidden; }
+body.idx .keybar { flex: none; }
+.idx-head { flex: none; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px; padding: 10px 20px; padding-top: calc(10px + env(safe-area-inset-top, 0px)); background: var(--panel); border-bottom: 1px solid var(--line); }
+.idx-head h1 { display: flex; align-items: center; gap: 10px; font-size: 24px; line-height: 1; margin: 0; }
+.idx-head h1 img { border-radius: 6px; }
+.idx-count { font: 500 13px var(--f-mono); color: var(--muted); background: var(--bg); border: 1px solid var(--line); border-radius: 999px; padding: 3px 8px; }
+.idx-head .idx-tools { margin: 0; flex: 1 1 auto; justify-content: flex-end; gap: 10px 14px; }
+.idx-head .seg button { padding: 6px 12px; font-size: 13.5px; }
+body.idx .idx-main { flex: 1 1 auto; min-height: 0; max-width: none; margin: 0; padding: 14px 20px 0; gap: 16px; align-items: stretch; }
+body.idx .idx-map { position: static; min-height: 0; padding-bottom: 14px; }
+body.idx .idx-map .mapbox { height: 100%; min-height: 0; }
+body.idx .idx-main { grid-template-rows: minmax(0, 1fr); }
+body.idx .idx-list { grid-auto-rows: max-content; min-height: 0; overflow-y: auto; overscroll-behavior: contain; padding: 0 4px calc(14px + env(safe-area-inset-bottom, 0px)) 0; align-content: start; }
+body.idx .idx-main[data-view="list"] .idx-list { max-width: 1280px; width: 100%; margin: 0 auto; }
+@media (max-width: 860px) {
+  .idx-head { padding: 8px 12px; padding-top: calc(8px + env(safe-area-inset-top, 0px)); }
+  .idx-head h1 { font-size: 20px; }
+  .idx-head { display: grid; grid-template-columns: auto 1fr; }
+  .idx-head .idx-tools { display: contents; }
+  .idx-head .seg { justify-self: end; }
+  .idx-head .idx-right { grid-column: 1 / -1; justify-content: space-between; width: 100%; }
+  .idx-head .sortby, .idx-head .idx-who { font-size: 13px; }
+  .idx-head .idx-who input { width: 7.5em; }
+  body.idx .idx-main, body.idx .idx-main[data-view="split"] { display: flex; flex-direction: column; padding: 10px 12px 0; gap: 10px; }
+  body.idx .idx-main[data-view="split"] .idx-map { flex: 0 0 34vh; padding-bottom: 0; }
+  body.idx .idx-main[data-view="map"] .idx-map { flex: 1 1 auto; }
+  body.idx .idx-map .mapbox { height: 100%; }
+  body.idx .idx-list { flex: 1 1 auto; }
+}

@@ -37,6 +37,7 @@
 
   function renderList() {
     const list = $("idx-list"); list.textContent = "";
+    $("idx-count").textContent = String(props.length);
     const sorted = [...props].sort(sorters[$("sort").value] || sorters.score);
     for (const p of sorted) {
       const href = `property.html?p=${encodeURIComponent(p.id)}`;
@@ -55,7 +56,7 @@
           el("p", { class: "ic-area", text: p.area || p.address }),
           price,
           el("p", { class: "ic-facts", text: [
-            `${p.beds} bed`, `${p.floorM2} m²`, p.landAcres ? `${p.landAcres} ac` : null, p.ber ? `BER ${p.ber}` : null,
+            p.beds ? `${p.beds} bed` : null, p.floorM2 ? `${p.floorM2} m²` : null, p.landAcres ? `${p.landAcres} ac` : null, p.ber ? `BER ${p.ber}` : null,
           ].filter(Boolean).join(" · ") }),
           p.tagline ? el("p", { class: "ic-tag", text: p.tagline }) : null,
           rateRow(p),
