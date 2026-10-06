@@ -44,3 +44,14 @@ Append-only. One entry per daily sweep; see `SWEEP.md` for the procedure. Newest
 - Rechecks: not done. Prices and status on the site are as of 2026-10-05.
 - Added / archived / updated: none.
 - Shortlist unchanged at 18.
+
+## 2026-10-06 sweep — re-run with Gabor present (08:15 PT)
+- Sources: Daft houses p1–2 + sites p1 for the five counties; MyHome recent for all five; Daft page 1 for 26 commuter/Wexford towns. Missed: none. Covered listings since 5 Oct (the 14:53 UTC run was blocked).
+- Human ratings: 11 ratings from 2 people (snapshot log/ratings/2026-10-06.json). The bare URL now answers (with a cache-buster query); `?action=check` now returns only {"fresh":0}.
+- New ratings since 5 Oct: Alderfern 4, Castleinch 4, 6 Grattan St 3 (all Gabor).
+- Rechecked all 18 live houses: all for sale, no price changes. Stone Lodge open viewing Sat 10 Oct 11:00–12:00.
+- Added: Jenkinstown Park, Jenkinstown, Co. Kilkenny (AI 3.5) – €395k, 4 bed, ~127 m², 1.3 ac, two ground-floor bedrooms + shower room, restored, 10 min to Kilkenny (St Luke's ED, Kilkenny College/St Kieran's, ~7 trains/day). Under the size floor, small kitchen, BER D (listing says "to follow"), well/septic. Adjoining 18.5 ac listed separately at €460k. Photos/floor plan need a browser pass.
+- Considered, not added: 6 Black Church Square, Inistioge €360k (terrace, no ground-floor bedroom, paved yard); 7 Milford Park, Ballinabranna €427.5k (estate bungalow); Main St, Stoneyford POA (semi needing major work); Main St, Tinnahinch €135k (no garden); The Bungalow, Cill Dara Close, Celbridge (96 m², 0.15 ac); Fortbarrington Rd, Athy (house + florist).
+- Archived: — · Re-added: — · Updated: —
+- Lessons from ratings: Gabor rates small single-storey houses on real land near amenities (Castleinch 4, Alderfern 4) above the AI (3.0 each). Size below 140 m² seems to bother him less than the AI assumed. Applied when scoring Jenkinstown (3.5 rather than 3.0). Not re-scoring existing AI votes yet.
+- Shortlist now 19 (combined score): forty-shades (4.83: AI 4.5, people [5, 5]), stone-lodge-freshford (4.50: AI 4.0, people [5]), tobinstown-lodge-tullow (3.75: AI 3.5, people [4]), alderfern-ferns (3.50: AI 3.0, people [4]), ballinkillen-bagenalstown (3.50: AI 4.0, people [3]), castleinch-kilkenny (3.50: AI 3.0, people [4]), jenkinstown-park-jenkinstown (3.50), old-station-house-monasterevin (3.50: AI 3.0, people [4]), hillview-maddenstown (3.25: AI 3.5, people [3]), leavalley-leixlip (3.00: AI 2.0, people [4]), parochial-house-monasterevin (3.00), 6-grattan-street-portlaoise (2.50: AI 2.0, people [3]), bluebell-lodge-carlow (2.50), compsey-mill-mullinahone (2.50), green-house-clara (2.50), kilcoltrim-borris (2.50), old-forge-ballyduff (2.50), canal-view-sallins (2.00), water-lane-castlepollard (2.00)

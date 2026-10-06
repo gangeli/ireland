@@ -1,0 +1,338 @@
+{
+  "id": "jenkinstown-park-jenkinstown",
+  "name": "Jenkinstown Park",
+  "address": "Jenkinstown Park, Jenkinstown, Co. Kilkenny",
+  "eircode": "R95 E9W4",
+  "lat": 52.72185,
+  "lng": -7.298327,
+  "listingUrl": "https://www.daft.ie/for-sale/jenkinstown-park-jenkinstown-co-kilkenny/6687969",
+  "status": "Considering",
+  "added": "2026-10-06",
+  "area": "Jenkinstown, Co. Kilkenny",
+  "agent": "Pat Gannon Auctioneers (Marie Maher)",
+  "agentPhone": "056 772 3298",
+  "questions": [
+    "Bedroom 1 wasn't accessed for the brochure: what size is it, and can you send a floor plan and the workshop's dimensions?",
+    "When will the BER certificate be ready, and is the Daft 'D' a placeholder? Is the LPG tank owned or rented, and what did heating cost last year?",
+    "Can you share a recent well-water test and the septic tank's age and any inspection or certification? Has the site or access lane ever flooded, and has the house been tested for radon?",
+    "Can you send a site map of the 1.3 acres showing the boundaries, fencing and gate? Does the access cross the 18.5-acre lot, and would any rights of way or shared access survive a separate sale?",
+    "BuyerIQ shows four planning applications within 1 km: do you know what they are, and what are the adjoining 18.5 acres used for now?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "Two ground-floor bedrooms, a downstairs shower room, 1.3 acres and Kilkenny's ED, schools and station 10 minutes away, at €395k. But about 127 m² with a small kitchen, LPG heating and the BER still to come."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but the house is lived in, with alarm and CCTV."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private well, stated in the listing; ask for a water test."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank, stated in the listing; ask its age and condition."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Full fibre likely: not in the listing, but BuyerIQ shows '387 Mb full fibre' at this address. Confirm the provider by Eircode.",
+      "type": "Fibre",
+      "speed": "~387 Mb (up to 1 Gb plans)",
+      "provider": "NBI / open eir"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Bedrooms 1 and 2 are on the ground floor (Bedroom 2 is 3.5 × 3.25 m with a bay window; Bedroom 1 wasn't measured), beside a guest shower room."
+  },
+  "price": 395000,
+  "type": "Detached restored house",
+  "beds": 4,
+  "bedsNote": "Two bedrooms on the ground floor, two upstairs",
+  "baths": 2,
+  "floorM2": 127,
+  "landHa": 0.53,
+  "landAcres": 1.3,
+  "ber": "D",
+  "heating": "LPG (Calor) gas central heating, new Worcester boiler; solid-fuel stoves in the kitchen and sitting room",
+  "listed": "2026-10-05",
+  "views": 257,
+  "stampDuty": 3950,
+  "tagline": "A restored four-bed house with two bedrooms downstairs on 1.3 acres in the old Jenkinstown demesne, about 10 minutes north of Kilkenny city.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI4XC9mXC84ZjllYTA2NC1mNDg1LTQ1NjUtYmZmMC1mMjkxMjFkNjQyOGIuSlBFRyJ9?signature=b01d6c881eb4c61f94a337e9581c872c871261206d198f876bcda5413471b821",
+      "role": "facade"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€395k, well under the €500k line",
+      "weight": 3,
+      "detail": "About €3,110/m²; stamp duty about €3,950, leaving room for an extension."
+    },
+    {
+      "text": "Two ground-floor bedrooms and a shower room",
+      "weight": 3,
+      "detail": "Bedrooms 1 and 2 and a guest shower room are downstairs, so Gabor's parents need not climb stairs."
+    },
+    {
+      "text": "1.3 acres of mature grounds",
+      "weight": 3,
+      "detail": "About 0.53 ha, above the 1-acre target for the vizslas."
+    },
+    {
+      "text": "Kilkenny's ED and city about 10 minutes",
+      "weight": 3,
+      "detail": "The listing says 8–10 minutes to Kilkenny; St Luke's (24-hour, all-ages ED) is about 7 km straight-line."
+    },
+    {
+      "text": "Schools within reach",
+      "weight": 2,
+      "detail": "Clinstown NS (mixed, 127 pupils, up 37% since 2019) is about 2.3 km straight-line; Kilkenny College (mixed) and St Kieran's (boys, 100% to third level in 2023) are about 7–9 km."
+    },
+    {
+      "text": "Restored, with a new boiler",
+      "weight": 2,
+      "detail": "Listed as 'beautifully restored and extensively renovated', with a new Worcester boiler, double glazing, alarm and CCTV."
+    },
+    {
+      "text": "Coillte forest park next door",
+      "weight": 1,
+      "detail": "Jenkinstown Wood (Coillte, 1–3 km loop walks) is about 1.2 km straight-line from the house: daily dog walks."
+    },
+    {
+      "text": "Workshop, plus an option on 18.5 acres",
+      "weight": 1,
+      "detail": "A large workshop to the rear; the adjoining 18.5 acres are for sale separately at €460k (€855k together, over budget)."
+    }
+  ],
+  "cons": [
+    {
+      "text": "About 127 m², under the 140 m² floor",
+      "weight": 3,
+      "detail": "1,362 sq ft ≈ 127 m², 13 m² short; a ~30 m² extension would be a rough €70–100k."
+    },
+    {
+      "text": "Small kitchen and rooms",
+      "weight": 2,
+      "detail": "Kitchen/dining 3.66 × 3.86 m and sitting room 3.5 × 4.2 m: tight for a family of four plus visiting parents."
+    },
+    {
+      "text": "BER still to come; LPG heating",
+      "weight": 2,
+      "detail": "The BER is 'to follow' (Daft and BuyerIQ show a D). LPG is costly to run; a heat pump and insulation would be a rough €30–50k before grants."
+    },
+    {
+      "text": "Only about 7 Dublin trains a weekday",
+      "weight": 2,
+      "detail": "Kilkenny MacDonagh is about 10 km by road, then about 1h30–1h45 to Heuston."
+    },
+    {
+      "text": "Tiny downstairs shower; Bedroom 1 unmeasured",
+      "weight": 1,
+      "detail": "The guest shower room is 1.9 × 1.25 m, and the agent had no access to Bedroom 1 for the brochure."
+    },
+    {
+      "text": "Private well and septic tank",
+      "weight": 1,
+      "detail": "Ask for a water test and the tank's age and condition, especially for rental use."
+    },
+    {
+      "text": "Setting not checked from above",
+      "weight": 1,
+      "detail": "No aerial or satellite check yet (no browser); BuyerIQ notes four planning applications within 1 km and flags one critical and five high-priority items behind its paywall."
+    },
+    {
+      "text": "No village shop on the doorstep",
+      "weight": 1,
+      "detail": "Groceries are in Kilkenny city or Ballyragget, roughly 8–10 km either way."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Scoil Naomh Ioseph, Clinstown",
+      "candidates": [
+        "Scoil Naomh Ioseph, Clinstown, Jenkinstown, Co. Kilkenny R95 XA00",
+        "St Joseph's National School Clinstown, Co. Kilkenny"
+      ],
+      "note": "Mixed, Catholic, 127 pupils (74 boys) in 2025/26, not DEIS, roll 18607O; about 2.3 km straight-line. Conahy NS (20 pupils) is about 4.3 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed Catholic school, not DEIS, enrolment up 37% since 2019/20 with a special class on site; no inspection report could be retrieved."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Kilkenny College",
+      "candidates": [
+        "Kilkenny College, Castlecomer Road, Kilkenny"
+      ],
+      "note": "Mixed, Church of Ireland ethos, fee-paying day/boarding, on the Castlecomer Road side of the city; about 7 km straight-line. St Kieran's College (boys, non-fee-paying) is about 8–9 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "Reported at over 100% progression to third level (KCLR, 2016 feeder tables); fee-paying. St Kieran's had 100% in the 2023 report."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Nearest convenience shop",
+      "candidates": [
+        "Centra, Castlecomer Road, Kilkenny",
+        "SPAR, Castlecomer Road, Kilkenny",
+        "Mullany's Pharmacy, Ballyragget, Co. Kilkenny"
+      ],
+      "note": "No shop found in Jenkinstown; the nearest are on the north edge of Kilkenny city or in Ballyragget. The page keeps the fastest.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Dunnes Stores MacDonagh Junction",
+      "candidates": [
+        "Dunnes Stores, MacDonagh Junction, Dublin Road, Kilkenny",
+        "Dick's SuperValu, Castle Street, Ballyragget, Co. Kilkenny",
+        "Tesco, Market Cross, Kilkenny"
+      ],
+      "note": "Kilkenny city's supermarkets, or Dick's SuperValu in Ballyragget.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Campagne",
+      "candidates": [
+        "Campagne, Kilkenny",
+        "Ristorante Rinuccini, Kilkenny"
+      ],
+      "note": "Kilkenny city: Campagne (Michelin star, retained 2025) or Rinuccini.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "St Luke's General Hospital",
+      "candidates": [
+        "St Luke's General Hospital, Kilkenny"
+      ],
+      "note": "St Luke's, Kilkenny: 24-hour ED that takes children, about 7 km straight-line.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Ballyragget",
+      "candidates": [
+        "Castle Street, Ballyragget, Co. Kilkenny"
+      ],
+      "note": "Ballyragget: SuperValu, pharmacy, Tirlán Farm Life; Kilkenny city for everything else.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Kilkenny city, 8–10 minutes by the listing's count.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car. The train from Kilkenny is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Kilkenny MacDonagh",
+      "candidates": [
+        "Kilkenny MacDonagh railway station"
+      ],
+      "note": "Waterford–Heuston line: about 7 trains a weekday (4 on Sundays), about 1h30–1h45 to Heuston.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
