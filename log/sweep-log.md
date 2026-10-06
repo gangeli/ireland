@@ -37,3 +37,10 @@ Append-only. One entry per daily sweep; see `SWEEP.md` for the procedure. Newest
 - Judgment calls: kept 2 slots open instead of admitting sub-2.5 near misses.
 - Shortlist now 18 (combined score): forty-shades (4.83: AI 4.5, people [5, 5]), stone-lodge-freshford (4.50: AI 4.0, people [5]), tobinstown-lodge-tullow (3.75: AI 3.5, people [4]), ballinkillen-bagenalstown (3.50: AI 4.0, people [3]), old-station-house-monasterevin (3.50: AI 3.0, people [4]), hillview-maddenstown (3.25: AI 3.5, people [3]), alderfern-ferns (3.00), castleinch-kilkenny (3.00), leavalley-leixlip (3.00: AI 2.0, people [4]), parochial-house-monasterevin (3.00), bluebell-lodge-carlow (2.50), compsey-mill-mullinahone (2.50), green-house-clara (2.50), kilcoltrim-borris (2.50), old-forge-ballyduff (2.50), 6-grattan-street-portlaoise (2.00), canal-view-sallins (2.00), water-lane-castlepollard (2.00)
 - Lessons from ratings (no notes yet): Gabor rated Leavalley 4 vs AI 2.0 and Tobinstown 4 vs AI 3.5, and Hillview 3 vs AI 3.5, Ballinkillen 3 vs AI 4.0. Read: Dublin access counts for more, and 'well-kept, single-storey' for less, than the AI assumed. Not re-scoring AI votes on one person's stars without notes; watching for a pattern.
+
+## 2026-10-06 sweep — BLOCKED
+- Sources: none reached. Every WebFetch (Daft, MyHome, the ratings function) failed with PROVENANCE_REQUIRED: the permission prompt timed out with nobody there to answer it. Yesterday's in-session approvals didn't carry over to the unattended run.
+- Human ratings: unavailable (same block); no snapshot.
+- Rechecks: not done. Prices and status on the site are as of 2026-10-05.
+- Added / archived / updated: none.
+- Shortlist unchanged at 18.
