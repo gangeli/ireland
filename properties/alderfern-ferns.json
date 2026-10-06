@@ -71,9 +71,9 @@
   ],
   "cons": [
     {
-      "text": "Too small: 126 m²",
-      "weight": 3,
-      "detail": "14 m² under the 140 m² floor, with three bedrooms for a family of four plus summering parents; a 30 m² extension is a rough €70–100k."
+      "text": "Compact: 126 m²",
+      "weight": 1,
+      "detail": "Above the 100 m² floor but snug for a family of four plus summering parents; three bedrooms. A 30 m² extension would be a rough €70–100k if needed."
     },
     {
       "text": "Under half an acre",
@@ -318,8 +318,8 @@
     "What is the active build within 1 km, and is anything planned for the fields around the house?"
   ],
   "ai": {
-    "stars": 3.0,
-    "why": "A2 single-storey on the edge of Ferns, every bedroom downstairs, under budget and walkable to school and shop. But 126 m² and under half an acre fall short of the brief, and Dublin is about 2 hours by train."
+    "stars": 3.5,
+    "why": "A2 single-storey on the edge of Ferns, every bedroom downstairs, under budget and walkable to school and shop. Compact at 126 m² on under half an acre, and Dublin is about 2 hours by train."
   },
   "services": {
     "electricity": {

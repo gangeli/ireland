@@ -91,9 +91,9 @@
   ],
   "cons": [
     {
-      "text": "Too small: 115 m²",
-      "weight": 3,
-      "detail": "Below the 140 m² floor. Bedroom 2 is the landing, so it is effectively a 2-bed plus. An extension is a rough €80–120k."
+      "text": "Compact: 115 m², effectively a 2-bed plus",
+      "weight": 2,
+      "detail": "Above the 100 m² floor, but Bedroom 2 is the landing; a third proper bedroom or a kitchen-living extension is a rough €80–120k."
     },
     {
       "text": "0.6 acres, under the acre",
@@ -317,8 +317,8 @@
     "Has the house been tested for radon?"
   ],
   "ai": {
-    "stars": 2.5,
-    "why": "Rural, dog-ready, cheap, with a downstairs suite. Too small at 115 m²."
+    "stars": 3.0,
+    "why": "Rural, dog-ready, cheap, with a downstairs suite. Compact at 115 m² with a tiny kitchen and a landing bedroom."
   },
   "services": {
     "electricity": {

@@ -93,7 +93,7 @@
     {
       "text": "Floor area, BER and heating not stated",
       "weight": 2,
-      "detail": "BER pending. No m² for either building, so the 140–280 m² test can't be checked yet."
+      "detail": "BER pending. No m² for either building, so the 100–280 m² test can't be checked yet."
     },
     {
       "text": "No ED in Carlow",

@@ -85,7 +85,7 @@ Read the memory file for the Ireland property search for the current brief. As o
 - strong schools nearby, for two young boys
 - 24-hour ED access **that takes children**
 - train to Dublin
-- 140–280 m²
+- 100–280 m² (lowered from 140 by Gabor on 6 Oct 2026; compact is fine if the layout works)
 - a ground-floor bedroom for Gabor's parents (or a room that can convert)
 - space around the house (see 2c)
 - rental use when the family's away
