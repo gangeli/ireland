@@ -59,3 +59,7 @@ Append-only. One entry per daily sweep; see `SWEEP.md` for the procedure. Newest
 ## 2026-10-06 brief change (Gabor, 08:29 PT)
 - Floor-area minimum lowered from 140 m² to 100 m² (house-days skill updated).
 - Re-scored AI votes where size was the main con: Alderfern 3.0 → 3.5; Old Forge 2.5 → 3.0. Size cons softened (weights) on Alderfern, Jenkinstown, Old Forge, Castleinch (94 m²), Water Lane (94 m²); dropped on 6 Grattan St (130 m²); Kilcoltrim (~85 m²) still flagged. Other AI scores unchanged (their low scores rest on other things).
+
+## 2026-10-06 Main Street, Stoneyford (Gabor asked, 08:30 PT)
+- Built properties/main-street-stoneyford.json (AI 2.0) but did NOT add it to index.json: the listing is price-on-application, and the site code shows "€NaN" for a missing price. Add it to index.json once there's a guide price, or once the site handles a missing price ("POA").
+- Gabor was curious about the house only; Stoneyford was not added to the sweep's village list.

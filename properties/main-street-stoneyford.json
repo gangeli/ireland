@@ -1,0 +1,352 @@
+{
+  "id": "main-street-stoneyford",
+  "name": "Main Street, Stoneyford",
+  "address": "Main Street, Stoneyford, Co. Kilkenny",
+  "eircode": "R95 N6V0",
+  "lat": 52.53624,
+  "lng": -7.227534,
+  "listingUrl": "https://www.myhome.ie/residential/brochure/main-street-stoneyford-kilkenny/5032416",
+  "status": "Considering",
+  "added": "2026-10-06",
+  "area": "Stoneyford, Co. Kilkenny",
+  "agent": "Walter Walsh Auctioneers & Valuers, Mill Street, Thomastown",
+  "agentPhone": "056 772 4485",
+  "questions": [
+    "What is the floor area, and can you send a floor plan or room dimensions? Which rooms are on the ground floor?",
+    "Is there a guide price or an expected range, and what has interest been like so far?",
+    "How big is the rear garden (length, width or acreage), how wide is the side access, and is there any rear access or lane?",
+    "BuyerIQ maps a river flood zone about 90 m away: has the house or garden ever flooded, and is it insured now? Is the house in an Architectural Conservation Area or on the Record of Protected Structures?",
+    "What does the BER certificate (119858942) give in kWh/m²/yr, what heating is there now, and is there a recent survey of the roof, walls and damp?"
+  ],
+  "ai": {
+    "stars": 2.0,
+    "why": "A semi-detached house on Stoneyford's main street needing major renovation, with a large but unmeasured rear garden: no acre, an attached neighbour, and size and price unknown. The walkable village, school 200 m away, mains services and Kilkenny's ED about 20 minutes away keep it as a wildcard."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; the listing says 'all mains services', but a house needing major renovation may need rewiring."
+    },
+    "water": {
+      "status": "ok",
+      "detail": "Mains water: the listing says 'all mains services'."
+    },
+    "sewer": {
+      "status": "ok",
+      "detail": "Mains sewer, from 'all mains services' in a village main street; confirm the connection on survey."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Fibre likely: not in the listing, but NBI's Thomastown deployment area names Stoneyford, and open eir may also serve the village. Check by Eircode.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "NBI / open eir"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "Not confirmed: the listing names a kitchen, sitting room and dining room with three bedrooms and no floor plan, so the bedrooms are probably upstairs; the dining room could convert, and a full renovation could redesign the ground floor with a bedroom and shower room."
+  },
+  "type": "Semi-detached house (needs major renovation)",
+  "beds": 3,
+  "bedsNote": "Three bedrooms, probably upstairs; the dining room is the likely downstairs conversion",
+  "baths": 1,
+  "ber": "E",
+  "heating": "Not stated",
+  "listed": "2026-10-06",
+  "tagline": "A three-bed semi needing major renovation on the main street of Stoneyford, a small village between Kilkenny and Thomastown, with a large rear garden.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/1/4/5032416/900aaedd-04a3-4b13-9a00-641aa4379972_x.jpeg",
+      "role": "facade"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Walkable village",
+      "weight": 2,
+      "detail": "The listing puts the primary school 200 m away; Stoneyford (pop. 376 in 2016) has a Londis, a café, a takeaway and Malzards, Irish Pub of the Year 2024."
+    },
+    {
+      "text": "Likely well under budget, all in (rough)",
+      "weight": 2,
+      "detail": "Price on application; a small stone house on the same street sold for €170k in Jan 2026, so a rough €150–220k to buy plus €150–250k to renovate would total about €300–470k."
+    },
+    {
+      "text": "A renovation can be designed around the brief",
+      "weight": 2,
+      "detail": "With 'major renovations' needed anyway, the ground floor can be replanned for a parents' bedroom and shower room, or extended into the large rear garden."
+    },
+    {
+      "text": "Kilkenny's 24-hour ED about 20 minutes",
+      "weight": 2,
+      "detail": "St Luke's (24-hour ED, paediatric ward) is about 14 km straight-line; the listing's '8 km from Kilkenny City' is short: the city centre is about 13 km."
+    },
+    {
+      "text": "Strong secondary schools in Kilkenny",
+      "weight": 2,
+      "detail": "St Kieran's (boys, 100% progression in the 2023 report) and Kilkenny College (mixed, fee-paying) are about 13 km away; Grennan College in Thomastown is about 6 km."
+    },
+    {
+      "text": "Mains water and sewer",
+      "weight": 1,
+      "detail": "The listing says 'all mains services': no well or septic tank to manage, which suits rental use."
+    },
+    {
+      "text": "Mount Juliet and the King's River nearby",
+      "weight": 1,
+      "detail": "Mount Juliet (Lady Helen, Michelin star; The Hound) is about 4 km; the King's River is under 500 m from the village for dog walks."
+    },
+    {
+      "text": "Thomastown station about 6 km",
+      "weight": 1,
+      "detail": "About 7–8 Dublin trains a weekday, about 1h50 to Heuston; Kilkenny MacDonagh is about 13 km."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Semi-detached on the main street",
+      "weight": 3,
+      "detail": "An attached neighbour and street frontage on the village's main road: little space around the house (not checked from above; the listing has one photo)."
+    },
+    {
+      "text": "Far short of an acre",
+      "weight": 3,
+      "detail": "Only 'a large garden to the rear', size not given; a village main-street plot is typically well under a quarter of an acre."
+    },
+    {
+      "text": "Needs major renovation; BER E",
+      "weight": 2,
+      "detail": "The listing says 'in need of major renovations'; BER E with no kWh figure and no heating stated. A full renovation is a rough €150–250k and 12–18 months before it's liveable."
+    },
+    {
+      "text": "Floor area unknown",
+      "weight": 2,
+      "detail": "No m² or room sizes given; a three-bed village semi may well be under the 100 m² floor without an extension."
+    },
+    {
+      "text": "No ground-floor bedroom confirmed",
+      "weight": 2,
+      "detail": "No floor plan; the downstairs rooms listed are a kitchen, sitting room and dining room."
+    },
+    {
+      "text": "Mapped flood zone about 90 m away",
+      "weight": 2,
+      "detail": "BuyerIQ shows a moderate river flood zone about 90 m from the address; two streams run through the village to the King's River."
+    },
+    {
+      "text": "Price on application",
+      "weight": 1,
+      "detail": "No guide price anywhere, including the agent's listings; the estimate above is rough."
+    },
+    {
+      "text": "Setting and condition unseen",
+      "weight": 1,
+      "detail": "One photo, no floor plan and no aerial check yet; BuyerIQ flags one critical and three high-priority items behind its paywall, and 10 planning applications within 1 km."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Scoil Chiaráin Naofa, Stoneyford",
+      "candidates": [
+        "Scoil Chiaráin Naofa, Stoneyford, Co. Kilkenny",
+        "Stoneyford National School, Stoneyford, Co. Kilkenny"
+      ],
+      "note": "Mixed, 138 pupils (73 boys), not DEIS, roll 17589K; about 200 m away by the listing.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed village school, not DEIS, with a stable roll of about 130–140; no inspection report could be retrieved."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Grennan College",
+      "candidates": [
+        "Grennan College, Ladywell Street, Thomastown, Co. Kilkenny"
+      ],
+      "note": "Mixed, about 310 pupils, ETB, DEIS, non-fee-paying; about 6 km straight-line in Thomastown.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "Small DEIS ETB school; an Oct 2023 subject inspection rated teaching 'good, with some very good practice', but no published progression figure was found."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "St Kieran's College",
+      "candidates": [
+        "St Kieran's College, College Road, Kilkenny",
+        "Kilkenny College, Castlecomer Road, Kilkenny"
+      ],
+      "note": "St Kieran's (boys, about 830 pupils, non-fee-paying) or Kilkenny College (mixed, fee-paying), both in Kilkenny city about 13 km away. Kilkenny CBS (boys) is the other option; not rated here.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "St Kieran's had 100% progression to third level in the 2023 feeder-school report; Kilkenny College reported over 100% (KCLR, 2016)."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Londis Stoneyford",
+      "candidates": [
+        "Londis Walshe & Long, Main Street, Stoneyford, Co. Kilkenny",
+        "Londis, Stoneyford, Co. Kilkenny"
+      ],
+      "note": "The village's food store, on the same street.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Thomastown",
+      "candidates": [
+        "SuperValu, Dublin Road, Thomastown, Co. Kilkenny",
+        "Lidl, Logan Street, Thomastown, Co. Kilkenny",
+        "Dunnes Stores, MacDonagh Junction, Kilkenny"
+      ],
+      "note": "SuperValu and Lidl in Thomastown, or Kilkenny city's supermarkets.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "The Hound, Mount Juliet",
+      "candidates": [
+        "The Hound, Mount Juliet Estate, Thomastown, Co. Kilkenny",
+        "Lady Helen, Mount Juliet Estate, Thomastown, Co. Kilkenny"
+      ],
+      "note": "Mount Juliet's casual restaurant, or Lady Helen (Michelin star) for occasions; Malzards in the village is a pub first.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "St Luke's General Hospital",
+      "candidates": [
+        "St Luke's General Hospital, Kilkenny",
+        "University Hospital Waterford"
+      ],
+      "note": "St Luke's, Kilkenny: 24-hour ED with a paediatric ward, about 14 km straight-line.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Thomastown",
+      "candidates": [
+        "Market Street, Thomastown, Co. Kilkenny"
+      ],
+      "note": "Thomastown: pharmacies, GP, cafés and the train station.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "The Quay, Waterford"
+      ],
+      "note": "Kilkenny city, with Waterford as the alternative.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M9 (Danesfort, J9). The train from Thomastown or Kilkenny is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Thomastown",
+      "candidates": [
+        "Thomastown railway station",
+        "Kilkenny MacDonagh railway station"
+      ],
+      "note": "Waterford–Heuston line: about 7–8 trains a weekday (7 listed, plus a late service added in Aug 2024), about 1h50 to Heuston from Thomastown.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
