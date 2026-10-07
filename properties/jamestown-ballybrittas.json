@@ -1,0 +1,345 @@
+{
+  "id": "jamestown-ballybrittas",
+  "name": "Jamestown",
+  "address": "Jamestown, Ballybrittas, Co. Laois",
+  "eircode": "R32 X7H2",
+  "lat": 53.116281,
+  "lng": -7.107244,
+  "listingUrl": "https://www.daft.ie/for-sale/jamestown-ballybrittas-co-laois/6689454",
+  "status": "Considering",
+  "added": "2026-10-07",
+  "area": "Ballybrittas, Co. Laois",
+  "agent": "Liam Hargaden",
+  "agentPhone": "045 433550",
+  "questions": [
+    "BuyerIQ puts the address inside a mapped high-noise zone: is that the M7, the R445 (old N7) or something else, and how far is the house from it?",
+    "Can you send a site map of the half acre showing the boundaries, the tennis court and the workshop? How much open lawn is left, and is the boundary fenced or walled all round (we have two dogs)?",
+    "What is the BER certificate number and the kWh/m²/yr figure? How old are the oil boiler and tank, and what did heating cost last year?",
+    "How old is the septic tank and is it registered and inspected? Can you share a recent well-water test, and has the house been tested for radon?",
+    "BuyerIQ shows 10 planning applications within 1 km, one an active build: do you know what is being built next to Jamestown?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "Three ground-floor bedrooms and a bathroom in 170 m², a big workshop and Monasterevin's 26-a-day Heuston trains 4.5 km away, at €450k. Only half an acre (part tennis court), a flagged noise zone, and the nearest secondary is a DEIS school with weak progression figures."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "Connected; electricity is listed under services, and the workshop has power."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private well, stated in the listing; ask for a water test."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank, stated in the listing; ask its age, registration and condition."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Fibre broadband, stated in the listing's services; BuyerIQ shows '101 Mb full fibre' at this address. Confirm the provider by Eircode.",
+      "type": "Fibre",
+      "speed": "~101 Mb (higher plans likely)",
+      "provider": "NBI / open eir"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Bedrooms 1 (4.10 × 4.14 m), 2 (2.90 × 3.50 m) and 3 (3.50 × 2.50 m) are on the ground floor, with a 3.60 × 1.80 m bathroom (bath and shower)."
+  },
+  "price": 450000,
+  "type": "Detached dormer",
+  "beds": 5,
+  "bedsNote": "Three bedrooms on the ground floor; two upstairs (one en suite) plus a 4.50 × 2.80 m office",
+  "baths": 3,
+  "floorM2": 170,
+  "landHa": 0.2,
+  "landAcres": 0.5,
+  "ber": "C2",
+  "heating": "Dual oil-fired central heating, with a solid-fuel Grant back boiler",
+  "listed": "2026-10-06",
+  "views": 618,
+  "stampDuty": 4500,
+  "tagline": "A 1984 five-bed dormer with three bedrooms downstairs, a large workshop and a tennis court on half an acre, about 4.5 km southwest of Monasterevin and its Dublin trains.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJkXC9iXC9kYmNhZDllNi00Njc5LTQwMWItOGJiNC1jMGIyODc5ZDhhMTEuanBnIn0=?signature=e14d1fb4bb86fed92568aa39b352f58dd92792a2b7362ba742bf8170896cc6b6",
+      "role": "facade"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Three ground-floor bedrooms and a bathroom",
+      "weight": 3,
+      "detail": "Bedrooms 1–3 (17, 10 and 9 m²) and a bath-and-shower room are downstairs, so Gabor's parents need not climb stairs."
+    },
+    {
+      "text": "Frequent Dublin trains 4.5 km away",
+      "weight": 3,
+      "detail": "Monasterevin station is about 4.5 km by the listing's count, with about 26 weekday trains to Heuston taking 43–60 minutes."
+    },
+    {
+      "text": "€450k, under the €500k line",
+      "weight": 2,
+      "detail": "About €2,650/m² for 170 m²; stamp duty about €4,500."
+    },
+    {
+      "text": "170 m² with a big kitchen and an office",
+      "weight": 2,
+      "detail": "Kitchen 6.13 × 4.14 m, sitting room 4.70 × 3.50 m, a 4.80 × 5.60 m en-suite main bedroom and a 4.50 × 2.80 m office upstairs."
+    },
+    {
+      "text": "Large workshop with power",
+      "weight": 2,
+      "detail": "7.25 × 13.65 m (about 99 m²) with electricity: room for bikes, a dog room or a studio."
+    },
+    {
+      "text": "Portlaoise ED with paediatrics about 20–25 minutes",
+      "weight": 2,
+      "detail": "Midland Regional Portlaoise is about 15 km straight-line; its ED extension opened in May 2026 with paediatric resus, triage and isolation rooms."
+    },
+    {
+      "text": "Gated, private grounds with fibre",
+      "weight": 1,
+      "detail": "Electric gates, a tarmac drive and mature trees round the boundary; fibre broadband is listed (BuyerIQ: 101 Mb full fibre) and no mapped flood zone."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Only half an acre, partly tennis court",
+      "weight": 2,
+      "detail": "About 0.2 ha, half the 1-acre target; a full tennis court (roughly 600 m²) and the 99 m² workshop take a good share of it."
+    },
+    {
+      "text": "Mapped high-noise zone",
+      "weight": 2,
+      "detail": "BuyerIQ flags the address as inside a mapped busy-road, rail or flight noise zone; the source (M7 or the R445, the old N7) is not identified."
+    },
+    {
+      "text": "Weak secondary on the doorstep",
+      "weight": 2,
+      "detail": "St Paul's Monasterevin (mixed, DEIS, about 4 km) sent 55% to third level in 2017 and Coláiste Íosagáin Portarlington 60–76%; Newbridge College (99%, fee-paying) is about 21 km straight-line."
+    },
+    {
+      "text": "Oil heating, BER C2, 1984 build",
+      "weight": 2,
+      "detail": "No kWh figure given (C2 is 175–200 kWh/m²/yr); a heat pump and insulation would be a rough €30–50k before grants."
+    },
+    {
+      "text": "Private well and septic tank",
+      "weight": 1,
+      "detail": "Ask for a water test and the tank's age and registration, especially for rental use."
+    },
+    {
+      "text": "Building activity nearby; setting not seen from above",
+      "weight": 1,
+      "detail": "BuyerIQ shows 10 planning applications within 1 km, one an active build; no satellite check yet (no browser), only the listing's 'peaceful rural setting' and 'enclosed by mature trees'."
+    },
+    {
+      "text": "Primary school quality unknown",
+      "weight": 1,
+      "detail": "Rath Mixed NS (196 pupils, 96 boys, not DEIS) is 2.6 km away, but no evaluation report beyond a 2021 Covid-safety check could be read."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Rath Mixed NS",
+      "candidates": [
+        "Rath National School, Rath, Ballybrittas, Co. Laois R32 Y510",
+        "Rath Mixed National School Ballybrittas"
+      ],
+      "note": "Mixed, Catholic, 196 pupils (96 boys), not DEIS, roll 13741Q; 2.6 km by Daft's count. Scoil Naomh Eoin, Killenard is 3.2 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed, not DEIS, steady enrolment near 200; the only report found is a 2021 Covid-safety (SSPS) check, with no whole-school evaluation readable."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "St Paul's Secondary School, Monasterevin",
+      "candidates": [
+        "St Paul's Secondary School, Moore Abbey, Monasterevin, Co. Kildare W34 F576"
+      ],
+      "note": "Mixed (424 boys, 419 girls), Catholic, DEIS, new campus at Moore Abbey; about 4 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Below average",
+        "basis": "55% progression to third level in the 2017 Irish Independent table (40 students) and DEIS status; the move to a new 850-place building may have changed this, but no newer figure was found."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "The better school",
+      "kind": "Good secondary school",
+      "title": "Newbridge College",
+      "candidates": [
+        "Newbridge College, Newbridge, Co. Kildare"
+      ],
+      "note": "Mixed, Dominican, fee-paying; about 21 km straight-line. Coláiste Íosagáin, Portarlington (mixed, 60–76% to third level in 2017–18) is closer at about 7 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "99% progression to third level in the 2017 Kildare feeder table (Leinster Leader); fee-paying."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Ballybrittas service station",
+      "candidates": [
+        "Service station, Ballybrittas, Co. Laois",
+        "Centra Monasterevin, Co. Kildare",
+        "Londis Monasterevin, Co. Kildare"
+      ],
+      "note": "Ballybrittas has a pub and a service station about 2 km away; Monasterevin, about 4.5 km, has the fuller choice. The page keeps the fastest.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Supermarket in Monasterevin or Portarlington",
+      "candidates": [
+        "SuperValu Monasterevin, Co. Kildare",
+        "Tesco Portarlington, Co. Laois",
+        "Aldi Portarlington, Co. Laois"
+      ],
+      "note": "Monasterevin's and Portarlington's supermarkets (stores unconfirmed); Lidl has reportedly bought the old St Paul's site on Monasterevin's Main Street.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "The Heritage, Killenard",
+      "candidates": [
+        "The Heritage Hotel, Killenard, Co. Laois",
+        "Hazel Hotel, Monasterevin, Co. Kildare"
+      ],
+      "note": "The Heritage resort in Killenard, about 5 km, or the Hazel Hotel in Monasterevin; check opening hours.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Midland Regional Hospital Portlaoise",
+      "candidates": [
+        "Midland Regional Hospital Portlaoise, Dublin Road, Portlaoise"
+      ],
+      "note": "24-hour ED that takes children; its extension with paediatric resus and isolation rooms opened in May 2026. Naas ED is adults (16+) only.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Monasterevin",
+      "candidates": [
+        "Main Street, Monasterevin, Co. Kildare"
+      ],
+      "note": "Monasterevin, about 4.5 km: shops, pharmacies, cafés and the station; Portarlington and Portlaoise for more.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "The nearest city outside Dublin, via the M7/M9 or N78.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M7. The train from Monasterevin is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Monasterevin",
+      "candidates": [
+        "Monasterevin railway station, Co. Kildare"
+      ],
+      "note": "Dublin–Portlaoise commuter and Cork/Limerick lines: about 26 trains a weekday to Heuston, 43–60 minutes.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

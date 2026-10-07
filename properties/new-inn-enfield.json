@@ -1,0 +1,356 @@
+{
+  "id": "new-inn-enfield",
+  "name": "23 New Inn",
+  "address": "23 New Inn, Enfield, Co. Meath",
+  "eircode": "A83 Y882",
+  "lat": 53.416019,
+  "lng": -6.830631,
+  "listingUrl": "https://www.daft.ie/for-sale/23-new-inn-enfield-co-meath/6689650",
+  "status": "Considering",
+  "added": "2026-10-07",
+  "area": "Enfield, Co. Meath",
+  "agent": "Edward Carey Property (Edward Carey)",
+  "agentPhone": "046 954 1064",
+  "questions": [
+    "How big is the site and the rear garden (m² or acres), and can you send a site map showing the boundaries and the side/rear access? Is the access shared with neighbours?",
+    "What heating system does the house have and how old is the boiler? Can you share the BER advisory report with the kWh/m²/yr figure for the C2?",
+    "Is New Inn taken in charge by Meath County Council, or is there a management company and an annual fee?",
+    "How much do you hear the Sligo/Longford trains from the house, 160 m from Enfield station, and do you know when work starts on the 72-home scheme permitted about 700 m away?",
+    "Has the house ever been tested for radon, and has the site or estate ever flooded (the Royal Canal and the Blackwater are close by)?"
+  ],
+  "ai": {
+    "stars": 3.0,
+    "why": "Three ground-floor bedrooms (two en suite), a station 160 m away and walkable schools, at €465k. But it's an estate plot in the village centre with no land for two vizslas, needs modernising, and a children's ED is 40–50 minutes away."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but a lived-in village house."
+    },
+    "water": {
+      "status": "likely",
+      "detail": "Mains likely; not stated, but a village-centre estate in Enfield."
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Mains sewer likely; not stated, but a village-centre estate."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Full fibre likely: not in the listing, but BuyerIQ shows '104 Mb full fibre' at this address. Confirm the provider by Eircode.",
+      "type": "Fibre",
+      "speed": "~104 Mb (up to 1 Gb plans)",
+      "provider": "open eir / Siro (check)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Bedrooms 1–3 are on the ground floor (3.53 × 2.74 m, 3.53 × 2.98 m and 3.71 × 2.92 m), two with en suites; no floor plan seen yet."
+  },
+  "price": 465000,
+  "type": "Detached dormer",
+  "beds": 5,
+  "bedsNote": "3 bedrooms on the ground floor (2 en suite), 2 very large bedrooms upstairs; integrated garage (6.68 × 2.90 m) could convert",
+  "baths": 3,
+  "floorM2": 144,
+  "ber": "C2",
+  "heating": "Not stated in the listing",
+  "listed": "2026-10-06",
+  "views": 547,
+  "stampDuty": 4650,
+  "tagline": "A five-bed detached dormer needing modernisation, with three bedrooms downstairs, in a small estate in the centre of Enfield, 160 m from the station.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI1XC8xXC81MTRkMDQxMi1lMDllLTRkYTUtYjZkMi1lNzU1MDcxMmE1ZDAuanBnIn0=?signature=ae312b9025001c8b4219d146b00da375524648e7473f9cd1d4a0f624e424cf97",
+      "role": "facade"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Three ground-floor bedrooms, two en suite",
+      "weight": 3,
+      "detail": "Bedrooms 1–3 (up to 3.71 × 2.92 m) are downstairs, and Bedrooms 2 and 3 have en suites (about 1.85 × 1.6 m): a ready-made suite for Gabor's parents."
+    },
+    {
+      "text": "Station 160 m away",
+      "weight": 3,
+      "detail": "Enfield station, Maynooth/Sligo line: seven Sligo intercity trains each weekday (07:49–19:41) reach Connolly in 46–64 minutes, plus Longford commuter services (count to confirm)."
+    },
+    {
+      "text": "Under budget",
+      "weight": 2,
+      "detail": "€465,000, about €35k under the €500k line; stamp duty about €4,650, leaving room for upgrades."
+    },
+    {
+      "text": "Schools on the doorstep",
+      "weight": 2,
+      "detail": "St Mary's Primary (mixed, 570 pupils) is 300 m away and Enfield Community College (mixed, 532 pupils) 220 m, both walkable for the boys."
+    },
+    {
+      "text": "Size inside the target, with a garage to convert",
+      "weight": 1,
+      "detail": "144 m² (1,550 sq ft), plus a 6.68 × 2.90 m (about 19 m²) integrated garage the listing calls 'ideal for conversion'."
+    },
+    {
+      "text": "Full fibre at the address",
+      "weight": 1,
+      "detail": "BuyerIQ shows 104 Mb full fibre; mains services are likely in the village centre."
+    },
+    {
+      "text": "Private rear garden, wide side access",
+      "weight": 1,
+      "detail": "Listing: 'large front garden', 'wide side/rear access', a block-built shed, and a rear garden 'not overlooked to the rear'."
+    },
+    {
+      "text": "Easy to let",
+      "weight": 1,
+      "detail": "A five-bed by a commuter station in a growing Meath village should let readily when the family is away."
+    }
+  ],
+  "cons": [
+    {
+      "text": "No land for the dogs",
+      "weight": 3,
+      "detail": "An estate plot: the site size isn't stated, and a 'large' garden in a small estate will be a fraction of an acre, far short of the ~1 acre wanted for two vizslas."
+    },
+    {
+      "text": "Small estate in the village centre",
+      "weight": 2,
+      "detail": "Neighbours on both sides in a small estate 'right in the village centre'; good for walking to everything, but not the space around the house Gabor wants. Not checked from above yet."
+    },
+    {
+      "text": "Children's ED 40–50 minutes away",
+      "weight": 2,
+      "detail": "Naas and Connolly are 16+ only; the nearest EDs that take children are Regional Hospital Mullingar (about 50 km) and CHI Temple Street or Tallaght in Dublin (about 40–45 km)."
+    },
+    {
+      "text": "Needs modernising, BER C2",
+      "weight": 2,
+      "detail": "The listing says it 'would benefit from some modernisation/upgrading'; C2 is 175–200 kWh/m²/yr (exact figure not shown). Insulation, heating, kitchen and baths: a rough €40–80k."
+    },
+    {
+      "text": "Secondary quality unproven",
+      "weight": 2,
+      "detail": "Enfield Community College doesn't appear in the Meath feeder-school roundups; Coláiste Clavin, Longwood, swung from 96% (2024) to 54% (2025); Maynooth Post Primary is about 17 km away."
+    },
+    {
+      "text": "Railway and village-centre noise",
+      "weight": 1,
+      "detail": "The Sligo line runs 160 m away and the house is in the village centre; ask about train noise and traffic."
+    },
+    {
+      "text": "Building work nearby",
+      "weight": 1,
+      "detail": "BuyerIQ lists 10 planning applications within 1 km, including a permitted 72-home scheme about 680 m away."
+    },
+    {
+      "text": "Heating, flood and radon unknown",
+      "weight": 1,
+      "detail": "The listing doesn't state the heating system; BuyerIQ's flood and radon results are behind its paid report."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "St Mary's Primary School, Enfield",
+      "candidates": [
+        "St Mary's Primary School, Johnstown Road, Enfield, Co. Meath",
+        "St Mary's National School Enfield, Co. Meath"
+      ],
+      "note": "Mixed, Catholic, 570 pupils (295 boys), not DEIS, roll 17821L; about 300 m away. St Patrick's NS (92 pupils) is 2.2 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Large mixed Catholic school, not DEIS (gov.ie); a curriculum evaluation exists on gov.ie but its PDF couldn't be retrieved, so no verdict."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Enfield Community College",
+      "candidates": [
+        "Enfield Community College, Dublin Road, Enfield, Co. Meath"
+      ],
+      "note": "Mixed, multi-denominational LMETB school, 532 pupils (289 boys), not DEIS; about 220 m away.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Not in the Meath Chronicle's 2024 or 2025 feeder-table roundups (20 Meath schools each), so no progression figure found."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Maynooth Post Primary School",
+      "candidates": [
+        "Maynooth Post Primary School, Moyglare Road, Maynooth, Co. Kildare"
+      ],
+      "note": "Mixed, about 17 km east via the M4. Scoil Dara in Kilcock (about 11 km) is the nearer alternative.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "About 90% progression to third level in recent feeder tables (from the Leavalley research; not re-checked here), and long one of north Kildare's stronger non-fee-paying schools."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Enfield village shop",
+      "candidates": [
+        "Centra Enfield, Co. Meath",
+        "SPAR Enfield, Co. Meath",
+        "Applegreen Enfield, Co. Meath"
+      ],
+      "note": "In the village centre, a few minutes' walk.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Enfield",
+      "candidates": [
+        "SuperValu Enfield, Co. Meath",
+        "Lidl Enfield, Co. Meath",
+        "Tesco Kilcock, Co. Kildare"
+      ],
+      "note": "SuperValu and the new Lidl are both in Enfield.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Johnstown Estate",
+      "candidates": [
+        "Johnstown Estate, Enfield, Co. Meath"
+      ],
+      "note": "The hotel and spa on the edge of Enfield, with several restaurants.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Regional Hospital Mullingar",
+      "candidates": [
+        "Regional Hospital Mullingar, Co. Westmeath",
+        "Children's Health Ireland at Temple Street, Dublin",
+        "Tallaght University Hospital, Dublin"
+      ],
+      "note": "Mullingar or the Dublin children's EDs (Temple Street, Tallaght); Naas and Connolly are nearer but take 16+ only.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Maynooth",
+      "candidates": [
+        "Main Street, Maynooth, Co. Kildare",
+        "Main Street, Kilcock, Co. Kildare",
+        "Market Street, Trim, Co. Meath"
+      ],
+      "note": "Kilcock for basics, Maynooth or Trim for more.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Dublin",
+      "candidates": [
+        "Grafton Street, Dublin"
+      ],
+      "note": "Dublin is the city here.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the M4, or the train from the end of the road.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Enfield station",
+      "candidates": [
+        "Enfield railway station, Co. Meath"
+      ],
+      "note": "Maynooth/Sligo line, 160 m away: seven Sligo intercity trains a weekday (46–64 min to Connolly) plus Longford commuter trains.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

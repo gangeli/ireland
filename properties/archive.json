@@ -1,1 +1,18 @@
-{ "archived": [] }
+{
+  "archived": [
+    {
+      "id": "canal-view-sallins",
+      "name": "Canal View",
+      "left": "2026-10-07",
+      "reason": "bumped by 23 New Inn, Enfield (score 3.0 vs 2.0); tied at 2.0 with Water Lane, Castlepollard, which fits more hard requirements (single storey, under budget, 0.5 ac); no human ratings",
+      "lastPrice": 665000,
+      "aiStars": 2.0,
+      "human": {
+        "n": 0,
+        "avg": null
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/canal-view-sallins-co-kildare/6648534",
+      "recheck": false
+    }
+  ]
+}
