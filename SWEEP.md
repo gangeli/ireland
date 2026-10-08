@@ -11,6 +11,7 @@ The scheduled daily sweep, a Claude task that runs at 14:53 UTC, keeps this site
 | `properties/archive.json` | Every house that left the shortlist: when it left, why, and its last price, AI stars and human ratings. The sweep checks this so it never re-adds a house it already dropped. |
 | `log/sweep-log.md` | An append-only, human-readable log, one entry per run, newest at the bottom. |
 | `log/ratings/<YYYY-MM-DD>.json` | A raw snapshot of the shared human ratings, saved each run when the service answers. People's stars and notes are kept even if the ratings database is lost. |
+| `log/known-listings.txt` | Every listing already named to Gabor (on the site or rejected), for dedupe. Read it before judging new finds and append each run's rejects. |
 
 ## Each run
 
