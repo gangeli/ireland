@@ -101,6 +101,11 @@
       "text": "Thomastown station about 6 km",
       "weight": 1,
       "detail": "About 7–8 Dublin trains a weekday, about 1h50 to Heuston; Kilkenny MacDonagh is about 13 km."
+    },
+    {
+      "text": "Asking €200,000",
+      "weight": 2,
+      "detail": "Price set on 8 Oct 2026 (was price on application); with a rough €150–250k renovation that is about €350–450k all-in."
     }
   ],
   "cons": [
@@ -133,11 +138,6 @@
       "text": "Mapped flood zone about 90 m away",
       "weight": 2,
       "detail": "BuyerIQ shows a moderate river flood zone about 90 m from the address; two streams run through the village to the King's River."
-    },
-    {
-      "text": "Price on application",
-      "weight": 1,
-      "detail": "No guide price anywhere, including the agent's listings; the estimate above is rough."
     },
     {
       "text": "Setting and condition unseen",
@@ -348,5 +348,7 @@
     "Health",
     "Towns and cities",
     "Getting away"
-  ]
+  ],
+  "price": 200000,
+  "stampDuty": 2000
 }

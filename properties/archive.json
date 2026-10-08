@@ -13,6 +13,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/canal-view-sallins-co-kildare/6648534",
       "recheck": false
+    },
+    {
+      "id": "water-lane-castlepollard",
+      "name": "Water Lane",
+      "left": "2026-10-08",
+      "reason": "bumped by Clomantagh Farmhouse (score 3.0 vs 2.0); no human ratings",
+      "lastPrice": 319950,
+      "aiStars": 2.0,
+      "human": {
+        "n": 0,
+        "avg": null
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/water-lane-castlepollard-castlepollard-co-westmeath/6638791",
+      "recheck": false
     }
   ]
 }

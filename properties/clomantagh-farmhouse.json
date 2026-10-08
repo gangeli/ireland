@@ -1,0 +1,348 @@
+{
+  "id": "clomantagh-farmhouse",
+  "name": "Clomantagh Farmhouse",
+  "address": "Clomantagh Farmhouse, Clomantagh, Barna, Co. Kilkenny",
+  "eircode": "E41 VP71",
+  "lat": 52.728184,
+  "lng": -7.460413,
+  "listingUrl": "https://www.daft.ie/for-sale/clomantagh-farmhouse-clomanatagh-barna-co-kilkenny/6692311",
+  "status": "Considering",
+  "added": "2026-10-08",
+  "area": "Freshford, Co. Kilkenny",
+  "agent": "Ciaran Dunphy",
+  "agentPhone": "056 778 6000",
+  "questions": [
+    "The 'Bar Area/Lounge' has an original bar with taps: was the house ever a licensed pub or shebeen? Is a licence attached, and what is the planning use of that part of the house?",
+    "Can you send a floor plan or room dimensions? In particular, how big are the bar lounge and sitting room, and does the ground-floor main bathroom have a shower or bath?",
+    "The listing shows BER 'B' but 615.54 kWh/m²/yr, which is G-band. Can you confirm, and give the ages of the oil boiler, windows and roof? Is there a recent survey, and are any farm-building roofs asbestos?",
+    "Can you send a site map of the c. 2.97 acres showing the boundaries, fencing, road frontage and any rights of way? Is any of the land let? Is the water from a well or a group scheme, and how old is the septic tank?",
+    "The description names Kilvemnon, Killenaule and Ballingarry schools and the towns of Thurles and Cashel, which are in Tipperary, but the pin is between Freshford and Johnstown in Kilkenny. Can you confirm the exact location and the nearest neighbours?"
+  ],
+  "ai": {
+    "stars": 3.0,
+    "why": "€250k for 179 m² on about 3 acres leaves real room for works, and the bar lounge beside a ground-floor bathroom could become the parents' room. But it is a dated, G-rated farmhouse about 5 km from Freshford and 25 minutes from Kilkenny, with possible pub history and much still unverified."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated (an oil-heated house with an Aga)."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Not stated; a rural farmhouse is probably on a private well or group scheme. Ask, and get a water test."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Not stated; almost certainly a septic tank. Ask its age and condition."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "NBI fibre likely: not in the listing, but NBI's Johnstown deployment area (June 2023) covers the rural areas around Urlingford, Freshford and Tullaroan. Confirm by Eircode.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "NBI"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "All four bedrooms are upstairs, but the bar area/lounge (or the sitting room) sits beside a ground-floor main bathroom and guest WC, so it is a realistic conversion. No dimensions are given."
+  },
+  "price": 250000,
+  "type": "Detached traditional farmhouse with farm outbuildings",
+  "beds": 4,
+  "bedsNote": "All four bedrooms upstairs (2 double, 2 single); bar lounge or sitting room could convert downstairs",
+  "baths": 3,
+  "floorM2": 179,
+  "landHa": 1.2,
+  "landAcres": 2.97,
+  "ber": "G",
+  "berKwh": 615.54,
+  "heating": "Oil-fired central heating; traditional Aga in the living room",
+  "listed": "2026-10-08",
+  "stampDuty": 2500,
+  "tagline": "A dated four-bed farmhouse on about 3 acres with farm buildings and an old bar lounge, in the Clomantagh hills about 5 km west of Freshford and 25 minutes from Kilkenny city.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJmXC8xXC9mMTA4MDM4NC03MDBiLTQwNjMtYTUyNi04NThmNGVmOTQ1NjUuanBnIn0=?signature=b70583d7400a2148387e09ca876537413f346bd1443a3232960a5fef48fb21e3",
+      "role": "facade"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€250k leaves about €250k for works",
+      "weight": 3,
+      "detail": "€1,397/m²; stamp duty about €2,500. A rough €150–250k renovation (retrofit, kitchen, bathrooms, ground-floor bedroom) still lands at about €400–500k all-in."
+    },
+    {
+      "text": "About 3 acres, with outbuildings",
+      "weight": 3,
+      "detail": "c. 2.97 ac (1.2 ha) of grounds and farmland around the house, about three times the 1-acre target; a 'range of outbuildings and farm structures' for a workshop, storage or kennels."
+    },
+    {
+      "text": "Realistic ground-floor bedroom",
+      "weight": 2,
+      "detail": "The bar lounge or sitting room sits beside a ground-floor main bathroom and a guest WC; a rough €15–30k conversion rather than an extension."
+    },
+    {
+      "text": "Good size: 179 m²",
+      "weight": 2,
+      "detail": "Four bedrooms upstairs and four reception rooms downstairs (kitchen, living room with Aga, sitting room, bar lounge), mid-range of the 100–280 m² brief."
+    },
+    {
+      "text": "Kilkenny's ED and station about 25 minutes",
+      "weight": 2,
+      "detail": "St Luke's (24-hour, all-ages ED) and Kilkenny MacDonagh station are both about 15–16 km straight-line, roughly 20 km by road."
+    },
+    {
+      "text": "Thurles gives a second, busier line to Dublin",
+      "weight": 1,
+      "detail": "Thurles station is about 25 km straight-line (roughly 30–35 minutes); Wikipedia says an average of 17 Dublin–Cork trains a day call there, against about 7 a weekday from Kilkenny."
+    },
+    {
+      "text": "Fibre likely",
+      "weight": 1,
+      "detail": "NBI's Johnstown deployment area covers the countryside around Freshford, Urlingford and Tullaroan, so full fibre is probably orderable."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Effectively G-rated, oil-heated and dated",
+      "weight": 3,
+      "detail": "615.54 kWh/m²/yr is G-band whatever the 'B' on the page says; insulation, windows and a heat pump on 179 m² is a rough €80–150k before SEAI grants. Laminate worktops and carpets suggest a full refit."
+    },
+    {
+      "text": "Possible former pub",
+      "weight": 2,
+      "detail": "The 'Bar Area/Lounge' keeps an original bar with taps, and the agent calls it 'an exciting renovation opportunity for investors'. No licence history was found; check the planning use, any licence and commercial rates."
+    },
+    {
+      "text": "Out in the country: 5 km to Freshford",
+      "weight": 2,
+      "detail": "Freshford's school, Mace and pubs are about 4 km straight-line (roughly 5 km by road), and Kilkenny is about 25 minutes. Every school run and shop trip is a drive."
+    },
+    {
+      "text": "Schools nearby are unproven",
+      "weight": 2,
+      "detail": "Clontubrid NS (44 pupils, 22 boys) and Freshford NS (DEIS) have no retrievable inspection rating; the nearest secondary, Coláiste Mhuire Johnstown, is DEIS. St Kieran's (Strong) is about 20 km away."
+    },
+    {
+      "text": "Water, septic and layout not stated",
+      "weight": 1,
+      "detail": "No mention of well, mains, septic tank or broadband; no room dimensions or floor plan; the description's own room list (one 'family bathroom') disagrees with the three bathrooms listed."
+    },
+    {
+      "text": "Listing text looks recycled",
+      "weight": 1,
+      "detail": "It names Tipperary schools (Kilvemnon, Killenaule, Ballingarry) and Thurles and Cashel as the nearby towns, which do not match a pin between Freshford and Johnstown. Confirm the location."
+    },
+    {
+      "text": "Setting and farm buildings not seen",
+      "weight": 1,
+      "detail": "No aerial or satellite check (no browser); the listing calls it 'a peaceful rural setting' with the lands surrounding the house. Old farm sheds can mean asbestos roofs and need fencing for the vizslas."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Clontubrid National School",
+      "candidates": [
+        "Clontubrid National School, Clontubrid, Freshford, Co. Kilkenny R95 TX40",
+        "Freshford National School, Freshford, Co. Kilkenny",
+        "Scoil Naomh Lachtain, Freshford, Co. Kilkenny"
+      ],
+      "note": "Clontubrid: mixed, Catholic, 44 pupils (22 boys), not DEIS, roll 16865D. Freshford NS (about 200 pupils, DEIS) is a similar drive; the page keeps the faster.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Small mixed rural school, not DEIS; no inspection report could be retrieved. Freshford's 2024 curriculum evaluation exists but its PDF link was not readable."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Coláiste Mhuire",
+      "candidates": [
+        "Coláiste Mhuire, Johnstown, Co. Kilkenny"
+      ],
+      "note": "Mixed, about 660 pupils, KCETB, DEIS; Johnstown is about 7 km straight-line west.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "DEIS ETB school; its progression rate rose 17 points in the 2023 feeder report, but no absolute figure was found."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "St Kieran's College",
+      "candidates": [
+        "St Kieran's College, College Road, Kilkenny"
+      ],
+      "note": "Boys only, about 830 pupils, non-fee-paying; about 20 km by road. Kilkenny College is the co-ed option.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "100% progression to third level in the 2023 feeder-school report (Kilkenny People/Irish Independent); large, non-fee-paying, not DEIS."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Mace Freshford",
+      "candidates": [
+        "Mace, Freshford, Co. Kilkenny R95 NC84",
+        "Lynch's Mace Inver, Freshford, Co. Kilkenny",
+        "Centra Johnstown, Co. Kilkenny"
+      ],
+      "note": "The Mace at the Inver filling station in Freshford, about 5 km by road; Johnstown is the other way.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Ballyragget",
+      "candidates": [
+        "Dick's SuperValu, Castle Street, Ballyragget, Co. Kilkenny",
+        "Dunnes Stores, MacDonagh Junction, Dublin Road, Kilkenny",
+        "Aldi, Waterford Road, Kilkenny"
+      ],
+      "note": "Dick's SuperValu in Ballyragget (about 11 km straight-line) or Kilkenny city's supermarkets (about 16 km).",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Campagne",
+      "candidates": [
+        "Campagne, Kilkenny",
+        "McGrath's Public House, Freshford"
+      ],
+      "note": "Campagne in Kilkenny for a proper dinner; McGrath's in Freshford locally.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "St Luke's General Hospital",
+      "candidates": [
+        "St Luke's General Hospital, Kilkenny"
+      ],
+      "note": "St Luke's, Kilkenny: 24-hour ED that takes children, about 15 km straight-line (roughly 25 minutes).",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Freshford",
+      "candidates": [
+        "The Square, Freshford, Co. Kilkenny",
+        "Main Street, Johnstown, Co. Kilkenny"
+      ],
+      "note": "Freshford village (shop, pubs, church) about 5 km; Johnstown about 7 km the other way.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Kilkenny city, about 16 km straight-line.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M8 or M9. The train from Kilkenny or Thurles is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Kilkenny MacDonagh or Thurles",
+      "candidates": [
+        "Kilkenny MacDonagh railway station",
+        "Thurles railway station"
+      ],
+      "note": "Kilkenny: about 7 trains a weekday, about 1h30–1h45 to Heuston. Thurles (Cork line, a bit further): an average of 17 trains a day, per Wikipedia.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
