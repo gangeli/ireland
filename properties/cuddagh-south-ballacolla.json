@@ -1,0 +1,328 @@
+{
+  "id": "cuddagh-south-ballacolla",
+  "name": "Cuddagh South",
+  "address": "Cuddagh South, Ballacolla, Co. Laois",
+  "eircode": "R32 X9R7",
+  "lat": 52.931023,
+  "lng": -7.489303,
+  "listingUrl": "https://www.daft.ie/for-sale/cuddagh-south-ballacolla-ballacolla-co-laois/6691916",
+  "status": "Considering",
+  "added": "2026-10-08",
+  "area": "Ballacolla, Co. Laois",
+  "agent": "CBPM Real Estate (Caroline Bergin)",
+  "agentPhone": "057 863 5824",
+  "questions": [
+    "BuyerIQ places this Eircode inside the OPW 1-in-100 river flood extent: has the house, garage, garden or access road ever flooded, and is buildings insurance with flood cover in place now?",
+    "Can you send a floor plan or room list with dimensions? Which bedroom is the ensuite, are all three bedrooms on the ground floor, and how is the floored attic reached (stairs or a hatch)?",
+    "Is water from the mains, a group scheme or a private well, and is drainage a septic tank or treatment unit? Please share its age and any inspection or certificate.",
+    "What is the second half of the 'dual heating system' alongside the oil boiler, and what did heating cost last year?",
+    "Can you send a site map of the 1.68 acres: how far does the house sit from the road, and is the boundary fenced and gated for dogs?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "A 2006 single-storey house of 147 m² on 1.68 acres at €450k, BER C1, 17 km from Portlaoise's ED and Dublin trains. Against it: BuyerIQ puts the Eircode in the 1-in-100 river flood extent, it is 6 km from the nearest village, and the paediatric ED's future and the services are unconfirmed."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but it is a lived-in 2006 house with an alarm."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Unknown; not stated on Daft or MyHome (rural townland: mains, group scheme or well)."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Unknown; not stated, but a rural one-off house is almost certainly on a septic tank or treatment unit."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Fibre likely but not confirmed: MyHome ticks 'Broadband' with no detail, and NBI's Mountrath deployment area (about 2,567 premises ready to connect by Aug 2024) covers the townlands around Mountrath, Abbeyleix and Borris-in-Ossory. BuyerIQ's broadband line is behind its paywall; confirm on nbi.ie/map by Eircode.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "NBI"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "Listed by MyHome as a bungalow with a floored attic for storage, so all three bedrooms, including the ensuite bedroom, should be at ground level; there is no floor plan or room list to confirm which room is which."
+  },
+  "price": 450000,
+  "type": "Detached bungalow",
+  "beds": 3,
+  "bedsNote": "Single storey; one bedroom ensuite; floored attic used for storage",
+  "baths": 3,
+  "floorM2": 147,
+  "landHa": 0.68,
+  "landAcres": 1.68,
+  "ber": "C1",
+  "berKwh": 163.57,
+  "heating": "Oil-fired central heating; listed as a 'dual heating system' without naming the second source",
+  "listed": "2026-10-08",
+  "views": 273,
+  "stampDuty": 4500,
+  "tagline": "A 2006 three-bed, three-bath bungalow of 147 m² on 1.68 acres in the south Laois countryside, about 6 km north-west of Ballacolla and 8 km from Mountrath.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI0XC8wXC80MDQ4MDhhNi05MzgwLTQ1MDYtYTNmZC1iY2ZjNTRkYTlmNzEuSlBFRyJ9?signature=fbc165cfc9029e09d26fbaafec8cca61b199fd2c795dfc5c3eb180a895df374f",
+      "role": "facade"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€450k, under the €500k line",
+      "weight": 3,
+      "detail": "About €3,061/m²; stamp duty about €4,500."
+    },
+    {
+      "text": "Single storey, 147 m², three bathrooms",
+      "weight": 3,
+      "detail": "147.21 m² on one level with three bedrooms (one ensuite) and three bathrooms: room for the parents to sleep downstairs with their own bathroom."
+    },
+    {
+      "text": "1.68 acres and a large detached garage",
+      "weight": 3,
+      "detail": "About 0.68 ha, well over the 1-acre target for the dogs, plus a big garage for workshop or storage."
+    },
+    {
+      "text": "Built 2006, BER C1",
+      "weight": 2,
+      "detail": "163.57 kWh/m²/yr (C1 is 150–175), so no deep retrofit needed; listed as turnkey, with a floored attic for storage."
+    },
+    {
+      "text": "Portlaoise ED and trains about 17 km",
+      "weight": 2,
+      "detail": "Midland Regional Hospital Portlaoise (24-hour ED with a paediatric extension opened May 2026) and Portlaoise station are about 17 km straight-line; Ballybrophy station is about 8 km."
+    },
+    {
+      "text": "Mixed secondary 8 km away",
+      "weight": 1,
+      "detail": "Mountrath Community School (mixed, ~130 Leaving Certs, 83% to third level in the 2018 tables) is about 8 km; Heywood CS in Ballinakill is the alternative."
+    },
+    {
+      "text": "Good food 10 km away",
+      "weight": 1,
+      "detail": "Abbeyleix (~10 km) has Bramley (Laois best restaurant 2026), McEvoy's and Morrissey's pub, plus a large SuperValu and two GP practices."
+    }
+  ],
+  "cons": [
+    {
+      "text": "In the OPW 1-in-100 river flood extent",
+      "weight": 3,
+      "detail": "BuyerIQ puts this Eircode inside the national 1% AEP fluvial flood extent and flags one critical finding; check flood history and insurance before bidding."
+    },
+    {
+      "text": "6 km from the nearest village",
+      "weight": 2,
+      "detail": "Ballacolla is about 6 km and Mountrath about 8 km straight-line: every errand, GP visit and school run is a drive."
+    },
+    {
+      "text": "Portlaoise's paediatric ED has an uncertain future",
+      "weight": 2,
+      "detail": "The paediatric extension opened in May 2026, but a 2026 HSE reconfiguration plan proposes Model 2 status with children's emergency care moving to Tullamore (~38 km)."
+    },
+    {
+      "text": "Water, septic and heating not stated",
+      "weight": 2,
+      "detail": "Neither listing names the water supply or drainage, and the 'dual heating system' names only the oil boiler."
+    },
+    {
+      "text": "No floor plan or room list",
+      "weight": 2,
+      "detail": "Neither Daft nor MyHome has a plan or room sizes, so the layout, the ensuite bedroom and the attic access are unconfirmed."
+    },
+    {
+      "text": "Tiny local primaries, quality unknown",
+      "weight": 1,
+      "detail": "Shanahoe NS (64 pupils) is about 4 km and Ballacolla's St Pius X NS (44 pupils) about 6 km; no inspection reports retrieved."
+    },
+    {
+      "text": "Setting, road and fencing not checked",
+      "weight": 1,
+      "detail": "No aerial or satellite check (no browser); the listing says 'peaceful countryside setting' but not how close the house sits to the road or whether the site is fenced for dogs."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Scoil Fionntáin Naofa, Shanahoe",
+      "candidates": [
+        "Scoil Fionntáin Naofa, Shanahoe, Co. Laois",
+        "Shanahoe National School, Abbeyleix, Co. Laois"
+      ],
+      "note": "Mixed, Catholic, 64 pupils (30 boys), roll 17489G; Daft gives about 4.2 km. St Pius X NS, Ballacolla (mixed, 44 pupils) is about 6 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Small mixed Catholic school with enrolment down from 74 in 2010 to 64; no inspection report could be retrieved."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Mountrath Community School",
+      "candidates": [
+        "Mountrath Community School, Mountrath, Co. Laois"
+      ],
+      "note": "Mixed community school, formed in 2009 from St Aengus', the Brigidine Convent and Patrician College Ballyfin; about 8 km straight-line.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "130 sat the Leaving Cert in 2018 and 108 (83%) went to third level per the Leinster Express feeder tables; an earlier year showed 71%."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Nearest convenience shop",
+      "candidates": [
+        "Centra, Main Street, Mountrath, Co. Laois",
+        "Shop, Ballacolla, Co. Laois"
+      ],
+      "note": "Ballacolla's village shop reopened under independent ownership (8am–8pm); Centra in Mountrath is the other option. The page keeps the fastest.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Breslin's SuperValu Abbeyleix",
+      "candidates": [
+        "SuperValu, Main Street, Abbeyleix, Co. Laois",
+        "SuperValu, Rathdowney, Co. Laois",
+        "Tesco, Portlaoise, Co. Laois"
+      ],
+      "note": "Breslin's SuperValu in Abbeyleix (~10 km) or Rathdowney (~11 km); Portlaoise for Tesco, Aldi and Lidl.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Bramley, Abbeyleix",
+      "candidates": [
+        "Bramley Restaurant, Abbeyleix, Co. Laois",
+        "McEvoy's Steak & Wine Bar, Abbeyleix, Co. Laois"
+      ],
+      "note": "Bramley was named Laois's best restaurant in 2026; McEvoy's won best casual dining in the 2025 regional final.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Midland Regional Hospital Portlaoise",
+      "candidates": [
+        "Midland Regional Hospital, Portlaoise"
+      ],
+      "note": "24-hour adult and paediatric ED (paediatric extension opened May 2026), about 17 km straight-line; downgrade proposals recur, with Tullamore (~38 km) named for children's emergencies. St Luke's Kilkenny is the other all-ages ED.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Mountrath",
+      "candidates": [
+        "Main Street, Mountrath, Co. Laois"
+      ],
+      "note": "Mountrath (~8 km): Centra, primary care centre, pharmacy. Abbeyleix (~10 km) is the bigger heritage town with SuperValu and two GP practices.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Kilkenny is about 35 km straight-line; Portlaoise (~17 km) is the nearer big town for shops and services.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M7. The train from Portlaoise is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Portlaoise",
+      "candidates": [
+        "Portlaoise railway station"
+      ],
+      "note": "Portlaoise has Cork, Limerick and Galway/Westport intercity trains plus the Portlaoise commuter service to Heuston (weekday count not verified). Ballybrophy (~8 km) has only a handful of Heuston trains a day.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

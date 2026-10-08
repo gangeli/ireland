@@ -27,6 +27,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/water-lane-castlepollard-castlepollard-co-westmeath/6638791",
       "recheck": false
+    },
+    {
+      "id": "bluebell-lodge-carlow",
+      "name": "Bluebell Lodge",
+      "left": "2026-10-08",
+      "reason": "withdrawn (Daft listing taken down; URL now redirects to Carlow Town search; may be sale agreed, so rechecking)",
+      "lastPrice": 600000,
+      "aiStars": 2.5,
+      "human": {
+        "n": 0,
+        "avg": null
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/bluebell-lodge-old-dublin-road-carlow-town-co-carlow/6682845",
+      "recheck": true
     }
   ]
 }
