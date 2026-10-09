@@ -41,6 +41,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/bluebell-lodge-old-dublin-road-carlow-town-co-carlow/6682845",
       "recheck": true
+    },
+    {
+      "id": "hillview-maddenstown",
+      "name": "Hillview",
+      "left": "2026-10-09",
+      "reason": "sale agreed",
+      "lastPrice": 475000,
+      "aiStars": 3.5,
+      "human": {
+        "n": 2,
+        "avg": 2.5
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/hillview-maddenstown-the-curragh-co-kildare/6678201",
+      "recheck": true
     }
   ]
 }
