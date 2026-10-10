@@ -1,0 +1,372 @@
+{
+  "id": "ballyhast-castletown-geoghegan",
+  "name": "Ballyhast",
+  "address": "Ballyhast, Castletown Geoghegan, Mullingar, Co. Westmeath",
+  "eircode": "N91 H326",
+  "lat": 53.435306,
+  "lng": -7.510731,
+  "listingUrl": "https://www.myhome.ie/residential/brochure/ballyhast-castletown-geoghegan-mullingar-co-westmeath/5032366",
+  "status": "Considering",
+  "added": "2026-10-10",
+  "area": "Castletown Geoghegan, Co. Westmeath",
+  "agent": "Sherry FitzGerald Davitt & Davitt Mullingar",
+  "agentPhone": "044 934 0000",
+  "questions": [
+    "The listing gives the floor area as '1,973 m²'. Is that 1,973 sq ft (about 183 m²), and what year was the house built? The room sizes add up to about 174 m² before walls and the inner hallway.",
+    "Does the pump house serve a private well? If so, can you share a recent water test? How old is the septic tank, is it registered, and has it been inspected?",
+    "Can you send a site map of the 0.88 acres with the boundaries marked? Is any of it fenced or gated, or is it beech hedge only? We have two dogs.",
+    "Who owns the farm buildings just west of the site, and is that yard in active use (livestock, slurry, machinery)? Is anything planned on the fields around the house?",
+    "Has the house or the land ever flooded, and has it been tested for radon? Are the oil boiler and the Stanley range serviced, and what did heating cost last year?"
+  ],
+  "ai": {
+    "stars": 3,
+    "why": "Good value at €399,950 for a B2 five-bed of about 183 m² on 0.88 acres, with a ground-floor principal bedroom, en-suite and guest WC, near a village with a health centre and 20 minutes from Mullingar's all-ages ED. But it is a plain, two-storey house: four of the five bedrooms are up the stairs, there is only one living room, it falls short of the acre, the beech hedges are not fencing, and Dublin trains are about 15–18 km away."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but the house has an electric shower, an electric oven, exterior lighting and a pole-mounted supply visible in the photos."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Probably a private well; the supply isn't stated, but a 'pump house' is listed among the features. Ask whether it is a well or a group scheme, and ask for a water test."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank, stated in the listing; ask its age, registration and inspection history."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Full fibre is likely: BuyerIQ lists '101 Mb full fibre' for this Eircode, and a March 2025 Dáil answer says NBI fibre-enabled the amber area around Castletown Geoghegan in December 2024 to January 2025. The listing doesn't mention broadband. Confirm the provider and the top speed by Eircode.",
+      "type": "Fibre",
+      "speed": "~101 Mb (higher plans likely)",
+      "provider": "NBI / open eir"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Bedroom One (4.03 × 3.59 m) is on the ground floor, as both the listing and the floor plan show. It has its own en-suite (1.35 × 2.22 m, electric shower) and walk-in wardrobe (1.69 × 1.33 m), and a guest WC (1.65 × 3.24 m) is down the hall."
+  },
+  "price": 399950,
+  "type": "Detached two-storey",
+  "beds": 5,
+  "bedsNote": "Principal bedroom with en-suite and walk-in wardrobe on the ground floor; four bedrooms and the main bathroom upstairs",
+  "baths": 2,
+  "floorM2": 183,
+  "landHa": 0.36,
+  "landAcres": 0.88,
+  "ber": "B2",
+  "berKwh": 105,
+  "heating": "Oil-fired central heating, with a solid-fuel stove in the living room and a Stanley range with back boiler in the kitchen",
+  "listed": "2026-10-06",
+  "stampDuty": 4000,
+  "tagline": "A detached five-bed of about 183 m² with a ground-floor principal suite, on 0.88 acres of hedged lawn in open farmland about 2 km from Castletown Geoghegan and 20 minutes from Mullingar.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/3/5032366/d4ba909e-f78b-43da-a3fd-450e086dcf34_l.jpeg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/3/5032366/885910cd-27db-4c22-9d4c-eea828aa2e6e_l.jpeg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/3/5032366/fd4718fe-3ec1-4c01-b317-ac7960a7d427_l.jpeg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/3/5032366/79b78ae1-a1d3-42ba-82f5-0cbe2b6f71b1_l.jpeg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/3/5032366/f2d4227e-b54c-42f4-ae41-377542b290b7_l.jpeg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/3/5032366/2e71cb2d-b736-4c65-a00f-81bfdef43f9c_l.jpeg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/3/5032366/ed666fd9-beff-4855-a447-11e44d7dd8e2_l.jpeg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/3/5032366/106b6b3c-660b-4c11-8ba8-e41ec3e28a34_l.jpeg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Ground-floor principal suite and a guest WC",
+      "weight": 3,
+      "detail": "Bedroom One (4.03 × 3.59 m, about 14.5 m²) has its own en-suite and walk-in wardrobe, and a 1.65 × 3.24 m guest WC is on the same floor, so Gabor's parents need not use the stairs."
+    },
+    {
+      "text": "€399,950 for about 183 m²",
+      "weight": 3,
+      "detail": "About €2,190/m²; stamp duty about €4,000. That leaves about €100k of headroom under the €500k line."
+    },
+    {
+      "text": "Five bedrooms, room for six",
+      "weight": 2,
+      "detail": "Bedrooms Two (4.42 × 5.25 m), Three (4.03 × 4.32 m) and Five (4.42 × 4.04 m plus a 2.31 × 1.32 m alcove) are large; Bedroom Four is 2.68 × 2.74 m."
+    },
+    {
+      "text": "0.88 acres in open farmland, off a quiet lane",
+      "weight": 2,
+      "detail": "About 0.36 ha (garden 0.76 ac), with fields on every side in the aerial photo and the house set well back from a narrow lane. BuyerIQ says the address is outside mapped noise zones."
+    },
+    {
+      "text": "BER B2 and probably full fibre",
+      "weight": 2,
+      "detail": "BER 105 kWh/m²/yr (B2 is 100–125), so no deep retrofit is needed; BuyerIQ lists 101 Mb full fibre at the Eircode."
+    },
+    {
+      "text": "All-ages EDs at Mullingar and Tullamore",
+      "weight": 2,
+      "detail": "Regional Hospital Mullingar (adult and paediatric ED) is about 16 km straight-line, roughly 20 minutes by the agent's count; Midland Regional Tullamore is about 18 km. Castletown Geoghegan has an HSE-listed health centre."
+    },
+    {
+      "text": "Village 5 minutes away, Lough Ennell nearby",
+      "weight": 1,
+      "detail": "Castletown Geoghegan (about 2 km) has a primary school, a post office, pubs, the Urban Forge pizzeria and GAA; Lilliput Adventure Centre on Lough Ennell is close by."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Plain two-storey house, only one living room",
+      "weight": 2,
+      "detail": "Four of the five bedrooms and the main bathroom are upstairs. Downstairs there is a single 4.03 × 4.27 m (17 m²) living room and a 4.16 × 5.04 m kitchen-dining room, which is tight for six. Cream fitted kitchen, laminate floors upstairs and acres of gravel: well kept, but nothing special."
+    },
+    {
+      "text": "Hedged, not fenced, and short of an acre",
+      "weight": 2,
+      "detail": "0.88 ac in total, about 0.76 ac of it lawn, with beech hedges and an open gravel entrance; no fencing or gate is listed, so the dogs would need one."
+    },
+    {
+      "text": "Dublin trains are 15–18 km away and infrequent",
+      "weight": 2,
+      "detail": "Mullingar has about 8 weekday Sligo-line trains to Connolly (about 1 h 15–1 h 30); Tullamore has about 17 to Heuston (about 1 h 10). The bustimes.org count is from Irish Rail data for 13 Oct 2026."
+    },
+    {
+      "text": "School quality unknown",
+      "weight": 2,
+      "detail": "Scoil Mhichíl Naofa (78 pupils, mixed) has a whole-school evaluation on gov.ie, but it sits behind a verification check. No progression figure was found for Mercy Secondary Kilbeggan (co-ed, 742 pupils). St Finian's College Mullingar (strong progression) is about 15 km away."
+    },
+    {
+      "text": "Probably a private well, plus a septic tank",
+      "weight": 1,
+      "detail": "The listing names a pump house and a septic tank but not the water source; for rental use, ask for a water test and the tank's registration."
+    },
+    {
+      "text": "Farm buildings next door, and an unexplained BuyerIQ flag",
+      "weight": 1,
+      "detail": "A farmyard with large sheds sits beside the west boundary in the aerial photo. BuyerIQ shows one locked 'critical' finding at this address, its subject unknown (possibly flood or radon), and 3 planning applications within 1 km."
+    },
+    {
+      "text": "Oil and solid fuel heating",
+      "weight": 1,
+      "detail": "An oil boiler, a stove and a Stanley range with back boiler mean deliveries, ash and servicing. The build year and the boiler's age aren't stated."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Scoil Mhichíl Naofa, Castletown Geoghegan",
+      "candidates": [
+        "St Michael's National School, Castletown Geoghegan, Co. Westmeath",
+        "Scoil Mhichil Naofa, School Road, Castletown Geoghegan, Co. Westmeath"
+      ],
+      "note": "Mixed, Catholic, 78 pupils (37 boys, 41 girls), roll 17182D; about 2 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "A small mixed school; gov.ie lists a whole-school evaluation and a curriculum evaluation for it, but both sit behind gov.ie's verification check and couldn't be read."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Mercy Secondary School, Kilbeggan",
+      "candidates": [
+        "Mercy Secondary School, Dublin Road, Kilbeggan, Co. Westmeath N91 HDH2"
+      ],
+      "note": "Co-educational voluntary secondary school, roll 63221U, 742 pupils in 2026 (up from 683 in 2025); about 7.5 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Co-ed, with enrolment rising from 683 to 742; no feeder-table progression figure or inspection report was found."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "The better school",
+      "kind": "Good secondary school",
+      "title": "St Finian's College, Mullingar",
+      "candidates": [
+        "St Finian's College, Mullingar, Co. Westmeath"
+      ],
+      "note": "Co-educational diocesan school, about 775 pupils; about 15 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "In the 2019 feeder tables (Midlands 103), every Leaving Cert student went on to third level, the only Midlands school to manage that; another year's figure was 87%, against a Westmeath average of about 75%."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Shop in Castletown Geoghegan",
+      "candidates": [
+        "Shop, Main Street, Castletown Geoghegan, Co. Westmeath",
+        "Centra Kilbeggan, Co. Westmeath",
+        "M6 Service Station, Tullamore Road, Kilbeggan"
+      ],
+      "note": "A property listing mentions a village shop and An Post has a branch there, but the shop's name and brand aren't confirmed. Kilbeggan, about 7 km, is the fallback. The page keeps the fastest.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Kilbeggan or Mullingar",
+      "candidates": [
+        "SuperValu Kilbeggan, Co. Westmeath",
+        "Tesco Mullingar, Co. Westmeath",
+        "Aldi Mullingar, Co. Westmeath"
+      ],
+      "note": "SuperValu in Kilbeggan (about 7 km); Mullingar (about 15 km) for Tesco, Aldi and Lidl.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Urban Forge, Castletown Geoghegan",
+      "candidates": [
+        "Urban Forge, Castletown Geoghegan, Co. Westmeath",
+        "Urban Forge, Oliver Plunkett Street, Mullingar"
+      ],
+      "note": "A slow-food pizzeria in the village's old forge; a Mullingar branch opens until 10 pm. Check the village branch's evening hours.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Regional Hospital Mullingar",
+      "candidates": [
+        "Regional Hospital Mullingar, Longford Road, Mullingar",
+        "Midland Regional Hospital Tullamore, Arden Road, Tullamore"
+      ],
+      "note": "24-hour adult and paediatric ED, about 16 km straight-line, often in escalation. Midland Regional Tullamore (about 18 km) is the other all-ages ED.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Kilbeggan",
+      "candidates": [
+        "Main Street, Kilbeggan, Co. Westmeath"
+      ],
+      "note": "Kilbeggan (about 7 km): SuperValu, the Mercy secondary and Kilbeggan Distillery. Mullingar is the county town, about 20 minutes away.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Athlone",
+      "candidates": [
+        "Athlone Castle, Athlone, Co. Westmeath"
+      ],
+      "note": "Athlone (about 30 km) is the Midlands' largest town; Mullingar (about 15 km) is the county town; Galway, the nearest city, is about 1 h 15 min via the M6.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the M6 or the N4/M4. The train from Mullingar or Tullamore is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Mullingar or Tullamore",
+      "candidates": [
+        "Mullingar railway station, Co. Westmeath",
+        "Tullamore railway station, Co. Offaly"
+      ],
+      "note": "Mullingar (Sligo line): about 8 weekday trains to Connolly, about 1 h 15–1 h 30. Tullamore (Galway/Westport lines): about 17 to Heuston, about 1 h 10. Counts are from bustimes.org's Irish Rail data for Tue 13 Oct 2026.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

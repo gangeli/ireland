@@ -55,6 +55,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/hillview-maddenstown-the-curragh-co-kildare/6678201",
       "recheck": true
+    },
+    {
+      "id": "green-house-clara",
+      "name": "The Green House",
+      "left": "2026-10-10",
+      "reason": "bumped by Ballyhast, Castletown Geoghegan (score 3.0 vs 2.5); tied at 2.5 with Grattan St, Compsey Mill, Kilcoltrim and 23 New Inn, but fits fewest hard requirements (no ground-floor bedroom or bathroom, €630k over budget); no human ratings",
+      "lastPrice": 630000,
+      "aiStars": 2.5,
+      "human": {
+        "n": 0,
+        "avg": null
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/the-green-house-clara-co-offaly/5809479",
+      "recheck": false
     }
   ]
 }

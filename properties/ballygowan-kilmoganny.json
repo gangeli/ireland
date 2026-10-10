@@ -1,0 +1,345 @@
+{
+  "id": "ballygowan-kilmoganny",
+  "name": "Ballygowan",
+  "address": "Ballygowan, Kilmoganny, Co. Kilkenny",
+  "eircode": "R95 H0K7",
+  "lat": 52.434701,
+  "lng": -7.33766,
+  "listingUrl": "https://www.daft.ie/for-sale/ballygowan-kilmoganny-co-kilkenny/6685056",
+  "status": "Considering",
+  "added": "2026-10-10",
+  "area": "Kilmoganny, Co. Kilkenny",
+  "agent": "Brophy Cusack (David Cusack)",
+  "agentPhone": "051 511 333",
+  "questions": [
+    "Can you send a floor plan or a room list with sizes? Which bedrooms sit next to a bathroom, is either bathroom an ensuite, and how is the floored attic reached (fixed stairs or a Stira)?",
+    "What are the BER's kWh/m²/yr figure and its date, how old is the oil boiler, and what did oil and solid fuel cost last year?",
+    "Is drainage a septic tank or a treatment unit, how old is it, and is there a recent water test for the private well?",
+    "Are the boundaries fenced and gated all round (for two dogs), and does the gate open onto the lane or the road?",
+    "BuyerIQ flags one critical and five high-priority findings for this Eircode: has the site ever flooded, and has a radon test been done?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "A turnkey single-storey 4-bed of 137 m² at €380k, BER C, set back off a quiet local road with fields on three sides and a GP 4 km away. Against it: 0.54 acres is half the land target, the local primary has 21 pupils, and the ED, a strong secondary and Dublin trains are all 25–30 minutes or more."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but it is a lived-in house with an alarm system and oil central heating."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private well, as stated in the listing; ask for a recent water quality test."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Unknown; not stated, but a rural one-off house on a private well is almost certainly on a septic tank or treatment unit."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Fibre likely: BuyerIQ lists 'Fast broadband — 387 Mb full fibre' for this Eircode (detail behind its paywall). The listing doesn't mention broadband, and no NBI announcement names Kilmoganny or Tullahought; confirm on nbi.ie by Eircode.",
+      "type": "Fibre",
+      "speed": "~387 Mb",
+      "provider": "NBI / open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Single-storey bungalow: all four bedrooms and both bathrooms are listed on one level, and the floored attic is for storage; there is no floor plan, so which bedroom is nearest a bathroom is unconfirmed."
+  },
+  "price": 380000,
+  "type": "Detached bungalow",
+  "beds": 4,
+  "bedsNote": "Single storey; four bedrooms, two bathrooms; floored attic (storage, uses subject to regulations)",
+  "baths": 2,
+  "floorM2": 137,
+  "landHa": 0.22,
+  "landAcres": 0.54,
+  "ber": "C",
+  "heating": "Oil-fired central heating plus a solid-fuel stove",
+  "listed": "2026-10-06",
+  "views": 1624,
+  "stampDuty": 3800,
+  "tagline": "A turnkey four-bed bungalow of 137 m² on 0.54 acres with Slievenamon views, about 4 km south of Kilmoganny and 11 km from Carrick-on-Suir.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI5XC82XC85Njk0ZmJiYi1lNTFjLTQzNTMtODZjYS02ZTBmMjFhNmY5YTkuSlBFRyJ9?signature=88871d7f26306ba7b47f3e57d907833585bacbc02a2118c7807335e5a742acb8",
+      "role": "facade"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€380k, well under the €500k line",
+      "weight": 3,
+      "detail": "About €2,774/m²; stamp duty about €3,800. A similar 4-bed bungalow nearby (Woodbrook, Shrughawadda) sold for €435k in Sept 2025."
+    },
+    {
+      "text": "Single storey, four bedrooms, 137 m²",
+      "weight": 3,
+      "detail": "Four bedrooms and two bathrooms on one level, so the parents get a ground-floor room with no stairs, and the house sleeps six."
+    },
+    {
+      "text": "Turnkey, BER C",
+      "weight": 2,
+      "detail": "Listed as turnkey with a modern kitchen and bathrooms, PVC double glazing, oil central heating plus a stove, and an alarm; BER C (EPI not shown)."
+    },
+    {
+      "text": "Set back off a quiet local road, fields around",
+      "weight": 2,
+      "detail": "Satellite imagery shows the house about 30 m back from an unclassified local road beside a lane, with fields on the north, west and east and the nearest neighbour about 50 m across the junction."
+    },
+    {
+      "text": "Large steel shed with water and WC",
+      "weight": 1,
+      "detail": "Plus a block fuel shed and a decked area: workshop, dog room or bike store."
+    },
+    {
+      "text": "GP in Kilmoganny, 4 km",
+      "weight": 2,
+      "detail": "Kilmoganny Health Centre (Mill Street, two GPs) is about 4 km north; Carrick-on-Suir (11 km) has the full set of supermarkets."
+    }
+  ],
+  "cons": [
+    {
+      "text": "0.54 acres, about half the land target",
+      "weight": 2,
+      "detail": "About 0.22 ha, a long narrow plot roughly 70 × 30 m on the satellite view; a good garden for dogs but short of the ~1 acre aim, and the fields around are not part of it."
+    },
+    {
+      "text": "Tiny local primary, quality unknown",
+      "weight": 2,
+      "detail": "St Eoghan's NS, Kilmoganny has about 21 pupils (9 boys) per the Department; Windgap's St Nicholas's (~117 pupils, ~5 km) is the bigger option. No inspection reports retrieved."
+    },
+    {
+      "text": "Strong secondary and ED 25–30 minutes away",
+      "weight": 2,
+      "detail": "Edmund Rice (boys, ~316) and Comeragh College (mixed) are in Carrick-on-Suir, ~11 km, with no reliable progression figures; St Kieran's Kilkenny is ~27 km. Clonmel, Waterford and Kilkenny EDs are each ~25–27 km straight-line."
+    },
+    {
+      "text": "Dublin trains from Thomastown, ~1h50",
+      "weight": 2,
+      "detail": "Thomastown (~16 km straight-line) has about 7 Heuston trains a weekday at roughly 1h50–1h55; Carrick-on-Suir station has no direct Dublin trains."
+    },
+    {
+      "text": "Not 'just outside' the village",
+      "weight": 1,
+      "detail": "Daft's map pin sits about 4 km south of Kilmoganny (pop. ~245), nearer Tullahought (2 km): every errand is a drive."
+    },
+    {
+      "text": "Septic, attic access and floor plan unconfirmed",
+      "weight": 2,
+      "detail": "Drainage isn't stated, no room sizes or plan are on Daft (no MyHome copy found), and the floored attic's access is not described."
+    },
+    {
+      "text": "BuyerIQ flags a critical finding",
+      "weight": 1,
+      "detail": "One critical and five high-priority findings sit behind BuyerIQ's €39 paywall (flood, radon, noise and air are in that section); ask the agent about flooding and radon."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "St Eoghan's National School, Kilmoganny",
+      "candidates": [
+        "St Eoghan's National School, Kilmoganny, Co. Kilkenny",
+        "Kilmoganny National School, Kilmoganny, Co. Kilkenny"
+      ],
+      "note": "Mixed, roll 07481H, about 21 pupils (9 boys) per the Department (2024); Daft gives 3.1 km. St Nicholas's NS, Windgap (~117 pupils) is about 5 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Very small mixed school (21–23 pupils, steady since 2018); no inspection report retrieved."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Edmund Rice Secondary School, Carrick-on-Suir",
+      "candidates": [
+        "Edmund Rice Secondary School, Carrick-on-Suir, Co. Tipperary",
+        "Comeragh College, Carrick-on-Suir, Co. Tipperary"
+      ],
+      "note": "Edmund Rice is boys only (~316, roll 65270U, not DEIS), Daft gives 10.5 km; Comeragh College (mixed) is 10.7 km. Scoil Mhuire Carrick is girls only.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "No progression figure found for Edmund Rice; Comeragh College showed 45% of 55 in an undated Tipperary Live feeder table."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "St Kieran's College",
+      "candidates": [
+        "St Kieran's College, College Road, Kilkenny"
+      ],
+      "note": "Boys only, ~830 pupils, non-fee-paying; about 27 km straight-line.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "100% progression to third level in the 2023 feeder-school report (Kilkenny People/Irish Independent); large, non-fee-paying, not DEIS."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Moran's (Pete's), Kilmoganny",
+      "candidates": [
+        "Moran's shop, Kilmoganny, Co. Kilkenny",
+        "Pete's shop, Kilmoganny, Co. Kilkenny"
+      ],
+      "note": "Kilmoganny's village shop, Moran's, known locally as Pete's; about 4 km north.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Carrick-on-Suir",
+      "candidates": [
+        "SuperValu, Greystone Street, Carrick-on-Suir, Co. Tipperary",
+        "Aldi, Waterford Road, Carrick-on-Suir, Co. Tipperary",
+        "Lidl, Clonmel Road, Carrick-on-Suir, Co. Tipperary"
+      ],
+      "note": "Carrick-on-Suir, about 11 km south-west, has SuperValu, Aldi and Lidl.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Kilkieran Cottage Restaurant",
+      "candidates": [
+        "Kilkieran Cottage Restaurant, Castletown, Carrick-on-Suir",
+        "Befani's Mediterranean Restaurant, Carrick-on-Suir",
+        "The Carraig Hotel, Carrick-on-Suir"
+      ],
+      "note": "Kilkieran Cottage has a long Georgina Campbell listing (dinner Wed–Sun) but no recent reviews found, so check it is still open; Befani's and the Carraig Hotel restaurant in Carrick are the fallbacks.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "University Hospital Waterford",
+      "candidates": [
+        "University Hospital Waterford",
+        "Tipperary University Hospital, Clonmel",
+        "St Luke's General Hospital, Kilkenny"
+      ],
+      "note": "All three are all-ages 24-hour EDs about 25–27 km straight-line; the page keeps the fastest drive.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Carrick-on-Suir",
+      "candidates": [
+        "Main Street, Carrick-on-Suir, Co. Tipperary"
+      ],
+      "note": "Carrick-on-Suir (~11 km): supermarkets, pharmacies, secondaries. Callan (~13 km) is the Kilkenny-side alternative.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "The Quay, Waterford"
+      ],
+      "note": "The listing gives Kilkenny about 24 km and Waterford about 26 km from Kilmoganny.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M9 (about 10 minutes away per the listing). The train from Thomastown is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Thomastown",
+      "candidates": [
+        "Thomastown railway station, Co. Kilkenny",
+        "Kilkenny MacDonagh railway station"
+      ],
+      "note": "Waterford–Heuston line: about 7 trains a weekday from Thomastown (06:16 and 08:11 among them), roughly 1h50–1h55 to Heuston; Kilkenny is on the same line.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
