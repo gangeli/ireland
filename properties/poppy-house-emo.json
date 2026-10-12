@@ -1,0 +1,353 @@
+{
+  "id": "poppy-house-emo",
+  "name": "Poppy House",
+  "address": "Poppy House, Kilmainham, Emo, Co. Laois",
+  "eircode": "R32 F7Y4",
+  "lat": 53.11464,
+  "lng": -7.269524,
+  "listingUrl": "https://www.daft.ie/for-sale/poppy-house-kilmainham-emo-co-laois/6694279",
+  "status": "Considering",
+  "added": "2026-10-12",
+  "area": "Emo, Co. Laois",
+  "agent": "Hume Auctioneers (John Dunne)",
+  "agentPhone": "057 8681111",
+  "questions": [
+    "Can you send a site map with the boundaries marked? How big is the site, does the lawn to the south-east of the house belong to it, and is the boundary fenced or walled all round, especially along the R422 (we have two dogs)?",
+    "Is there a floor plan or a room list with sizes? How big is the dual-aspect ground-floor bedroom, and how far is it from the shower room?",
+    "What heating system went in during the renovation (heat pump or other), what is the BER's kWh/m²/yr figure, when was the work finished, and are there certificates of compliance for the extension and the garden room?",
+    "Is water from the mains or a private well, and is drainage a septic tank or a treatment unit? How old is it, and was it upgraded in the renovation?",
+    "BuyerIQ flags radon as a critical finding for this Eircode: has a radon test been done or a sump fitted? And what is the building about 15 m to the north-west of the house?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "A charming, practically new stone house (B1) with a ground-floor bedroom and shower room, 10 minutes from Portarlington's Dublin trains and 15 from Portlaoise's ED, at €450k. But 117 m² and three bedrooms is tight for six, the site looks like roughly half an acre or less, and it sits about 20 m back from the R422."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; the listing says the renovation put in completely new wiring, but doesn't state the supply."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Unknown; not stated. The listing mentions new plumbing only. Ask whether it is mains or a private well."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Unknown; not stated, but a rural house on the R422 outside any village is almost certainly on a septic tank or treatment unit."
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; the listing doesn't mention broadband and BuyerIQ shows 'no data' for this Eircode. The area falls within NBI's Laois rollout (Mountmellick and the Portlaoise deployment areas), so fibre is possible. Check nbi.ie by Eircode.",
+      "type": "Fibre",
+      "speed": "up to 500 Mb if NBI has reached it (unconfirmed)",
+      "provider": "NBI (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "The listing places a 'dual-aspect ground floor bedroom' to the left of the entrance hall and a shower room off the rear hallway on the same floor; there is no floor plan, so its size isn't given."
+  },
+  "price": 450000,
+  "type": "Detached period stone house (two storey) with a single-storey kitchen extension",
+  "beds": 3,
+  "bedsNote": "One double bedroom on the ground floor, two doubles upstairs; a separate garden room (office or studio) in the grounds",
+  "baths": 2,
+  "floorM2": 117,
+  "ber": "B1",
+  "heating": "New heating system fitted in the renovation; type not stated",
+  "listed": "2026-10-12",
+  "views": 496,
+  "stampDuty": 4500,
+  "tagline": "A renovated period stone house of 117 m² with a contemporary kitchen extension, a ground-floor bedroom and a garden room, on the R422 in Kilmainham, about 3.5 km east of Mountmellick and 4.5 km west of Emo.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJlXC9kXC9lZDhmZjQ4NS1lYTk4LTQ0MjItOTU4OC1hYjY0MDM1MzIwNzQuSlBFRyJ9?signature=773ca8c5ee85061b8f2b35f1edb767f62cca57e7e91cfb789699be12d9a10013",
+      "role": "facade"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Ground-floor bedroom and shower room",
+      "weight": 3,
+      "detail": "A dual-aspect double bedroom off the entrance hall and a shower room off the rear hall, so Gabor's parents need not use the stairs; room sizes aren't given."
+    },
+    {
+      "text": "Dublin trains about 10 minutes away",
+      "weight": 3,
+      "detail": "Portarlington station is about 7 km straight-line: 19 weekday commuter trains to Heuston (about 1h05) plus InterCity services (the listing says under 40 minutes; Irish Rail gives a 46-minute average). The M7 is about 10 minutes."
+    },
+    {
+      "text": "Practically new inside, BER B1",
+      "weight": 2,
+      "detail": "Per the listing: new wiring, plumbing, heating, floors, kitchen and both bathrooms behind the original stone front; BER B1 (100–125 kWh/m²/yr band; exact figure not shown)."
+    },
+    {
+      "text": "Portlaoise ED with paediatrics about 15 minutes",
+      "weight": 2,
+      "detail": "Midland Regional Hospital Portlaoise is about 9 km straight-line; its ED takes children and opened a paediatric extension in May 2026."
+    },
+    {
+      "text": "€450k, under the €500k line",
+      "weight": 2,
+      "detail": "About €3,846/m² for 117 m²; stamp duty about €4,500."
+    },
+    {
+      "text": "Mountmellick's shops, GPs and schools 3.5 km away",
+      "weight": 2,
+      "detail": "SuperValu and the mixed Mountmellick Community School (706 pupils) are about 3.5–3.9 km west; The Rock NS (mixed) is 1.2 km and Emo Court about 5 km."
+    },
+    {
+      "text": "Garden room for an office or studio",
+      "weight": 1,
+      "detail": "A separate glazed garden room with French doors in the grounds: a home office, or overflow space for a family of six."
+    },
+    {
+      "text": "Private, south-facing rear garden; no flood zone",
+      "weight": 1,
+      "detail": "Mature trees shelter the rear garden, with a stone front wall and gravel drive; BuyerIQ lists no mapped flood zone, no mapped noise zone and no protected-area constraint at this address."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Small for six: 117 m², three bedrooms",
+      "weight": 3,
+      "detail": "Below Alderfern's 125 m², which George called 'a bit small for all 6 of us'; with the parents downstairs the two boys would share one of the two upstairs doubles."
+    },
+    {
+      "text": "Site size not stated; looks like about half an acre",
+      "weight": 2,
+      "detail": "Rough satellite estimate (2019 Esri imagery): about 0.15–0.25 ha (0.4–0.6 ac), depending on whether the lawn to the south-east is part of the site; well short of the 1-acre target."
+    },
+    {
+      "text": "On the R422, with a close neighbour",
+      "weight": 2,
+      "detail": "The house sits roughly 15–20 m back from the R422 regional road behind trees, with another building about 15 m to the north-west and a tillage field across the road; it would need secure fencing for the dogs."
+    },
+    {
+      "text": "Water, drainage, heating type and broadband not stated",
+      "weight": 2,
+      "detail": "The listing gives none of them; a septic tank or treatment unit is likely, and BuyerIQ has no broadband data for the Eircode."
+    },
+    {
+      "text": "BuyerIQ flags radon as critical",
+      "weight": 1,
+      "detail": "BuyerIQ's one critical finding for this Eircode is in its radon category (detail behind a €39 paywall); its rough fix range for the findings is €800–2,000. Ask for a test."
+    },
+    {
+      "text": "Not on the edge of Emo village",
+      "weight": 1,
+      "detail": "Daft's pin is in Kilmainham townland, about 4.5 km west of Emo and 3.5 km east of Mountmellick, so Mountmellick is the real local town."
+    },
+    {
+      "text": "School quality uncertain",
+      "weight": 1,
+      "detail": "The Rock NS is a DEIS Rural school with no report read; Mountmellick CS topped Laois in 2016–17 (95–100% to third level) but sent 56% in 2018, and no newer figure was found."
+    },
+    {
+      "text": "No floor plan or room sizes",
+      "weight": 1,
+      "detail": "Daft has no floor plan and no MyHome copy was found; the bedroom, kitchen and garden-room sizes are unknown."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "The Rock National School",
+      "candidates": [
+        "The Rock National School, Rock, Mountmellick, Co. Laois",
+        "Na Carraige National School, Mountmellick, Co. Laois"
+      ],
+      "note": "Mixed, Catholic, DEIS Rural, roll 18206T, about 201 pupils (104 boys); 1.2 km by Daft's count. Emo Mixed NS (203 pupils) is 4.4 km and Mountmellick Boys NS 3.3 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed and growing (about 200 pupils, 8 or more teachers), DEIS Rural; no inspection report could be read because gov.ie's report pages sit behind a human check."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Mountmellick Community School",
+      "candidates": [
+        "Mountmellick Community School, Mountmellick, Co. Laois"
+      ],
+      "note": "Mixed, about 706 pupils; 3.9 km by Daft's count. Coláiste Íosagáin, Portarlington (mixed, about 1,135) is 6.7 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "Topped the Laois Irish Independent feeder tables for 2016 (95% of 78) and 2017 (100% of a small class of 31), but sent 56% of 62 in 2018; no newer figure found."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "The better school",
+      "kind": "Good secondary school",
+      "title": "Newbridge College",
+      "candidates": [
+        "Newbridge College, Newbridge, Co. Kildare"
+      ],
+      "note": "Mixed, Dominican, fee-paying; about 32 km straight-line. Coláiste Íosagáin, Portarlington (81% to third level in 2016, 60–76% in 2017–18) is the nearer middle option.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "99% progression to third level in the 2017 Kildare feeder table (Leinster Leader); fee-paying."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Shop in Mountmellick",
+      "candidates": [
+        "Londis, O'Moore Street, Mountmellick, Co. Laois",
+        "Centra Mountmellick, Co. Laois"
+      ],
+      "note": "No shop was found in Emo village; Mountmellick, about 3.5 km west, is the nearest place for milk and the paper. The page keeps the fastest.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Mountmellick",
+      "candidates": [
+        "SuperValu, Connolly Street, Mountmellick, Co. Laois",
+        "Lidl Mountmellick, Co. Laois",
+        "Tesco Portlaoise, Co. Laois"
+      ],
+      "note": "SuperValu Mountmellick (about 3.5 km); Lidl had permission sought for a Mountmellick store (status unconfirmed); Portlaoise, about 9 km, has the full choice.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Batoni's, Emo",
+      "candidates": [
+        "Batoni's Restaurant, Emo, Co. Laois",
+        "The Hare's Corner, Mountmellick, Co. Laois"
+      ],
+      "note": "Batoni's (Italian) was Best Restaurant in Laois at the 2022 Leinster awards; The Hare's Corner in Mountmellick is the other award-listed option. Check both are still open.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Midland Regional Hospital Portlaoise",
+      "candidates": [
+        "Midland Regional Hospital Portlaoise, Dublin Road, Portlaoise"
+      ],
+      "note": "24-hour ED that takes children, about 9 km straight-line; its paediatric extension opened in May 2026. Tullamore is the next all-ages ED.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Mountmellick",
+      "candidates": [
+        "Market Square, Mountmellick, Co. Laois"
+      ],
+      "note": "Mountmellick, about 3.5 km: supermarket, GPs, pharmacies and the secondary school; Portlaoise (about 9 km) for more.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "The nearest city outside Dublin, via Portlaoise and the M7/M9 or N77.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M7 (the listing says about an hour). The train from Portarlington is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Portarlington",
+      "candidates": [
+        "Portarlington railway station, Co. Laois",
+        "Portlaoise railway station, Co. Laois"
+      ],
+      "note": "Dublin–Portlaoise commuter line: 19 weekday trains to Heuston (05:35 to 22:38, about 1h05), plus Galway, Westport and some Cork/Limerick InterCity stops (the listing says under 40 minutes). Portlaoise, about 9 km, is the alternative.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

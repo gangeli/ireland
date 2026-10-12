@@ -69,6 +69,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/the-green-house-clara-co-offaly/5809479",
       "recheck": false
+    },
+    {
+      "id": "6-grattan-street-portlaoise",
+      "name": "6 Grattan Street",
+      "left": "2026-10-12",
+      "reason": "bumped by Poppy House, Emo (score 3.5 vs 2.5: AI 2.0, people [3]); tied at 2.5 with Compsey Mill, Kilcoltrim and 23 New Inn, but fits fewest hard requirements (town terrace, no land, ground-floor bedroom only a convertible front room)",
+      "lastPrice": 195000,
+      "aiStars": 2.0,
+      "human": {
+        "n": 1,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/6-grattan-street-portlaoise-co-laois/6537027",
+      "recheck": false
     }
   ]
 }
