@@ -1,0 +1,375 @@
+{
+  "id": "killinardish-house-drangan",
+  "name": "Killinardish House",
+  "address": "Killinardish House, Knockroe, Drangan, Co. Tipperary",
+  "eircode": "E41 K763",
+  "lat": 52.516916,
+  "lng": -7.583401,
+  "listingUrl": "https://www.daft.ie/for-sale/killinardish-house-knockroe-drangan-co-tipperary/6695626",
+  "status": "Considering",
+  "added": "2026-10-13",
+  "area": "Drangan, Co. Tipperary",
+  "agent": "REA Grace (Robbie Grace)",
+  "agentPhone": "056 772 5163",
+  "questions": [
+    "The house is on Tipperary's Record of Protected Structures (TRPS1581, 'Killinardish, Knockroe, Drangan'). Does the protection extend to the convent wing, the schoolhouse and the girls' school as curtilage, is there a Section 57 declaration, and did the 2018 works (external insulation, new windows, PVC French doors) have the council's consent?",
+    "Can you send a site map with the boundaries and the site area? Is the rear lawn and schoolyard walled or fenced all round (we have two dogs), and who owns the wall along the side road?",
+    "Is there a survey or a quote for the convent wing's roof and the water ingress, how long has it been leaking, and has any damp reached the main house? When was the main roof last inspected beyond the 2019 valley repairs?",
+    "Is the house on mains water and the public sewer, what broadband is connected (provider and speed), and has the property or the road outside ever flooded? BuyerIQ shows a mapped flood zone about 300 m away.",
+    "Is there a floor plan? Is the shower room next to the Bedroom/Family Room, and could a ground-floor bedroom work without losing the only other reception room?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "A restored former convent (B3 after a 2018 refurbishment) with three en-suite bedrooms, a ground-floor bedroom option, about 0.3 ha of walled grounds and plenty of character at €490k. But it is a protected structure on the village crossroads, the convent wing leaks, about 530 m² of old buildings come with it, and Thurles station is 35–40 minutes away."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "Connected; rewired in 2018, with a 10.5 kVA automatic backup generator that starts in a power cut."
+    },
+    "water": {
+      "status": "likely",
+      "detail": "Likely mains; not stated, but the house is in the centre of Drangan village. New plumbing went in in 2018. Confirm with the agent."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Unknown; not stated. A village-centre house may be on the public sewer or on its own septic tank. Ask."
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; the listing doesn't mention broadband and BuyerIQ shows 'no data' for this Eircode. NBI's neighbouring Mullinahone/Ballingarry/Cloneen deployment was due to finish in early 2024, and the village may be in eir's own rural fibre area instead, so fibre is plausible but unconfirmed. Check nbi.ie and eir by Eircode.",
+      "type": "Fibre",
+      "speed": "up to 500 Mb–1 Gb if connected (unconfirmed)",
+      "provider": "open eir / NBI (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "The listing offers the 5.0 × 4.8 m 'Bedroom/Family Room' (stove, shutters, French doors to the side), now a sitting room, as a ground-floor bedroom, with a 2.3 × 1.7 m shower room (electric shower) on the same floor; there is no floor plan, and using it leaves the 6.6 × 5.0 m living/dining room as the only reception."
+  },
+  "price": 490000,
+  "type": "Detached two-storey former convent house (protected structure), with a disconnected convent wing and two former school buildings",
+  "beds": 4,
+  "bedsNote": "Three upstairs bedrooms, each with an en-suite (the principal with a dressing room); a 5.0 × 4.8 m ground-floor Bedroom/Family Room; the disconnected convent wing has four more small bedrooms",
+  "baths": 4,
+  "floorM2": 187,
+  "landHa": 0.3,
+  "landAcres": 0.74,
+  "ber": "B3",
+  "berKwh": 125.85,
+  "heating": "Oil-fired central heating (listed as 'OFCH') plus two Henley solid-fuel stoves",
+  "listed": "2026-10-13",
+  "views": 222,
+  "stampDuty": 4900,
+  "tagline": "A restored former convent house of 187 m² (BER B3) with a disconnected convent wing and two old school buildings on about 0.3 ha of walled grounds, at the crossroads in the centre of Drangan, south Tipperary.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/9/3/5035393/3734478a-0fdf-4eab-b2aa-c87ecce4aa4b_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/9/3/5035393/560ee6b2-638e-4676-ad49-3976c6f2bafa_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/9/3/5035393/9406eb18-eab6-4024-823b-43b677e6e7d4_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/9/3/5035393/53f1724a-ab24-4581-9e62-a36f0a23f4c0_x.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/9/3/5035393/38f736ec-aa2e-42e6-abec-d139b0404455_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/9/3/5035393/922b9f56-e512-47e9-b6b8-61d5e981915a_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/9/3/5035393/4685902f-62db-41d9-8cd2-54879832caf4_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Period character, restored rather than stripped",
+      "weight": 3,
+      "detail": "A two-storey Georgian-style former convent: original staircase, cornices, ceiling centrepieces, working shutters and about 200-year-old doors and window frames, all kept in the 2018 refurbishment."
+    },
+    {
+      "text": "Ground-floor bedroom option with a shower room",
+      "weight": 3,
+      "detail": "The 5.0 × 4.8 m Bedroom/Family Room is offered as a ground-floor bedroom, with a 2.3 × 1.7 m shower room on the same floor; three more bedrooms upstairs, each with its own bathroom."
+    },
+    {
+      "text": "Room for six in 187 m², at €490k",
+      "weight": 2,
+      "detail": "Four bedrooms and four bathrooms inside the 100–280 m² brief, about €2,620/m²; stamp duty about €4,900."
+    },
+    {
+      "text": "Updated in 2018: BER B3, radon barrier",
+      "weight": 2,
+      "detail": "New plumbing, wiring, insulation (including external wall insulation) and a radon barrier; BER 125.85 kWh/m²/yr (B3), oil central heating plus two stoves, and a 10.5 kVA backup generator."
+    },
+    {
+      "text": "Walled grounds with electric gates",
+      "weight": 2,
+      "detail": "Rough satellite estimate about 0.3 ha (0.6–0.85 ac): lawns front and back, a gravel yard and the old schoolyard, behind walls, railings and electric gates."
+    },
+    {
+      "text": "Village primary 300 m; Clonmel ED about 25 minutes",
+      "weight": 2,
+      "detail": "St Patrick's NS Drangan (mixed) is 300 m by Daft's count; Tipperary University Hospital, Clonmel (24-hour ED that takes children) is about 20 km straight-line."
+    },
+    {
+      "text": "Spare buildings for a studio or a let, with planning",
+      "weight": 1,
+      "detail": "A two-classroom schoolhouse (two rooms of about 5 × 8 m, 5 m ceilings) and an 84 m² stone girls'-school building, 'subject to planning permission and all necessary consents'."
+    }
+  ],
+  "cons": [
+    {
+      "text": "A protected structure with about 530 m² of old buildings",
+      "weight": 3,
+      "detail": "The house is TRPS1581 on Tipperary's Record of Protected Structures, so works need conservation consent; the 187 m² house comes with a 160 m² wing, a schoolhouse (about 90 m²) and the 84 m² girls' school, almost twice the 280 m² cap to insure, heat and maintain."
+    },
+    {
+      "text": "Convent wing leaks and needs roof repairs",
+      "weight": 2,
+      "detail": "The listing says the wing's reception room needs refurbishment 'due to historic water ingress' and its landing 'requires roof repairs'; the main roof is about 35 years old (valleys repaired in 2019). Expect a rough €20–60k+ for the wing before it is usable."
+    },
+    {
+      "text": "On the village crossroads",
+      "weight": 2,
+      "detail": "The aerials show the side gable on the road edge and the front about 10 m from the street behind a wall and railings, at a junction with a stop sign; two graveyards adjoin the rear lawn."
+    },
+    {
+      "text": "No Dublin train nearby",
+      "weight": 2,
+      "detail": "Thurles (about 24 km straight-line, 35–40 minutes) has about 16 weekday trains to Heuston, about 1h15–1h35; Kilkenny is about 28 km."
+    },
+    {
+      "text": "Small kitchen",
+      "weight": 1,
+      "detail": "3.6 × 3.0 m with a breakfast bar for three or four and a 2.3 × 1.0 m utility; meals for six would be in the living/dining room."
+    },
+    {
+      "text": "No GP in Drangan",
+      "weight": 1,
+      "detail": "No practice was found in the village; Killenaule Surgery (HSE directory) is about 8 km, and Fethard about 9.5 km."
+    },
+    {
+      "text": "Water, drainage and broadband not stated; flood zone nearby",
+      "weight": 1,
+      "detail": "The listing gives none of the three; BuyerIQ shows a moderate river flood zone about 0.3 km away and one critical finding behind its paywall."
+    },
+    {
+      "text": "Under an acre, and schools unrated",
+      "weight": 1,
+      "detail": "About 0.3 ha against the 1-acre goal; the village primary has about 54 pupils (DEIS) and the nearest secondaries have no recent progression figures."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "St Patrick's National School, Drangan",
+      "candidates": [
+        "St Patrick's National School, Drangan, Co. Tipperary",
+        "Drangan National School, Drangan, Co. Tipperary"
+      ],
+      "note": "Junior and senior schools under one board: mixed, Catholic, DEIS Rural, about 54 pupils and 4 teachers (2023 advert); 300 m by Daft's count.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Small mixed DEIS Rural village school; no inspection report could be read because gov.ie's report pages sit behind a human check."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Presentation Secondary School, Ballingarry",
+      "candidates": [
+        "Presentation Secondary School, Ballingarry, Thurles, Co. Tipperary"
+      ],
+      "note": "Mixed since 1967, roll 65240L, about 384 pupils (209 boys); 8.2 km by Daft's count. Scoil Ruáin, Killenaule (mixed, 8.8 km) and Patrician Presentation, Fethard (9.5 km) are the alternatives.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "The Irish Times feeder page has a chart but no readable figures; the nearby Scoil Ruáin was quoted at about 70% to third level in an undated Tipperary Live table."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "The better school",
+      "kind": "Good secondary school",
+      "title": "Rockwell College",
+      "candidates": [
+        "Rockwell College, New Inn, Cashel, Co. Tipperary"
+      ],
+      "note": "Mixed, fee-paying day and boarding school; about 23 km straight-line.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "Placed 22nd nationally with 104% progression to third level in an undated Tipperary Live feeder-table report; fee-paying."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Drangan village shop",
+      "candidates": [
+        "Shop, Main Street, Drangan, Co. Tipperary",
+        "Lonergan's, Carrick Street, Mullinahone, Co. Tipperary"
+      ],
+      "note": "The listing says a convenience store is close by in the village; its name wasn't confirmed. Lonergan's (Gala) in Mullinahone is about 5.6 km.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Supermarket in Clonmel",
+      "candidates": [
+        "SuperValu, Clonmel, Co. Tipperary",
+        "Lidl, Clonmel, Co. Tipperary",
+        "SuperValu, Green Street, Callan, Co. Kilkenny"
+      ],
+      "note": "No supermarket was confirmed in Fethard or Killenaule; Clonmel (about 19 km) has the full set, and SuperValu Callan is about 13 km east. The page keeps the fastest.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Sadler's, Fethard",
+      "candidates": [
+        "Sadler's, Fethard, Co. Tipperary",
+        "McCarthy's, Main Street, Fethard, Co. Tipperary"
+      ],
+      "note": "Sadler's (in the former Dooks premises) made an Irish Times summer list; McCarthy's was the Irish Restaurant Awards' Tipperary pub of the year. Check both are still serving.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Tipperary University Hospital, Clonmel",
+      "candidates": [
+        "Tipperary University Hospital, Western Road, Clonmel",
+        "St Luke's General Hospital, Kilkenny"
+      ],
+      "note": "24-hour ED that takes children, about 20 km straight-line (the listing says Clonmel is 19 km). St Luke's, Kilkenny is the next all-ages ED.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Fethard",
+      "candidates": [
+        "Main Street, Fethard, Co. Tipperary",
+        "Main Street, Killenaule, Co. Tipperary"
+      ],
+      "note": "Fethard (about 9.5 km) for shops, pharmacy and food; Killenaule (about 8 km) has the nearest GP surgery found. Clonmel (about 19 km) for everything else.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "The Quay, Waterford"
+      ],
+      "note": "Kilkenny city, about 27 km straight-line; Waterford is the alternative.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M8 or M9. The train from Thurles is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Thurles",
+      "candidates": [
+        "Thurles railway station, Co. Tipperary",
+        "Kilkenny MacDonagh railway station"
+      ],
+      "note": "Cork and Limerick lines: about 16 weekday trains to Heuston (first 06:15), about 1h15–1h35; about 24 km straight-line. Kilkenny (Waterford line) is about 28 km.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

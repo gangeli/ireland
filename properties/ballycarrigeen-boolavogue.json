@@ -1,0 +1,375 @@
+{
+  "id": "ballycarrigeen-boolavogue",
+  "name": "Ballycarrigeen Upper",
+  "address": "Ballycarrigeen Upper, Ferns (Boolavogue), Enniscorthy, Co. Wexford",
+  "eircode": "Y21 K067",
+  "lat": 52.565947,
+  "lng": -6.436525,
+  "listingUrl": "https://www.daft.ie/for-sale/ballycarrigeen-upper-ferns-enniscorthy-co-wexford/6694823",
+  "status": "Considering",
+  "added": "2026-10-13",
+  "area": "Boolavogue, Co. Wexford",
+  "agent": "Property Partners O'Brien Swaine (Sandy Copeland)",
+  "agentPhone": "085 1217859",
+  "questions": [
+    "There's no floor plan or floor area. What is the floor area on the BER certificate, and what are the exact BER band (C1, C2 or C3) and kWh/m²/yr figure? Can you send a floor plan?",
+    "Is the bathroom with the bath (3.67 × 1.94 m) on the ground floor, beside the playroom? Could the playroom work as a ground-floor bedroom for my parents, and how steep is the stairs?",
+    "Can you send a site map of the 0.75 acres? Is the whole boundary, front and back, fenced and gated well enough to keep two dogs in? And who owns the overhead line that crosses the back garden?",
+    "How old are the well and septic tank? Is there a recent water test, and is the tank registered and inspected?",
+    "Has the house been tested for radon? BuyerIQ flags one critical finding and an active build within 1 km. What is being built nearby, and is the M11 (about 700 m away) audible from the garden?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "An immaculate dormer bungalow on 0.75 acres of enclosed, south-facing garden with an orchard and woodland, set back from a quiet road at €450k. But there's no ground-floor bedroom yet (the playroom would have to become one), the upstairs bedrooms are small, and Dublin is about 2 hours by train."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Connected; not stated, but the house is lived in and a supply line crosses the garden."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private well; the listing's services say 'Well water'. Ask for a recent water test."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank, per the listing's services. Ask its age, and whether it's registered and has been inspected."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Fibre likely; the listing says nothing, but BuyerIQ lists 'Fast broadband: 102 Mb full fibre' in its favour (its own broadband panel shows no data). NBI has built across north Wexford (Ballycarney and Ferns areas). Confirm on nbi.ie by Eircode.",
+      "type": "Fibre",
+      "speed": "~100 Mb–1 Gb",
+      "provider": "NBI (likely)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "No bedroom downstairs today; the playroom (3.91 × 3.67 m, dual aspect, bay window) could become one, and the bathroom with a bath (3.67 × 1.94 m) looks to be on the same floor."
+  },
+  "price": 450000,
+  "type": "Detached dormer bungalow (storey and a half)",
+  "beds": 4,
+  "bedsNote": "All four bedrooms are upstairs in the dormer; bedroom 4 (2.57 × 2.53 m) is plumbed to go back to being a bathroom. The ground-floor playroom could serve as a fifth bedroom.",
+  "baths": 2,
+  "floorM2": 135,
+  "landHa": 0.3,
+  "landAcres": 0.75,
+  "ber": "C",
+  "heating": "Oil-fired central heating; wood-burning stove in the living room",
+  "listed": "2026-10-12",
+  "views": 615,
+  "stampDuty": 4500,
+  "tagline": "An immaculate four-bed dormer bungalow on 0.75 acres of enclosed, mature, south-facing garden, about 1.6 km from Boolavogue and 5 km from Ferns in north Wexford.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/2/5035217/24a25127-44b6-4c6e-a637-bdb71085297f_l.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/2/5035217/6804daf8-6bdf-41a5-8c2c-74d120ebd670_l.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/2/5035217/faff08f1-cbe5-4475-90e4-c9f9bc34b527_l.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/2/5035217/559d0fa3-232a-4bc9-a107-20f769bb48f0_l.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/2/5035217/28d3f99c-8e06-4cb6-8768-dcd7ed972d30_l.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/2/5035217/e499e2f7-cf00-40f5-8b69-c978d92df39b_l.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "0.75 acres, fully enclosed and gated",
+      "weight": 3,
+      "detail": "A mature, south-facing rear garden of about 0.75 ac (0.30 ha), described as fully enclosed and gated, with lawn, an apple orchard, a stand of native trees, a concreted basketball court, metal and timber sheds and a polytunnel."
+    },
+    {
+      "text": "Character and finish inside",
+      "weight": 2,
+      "detail": "Hand-painted solid-oak kitchen with oiled oak tops, a Belfast sink and a Rangemaster gas range in a brick surround; bay windows in the living room and playroom, a wood-burning stove, and views of Sliabh Bhuí from the landing. The listing calls it 'immaculately presented'."
+    },
+    {
+      "text": "A room to convert, with a bathroom beside it",
+      "weight": 2,
+      "detail": "The playroom (3.91 × 3.67 m, dual aspect) could become a bedroom for Gabor's parents; the bathroom with a bath and Triton shower (3.67 × 1.94 m) is listed among the ground-floor rooms and has a flat ceiling in the photos."
+    },
+    {
+      "text": "€450k, under the €500k line",
+      "weight": 2,
+      "detail": "About €3,330/m² on the estimated 135 m²; stamp duty about €4,500."
+    },
+    {
+      "text": "Set back from a quiet road, no close farmyards",
+      "weight": 1,
+      "detail": "Esri imagery puts the house about 30 m back from the L1024 Ballymore Road (60 km/h) behind its front lawn; the nearest farm buildings are about 260 m south-east, with bigger yards 350–500 m north. Neighbouring houses sit about 35 m to the west and north-east."
+    },
+    {
+      "text": "Primary school 1.6 km, GP 5 km",
+      "weight": 1,
+      "detail": "Boolavogue NS (mixed, 90 pupils) is 1.6 km; Ferns Health Centre and the Ferns Centra are about 5 km, and Enniscorthy is 13 km."
+    }
+  ],
+  "cons": [
+    {
+      "text": "No ground-floor bedroom yet",
+      "weight": 2,
+      "detail": "All four bedrooms are upstairs; housing the parents downstairs means giving up the playroom, the only reception room besides the living room and the kitchen/dining room."
+    },
+    {
+      "text": "Small dormer bedrooms",
+      "weight": 2,
+      "detail": "The bedrooms are 10.3, 9.0, 9.4 and 6.5 m² under sloping dormer ceilings, and the upstairs shower room is 1.78 × 1.44 m. It works for six, but snugly."
+    },
+    {
+      "text": "Dublin train is a drive and about 2 hours",
+      "weight": 2,
+      "detail": "Enniscorthy station is about 13 km by road (Gorey about 17 km); 5 Dublin trains each weekday, about 1h50–2h20 to Connolly."
+    },
+    {
+      "text": "ED about 35 minutes",
+      "weight": 2,
+      "detail": "Wexford General (all ages, per HSE) is about 26 km as the crow flies, roughly 32 km by road."
+    },
+    {
+      "text": "Oil heating, BER C, well and septic",
+      "weight": 1,
+      "detail": "Oil-fired central heating with a stove; BER C with no kWh figure published; private well and septic tank, so budget for a water test and tank check."
+    },
+    {
+      "text": "No floor plan; floor area is an estimate",
+      "weight": 1,
+      "detail": "Neither Daft nor MyHome has a plan or a floor area. The measured rooms add up to 113 m²; adding the unmeasured hall, stairs, landing and hot press gives about 135 m², which fits the 12–13 × 8–9 m roof seen from above."
+    },
+    {
+      "text": "Overhead line, M11 and unread risk findings",
+      "weight": 1,
+      "detail": "A supply line crosses the back garden; the M11 Ferns bypass is about 700 m north-west (BuyerIQ says the house is outside mapped noise zones); BuyerIQ's paywalled report has one critical and four high-priority findings (fix range €800–2,000) and seven planning applications within 1 km, one an active build."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Boolavogue National School",
+      "candidates": [
+        "Boolavogue National School, Boolavogue, Ferns, Co. Wexford",
+        "Boolavogue NS, Co. Wexford"
+      ],
+      "note": "Catholic, mixed (48 boys, 42 girls), not DEIS, roll 18336J; 1.6 km per Daft. Enrolment has fallen from about 119 in 2021 to 90.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed, non-DEIS rural school of 90 pupils with falling enrolment; no inspection report could be read because gov.ie's report pages sit behind a human check."
+      }
+    },
+    {
+      "id": "school-good",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "The other option",
+      "kind": "Good primary school",
+      "title": "St Edan's National School, Ferns",
+      "candidates": [
+        "St Edan's National School, Clone Road, Ferns, Co. Wexford"
+      ],
+      "note": "Church of Ireland, mixed, about 30 pupils, roll 18714P; 4.4 km per Daft. It may prioritise its own families if full. Naomh Maodhog NS in Ferns (about 300 pupils) is 5 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "A 2016 Department curriculum evaluation (Visual Arts) rated pupils' learning and teaching very good; it covers one subject and is ten years old."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Enniscorthy Community College",
+      "candidates": [
+        "Enniscorthy Community College, Enniscorthy, Co. Wexford"
+      ],
+      "note": "Mixed WWETB school, about 470–490 pupils; 11.8 km per Daft. St Mary's CBS (boys, about 770) is the same distance; Coláiste Bríde, the nearest at 10.9 km, is girls-only.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "DEIS per scoilscout and enrolment up since 2019; no progression figure or inspection report could be retrieved."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "The better school",
+      "kind": "Good secondary school",
+      "title": "Gorey Community School",
+      "candidates": [
+        "Gorey Community School, Esmonde Street, Gorey, Co. Wexford"
+      ],
+      "note": "Mixed, about 1,540 pupils; 15.7 km per Daft.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Ireland's largest school (about 1,540, mixed, free) with wide subject choice and a long good reputation; no recent progression figure retrieved, so moderate confidence."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Centra Ferns",
+      "candidates": [
+        "Centra, Main Street, Ferns, Co. Wexford Y21 N8X7"
+      ],
+      "note": "No shop was found in Boolavogue; Ferns Centra (refitted after a €2.7m investment) is about 5 km.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Enniscorthy",
+      "candidates": [
+        "SuperValu, Abbey Street, Enniscorthy, Co. Wexford",
+        "Aldi, Bellfield, Enniscorthy, Co. Wexford",
+        "Tesco Extra, Paul Funge Boulevard, Gorey, Co. Wexford"
+      ],
+      "note": "Enniscorthy (about 13 km) has SuperValu and Aldi; Gorey's Tesco Extra is about 17 km.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "The Courtyard, Ferns",
+      "candidates": [
+        "The Courtyard, Ferns, Co. Wexford",
+        "Partridge's Bistro, Main Street, Gorey, Co. Wexford"
+      ],
+      "note": "The Courtyard in Ferns (4.4 on Tripadvisor) is about 5 km; Partridge's in Gorey for a night out.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Wexford General Hospital",
+      "candidates": [
+        "Wexford General Hospital, Newtown Road, Wexford"
+      ],
+      "note": "Wexford General: HSE lists its ED as for all ages; about 32 km by road.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Enniscorthy",
+      "candidates": [
+        "Market Square, Enniscorthy",
+        "Main Street, Gorey"
+      ],
+      "note": "Enniscorthy (13 km) for errands, Gorey (17 km) the alternative; Ferns (5 km) has the GP, shop and pub.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Wexford",
+      "candidates": [
+        "Main Street, Wexford",
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Wexford town is closest; Kilkenny is the nearest city.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M11, which passes about 700 m from the house.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Enniscorthy",
+      "candidates": [
+        "Enniscorthy railway station",
+        "Gorey railway station"
+      ],
+      "note": "Rosslare–Dublin line: 5 trains each weekday calling at Enniscorthy and Gorey, about 1h50–2h20 from Enniscorthy to Connolly.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

@@ -83,6 +83,48 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/6-grattan-street-portlaoise-co-laois/6537027",
       "recheck": false
+    },
+    {
+      "id": "kilcoltrim-borris",
+      "name": "Kilcoltrim",
+      "left": "2026-10-13",
+      "reason": "bumped by Ballycarrigeen Upper, Killinardish House and Tombrack (scores 3.5, 3.5, 3.0 vs 2.5); about 85 m², under the 100 m² floor",
+      "lastPrice": 225000,
+      "aiStars": 2.5,
+      "human": {
+        "n": 0,
+        "avg": null
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/kilcoltrim-borris-co-carlow/6562282",
+      "recheck": false
+    },
+    {
+      "id": "new-inn-enfield",
+      "name": "23 New Inn",
+      "left": "2026-10-13",
+      "reason": "bumped by Ballycarrigeen Upper, Killinardish House and Tombrack (scores 3.5, 3.5, 3.0 vs 2.5); estate plot, no real garden; Gabor rated it 2",
+      "lastPrice": 465000,
+      "aiStars": 3.0,
+      "human": {
+        "n": 1,
+        "avg": 2.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/23-new-inn-enfield-co-meath/6689650",
+      "recheck": false
+    },
+    {
+      "id": "compsey-mill-mullinahone",
+      "name": "Compsey Mill",
+      "left": "2026-10-13",
+      "reason": "bumped by Ballycarrigeen Upper, Killinardish House and Tombrack (scores 3.5, 3.5, 3.0 vs 2.5); protected mill needing restoration; meets the hard requirements but scores lowest with no ratings",
+      "lastPrice": 199000,
+      "aiStars": 2.5,
+      "human": {
+        "n": 0,
+        "avg": null
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/compsey-mill-mullinoly-mullinahone-co-tipperary/6679704",
+      "recheck": false
     }
   ]
 }

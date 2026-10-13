@@ -1,0 +1,365 @@
+{
+  "id": "tombrack-ferns",
+  "name": "Tombrack",
+  "address": "Tombrack, Ferns, Enniscorthy, Co. Wexford",
+  "eircode": "Y21 RP77",
+  "lat": 52.5941523,
+  "lng": -6.5479864,
+  "listingUrl": "https://www.daft.ie/for-sale/tombrack-ferns-co-wexford/6644541",
+  "status": "Considering",
+  "added": "2026-10-13",
+  "area": "Ferns, Co. Wexford",
+  "agent": "South East Estates (Louise Kehoe)",
+  "agentPhone": "053 900 7239",
+  "questions": [
+    "What is the large vehicle yard about 60 m north-east of the house (rows of several hundred cars on the 2024 satellite image)? Is it still operating, what are its hours, and does it bring trucks or noise past the gate?",
+    "Can you send a layout and sizes for the converted garage? Does it have its own kitchen, shower room and a bedroom upstairs, and was the conversion done with planning permission and building-regulation sign-off?",
+    "Is the house on mains water or a private well, and is drainage a septic tank or a treatment unit? How old is it, and is there a certificate?",
+    "BuyerIQ shows a mapped river flood zone about 100 m away: has the site, the drive or the lane ever flooded? And has a radon test been done?",
+    "Which parts of the acre are fenced or walled, and could the front lawn be closed in for two dogs?"
+  ],
+  "ai": {
+    "stars": 3,
+    "why": "A well-kept single-storey 4-bed on about an acre with every bedroom on the ground floor and a converted garage that could house Gabor's parents, close to Ferns's GP and a small primary. It is a pleasant but ordinary modern bungalow, a large vehicle yard sits about 60 m away, and €550k is over the €500k line for a house that isn't exceptional."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Connected; an occupied modern house with solar panels on the garage roof, though the listing doesn't state the supply."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Not stated; a rural house in Tombrack is probably on a private well or group scheme. Ask."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Not stated; almost certainly a septic tank or treatment unit 4 km outside Ferns. Ask its age and for a certificate."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Fibre at the address per BuyerIQ ('Fast broadband: 102 Mb full fibre'); the listing doesn't mention broadband. Provider not confirmed; rural north Wexford is NBI territory.",
+      "type": "Fibre",
+      "speed": "~100 Mb+ (up to 1 Gb on full fibre plans)",
+      "provider": "NBI / open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "The floor plan shows a single-storey house with all four bedrooms on the ground floor: the master bedroom (4) has a walk-in wardrobe and en suite, and bedroom 3 has its own en suite; the converted garage is a second option."
+  },
+  "price": 550000,
+  "type": "Detached single-storey house with a converted detached garage",
+  "beds": 4,
+  "bedsNote": "All four bedrooms are on one level (three en suite, plus a family bathroom with a jacuzzi bath). The detached garage is converted to extra rooms: photos show a kitchenette, a living room with a stove and a stair to an upper room. There is also a floored attic.",
+  "baths": 4,
+  "floorM2": 190,
+  "landHa": 0.4,
+  "landAcres": 1,
+  "ber": "B3",
+  "berKwh": 147.45,
+  "heating": "Oil-fired central heating; open fire with stove insert in the sitting room, solid-fuel stoves in the sunroom and the garage living room",
+  "listed": "2026-08-13",
+  "views": 3552,
+  "stampDuty": 5500,
+  "tagline": "A single-storey 4-bed of 190 m² with vaulted, beamed living rooms and a converted garage, on about an acre in Tombrack, about 4 km west of Ferns village.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/1/4/5021419/0bf7f56f-e420-46bb-bc53-2d1de2a0411f_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/1/4/5021419/f1229749-6f1a-4399-86bd-e26febcb51fe_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/1/4/5021419/e98f6bf2-a7df-4f7a-8f7e-2506b7276939_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/1/4/5021419/5878b8f2-c7c3-456e-9429-5aa002349654_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/1/4/5021419/a122e6a8-5b00-4415-abe8-9565f38fc56f_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/1/4/5021419/ec898eb0-dbe6-4021-b955-4cdc6f9b9dd9_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/1/4/5021419/2ae0baac-f8c5-4d4a-8489-9dad72ea6f72_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/1/4/5021419/4185bb89-ae63-463a-bf16-84b00dc7905e_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Every bedroom on the ground floor",
+      "weight": 3,
+      "detail": "Single storey per the floor plan: four bedrooms on one level, three en suite, with no stairs in the main house."
+    },
+    {
+      "text": "Converted garage could be an annex",
+      "weight": 2,
+      "detail": "The detached garage has been converted to extra rooms; photos show a kitchenette, a living room with a stove and a stair to an upper room, so it could serve Gabor's parents or a let (no plan or sizes given)."
+    },
+    {
+      "text": "About an acre, set back from the lane",
+      "weight": 2,
+      "detail": "c.1 acre (0.4 ha) of lawns with a sweeping drive behind gates; the house stands about 70 m back from the local road (satellite estimate)."
+    },
+    {
+      "text": "190 m², bright living space",
+      "weight": 2,
+      "detail": "Sitting room 4.9 × 4.7 m with a vaulted, beamed ceiling and open fire, kitchen-dining 5.92 × 4.7 m with an island, a sunroom with a stove, and a floored attic."
+    },
+    {
+      "text": "Doctor and primary school close",
+      "weight": 2,
+      "detail": "Tombrack NS (co-ed, about 55 pupils) is 720 m away; Ferns village, its Centra and Ferns Health Centre are about 4 km."
+    },
+    {
+      "text": "B3 with fibre",
+      "weight": 1,
+      "detail": "BER B3 at 147.45 kWh/m²/yr, uPVC double glazing, oil heating; BuyerIQ lists 102 Mb full fibre at the address."
+    }
+  ],
+  "cons": [
+    {
+      "text": "€550k, over the €500k line",
+      "weight": 3,
+      "detail": "€50k above the usual ceiling for a house with no train link or period character; stamp duty about €5,500, and €2,895/m²."
+    },
+    {
+      "text": "Large vehicle yard about 60 m away",
+      "weight": 3,
+      "detail": "The August 2024 Esri satellite image shows several hundred parked cars in a yard about 60 m north-east, entered from the same lane about 80 m north of the gate, and a cluttered commercial yard about 110 m south-east. The council's waste register lists a vehicle storage permit (Murphy Van Parts) at Tombrack. The listing photos don't show it."
+    },
+    {
+      "text": "Pleasant but ordinary design",
+      "weight": 1,
+      "detail": "A modern rural bungalow; the vaulted ceilings and beams add warmth, but it isn't a period or stone house."
+    },
+    {
+      "text": "Dublin train is a drive and about 2 hours",
+      "weight": 2,
+      "detail": "Enniscorthy station is about 15 km by road; 5 Dublin trains each weekday, about 1h50–2h20 to Connolly."
+    },
+    {
+      "text": "ED about 40 minutes",
+      "weight": 2,
+      "detail": "Wexford General (all ages) is about 29 km straight-line, roughly 40 km by road."
+    },
+    {
+      "text": "Neighbours close on two sides",
+      "weight": 1,
+      "detail": "A cluster of about eight houses lines the lane; the nearest house is about 40 m south, so there are open fields on one side only."
+    },
+    {
+      "text": "Unchecked risks",
+      "weight": 1,
+      "detail": "BuyerIQ shows a mapped river flood zone about 0.1 km away, one hidden critical finding (fix €800–2,000, possibly radon) and 9 planning applications within 1 km; water, sewer and the garage conversion's paperwork aren't stated."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Tombrack National School",
+      "candidates": [
+        "Tombrack National School, Tombrack, Ferns, Co. Wexford",
+        "Tombrack N.S., Ferns, Co. Wexford"
+      ],
+      "note": "Catholic, co-ed, roll 15940J, 34 boys and 19 girls per the Department; 720 m per the listing. Naomh Maodhog NS in Ferns (285 pupils) is 3.4 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Small three-teacher rural school; no inspection report could be retrieved (gov.ie reports sit behind a verification check)."
+      }
+    },
+    {
+      "id": "school-good",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Good primary school",
+      "title": "St Edan's National School",
+      "candidates": [
+        "St Edan's National School, Clone Road, Ferns, Co. Wexford"
+      ],
+      "note": "Church of Ireland, co-ed, 39 pupils, in Ferns about 4 km away; may prioritise its own families if full.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "A 2016 Department curriculum evaluation (Visual Arts) rated pupils' learning and teaching very good; it covers one subject and is ten years old."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "FCJ Secondary School Bunclody",
+      "candidates": [
+        "FCJ Secondary School, Bunclody, Co. Wexford"
+      ],
+      "note": "Mixed, free Catholic voluntary school, about 1,035 pupils (499 boys), about 10 km north-west. Daft lists a 'Bunclody Community College' at 9.6 km, which appears to be this school. Enniscorthy's schools (St Mary's CBS boys, Enniscorthy Community College mixed) are about 10 km south.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Large mixed school that South East Radio's roundup of the Irish Times feeder tables named among Wexford's well-performing schools; no progression figure retrieved."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Centra Ferns",
+      "candidates": [
+        "Centra, Main Street, Ferns, Co. Wexford Y21 N8X7"
+      ],
+      "note": "Ferns Centra on Main Street, about 4 km; open 7 a.m.–9 p.m. weekdays.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Enniscorthy",
+      "candidates": [
+        "SuperValu, Abbey Street, Enniscorthy, Co. Wexford",
+        "Aldi, Bellfield, Enniscorthy, Co. Wexford",
+        "Tesco Extra, Paul Funge Boulevard, Gorey, Co. Wexford"
+      ],
+      "note": "Enniscorthy (about 12 km) has SuperValu and Aldi; Gorey's Tesco Extra is further.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "The Courtyard, Ferns",
+      "candidates": [
+        "The Courtyard, Ferns, Co. Wexford",
+        "Partridge's Bistro, Main Street, Gorey, Co. Wexford"
+      ],
+      "note": "The Courtyard in Ferns (4.4 on Tripadvisor) is about 4 km; Partridge's in Gorey for a night out.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Wexford General Hospital",
+      "candidates": [
+        "Wexford General Hospital, Newtown Road, Wexford"
+      ],
+      "note": "Wexford General: HSE lists its ED as for all ages; roughly 40 km by road.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Enniscorthy",
+      "candidates": [
+        "Market Square, Enniscorthy",
+        "Main Street, Bunclody"
+      ],
+      "note": "Enniscorthy for errands; Bunclody is about the same distance north-west.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Wexford",
+      "candidates": [
+        "Main Street, Wexford",
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Wexford town is closest; Kilkenny is the nearest city.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car, via the M11.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Enniscorthy station",
+      "candidates": [
+        "Enniscorthy railway station",
+        "Gorey railway station"
+      ],
+      "note": "Rosslare–Dublin line: 5 trains each weekday calling at Enniscorthy and Gorey, about 1h50–2h20 from Enniscorthy to Connolly.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
