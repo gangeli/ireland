@@ -125,6 +125,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/compsey-mill-mullinoly-mullinahone-co-tipperary/6679704",
       "recheck": false
+    },
+    {
+      "id": "old-station-house-monasterevin",
+      "name": "Old Station House",
+      "left": "2026-10-15",
+      "reason": "bumped by The Oak Tree, Ferns (AI 3.5 vs score 2.67); Gabor approved the swap on 15 Oct. Still for sale; eligible for re-add if ratings rise",
+      "lastPrice": 625000,
+      "aiStars": 3.0,
+      "human": {
+        "n": 2,
+        "avg": 2.5
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/old-station-house-old-canal-harbour-monasterevin-co-kildare/6581148",
+      "recheck": false
     }
   ]
 }

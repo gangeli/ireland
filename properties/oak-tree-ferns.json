@@ -1,0 +1,375 @@
+{
+  "id": "oak-tree-ferns",
+  "name": "The Oak Tree",
+  "address": "The Oak Tree, Newtown, Ferns, Co. Wexford",
+  "eircode": "Y21 W2V0",
+  "lat": 52.609242,
+  "lng": -6.501522,
+  "listingUrl": "https://www.daft.ie/for-sale/the-oak-tree-newtown-ferns-co-wexford/6489343",
+  "status": "Considering",
+  "added": "2026-10-15",
+  "area": "Ferns, Co. Wexford",
+  "agent": "Sherry FitzGerald O'Leary Kinsella (Elma Hughes)",
+  "agentEmail": "elma@olearykinsella.com",
+  "agentPhone": "053 943 0088",
+  "questions": [
+    "Is there any shower or bath on the kitchen level? Could the guest WC (1.71 × 1.83 m) or the utility (3.78 × 1.83 m) become a shower room, so the 7.07 × 5.43 m living area works as a bedroom for older parents without using the stairs?",
+    "How many steps are on the internal stair between the kitchen level and the bedroom level, and on the external steps up to the front door? Is there a level route from the car to the front door?",
+    "Is the house on mains water or a private well, and is drainage a septic tank or a treatment unit (age and certificate)? What heats the house, and how old is the boiler?",
+    "What drives the D1 rating (245.96 kWh/m²/yr): wall and attic insulation, windows, boiler? Have any upgrades been costed?",
+    "Which boundaries are fenced, and could the front lawn be closed off from the road for two dogs? What is the large building with the yard about 90 m south-west along the road, and has the asking price changed since April?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "A pretty, characterful 198 m² house on 0.79 acres near Ferns's GP and schools, at €450k, set back from a quiet road with no industry close. But it is split-level: the only bathrooms are up a 12–13 step stair, and the room offered for the parents has just a WC beside it."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Connected; an occupied house with an electric oven, though the listing doesn't state the supply."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Not stated; a rural house 2 km north of Ferns may be on a private well or group scheme. Ask."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Not stated; almost certainly a septic tank or treatment unit outside the village. Ask its age and for a certificate."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Fibre at the address per BuyerIQ ('Fast broadband: 102 Mb full fibre'); the listing doesn't mention broadband. Provider not confirmed; rural north Wexford is NBI territory.",
+      "type": "Fibre",
+      "speed": "~100 Mb+ (up to 1 Gb on full fibre plans)",
+      "provider": "NBI / open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "The 7.07 × 5.43 m living area is on the drive level, on the same floor as the kitchen and across the hall from it (two steps up to the dining end), with a guest WC and patio doors. But that level has no shower or bath: every bathroom is up a straight 12–13 step stair."
+  },
+  "price": 450000,
+  "type": "Detached split-level house with an attached workshop and a detached garage",
+  "beds": 4,
+  "bedsNote": "The house is built into a slope. The front door is about 8 external steps up from the drive and opens onto the bedroom level: master (5.37 × 3.64 m, walk-in wardrobe, en suite) up a further 3 steps, bedroom 2 (2.77 × 4.86 m), bedroom 1 (2.85 × 2.29 m, a single), the family bathroom, the sitting room and the sunroom. A straight 12–13 step stair goes down to the drive level: kitchen-dining, utility, guest WC and the 7.07 × 5.43 m living area offered as a 4th bedroom or office. The floor plans call the bedroom level 'ground' and the kitchen level 'first'; the brochure text and the photos show the kitchen level is the lower one. '3 baths' counts the guest WC.",
+  "baths": 3,
+  "floorM2": 198,
+  "landHa": 0.32,
+  "landAcres": 0.79,
+  "ber": "D1",
+  "berKwh": 245.96,
+  "heating": "Not stated; open fire in the sitting room and a solid-fuel stove in the kitchen. The hob runs on gas (probably bottled LPG).",
+  "listed": "2026-04-09",
+  "views": 8991,
+  "stampDuty": 4500,
+  "tagline": "A 198 m² split-level 4-bed with a beamed sunroom and open fire, on 0.79 acres of hedged gardens with rural views, about 2 km north of Ferns village.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/4/4/4992447/ee30b675-e005-42df-8485-289bc0054777_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/4/4/4992447/b05bd9e3-fc37-4914-bd62-b182a9fc9acb_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/4/4/4992447/9a5ce628-6331-4ccd-b4ee-9c1dd8fea624_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/4/4/4992447/f4190b06-4940-4112-b5be-d67f034cb3e9_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/4/4/4992447/a525906f-e0e2-4645-a652-a9bc90fbeb35_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/4/4/4992447/0f24bab5-82bd-4cea-96f8-8b7ce3adf89c_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/4/4/4992447/02be865b-8687-41f3-833c-e67a1f2bfb9c_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/4/4/4992447/18eecbbe-9a54-4fdb-922e-d26d610eb57f_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/4/4/4992447/a518ac09-388a-4c2f-a08d-c1459e78f73b_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€450k, well under the line",
+      "weight": 2,
+      "detail": "€2,273/m² and about €4,500 stamp duty. It has been listed since 9 April 2026 (about six months, 8,991 Daft views), which leaves room to negotiate."
+    },
+    {
+      "text": "Character rooms, 198 m²",
+      "weight": 2,
+      "detail": "Sunroom 3.94 × 5.14 m with a vaulted, beamed timber ceiling and doors to a balcony; sitting room 5.26 × 3.56 m with an open stone fireplace and a bay window; kitchen-dining 7.69 × 3.68 m with a stove."
+    },
+    {
+      "text": "A big room level with the kitchen",
+      "weight": 2,
+      "detail": "The 7.07 × 5.43 m living area shares the drive level with the kitchen, utility and guest WC, and opens to the patio and tarmac yard at grade: a step-free route from the car, but see the bathroom con."
+    },
+    {
+      "text": "0.79 acres, set back from a quiet road",
+      "weight": 2,
+      "detail": "On the L1014 local road, about 35 m back behind tall hedges, with tillage fields behind. The Aug 2024 Esri image shows no industry; the nearest farmyards are about 400 m east-north-east and 500 m south."
+    },
+    {
+      "text": "GP, shop and schools 2–3 km away",
+      "weight": 2,
+      "detail": "Ferns Health Centre, Centra and the Ferns bus stop are about 2.2 km away; Naomh Maodhog NS (301 pupils) is 2.1 km and St Edan's NS 2.8 km, per Daft."
+    },
+    {
+      "text": "Workshop, garage and a big yard",
+      "weight": 1,
+      "detail": "An attached 5.5 × 4 m workshop, a detached 7.4 × 4.7 m garage, a large tarmac drive and a hot tub."
+    },
+    {
+      "text": "Full fibre",
+      "weight": 1,
+      "detail": "BuyerIQ lists 102 Mb full fibre at the address."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Stairs everywhere, no downstairs shower",
+      "weight": 3,
+      "detail": "The front door is about 8 external steps up. A straight stair of 12–13 steps joins the kitchen level to the bedrooms, the sitting room and the only bath and shower, and the master is 3 more steps up. Fitting a shower room on the kitchen level would cost roughly €8–15k (rough)."
+    },
+    {
+      "text": "BER D1",
+      "weight": 2,
+      "detail": "245.96 kWh/m²/yr, and the heating system isn't stated. Bringing it to about B2 would cost roughly €30–60k (rough), with grants."
+    },
+    {
+      "text": "Dublin train is a drive and about 2 hours",
+      "weight": 2,
+      "detail": "Gorey and Enniscorthy stations are each about 15 km away. The Rosslare–Dublin line runs 5 trains each weekday, about 1h45–2h to Connolly."
+    },
+    {
+      "text": "ED about 40–45 minutes",
+      "weight": 2,
+      "detail": "Wexford General (all ages) is about 31 km straight-line, roughly 42 km by road."
+    },
+    {
+      "text": "Bedroom 1 is a box room",
+      "weight": 1,
+      "detail": "Bedroom 1 is 2.85 × 2.29 m (6.5 m²), so the 'three doubles' are really two doubles and a single. Room for six depends on giving up the second living room."
+    },
+    {
+      "text": "Roadside ribbon, dog fencing unknown",
+      "weight": 1,
+      "detail": "It is one of about seven houses along the road, with neighbours about 20–25 m away on each side. The front lawn faces the road behind a low wall, and a large building with a big yard about 90 m south-west is of unknown use."
+    },
+    {
+      "text": "Unchecked risks",
+      "weight": 1,
+      "detail": "BuyerIQ shows 1 critical and 6 high-priority findings (fixes €20.8k–28k, hidden), and 5 planning applications within 1 km including an active build. Water, sewer and heating aren't stated."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Naomh Maodhog National School",
+      "candidates": [
+        "Naomh Maodhog National School, Ferns, Co. Wexford",
+        "Scoil Naomh Maodhog, Ferns, Co. Wexford"
+      ],
+      "note": "Catholic, co-ed, 301 pupils, 2.1 km per Daft; the main Ferns primary.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "DEIS per scoilscout and a growing roll (about 285–301); no inspection report could be retrieved (gov.ie reports sit behind a verification check)."
+      }
+    },
+    {
+      "id": "school-good",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Good primary school",
+      "title": "St Edan's National School",
+      "candidates": [
+        "St Edan's National School, Clone Road, Ferns, Co. Wexford"
+      ],
+      "note": "Church of Ireland, co-ed, about 30–39 pupils, 2.8 km per Daft; it may prioritise its own families if full.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "A 2016 Department curriculum evaluation (Visual Arts) rated pupils' learning and teaching very good; it covers one subject and is ten years old."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "FCJ Secondary School Bunclody",
+      "candidates": [
+        "FCJ Secondary School, Bunclody, Co. Wexford"
+      ],
+      "note": "Mixed, about 1,035 pupils, 11.1 km per Daft. Coláiste Bhríde Carnew (mixed, 896) is 11.2 km; Enniscorthy's St Mary's CBS (boys) and Gorey Community School are 13–16 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "A large mixed school that South East Radio's roundup of the Irish Times feeder tables named among Wexford's well-performing schools; no progression figure retrieved."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Centra Ferns",
+      "candidates": [
+        "Centra, Main Street, Ferns, Co. Wexford Y21 N8X7"
+      ],
+      "note": "Ferns Centra on Main Street, about 2.2 km straight-line; open 7 a.m.–9 p.m. weekdays.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Tesco Extra Gorey",
+      "candidates": [
+        "Tesco Extra, Paul Funge Boulevard, Gorey, Co. Wexford",
+        "SuperValu, Abbey Street, Enniscorthy, Co. Wexford",
+        "Aldi, Bellfield, Enniscorthy, Co. Wexford"
+      ],
+      "note": "Gorey and Enniscorthy are both about 15 km away; the page keeps the faster drive.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "The Courtyard, Ferns",
+      "candidates": [
+        "The Courtyard, Ferns, Co. Wexford",
+        "Partridge's Bistro, Main Street, Gorey, Co. Wexford"
+      ],
+      "note": "The Courtyard in Ferns (4.4 on Tripadvisor) is about 2 km away; Partridge's in Gorey for a night out.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Wexford General Hospital",
+      "candidates": [
+        "Wexford General Hospital, Newtown Road, Wexford"
+      ],
+      "note": "Wexford General: the HSE lists its ED as for all ages; roughly 42 km by road.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Gorey",
+      "candidates": [
+        "Main Street, Gorey",
+        "Market Square, Enniscorthy"
+      ],
+      "note": "Gorey is under 20 minutes per the agent; Enniscorthy is about the same distance south.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Wexford",
+      "candidates": [
+        "Main Street, Wexford",
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Wexford town is closest; Kilkenny is the nearest city.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car, via the M11.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Gorey station",
+      "candidates": [
+        "Gorey railway station",
+        "Enniscorthy railway station"
+      ],
+      "note": "Rosslare–Dublin line: 5 trains each weekday calling at Gorey and Enniscorthy; the fastest from Gorey takes about 1h43 to Connolly.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
