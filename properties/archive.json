@@ -139,6 +139,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/old-station-house-old-canal-harbour-monasterevin-co-kildare/6581148",
       "recheck": false
+    },
+    {
+      "id": "cuddagh-south-ballacolla",
+      "name": "Cuddagh South",
+      "left": "2026-10-16",
+      "reason": "bumped by Friars Hill, Thomastown (AI 3.0 vs score 2.75: AI 3.5, people [2]); rural, OPW flood-zone flag",
+      "lastPrice": 450000,
+      "aiStars": 3.5,
+      "human": {
+        "n": 1,
+        "avg": 2.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/cuddagh-south-ballacolla-ballacolla-co-laois/6691916",
+      "recheck": false
     }
   ]
 }

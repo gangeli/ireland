@@ -1,0 +1,353 @@
+{
+  "id": "friars-hill-thomastown",
+  "name": "Friars Hill",
+  "address": "Friars Hill, Thomastown, Co. Kilkenny",
+  "eircode": "R95 T2N9",
+  "lat": 52.518375,
+  "lng": -7.144777,
+  "listingUrl": "https://www.daft.ie/for-sale/friars-hill-thomastown-thomastown-co-kilkenny/6698964",
+  "status": "Considering",
+  "added": "2026-10-16",
+  "area": "Thomastown, Co. Kilkenny",
+  "agent": "Elaine, Green Door Properties",
+  "agentPhone": "056 778 9670",
+  "questions": [
+    "Daft's header says 2 bathrooms but the description lists only a family bathroom. Is there an en suite, shower room or WC, and can you send a floor plan with room sizes, including the kitchen?",
+    "How big is the site, and where are the boundaries? Is the long building just north-east of the house the 'large garage', and is any of the fenced field behind the house included?",
+    "Has the house been lived in recently? If it has been vacant for two years or more, is it a probate sale, and can you confirm the vacancy dates (for the Vacant Property Refurbishment Grant)?",
+    "How old are the oil boiler, windows, wiring and septic tank? Is there a septic tank certificate or a BER advisory report?",
+    "Is there a footpath from the gate into Thomastown along the Waterford Road, and has the site, the drive or the road ever flooded?"
+  ],
+  "ai": {
+    "stars": 3,
+    "why": "Single-storey 4-bed with every bedroom on the ground floor, a walk from Thomastown's GP, schools and Dublin train, at €290k. Against it: one confirmed bathroom for six, a full renovation (roughly €90–155k), and about half an acre in a ribbon of houses on the R448 rather than the acre the brief wants."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Connected; a furnished, recently occupied house, though the listing doesn't state the supply."
+    },
+    "water": {
+      "status": "ok",
+      "detail": "Mains water, stated in the description."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank, stated in the description. Ask its age and for a certificate."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Full fibre at the address per BuyerIQ ('Fast broadband: 387 Mb full fibre'); the listing doesn't mention broadband. Thomastown is on open eir FTTH; provider not confirmed.",
+      "type": "Fibre",
+      "speed": "~390 Mb (full fibre)",
+      "provider": "open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Single-storey bungalow (the aerial lead photo shows no upper floor or roof windows), so all four bedrooms are on the ground floor; there is no floor plan to name the best room for Gabor's parents."
+  },
+  "price": 290000,
+  "type": "Detached bungalow",
+  "beds": 4,
+  "bedsNote": "Four 'generous' bedrooms plus two reception rooms (sitting room with open fire, living room with stove). Only one family bathroom is described; Daft's header says 2 baths, unconfirmed. Large detached garage.",
+  "baths": 1,
+  "floorM2": 130,
+  "ber": "D2",
+  "berKwh": 286.46,
+  "heating": "Oil-fired central heating; open fire in the sitting room, wood-burning stove in the living room",
+  "listed": "2026-10-16",
+  "views": 199,
+  "stampDuty": 2900,
+  "tagline": "A dated single-storey 4-bed of 130 m² on an elevated half-acre above the Nore, on the Waterford Road about 1 km south of Thomastown.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI2XC82XC82NmMwYjdlMi0xMGUyLTRkNTQtOTFlYy1kOWMzZTk1Mzg5YmUuSlBFRyJ9?signature=5c6b3177917c59009fb118d51f4c625738159c0846c75a8269bd1e124a2747bf",
+      "role": "facade"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€290k, far under the €500k line",
+      "weight": 3,
+      "detail": "€2,231/m² and stamp duty about €2,900, which leaves room for a full renovation and still lands around €380–450k all-in."
+    },
+    {
+      "text": "Every bedroom on the ground floor",
+      "weight": 3,
+      "detail": "Single-storey bungalow, 130 m², four bedrooms on one level and no stairs."
+    },
+    {
+      "text": "A walk into Thomastown",
+      "weight": 2,
+      "detail": "About 1 km (14 min on foot by OSM routing) to Market Street: GP, pharmacy, Daybreak shop, cafés and Tābú; SuperValu and Lidl about 2 km."
+    },
+    {
+      "text": "Dublin train from the town",
+      "weight": 2,
+      "detail": "Thomastown station is about 2.2 km on foot (the listing's '10 minutes' is optimistic) or a few minutes' drive; about 7 trains each weekday on the Waterford–Heuston line, roughly 1h45–2h."
+    },
+    {
+      "text": "Schools in town, bus from the gate",
+      "weight": 2,
+      "detail": "St Mary's NS (about 430 pupils, new building 2010) and Grennan College (1.6 km) are in Thomastown, and the listing says a school bus picks up at the property."
+    },
+    {
+      "text": "Elevated site with Nore views",
+      "weight": 1,
+      "detail": "The house sits about 30 m back from the road behind a lawn and tarmac drive, with fields across the road and the wooded river valley about 200 m below to the north-west."
+    },
+    {
+      "text": "Two fires and some character",
+      "weight": 1,
+      "detail": "Sitting room with an open fire in a stone surround and timber panelling, living room with a stove, solid wood floors; large detached garage."
+    },
+    {
+      "text": "St Luke's ED about 20 minutes",
+      "weight": 1,
+      "detail": "St Luke's, Kilkenny (all ages) is about 19 km by road; University Hospital Waterford is the alternative."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Full renovation, roughly €90–155k",
+      "weight": 3,
+      "detail": "Rough: second bathroom €12–20k (more if it needs an extension), D2 to B-rated insulation, windows and heat pump €45–70k before about €15–25k of SEAI grants, kitchen €15–25k, rewiring, plumbing and finishes €20–40k. The listing doesn't say it's vacant and the photos show furnished rooms; if it has been empty two years or more, the Vacant Property Refurbishment Grant (up to €50k) could apply."
+    },
+    {
+      "text": "One bathroom for six people",
+      "weight": 3,
+      "detail": "The description lists only a family bathroom; Daft's header says 2 baths, and there's no floor plan to settle it."
+    },
+    {
+      "text": "About half an acre, not one",
+      "weight": 2,
+      "detail": "Satellite estimate 0.4–0.55 ac (0.16–0.22 ha). The enclosed rear garden looks shallow, ending at a hedge and post-and-rail fence 10–15 m behind the house; the front lawn runs to the R448 and would need fencing for the dogs."
+    },
+    {
+      "text": "Houses either side, on the R448",
+      "weight": 2,
+      "detail": "It's one of about ten houses strung along the Waterford Road (R448, the old N9) at the gate. A long building about 12 m north-east may be the garage or a neighbour's house; other houses are about 25–45 m away, and a cluttered materials yard sits about 230 m south across the road."
+    },
+    {
+      "text": "BER D2, oil and solid fuel",
+      "weight": 2,
+      "detail": "286 kWh/m²/yr on oil central heating, with an open fire and a stove; running costs will be high until it's upgraded."
+    },
+    {
+      "text": "Room sizes and kitchen unknown",
+      "weight": 1,
+      "detail": "130 m² must hold four 'generous' bedrooms and two reception rooms, so the fitted kitchen may be small; no floor plan or dimensions are published."
+    },
+    {
+      "text": "Secondary schools middling nearby",
+      "weight": 1,
+      "detail": "Grennan College is small and DEIS; Scoil Aireagail in Ballyhale (about 12 km) has good progression, and St Kieran's and Kilkenny College are about 18 km away in the city."
+    },
+    {
+      "text": "Unchecked risks",
+      "weight": 1,
+      "detail": "BuyerIQ shows one hidden critical finding and seven high-priority flags (paid report), and 10 planning applications within 1 km, one an active build; septic tank age and any river flooding on the road aren't stated."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "St Mary's National School, Thomastown",
+      "candidates": [
+        "St Mary's National School, Thomastown, Co. Kilkenny",
+        "St Mary's NS, Thomastown, Co. Kilkenny R95 FP30"
+      ],
+      "note": "Catholic, co-ed, roll 20272V, about 430 pupils and 22 teachers (2025); formed from the Convent of Mercy and Ladywell Boys' schools, new building 2010.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Large co-ed town school with a 2023 curriculum evaluation and a 2014 whole-school evaluation on record, but the gov.ie reports sit behind a verification check and couldn't be read; DEIS status not confirmed."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Grennan College",
+      "candidates": [
+        "Grennan College, Ladywell Street, Thomastown, Co. Kilkenny"
+      ],
+      "note": "Mixed, about 310–334 pupils, ETB/multi-denominational, DEIS; about 1.6 km, walkable.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "Small DEIS ETB school; an Oct 2023 subject inspection rated teaching 'good, with some very good practice' but no published progression figure was found."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Scoil Aireagail",
+      "candidates": [
+        "Scoil Aireagail, Ballyhale, Co. Kilkenny"
+      ],
+      "note": "Mixed, about 200 pupils, KCETB, about 12 km south-west via the R448.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Small ETB school with historically very high CAO/progression rates in KCLR's roundups of the feeder tables. St Kieran's (boys) and Kilkenny College (mixed) in Kilkenny are the Strong options, about 18 km."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Daybreak Thomastown",
+      "candidates": [
+        "Daybreak, Market Street, Thomastown, Co. Kilkenny"
+      ],
+      "note": "Daybreak on Market Street, about 1 km away on foot.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Thomastown",
+      "candidates": [
+        "SuperValu, Dublin Road, Thomastown, Co. Kilkenny",
+        "Lidl, Dublin Road, Thomastown, Co. Kilkenny"
+      ],
+      "note": "SuperValu and Lidl side by side on the Dublin Road, about 2 km.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Tābú, Thomastown",
+      "candidates": [
+        "Tābú, Marshes Street, Thomastown, Co. Kilkenny",
+        "Lady Helen, Mount Juliet Estate, Thomastown, Co. Kilkenny"
+      ],
+      "note": "Tābú (sharing plates and pizza, 2026 Restaurant Association award) is in town; Lady Helen at Mount Juliet holds a Michelin star.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "St Luke's General Hospital",
+      "candidates": [
+        "St Luke's General Hospital, Kilkenny",
+        "University Hospital Waterford"
+      ],
+      "note": "St Luke's, Kilkenny: 24-hour ED for all ages, about 19 km.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Thomastown",
+      "candidates": [
+        "Market Street, Thomastown, Co. Kilkenny"
+      ],
+      "note": "Thomastown: GPs, pharmacies, cafés and the station, about 1 km.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "The Quay, Waterford"
+      ],
+      "note": "Kilkenny city is 16 km per the listing; Waterford is the alternative.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M9 (9 km away). The train from Thomastown is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Thomastown station",
+      "candidates": [
+        "Thomastown railway station"
+      ],
+      "note": "Waterford–Heuston line: about 7 trains each weekday towards Dublin (06:16, 08:11, 11:21, 13:21, 15:13, 18:55, 20:50 in the current timetable), roughly 1h45–2h to Heuston. About 2.2 km on foot.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
