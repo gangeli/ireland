@@ -153,6 +153,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/cuddagh-south-ballacolla-ballacolla-co-laois/6691916",
       "recheck": false
+    },
+    {
+      "id": "killinardish-house-drangan",
+      "name": "Killinardish House",
+      "left": "2026-10-17",
+      "reason": "bumped by Tirernan, Ballickmoyler (AI 3.5 vs score 2.83: AI 3.5, people [3, 2]); protected structure with a leaking convent wing",
+      "lastPrice": 490000,
+      "aiStars": 3.5,
+      "human": {
+        "n": 2,
+        "avg": 2.5
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/killinardish-house-knockroe-drangan-co-tipperary/6695626",
+      "recheck": false
     }
   ]
 }

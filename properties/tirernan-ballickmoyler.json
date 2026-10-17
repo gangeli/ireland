@@ -1,0 +1,353 @@
+{
+  "id": "tirernan-ballickmoyler",
+  "name": "Tirernan",
+  "address": "Tirernan, Ballickmoyler, Carlow, Co. Laois",
+  "eircode": "R93 F7D2",
+  "lat": 52.901672,
+  "lng": -6.991556,
+  "listingUrl": "https://www.daft.ie/for-sale/tirernan-ballickmoyler-carlow-co-laois/6697094",
+  "status": "Considering",
+  "added": "2026-10-17",
+  "area": "Ballickmoyler, Co. Laois",
+  "agent": "Sherry FitzGerald McDermott Carlow (Nora Meaney)",
+  "agentPhone": "059 914 0344",
+  "questions": [
+    "The farmyard just west of the house (long sheds about 25 m from the house on the 2022 satellite image, with wrapped silage bales visible in your photos) — is it a working farm, what stock or machinery does it run, and does slurry spreading or silage traffic use the L7980 past the gate?",
+    "BuyerIQ shows a mapped river flood zone about 40 m from the address. Where is the watercourse, and has the site, the yard or the road at the gate ever flooded? Is the house insured without a flood exclusion?",
+    "The listing says 'private water and sewage': is the water from a well (the pump house?) with a recent water test, and is the sewage a septic tank or a treatment unit, how old, and was it upgraded in the 2018 works?",
+    "Was the 2018 side and rear extension built with planning permission, and is there a certificate of compliance with building regulations? Can you confirm the boundaries of the acre on a map?",
+    "Which parts of the acre are fenced rather than hedged, could the rear lawn be closed in for two dogs, and do the overhead lines over the lawn by the garage serve only this house?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "A turnkey, single-storey 2018 renovation on about an acre at €490k, 10–15 minutes from Carlow's Dublin trains and Knockbeg College, with a 19 m² bedroom by the front door for Gabor's parents. But three bedrooms in 145 m² is tight for six, a working farmyard's sheds stand about 25 m from the house, and BuyerIQ maps a flood zone about 40 m away."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Connected; an occupied, renovated house with overhead supply lines visible in the garden photos, though the listing doesn't state it."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private supply, stated ('Private water and sewage'); the pump house suggests a well. Ask for a water test."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Private, stated ('Private water and sewage'); probably a septic tank or treatment unit, type and age not given. Ask for a certificate."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Fibre likely: BuyerIQ lists '387 Mb full fibre' at the address, but its detail section shows no data and the listing doesn't mention broadband. Confirm on nbi.ie with R93 F7D2.",
+      "type": "Fibre",
+      "speed": "~387 Mb per BuyerIQ (unconfirmed)",
+      "provider": "NBI / open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Single storey per the floor plan: Bedroom 1 (4.29 × 4.39 m, bay window, built-in wardrobes, the listing's 'guest room') opens off the entrance hall, a few steps from the family bathroom (bath and separate shower) and the WC."
+  },
+  "price": 490000,
+  "type": "Detached single-storey bungalow, renovated and extended in 2018",
+  "beds": 3,
+  "bedsNote": "Three bedrooms, all on the ground floor: Bedroom 1 (4.29 × 4.39 m) by the front door, Bedroom 2 (3.34 × 3.18 m), and the master, Bedroom 3 (4.51 × 3.53 m) at the back, with a wet-room en suite and a walk-in wardrobe. The listing's '3 baths' are the en suite, a family bathroom with a freestanding bath and separate shower, and a WC. The attic is reached only by a stira from the walk-in wardrobe and isn't floored or converted, per the listing.",
+  "baths": 3,
+  "floorM2": 145,
+  "ber": "C2",
+  "berKwh": 192.13,
+  "heating": "Oil-fired central heating; solid-fuel stove in the dining area",
+  "listed": "2026-10-16",
+  "views": 438,
+  "stampDuty": 4900,
+  "tagline": "A single-storey 3-bed of 145 m², bought derelict in 2017 and extended and renovated in 2018, on about an acre in Tirernan, between Ballickmoyler and Maganey, 7.5 km north-west of Carlow.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/1/8/5036814/14dc531f-813d-4369-855d-7e912f7ec621_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/1/8/5036814/1f232e8b-8dc7-45dd-b994-bf93abae6bc5_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/1/8/5036814/00b029ff-24eb-4992-9611-2a04f128e52a_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/1/8/5036814/c68a127e-03f8-4599-9ee2-0e4ff55fc945_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/1/8/5036814/cea58591-64b9-4fbb-962d-581e2ea292ae_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/1/8/5036814/9592cb20-66a8-4627-9bae-72f23054f328_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/1/8/5036814/3add636a-689f-4574-93b2-bf8eca0e89da_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/1/8/5036814/bf714c72-fbda-440d-95dd-e10ae9104bd4_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Every room on one level, parents' room by the door",
+      "weight": 3,
+      "detail": "Single storey per the floor plan; Bedroom 1 (19 m², bay window) opens off the entrance hall, and the family bathroom and WC are a few steps away."
+    },
+    {
+      "text": "Turnkey 2018 renovation",
+      "weight": 3,
+      "detail": "Bought derelict in 2017, extended to the side and rear and fully renovated in 2018: replacement windows and doors, quartz-topped kitchen with an island, 'immaculate presentation'; no works needed to move in."
+    },
+    {
+      "text": "About an acre, walled and gated at the front",
+      "weight": 2,
+      "detail": "1-acre site (listing) with a walled front, gated pillar entrance and a rear lawn of roughly 0.3 ha behind mature hedges; detached 6 × 5 m garage, pump house and boiler house."
+    },
+    {
+      "text": "€490k, just under the line",
+      "weight": 2,
+      "detail": "€3,379/m², stamp duty about €4,900."
+    },
+    {
+      "text": "Carlow's trains and town 10–15 minutes",
+      "weight": 2,
+      "detail": "Carlow is 7.5 km (listing); the station is about 10 km by road, with about 10 weekday trains to Heuston taking roughly 1h05–1h20. GPs, pharmacies and supermarkets are in Graiguecullen and Carlow, 7–9 km."
+    },
+    {
+      "text": "Knockbeg College 5 km",
+      "weight": 2,
+      "detail": "St Mary's Knockbeg College (boys, 493 pupils per Daft, 92% progression in 2016) is 5.3 km; St Abban's NS (co-ed, 99 pupils) is 1.6 km."
+    },
+    {
+      "text": "Bright, vaulted open-plan living",
+      "weight": 1,
+      "detail": "Kitchen 5.50 × 5.88 m with a vaulted ceiling and apex windows, dining area 4.80 × 3.41 m with a stove, sitting room 4.22 × 4.28 m with a bay window; three sets of French doors to a wraparound sandstone patio."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Working farmyard next door",
+      "weight": 3,
+      "detail": "The August 2022 Esri satellite image shows a farmyard immediately west: long sheds about 25 m from the house and 5–10 m beyond the boundary hedge, with larger sheds and a yard about 60–90 m away and rows of wrapped silage bales; the listing's own garden photo shows shed roofs and bales over the hedge. Expect slurry smell, machinery and silage traffic."
+    },
+    {
+      "text": "Three bedrooms in 145 m² for six",
+      "weight": 3,
+      "detail": "With Gabor's parents in Bedroom 1, the two boys would share Bedroom 2 (3.34 × 3.18 m), with no spare room or study, and the attic is reached only by a stira. Two showers plus a WC is fair for six."
+    },
+    {
+      "text": "Mapped flood zone about 40 m away",
+      "weight": 2,
+      "detail": "BuyerIQ shows a moderate river (fluvial) flood zone about 40 m from the address and one hidden critical finding plus six high-priority flags (paid report)."
+    },
+    {
+      "text": "ED about 30 minutes",
+      "weight": 2,
+      "detail": "Carlow has no emergency department. Midland Regional Portlaoise (all ages, paediatric extension since May 2026) is about 28 km, roughly 30 minutes; St Luke's Kilkenny is about 41 km."
+    },
+    {
+      "text": "Close to the road, hedged rather than fenced",
+      "weight": 1,
+      "detail": "The front of the house is about 12–15 m from the L7980, a quiet local road, behind the walled front; the rest of the boundary is hedge, so the dogs' area would need fencing checked or added."
+    },
+    {
+      "text": "No village services nearby",
+      "weight": 1,
+      "detail": "Ballickmoyler (about 3 km) has a pub but no confirmed shop; milk, the GP and the big shop are all in Graiguecullen or Carlow, 7–9 km."
+    },
+    {
+      "text": "BER C2, oil and private services",
+      "weight": 1,
+      "detail": "192 kWh/m²/yr on oil; private water and sewage (type not stated), and overhead lines cross the lawn by the garage."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "St Abban's National School, Killeen",
+      "candidates": [
+        "St Abban's National School, Killeen, Maganey, Co. Laois",
+        "Scoil Abbain Cillin, Killeen, Maganey, Co. Laois R93 N244"
+      ],
+      "note": "Catholic, co-ed, roll 17557U, 99 pupils (55 boys, 44 girls) in 2025/26, not DEIS; 1.6 km per Daft. Arles NS (47 pupils, DEIS) is 2.1 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Small mixed rural school with a steady roll (up 5% since 2019/20) and no DEIS status; the only report found is a 2021 Covid-safety check, and gov.ie's report pages sit behind a verification check."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "St Mary's Knockbeg College",
+      "candidates": [
+        "St Mary's Knockbeg College, Knockbeg, Co. Carlow"
+      ],
+      "note": "Boys, Catholic, non-fee-paying, 493 pupils per Daft; 5.3 km. Presentation College Askea (mixed) is about 9 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "92% progression to third level in 2016, the top Carlow school in KCLR's report of the feeder tables; roll rising."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Spar Castlecomer Road, Graiguecullen",
+      "candidates": [
+        "Spar, Castlecomer Road, Graiguecullen, Carlow",
+        "Londis, Maryborough Street, Graiguecullen, Carlow"
+      ],
+      "note": "No shop in Ballickmoyler or Maganey could be confirmed; the nearest are on the Graiguecullen side of Carlow, about 7–8 km. The page keeps the fastest.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Aldi Graiguecullen",
+      "candidates": [
+        "Aldi, Graiguecullen, Carlow",
+        "Tesco, Fairgreen Shopping Centre, Barrack Street, Carlow",
+        "SuperValu, Dolmen Roundabout, Kernanstown, Carlow"
+      ],
+      "note": "Aldi in Graiguecullen is about 8 km; Tesco, SuperValu and Lidl are across the Barrow in Carlow, about 9 km.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Teach Dolmain, Carlow",
+      "candidates": [
+        "Teach Dolmain, Tullow Street, Carlow",
+        "Mimosa Wine & Tapas Bar, College Street, Carlow"
+      ],
+      "note": "Teach Dolmain is Carlow's top-ranked pub restaurant on Tripadvisor; Mimosa for tapas. Both about 9 km.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Midland Regional Hospital Portlaoise",
+      "candidates": [
+        "Midland Regional Hospital Portlaoise, Dublin Road, Portlaoise",
+        "St Luke's General Hospital, Kilkenny"
+      ],
+      "note": "Portlaoise: 24-hour ED that takes children, with a paediatric extension since May 2026, about 28 km. Carlow has no ED; St Luke's Kilkenny (all ages) is about 41 km.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Carlow",
+      "candidates": [
+        "Tullow Street, Carlow",
+        "Emily Square, Athy, Co. Kildare"
+      ],
+      "note": "Carlow is 7.5 km per the listing: GPs, pharmacies, supermarkets and the station. Athy is about 12 km north.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "The nearest city outside Dublin, via Carlow and the M9.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M9. The train from Carlow is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Carlow station",
+      "candidates": [
+        "Carlow railway station",
+        "Athy railway station"
+      ],
+      "note": "Waterford–Heuston line: about 10 trains each weekday from Carlow, roughly 1h05–1h20 to Heuston; about 10 km by road. Athy (about 15 km) is on the same line.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
