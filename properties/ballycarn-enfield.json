@@ -1,0 +1,378 @@
+{
+  "id": "ballycarn-enfield",
+  "name": "Ballycarn",
+  "address": "Ballycarn, Enfield, Co. Meath",
+  "eircode": "A83 TE81",
+  "lat": 53.413684,
+  "lng": -6.81216,
+  "listingUrl": "https://www.daft.ie/for-sale/ballycarn-enfield-enfield-co-meath/6700279",
+  "status": "Considering",
+  "added": "2026-10-19",
+  "area": "Enfield, Co. Meath",
+  "agent": "Bryan Halton, Murtagh Bros.",
+  "agentPhone": "087 413 5893",
+  "questions": [
+    "Can you send the folio map? The listing says c. 1 acre, but the plot looks like a strip about 25 m wide running about 135 m back from the R148 (nearer 0.8 acre). Does it include the field behind the sheds, and who owns the conifer and the yard to the west?",
+    "What is next door: the gravel yard with slabs and a trailer to the west, and the yard with a green-roofed shed and stored materials about 100 m east? Are either of them a business with planning, and what hours do they work?",
+    "Is the house on mains water and a septic tank? How old is the tank, and when was the house last wired and plumbed? What heats the radiators: the range in the kitchen, or an oil or gas boiler?",
+    "Can you confirm the vacancy dates (empty since when, and whether it's a probate sale) so we can apply for the Vacant Property Refurbishment Grant, and can you share the BER cert with its kWh/m²/yr figure (Daft says D1)?",
+    "Is there any footpath between the gate and the Johnstown roundabout, and has the site or the road outside ever flooded?"
+  ],
+  "ai": {
+    "stars": 3.0,
+    "why": "€299k for a single-storey 4-bed on a long strip of about an acre, 24 minutes' walk from Enfield station and ten weekday trains to Dublin. But it's only 91 m² with a small living room, one bathroom and a WC, needs a full renovation (roughly €110–190k before grants), and sits on the 80 km/h R148 between yards and a 65-home building site."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected or easily reconnected: a pole and line run to the house, and the photos show radiators and sockets; vacant over two years, so check the supply and the wiring."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Not stated. The ribbon of houses on the R148 may be on public mains; a private well is the alternative. Ask."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Not stated; a septic tank is likely 1.5 km outside the town. Ask its age and condition, and budget for an upgrade."
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Not confirmed: the listing doesn't mention broadband and BuyerIQ shows 'no data'. Siro and open eir fibre cover Enfield town 1–1.5 km away, and a pole runs to the house; check the Eircode with ComReg/NBI.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb if available (unconfirmed)",
+      "provider": "Siro / open eir / NBI (check)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Single-storey cottage (the floor plan has one floor and the photos show no upper windows), so all four bedrooms are on the ground floor. The best one for Gabor's parents is the 4.56 × 4.11 m front bedroom off the rear hall, nearest the bathroom and WC."
+  },
+  "price": 299000,
+  "type": "Detached cottage (single storey)",
+  "beds": 4,
+  "bedsNote": "Four bedrooms on one level: 4.56 × 4.11 m, 3.41 × 2.87 m, and two small rooms of 2.13 × 3.02 m and 2.26 × 3.02 m. There's one bathroom (3.44 × 2.92 m) and a separate WC (2.14 × 1.17 m). The living room is 4.49 × 3.14 m, the kitchen 3.44 × 2.98 m. Outbuildings: a green steel shed, a second shed and a derelict timber shed.",
+  "baths": 1,
+  "floorM2": 91,
+  "landHa": 0.4,
+  "landAcres": 1,
+  "ber": "D1",
+  "heating": "Not stated; the photos show radiators, a solid-fuel range in the kitchen and a stove in the living room",
+  "listed": "2026-10-19",
+  "views": 577,
+  "stampDuty": 2990,
+  "tagline": "A vacant single-storey 4-bed cottage of about 91 m² needing complete modernisation, on a long strip of about an acre on the R148, 1.5 km east of Enfield and its Dublin train.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/9/8/5036898/cb70114c-b4de-423c-bb21-9148e4b321f6_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/9/8/5036898/85fa4f16-8958-4d5c-8a5c-cc008718171f_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/9/8/5036898/6e879e98-e6e4-4731-bb55-4c3424f7bd8c_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/9/8/5036898/31144894-c4d2-450b-b708-d872aa582313_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/9/8/5036898/bd158c5a-b708-4e14-9f37-1341e5361b72_x.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/9/8/5036898/45a8783b-c157-452e-ad00-7079745e663d_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/9/8/5036898/1ace6ba4-9a1f-4595-b97f-28daa513af68_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/9/8/5036898/43699996-5c35-45d0-b3d2-81047c08dabe_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€299k, far under the €500k line",
+      "weight": 3,
+      "detail": "Stamp duty about €2,990 (Daft's figure). Even with a rough €110–190k renovation, less €50–70k of grants, it lands around €350–445k all-in."
+    },
+    {
+      "text": "Every bedroom on the ground floor",
+      "weight": 3,
+      "detail": "The floor plan has one level and no stairs. The 4.56 × 4.11 m front bedroom suits Gabor's parents, a few steps from the bathroom and WC."
+    },
+    {
+      "text": "Walkable Dublin train",
+      "weight": 3,
+      "detail": "Enfield station is 1.5 km in a straight line, 1.8 km and about 24 minutes on foot (OSM routing), or 3 minutes by car. Ten Dublin-bound trains each weekday (06:32–21:17); the eight Sligo intercity services reach Connolly in 47–65 minutes."
+    },
+    {
+      "text": "About an acre for the dogs",
+      "weight": 2,
+      "detail": "The listing says c. 1 acre. From above it's a long strip about 25 m wide running about 135 m back from the road to a hedge, roughly 0.8 acre by the satellite estimate, with fields behind."
+    },
+    {
+      "text": "Town and schools a short hop",
+      "weight": 2,
+      "detail": "SuperValu is about 1 km away in a straight line and Enfield Community College 1.1 km. St Mary's Primary (570 pupils, mixed) is in the town, so school runs are minutes."
+    },
+    {
+      "text": "Grants should cover a slice of the work",
+      "weight": 1,
+      "detail": "The listing says it has been vacant 'well in excess of two years', which meets the Vacant Property Refurbishment Grant test (up to €50k, more if derelict); SEAI energy grants stack on top."
+    },
+    {
+      "text": "Lets easily",
+      "weight": 1,
+      "detail": "A renovated 4-bed with land, a walk from a commuter station on the M4 corridor, should rent readily when the family is away."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Full renovation, roughly €110–190k",
+      "weight": 3,
+      "detail": "Rough: shower room or en suite from the WC and a hall cupboard €12–20k (€35–50k as an extension); D1 to B2 with wall and attic insulation, windows and a heat pump €45–75k before €15–25k of SEAI grants; kitchen €15–25k; rewiring and replumbing €18–30k; finishes €15–30k; a septic upgrade €8–15k if needed. The Vacant Property Refurbishment Grant (up to €50k) could offset much of it."
+    },
+    {
+      "text": "Only 91 m², small living space",
+      "weight": 3,
+      "detail": "The floor-plan rooms add up to 91 m², under the brief's 100 m². The living room is 4.49 × 3.14 m and the kitchen 3.44 × 2.98 m, too small for six, and two bedrooms are about 6.5 m². Making it work probably means an extension (rough €2,500–3,000/m²)."
+    },
+    {
+      "text": "One bathroom and a WC for six",
+      "weight": 2,
+      "detail": "One 3.44 × 2.92 m bathroom plus a 2.14 × 1.17 m WC; a second shower room is a must."
+    },
+    {
+      "text": "On the R148 at 80 km/h, no footpath at the gate",
+      "weight": 2,
+      "detail": "The house sits about 20 m from the old N4 (R148, 80 km/h, unlit), and OSM maps no footpath on the 300 m to the Johnstown roundabout. The walk to town starts on the hard shoulder, and the front needs fencing for the dogs."
+    },
+    {
+      "text": "Yards and houses close on both sides",
+      "weight": 2,
+      "detail": "From above: houses about 25–35 m away on each side, in a ribbon of about ten along the road. The lot to the west is a gravel yard with slabs and a trailer, there's a yard with a green-roofed shed and stockpiled materials about 100 m east, and a cluster of sheds with wrapped bales about 140 m to the north-east across the road."
+    },
+    {
+      "text": "Building site 260 m away",
+      "weight": 1,
+      "detail": "BuyerIQ lists a 65-unit scheme being built on the lands north of the Johnstown roundabout, and 8 large residential applications about 250 m away. Expect years of construction traffic, with Enfield spreading towards the house."
+    },
+    {
+      "text": "Children's ED 40–50 minutes away",
+      "weight": 2,
+      "detail": "Naas and Connolly take 16+ only; Regional Hospital Mullingar (about 50 km) and CHI Temple Street or Tallaght in Dublin (about 40–45 km) take children."
+    },
+    {
+      "text": "Services, flood and radon unknown",
+      "weight": 1,
+      "detail": "Water, sewer, heating and broadband aren't stated; BuyerIQ shows 2 hidden critical and 4 high-priority flags behind its paid report (and mislabels the house as a 2-bed new home)."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "St Mary's Primary School, Enfield",
+      "candidates": [
+        "St Mary's Primary School, Johnstown Road, Enfield, Co. Meath",
+        "St Mary's National School Enfield, Co. Meath"
+      ],
+      "note": "Mixed, Catholic, 570 pupils (295 boys), not DEIS, roll 17821L; in Enfield, about 1.5–2 km by road.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Large mixed Catholic school, not DEIS (gov.ie); a curriculum evaluation exists on gov.ie but its PDF couldn't be retrieved, so no verdict."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Enfield Community College",
+      "candidates": [
+        "Enfield Community College, Dublin Road, Enfield, Co. Meath"
+      ],
+      "note": "Mixed, multi-denominational LMETB school, 532 pupils (289 boys), not DEIS; about 1.1 km in a straight line.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Not in the Meath Chronicle's 2024 or 2025 feeder-table roundups (20 Meath schools each), so no progression figure found."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Maynooth Post Primary School",
+      "candidates": [
+        "Maynooth Post Primary School, Moyglare Road, Maynooth, Co. Kildare"
+      ],
+      "note": "Mixed, about 17 km east via the M4. Scoil Dara in Kilcock (about 11 km) is the nearer alternative.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "About 90% progression to third level in recent feeder tables (from the Leavalley research; not re-checked here), and long one of north Kildare's stronger non-fee-paying schools."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Enfield village shop",
+      "candidates": [
+        "Centra Enfield, Co. Meath",
+        "SPAR Enfield, Co. Meath",
+        "Applegreen Enfield, Co. Meath"
+      ],
+      "note": "In the village centre, about 1–1.5 km; the first 300 m is on the R148 without a footpath.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Enfield",
+      "candidates": [
+        "SuperValu Enfield, Co. Meath",
+        "Lidl Enfield, Co. Meath",
+        "Tesco Kilcock, Co. Kildare"
+      ],
+      "note": "SuperValu is about 1 km away in a straight line, and Lidl is also in Enfield.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Johnstown Estate",
+      "candidates": [
+        "Johnstown Estate, Enfield, Co. Meath"
+      ],
+      "note": "The hotel and spa on the east edge of Enfield, close to the Johnstown roundabout, with several restaurants.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Regional Hospital Mullingar",
+      "candidates": [
+        "Regional Hospital Mullingar, Co. Westmeath",
+        "Children's Health Ireland at Temple Street, Dublin",
+        "Tallaght University Hospital, Dublin"
+      ],
+      "note": "Mullingar or the Dublin children's EDs (Temple Street, Tallaght); Naas and Connolly are nearer but take 16+ only.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Maynooth",
+      "candidates": [
+        "Main Street, Maynooth, Co. Kildare",
+        "Main Street, Kilcock, Co. Kildare",
+        "Market Street, Trim, Co. Meath"
+      ],
+      "note": "Kilcock for basics, Maynooth or Trim for more.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Dublin",
+      "candidates": [
+        "Grafton Street, Dublin"
+      ],
+      "note": "Dublin is the city here.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the M4, or the train from Enfield, 24 minutes' walk away.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Enfield station",
+      "candidates": [
+        "Enfield railway station, Co. Meath"
+      ],
+      "note": "Maynooth/Sligo line, 1.8 km (about 24 min) on foot: ten Dublin-bound trains each weekday (06:32, 07:07, 07:49, 08:47, 11:23, 13:22, 15:23, 17:29, 19:41, 21:17; bustimes/NTA, 20 Oct 2026). The Sligo intercity services take 47–65 minutes to Connolly, and the two earliest commuter trains run through to Pearse and Grand Canal Dock.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
