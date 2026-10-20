@@ -1,0 +1,362 @@
+{
+  "id": "posey-cottage-graiguenamanagh",
+  "name": "Posey Cottage",
+  "address": "Posey Cottage, Posey, Graiguenamanagh, Co. Kilkenny",
+  "eircode": "R95 F8Y1",
+  "lat": 52.572805,
+  "lng": -6.952811,
+  "listingUrl": "https://www.myhome.ie/residential/brochure/posey-cottage-posey-graiguenamanagh-co-kilkenny/5034042",
+  "status": "Considering",
+  "added": "2026-10-20",
+  "area": "Graiguenamanagh, Co. Kilkenny",
+  "agent": "John Doherty, Property Partners Doherty Buggy, New Ross",
+  "agentPhone": "051 425 270 / 086 232 4941",
+  "questions": [
+    "The features list says 0.24 ha and the description says 0.42 ha / 1.03 ac; can you send the folio map? From the aerials we make it roughly 0.33–0.38 ha. Is the boundary stock-proof all round, especially along the R705 and the field to the east (we have two dogs)?",
+    "Who works the farmyard about 70 m north of the house, and what is kept there (cattle, silage, slurry)? Are any of the three planning applications BuyerIQ shows within 1 km for that yard or the fields next to the house?",
+    "Is there a floor plan? Does Bedroom Four open next to the 1.74 × 1.45 m shower room, and could that shower room be enlarged into a walk-in shower for older parents?",
+    "When were the well water last tested and the septic tank last desludged or inspected? How old is the oil boiler, and is the gas hob on bottled LPG?",
+    "Has a radon test been done? BuyerIQ shows one critical finding for this Eircode that sits behind its paywall."
+  ],
+  "ai": {
+    "stars": 4,
+    "why": "Strong on paper: 215 m², four doubles with two on the ground floor, four bathrooms, about an acre behind electric gates, fibre and a C3 BER at €425k, 5 minutes from Graiguenamanagh and Duiske College. Held back by a working farmyard about 70 m north, the R705 about 15 m from the front door, and a station 20 minutes away."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but the house is lived in and the garage has power and sockets."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private well, stated in the listing's services. Ask for a recent water test."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Own septic tank, stated in the listing's services. Ask its age and when it was last desludged or inspected."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Full fibre at the address per BuyerIQ ('Fast broadband — 390 Mb full fibre'); the listing doesn't mention broadband. Provider not confirmed; the Borris area next door is in NBI's rollout.",
+      "type": "Fibre",
+      "speed": "~390 Mb (full fibre)",
+      "provider": "NBI / open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Two on the ground floor: Bedroom Four (2.89 × 2.93 m with a walk-in wardrobe), listed next to the shower room off the connecting hall, and Bedroom Three / Living Room (3.36 × 3.06 m plus a 2.41 × 1.23 m recess); no floor plan is published, so the layout is from the room list."
+  },
+  "price": 425000,
+  "type": "Detached two-storey house",
+  "beds": 4,
+  "bedsNote": "Two doubles on the ground floor and two en-suite doubles upstairs, plus a study (2.93 × 2.36 m) and a home office (4.43 × 2.96 m) upstairs",
+  "baths": 4,
+  "floorM2": 215,
+  "landHa": 0.42,
+  "landAcres": 1.03,
+  "ber": "C3",
+  "berKwh": 207.93,
+  "heating": "Oil-fired central heating, with multi-fuel stoves in the sitting room and kitchen",
+  "listed": "2026-10-20",
+  "stampDuty": 4250,
+  "tagline": "A 215 m² four-bed, four-bath house with two ground-floor bedrooms on about an acre behind electric gates, beside the R705 3.5 km north of Graiguenamanagh.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/4/0/5034042/0a3e3172-39b5-40ae-aaae-3a59db27d52c_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/4/0/5034042/302377b1-f250-417e-ba82-974eb2a70e97_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/4/0/5034042/36d9021d-0f9c-4605-9a79-4b7f8372213a_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/4/0/5034042/765d2dec-556a-446f-9fff-cdf82326534c_x.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/4/0/5034042/510b4816-c134-4b6f-8048-2d70b9e4c5af_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/4/0/5034042/69a4d043-e83d-42e8-9cfe-904f6b075e53_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/4/0/5034042/0337038f-7932-40b1-b2c1-ff3f2329aa96_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€425k, well under the €500k line",
+      "weight": 3,
+      "detail": "About €1,977/m² for 215 m²; stamp duty about €4,250."
+    },
+    {
+      "text": "Room for six: 215 m², four doubles, four bathrooms",
+      "weight": 3,
+      "detail": "Two en-suite doubles upstairs (master 4.35 × 4.32 m), a ground-floor shower room and a guest WC, plus a study and a 4.43 × 2.96 m home office."
+    },
+    {
+      "text": "Two ground-floor bedrooms by a shower room",
+      "weight": 3,
+      "detail": "Bedroom Four (2.89 × 2.93 m plus walk-in wardrobe) is listed beside the ground-floor shower room; Bedroom Three (3.36 × 3.06 m plus recess) is a second option."
+    },
+    {
+      "text": "About an acre behind electric gates",
+      "weight": 2,
+      "detail": "Stated as 0.42 ha / 1.03 ac (the features list's 0.24 ha looks like a typo); a tree-lined drive, mature planting, a south-west patio and a 35 m² double garage with power."
+    },
+    {
+      "text": "Duiske College 4 km away",
+      "weight": 2,
+      "detail": "Mixed ETB secondary in Graiguenamanagh, ranked third among mixed schools nationally in the Irish Times progression tables (Jan 2026)."
+    },
+    {
+      "text": "Graiguenamanagh 5 minutes away",
+      "weight": 2,
+      "detail": "About 4 km by road: Doran's SuperValu, Aldi, a health centre, two pharmacies and two primary schools; Borris is about 6 km north."
+    },
+    {
+      "text": "Ready to live in, with some character",
+      "weight": 1,
+      "detail": "BER C3 (208 kWh/m²/yr), a double-height hall with a tall arched window, an arched stone fireplace in the kitchen, a stone porch and views to the Blackstairs."
+    },
+    {
+      "text": "Full fibre at the address",
+      "weight": 1,
+      "detail": "BuyerIQ shows 390 Mb full fibre for R95 F8Y1."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Working farmyard about 70 m north",
+      "weight": 2,
+      "detail": "Satellite shows large sheds and a stack of wrapped silage bales about 70–100 m north of the house, reached by a lane at the junction just past the garage; expect smells, slurry and machinery."
+    },
+    {
+      "text": "Beside the R705, about 15 m from the road",
+      "weight": 2,
+      "detail": "The house front is roughly 15 m from the R705 Borris road behind a hedge, and the site is a long strip along it; gates help with the dogs, but traffic is at the boundary."
+    },
+    {
+      "text": "Dublin trains are 20 minutes away",
+      "weight": 2,
+      "detail": "Muine Bheag station is about 17 km (roughly 20 minutes) with about 7 weekday trains, 1h15–1h25 to Heuston; Thomastown is about 22 km. Dublin by car is about 1h50 per the listing."
+    },
+    {
+      "text": "Emergency department about 35 minutes",
+      "weight": 2,
+      "detail": "St Luke's, Kilkenny is about 29 km by road; University Hospital Waterford is about 47 km."
+    },
+    {
+      "text": "Oil, a private well and a septic tank",
+      "weight": 2,
+      "detail": "All stated in the listing; the well water and the tank's condition need checking, and oil heating will need replacing in time."
+    },
+    {
+      "text": "Parents' rooms are small",
+      "weight": 1,
+      "detail": "Bedroom Four is about 8.5 m² and the ground-floor shower room 1.74 × 1.45 m with an enclosed cubicle; the parents would need one of these and stairs are needed for the en-suites."
+    },
+    {
+      "text": "Kitchen is modest for six",
+      "weight": 1,
+      "detail": "The kitchen/dining/family room is 2.93 × 4.54 m plus 2.58 × 2.66 m, about 20 m², though the 6.9 × 4.35 m sitting room and 3.9 × 3.6 m sunroom add space."
+    },
+    {
+      "text": "Site size conflicts; no floor plan",
+      "weight": 1,
+      "detail": "The listing gives both 0.24 ha and 0.42 ha; a rough estimate from the aerials is 0.33–0.38 ha (0.8–0.95 ac). No floor plan is published."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Graiguenamanagh Boys' National School",
+      "candidates": [
+        "Graiguenamanagh Boys National School, Graiguenamanagh, Co. Kilkenny",
+        "Graig na Manach BNS, Graiguenamanagh, Co. Kilkenny"
+      ],
+      "note": "Catholic boys' school, roll 16311G, 76 boys, DEIS, about 4 km. S N Muire gan Smál (roll 17224Q, 50 boys and 88 girls, DEIS) is the town's other primary; check which classes it takes boys in.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Small DEIS boys' school; a Whole School Evaluation was published in May 2025, but gov.ie returned 403 and it couldn't be read."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Duiske College",
+      "candidates": [
+        "Duiske College, Graiguenamanagh, Co. Kilkenny"
+      ],
+      "note": "Mixed, KCETB, free, DEIS, with Transition Year; about 4 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "KCETB reports it ranked third among mixed schools nationally for progression to third level in the Irish Times tables (Jan 2026); no percentage was given."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Walsh's Daybreak, Graiguenamanagh",
+      "candidates": [
+        "Daybreak, Fairview Service Station, Graiguenamanagh, Co. Kilkenny",
+        "Centra, Main Street, Borris, Co. Carlow"
+      ],
+      "note": "The listing names Fairview Service Station / Walsh's Daybreak in Graiguenamanagh; Centra Borris is about 6 km north.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Graiguenamanagh",
+      "candidates": [
+        "SuperValu Doran's, Main Street, Graiguenamanagh, Co. Kilkenny",
+        "Aldi, Old Creamery, Upper Main Street, Graiguenamanagh, Co. Kilkenny",
+        "Lidl, Royal Oak Road, Bagenalstown, Co. Carlow"
+      ],
+      "note": "Doran's SuperValu and Aldi in Graiguenamanagh, about 4 km.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Waterside, Graiguenamanagh",
+      "candidates": [
+        "Waterside Restaurant, The Quay, Graiguenamanagh, Co. Kilkenny",
+        "Step House Hotel, Main Street, Borris, Co. Carlow"
+      ],
+      "note": "Waterside is a long-established restaurant in an old corn store on the Barrow quay (current opening not confirmed); the Step House in Borris is about 6 km.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "St Luke's General Hospital",
+      "candidates": [
+        "St Luke's General Hospital, Kilkenny",
+        "University Hospital Waterford"
+      ],
+      "note": "24-hour ED for all ages, about 29 km; Waterford is about 47 km.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Graiguenamanagh",
+      "candidates": [
+        "Main Street, Graiguenamanagh, Co. Kilkenny",
+        "Main Street, New Ross, Co. Wexford"
+      ],
+      "note": "Graiguenamanagh, about 4 km: health centre, two pharmacies, post office, cafés. New Ross is about 22 minutes.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "The Quay, Waterford"
+      ],
+      "note": "Kilkenny city, about 28 minutes via the R712 per the listing; Waterford is the alternative.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M9 (about 1h50 per the listing). The train from Muine Bheag is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Muine Bheag (Bagenalstown)",
+      "candidates": [
+        "Muine Bheag railway station, Bagenalstown, Co. Carlow",
+        "Thomastown railway station"
+      ],
+      "note": "Waterford–Heuston line: about 7 trains a weekday, 1h15–1h25 to Heuston; about 17 km north. Thomastown, on the same line, is about 22 km.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
