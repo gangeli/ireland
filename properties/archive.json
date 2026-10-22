@@ -169,18 +169,18 @@
       "recheck": false
     },
     {
-      "id": "leavalley-leixlip",
-      "name": "Leavalley",
-      "left": "2026-10-20",
-      "reason": "bumped by Posey Cottage, Graiguenamanagh (AI 4.0 vs score 3.0: AI 2.0, people [4, 3]); four houses tied at 3.0 — Leavalley fits fewest hard requirements (€550k over budget, 0.62 ac, structural concerns per George)",
-      "lastPrice": 550000,
-      "aiStars": 2.0,
+      "id": "ballinkillen-bagenalstown",
+      "name": "Ballinkillen",
+      "left": "2026-10-22",
+      "reason": "sale agreed",
+      "lastPrice": 450000,
+      "aiStars": 4.0,
       "human": {
         "n": 2,
-        "avg": 3.5
+        "avg": 3.0
       },
-      "listingUrl": "https://www.daft.ie/for-sale/leavalley-confey-leixlip-co-kildare/6533852",
-      "recheck": false
+      "listingUrl": "https://www.daft.ie/for-sale/ballinkillen-muine-bheag-co-carlow/6676559",
+      "recheck": true
     }
   ]
 }
