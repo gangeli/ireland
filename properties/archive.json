@@ -211,31 +211,31 @@
       "recheck": false
     },
     {
-      "id": "clomantagh-farmhouse",
-      "name": "Clomantagh Farmhouse",
+      "id": "brookhill-fethard",
+      "name": "Brookhill",
       "left": "2026-10-26",
-      "reason": "bumped by the €500k–1.5M pass (Grangehill 4.0; Brookhill, Brookview, Woodbrook 3.5) at a six-way tie on 3.0; lost the tie-break: ground-floor bedroom only by conversion",
-      "lastPrice": 250000,
-      "aiStars": 3.0,
+      "reason": "bumped after Gabor's rating ([2]) took its score to 2.75, below #20 (3.0); replaced by re-adds Leavalley and Clomantagh",
+      "lastPrice": 1200000,
+      "aiStars": 3.5,
       "human": {
-        "n": 2,
-        "avg": 3.0
+        "n": 1,
+        "avg": 2.0
       },
-      "listingUrl": "https://www.daft.ie/for-sale/clomantagh-farmhouse-clomanatagh-barna-co-kilkenny/6692311",
+      "listingUrl": "https://www.daft.ie/for-sale/brookhill-on-c-5-67ha-14-acres-fethard-co-tipperary-/6578342",
       "recheck": false
     },
     {
-      "id": "leavalley-leixlip",
-      "name": "Leavalley",
+      "id": "brookview-house-skerries",
+      "name": "Brookview House",
       "left": "2026-10-26",
-      "reason": "bumped by the €500k–1.5M pass (Grangehill 4.0; Brookhill, Brookview, Woodbrook 3.5) at a six-way tie on 3.0; lost the tie-break: over budget (€550k), one bathroom",
-      "lastPrice": 550000,
-      "aiStars": 2.0,
+      "reason": "bumped after Gabor's rating ([2]) took its score to 2.75, below #20 (3.0); replaced by re-adds Leavalley and Clomantagh",
+      "lastPrice": 1450000,
+      "aiStars": 3.5,
       "human": {
-        "n": 2,
-        "avg": 3.5
+        "n": 1,
+        "avg": 2.0
       },
-      "listingUrl": "https://www.daft.ie/for-sale/leavalley-confey-leixlip-co-kildare/6533852",
+      "listingUrl": "https://www.daft.ie/for-sale/brookview-house-balcunnin-skerries-co-dublin/6205614",
       "recheck": false
     }
   ]
