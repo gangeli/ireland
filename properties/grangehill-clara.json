@@ -1,0 +1,368 @@
+{
+  "id": "grangehill-clara",
+  "name": "Grangehill",
+  "address": "Grangehill, Clara, Co. Kilkenny",
+  "eircode": "R95 HK70",
+  "lat": 52.66018,
+  "lng": -7.12664,
+  "listingUrl": "https://www.daft.ie/for-sale/grangehill-clara-co-kilkenny/6636850",
+  "status": "Considering",
+  "added": "2026-10-26",
+  "area": "Clara, Co. Kilkenny",
+  "agent": "Marcella Savage, Sherry FitzGerald McCreery, Kilkenny",
+  "agentEmail": "info@sfmccreery.com",
+  "agentPhone": "056 772 1904 / 087 961 3274",
+  "questions": [
+    "The certificate is quoted as B3, but MyHome gives an EPI of 121 kWh/m²/yr, which is in the B2 band. Which is right, and can you send the BER advisory report (oil boiler age, insulation, windows)?",
+    "When were the well water last tested and the septic tank last desludged or inspected? Is the tank's percolation area in the front or rear lawn?",
+    "Can you send the folio map? Is the boundary dog-proof all round, especially the post-and-rail fence on the north-east side and the wooded strip along the farm track to the east?",
+    "What size is the detached workshop, does it have power, and is it covered by planning permission?",
+    "Who uses the farm track along the north-east boundary, and are any of the 8 planning applications BuyerIQ shows within 1 km for the fields beside the house?"
+  ],
+  "ai": {
+    "stars": 4,
+    "why": "A solid fit: 271 m², a ground-floor double with its own en-suite plus a ground-floor family bathroom for the parents, four bathrooms, B3, and Kilkenny's strong schools, ED and station 10 minutes away. Held back by 0.6 ac rather than an acre, a neighbour's house close on the west side, a private well and septic tank, and a price a little over the line."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but the house is lived in."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private well, stated in the listing's features. Ask for a recent water test."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank, stated in the listing's features. Ask its condition and when it was last desludged."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Full fibre likely: BuyerIQ lists 'Fast broadband — 390 Mb full fibre' for this address, though the speed detail is behind its paywall; the listing says nothing. Check the Eircode with NBI and open eir.",
+      "type": "Fibre",
+      "speed": "~390 Mb (full fibre)",
+      "provider": "NBI / open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Bedroom 1 (4.0 × 4.0 m, fitted wardrobe) is on the ground floor with its own en-suite shower room, and Bedroom 2 (4.12 × 4.10 m) sits beside the ground-floor family bathroom (bath and separate shower); confirmed on the floor plan."
+  },
+  "price": 525000,
+  "type": "Detached dormer house",
+  "beds": 5,
+  "bedsNote": "Two doubles on the ground floor (one en-suite); three upstairs, including the master with en-suite and dressing room and Bedroom 3 with en-suite",
+  "baths": 4,
+  "floorM2": 271,
+  "landHa": 0.24,
+  "landAcres": 0.6,
+  "ber": "B3",
+  "berKwh": 121,
+  "heating": "Oil-fired central heating, with multi-fuel stoves in the kitchen and sitting room",
+  "listed": "2026-09-24",
+  "views": 4269,
+  "stampDuty": 5250,
+  "tagline": "A 2007 stone-faced five-bed, four-bath dormer house of 271 m² with two ground-floor bedrooms on 0.6 acres in the countryside east of Kilkenny city, about 10 minutes from town.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/8/2/5030285/5026ae77-2255-40aa-91a7-713394e6417d_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/8/2/5030285/e8ca5612-ccf3-4fbc-a213-93b98cf6a301_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/8/2/5030285/6e867098-de6c-407f-a8c5-f7a641afa2b2_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/8/2/5030285/1c02ce9a-7c1f-44ee-ba97-8ab1924c04e7_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/8/2/5030285/0c2d2a28-f988-4fd4-9079-2e34b41722c0_x.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/8/2/5030285/e63e8025-ba1a-48e9-974e-2028f45075f1_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/8/2/5030285/c1bdac67-dc24-4d3f-a68c-6a87ca55b5ed_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/8/2/5030285/fcd60d40-5225-487c-aa3b-f89dfeb56d1e_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/8/2/5030285/12a789a3-d8c8-4cba-b34f-fe4e5bf16487_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/8/2/5030285/4bef969d-8258-469a-be90-4e9f3dcb8d3f_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Ground-floor suite for the parents",
+      "weight": 3,
+      "detail": "Bedroom 1 (4.0 × 4.0 m) has its own en-suite shower room and a fitted wardrobe; Bedroom 2 (4.12 × 4.10 m) is next to a 2.70 × 3.48 m family bathroom with a bath and separate shower, all on one hall off the living rooms."
+    },
+    {
+      "text": "Room for six: 271 m², five doubles, four bathrooms",
+      "weight": 3,
+      "detail": "Two en-suites upstairs (the master with a dressing room, Bedroom 3 at 4.41 × 5.96 m), a 7.6 m upper hall, a 6.0 × 3.2 m living/dining room, a 3.58 × 5.95 m sitting room and a separate utility."
+    },
+    {
+      "text": "Kilkenny city 10 minutes away",
+      "weight": 3,
+      "detail": "About 10.4 km by the listing: St Kieran's and Kilkenny College (both rated strong), St Luke's 24-hour ED that takes children, the MacDonagh station and the city's supermarkets and restaurants."
+    },
+    {
+      "text": "Built 2007, B3, little work needed",
+      "weight": 2,
+      "detail": "Stone-faced with granite sills, BER B3 (EPI 121 kWh/m²/yr); the photos show a clean, lived-in interior with timber floors and a handmade-style kitchen, not a renovation job."
+    },
+    {
+      "text": "Open fields to the north and east, countryside views",
+      "weight": 2,
+      "detail": "The aerials show tillage and grazing beyond a farm track on two sides and long views south over rolling country; the lane in front is a quiet local road."
+    },
+    {
+      "text": "Village primary 1.9 km, M9 7 minutes",
+      "weight": 1,
+      "detail": "St Colman's NS, Clara (co-ed, 204 pupils, not DEIS) is 1.9 km; M9 exit 7 at Paulstown, with an Applegreen and M&S Food, is about 7 minutes."
+    },
+    {
+      "text": "Large detached workshop",
+      "weight": 1,
+      "detail": "A big shed at the back of the plot with double-gated side access for vehicles; useful for storage, a workshop or dog kit."
+    }
+  ],
+  "cons": [
+    {
+      "text": "€525k, a little over the €500k line",
+      "weight": 1,
+      "detail": "€25k over budget; about €1,937/m², stamp duty about €5,250. On the market since 24 Sep 2026 (32 days, about 4,300 views) with no price change; a nearby Templemartin, Clara house sold for €605k in Dec 2025."
+    },
+    {
+      "text": "0.6 acres, much of it not lawn",
+      "weight": 2,
+      "detail": "0.24 ha on a triangular plot; the site map shows a wooded strip along the eastern side, the workshop at the back and a gravel yard, so the open lawn for the dogs is perhaps a third of an acre (rough, by eye)."
+    },
+    {
+      "text": "A neighbour's house close on the west side",
+      "weight": 2,
+      "detail": "The aerial shows a large house and yard roughly 20–30 m from the west gable, with a cluster of four or five houses along the lane; space around the house is open only to the north and east."
+    },
+    {
+      "text": "Private well, septic tank and oil",
+      "weight": 2,
+      "detail": "All stated in the listing; the well water and the tank need checking, and oil heating will need replacing in time."
+    },
+    {
+      "text": "Six trains a day from Kilkenny",
+      "weight": 2,
+      "detail": "Kilkenny MacDonagh is about 11 km; the current timetable shows 6 weekday departures to Heuston (first 07:28, arriving 09:00), about 1h30–1h37."
+    },
+    {
+      "text": "Boundaries need dog-proofing",
+      "weight": 1,
+      "detail": "Stone wall and timber fencing at the front; the rear post-and-rail fence is partly broken and the eastern strip is open woodland along a farm track."
+    },
+    {
+      "text": "2007 finishes and tired outside spots",
+      "weight": 1,
+      "detail": "'Exceptional potential' in the listing: the inside is sound but dated in places (travertine-effect bathrooms, laminate upstairs), the rendered rear walls are stained and the workshop is weathered; rough €10–25k to freshen."
+    },
+    {
+      "text": "BER figure doesn't match the letter",
+      "weight": 1,
+      "detail": "Quoted as B3, but the published EPI of 121 kWh/m²/yr falls in the B2 band (100–125); ask for the certificate."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "St Colman's National School, Clara",
+      "candidates": [
+        "St Colman's National School, Clara, Co. Kilkenny R95 YW73",
+        "Clara National School, Clara, Co. Kilkenny"
+      ],
+      "note": "Co-ed Catholic vertical school (juniors to 6th), roll 16116I, 204 pupils (94 boys) in 2025/26, not DEIS, with an autism class; 1.9 km per the listing.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Co-ed, not DEIS, enrolment steady (down 5% since 2019/20); no inspection report could be retrieved."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "St Kieran's College",
+      "candidates": [
+        "St Kieran's College, College Road, Kilkenny",
+        "Kilkenny College, Castlecomer Road, Kilkenny"
+      ],
+      "note": "St Kieran's (boys, non-fee-paying) about 8.8 km; Kilkenny College (mixed, fee-paying) about 8.2 km. The nearer Presentation and Loreto are girls-only.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "St Kieran's had 100% progression to third level in the 2023 feeder-school report (Kilkenny People/Irish Independent); Kilkenny College was reported at over 100% (KCLR, 2016 tables)."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Applegreen Paulstown (M9 exit 7)",
+      "candidates": [
+        "Applegreen Service Area, Jordanstown, Paulstown, Co. Kilkenny",
+        "Gowran, Co. Kilkenny filling station shop"
+      ],
+      "note": "Clara has no shop that we could find; the Applegreen at M9 exit 7 (M&S Food, 06:00–23:00) is about 7 minutes per the listing.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Dunnes Stores MacDonagh Junction",
+      "candidates": [
+        "Dunnes Stores, MacDonagh Junction, Dublin Road, Kilkenny",
+        "Tesco, Market Cross, Kilkenny",
+        "Aldi, Waterford Road, Kilkenny"
+      ],
+      "note": "Kilkenny city's supermarkets, about 10 km; the Dublin Road side is closest.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Campagne",
+      "candidates": [
+        "Campagne, Kilkenny",
+        "Ristorante Rinuccini, Kilkenny"
+      ],
+      "note": "Kilkenny city: Campagne (Michelin star) or Rinuccini.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "St Luke's General Hospital",
+      "candidates": [
+        "St Luke's General Hospital, Kilkenny",
+        "University Hospital Waterford"
+      ],
+      "note": "St Luke's, Kilkenny: 24-hour ED that takes children, on the near side of the city.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Gowran",
+      "candidates": [
+        "Main Street, Gowran, Co. Kilkenny"
+      ],
+      "note": "Gowran (about 800 people: pubs, petrol station) is the nearest village; Kilkenny city does the real errands.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "Carlow town centre, Carlow"
+      ],
+      "note": "Kilkenny city, about 10 minutes per the listing; Carlow is the alternative.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "About 90 minutes by car via the M9 per the listing. The train from Kilkenny is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Kilkenny MacDonagh",
+      "candidates": [
+        "Kilkenny MacDonagh railway station"
+      ],
+      "note": "Waterford–Heuston line: 6 weekday departures to Heuston on the current timetable (07:28, 08:30, 11:45, 13:41, 15:33, 19:18), about 1h30–1h37.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

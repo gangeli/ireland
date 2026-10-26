@@ -1,0 +1,381 @@
+{
+  "id": "brookhill-fethard",
+  "name": "Brookhill",
+  "address": "Brookhill, Fethard, Co. Tipperary",
+  "eircode": "E91 K021",
+  "lat": 52.47545,
+  "lng": -7.664872,
+  "listingUrl": "https://www.daft.ie/for-sale/brookhill-on-c-5-67ha-14-acres-fethard-co-tipperary-/6578342",
+  "status": "Considering",
+  "added": "2026-10-26",
+  "area": "Fethard, Co. Tipperary",
+  "agent": "Roseanne De Vere Hunt, Sherry FitzGerald Country Homes, Farms & Estates",
+  "agentEmail": "roseanne.hunt@sherryfitz.ie",
+  "agentPhone": "01 237 6402",
+  "questions": [
+    "The price has dropped from €1.35m (Irish Times, June) to €1.2m after about five months on the market. Has there been any offer, and is the vendor open to an offer below €1.2m?",
+    "Brookhill is described as a protected structure. What exactly is on the Record of Protected Structures (main house only, or the coach house and gallery too), and are there any open planning conditions or works the council has asked for?",
+    "Is the ground-floor en-suite bedroom (4.6 × 3.8 m, with a 4.6 × 2.4 m en-suite) step-free from the gallery and the front door, and does its en-suite have a walk-in shower?",
+    "Where exactly does the brook run, and is it fenced from the lawns and paddocks? Has the house, yard or arena ever flooded?",
+    "What did oil cost over the last year, how old is the boiler, and when was the bio-cycle unit last serviced? BuyerIQ flags one critical finding for this Eircode: has a radon test been done?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "On fit it is close to ideal: a large ground-floor en-suite bedroom for the parents, 14 acres with stables, 4 bathrooms and 2 km from a town with schools and a 20-minute drive to a children's ED. But at €1.2m it is more than double the normal budget, and it is a BER-exempt protected house on oil with a lot of land, stables and an arena to keep up, 35–40 minutes from a Dublin train."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "Mains electricity, stated in the listing's services."
+    },
+    "water": {
+      "status": "ok",
+      "detail": "Mains water, stated in the listing's services."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Bio-cycle treatment unit, stated in the listing; ask its age and service history."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Fibre broadband, stated in the listing's services; BuyerIQ shows 103 Mb full fibre at E91 K021. Provider not confirmed.",
+      "type": "Fibre",
+      "speed": "~103 Mb (full fibre; higher tiers likely available)",
+      "provider": "NBI / open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Bedroom 2 (4.6 × 3.8 m) is on the ground floor of the converted coach house, with its own 4.6 × 2.4 m en-suite and a door to a private lawn, reached from the inner hallway by the utility room (per the floor plan)."
+  },
+  "price": 1200000,
+  "type": "Detached period house (late Georgian, protected structure)",
+  "beds": 5,
+  "bedsNote": "Ground-floor en-suite bedroom in the coach house plus four doubles upstairs; a 4.7 × 3.87 m mezzanine study/library over the kitchen",
+  "baths": 4,
+  "floorM2": 378,
+  "landHa": 5.67,
+  "landAcres": 14,
+  "ber": "Exempt",
+  "heating": "Oil-fired central heating with radiators; underfloor heating in the gallery and kitchen; Aga and a wood-burning stove",
+  "listed": "2026-05-29",
+  "views": 23092,
+  "stampDuty": 14000,
+  "tagline": "A late Georgian protected house joined by a 2004 glass gallery to a converted coach house, with stables, a barn and an arena on 14 acres, 2 km north-east of Fethard.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/6/2/5003269/aa8ae0b8-4587-4706-a4ba-8139454dd85f_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/6/2/5003269/e9c4868c-f9d1-47b4-bf98-da68a1caa536_l.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://sherryfitz.ie/media/property_images_large/157730/CHF260004_17.webp",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/6/2/5003269/1b95baba-55c0-4460-a214-07001e8b9223_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://sherryfitz.ie/media/property_images_large/157730/CHF260004_48.webp",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/6/2/5003269/c42b0c0b-5a0d-4596-b54a-d48948d96493_l.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://sherryfitz.ie/media/property_images_large/157730/CHF260004_16.webp"
+    },
+    {
+      "url": "https://sherryfitz.ie/media/property_images_large/157730/CHF260004_31.webp"
+    },
+    {
+      "url": "https://sherryfitz.ie/media/property_images_large/157730/CHF260004_36.webp"
+    }
+  ],
+  "pros": [
+    {
+      "text": "A real ground-floor suite for the parents",
+      "weight": 3,
+      "detail": "Bedroom 2 in the coach house is 4.6 × 3.8 m with a 4.6 × 2.4 m en-suite and its own door to a lawn, away from the bedrooms upstairs."
+    },
+    {
+      "text": "14 acres with stables, a barn and an arena",
+      "weight": 3,
+      "detail": "5.67 ha of lawns and stud-railed paddocks, four loose boxes, a 19 × 7.5 m barn, a workshop and a new 25 × 45 m fibre-surfaced arena; far more room than the dogs need."
+    },
+    {
+      "text": "Room for six: 378 m², five doubles, four bathrooms",
+      "weight": 3,
+      "detail": "Three en-suites (ground-floor bedroom, main bedroom with dressing room, Bedroom 5) plus a family bathroom and a ground-floor WC; drawing and dining rooms plus an 8.1 × 4.7 m kitchen/dining and 4.7 × 3.0 m living area under a double-height roof."
+    },
+    {
+      "text": "2 km from Fethard, with schools in town",
+      "weight": 2,
+      "detail": "Holy Trinity NS (mixed, ~220 pupils) and Patrician Presentation (mixed secondary, ~280) are both on Rocklow Road in Fethard; Centra and Spar for daily shopping."
+    },
+    {
+      "text": "Children's ED about 20 minutes away",
+      "weight": 2,
+      "detail": "Tipperary University Hospital, Clonmel is about 14 km straight-line, and takes all ages 24 hours."
+    },
+    {
+      "text": "Done up, mains water and fibre",
+      "weight": 2,
+      "detail": "Restored and extended in 2004 (architect James Montgomery), cosmetically updated since 2022; mains electricity and water and fibre broadband are stated (BuyerIQ: 103 Mb full fibre)."
+    },
+    {
+      "text": "Price already cut, long on the market",
+      "weight": 1,
+      "detail": "Launched at €1.35m (Irish Times, 18 June 2026), now €1.2m; listed 29 May, so about 150 days on the market. Room to negotiate."
+    },
+    {
+      "text": "Quiet, open setting",
+      "weight": 1,
+      "detail": "The aerials show fields on all sides, a tree-lined drive and one neighbouring house and yard about 100 m east; BuyerIQ puts it outside mapped noise zones."
+    }
+  ],
+  "cons": [
+    {
+      "text": "€1.2m, well over the normal brief",
+      "weight": 3,
+      "detail": "About €3,175/m² for 378 m², and 2.4× the usual €500k line; stamp duty about €14,000 (1% to €1m, 2% above)."
+    },
+    {
+      "text": "Protected structure, BER exempt, on oil",
+      "weight": 3,
+      "detail": "The Irish Times calls it a protected structure; no BER is published and heating is oil (radiators, with underfloor heating in the newer part), so a retrofit is limited by conservation rules and running costs are unknown."
+    },
+    {
+      "text": "A lot to keep up",
+      "weight": 2,
+      "detail": "14 acres of paddocks, stud-rail fencing, four stables, a barn, an arena, a vegetable garden and an old house; expect a groundskeeper or a lot of weekend work, or letting the land."
+    },
+    {
+      "text": "Dublin trains are 35–40 minutes away",
+      "weight": 2,
+      "detail": "Thurles (about 24 km straight-line) has about 16 weekday trains to Heuston, roughly 1h10–1h35; Clonmel's station has no direct Dublin trains."
+    },
+    {
+      "text": "Local schools are DEIS; strong ones are a drive",
+      "weight": 2,
+      "detail": "Holy Trinity NS and Patrician Presentation in Fethard are both DEIS with no readable ratings; Rockwell College (fee-paying, strong) is about 15 km away near Cashel."
+    },
+    {
+      "text": "A brook on the boundary",
+      "weight": 1,
+      "detail": "The Irish Times says a brook runs along the boundary; with two small boys and dogs, check where it runs and whether it floods."
+    },
+    {
+      "text": "Most bedrooms are upstairs, in two wings",
+      "weight": 1,
+      "detail": "Four of the five bedrooms are on the first floor; Bedrooms 4 and 5 are reached along a corridor in the rear wing, and the library is on a mezzanine up a stair."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Holy Trinity National School, Fethard",
+      "candidates": [
+        "Holy Trinity National School, Rocklow Road, Fethard, Co. Tipperary"
+      ],
+      "note": "Mixed, Catholic, DEIS, roll 20355C, about 208–225 pupils; formed by merging Nano Nagle NS and St Patrick's Boys NS. About 2.5 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed DEIS town school; gov.ie's inspection report pages sit behind a human check, so no report could be read."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Patrician Presentation Secondary School, Fethard",
+      "candidates": [
+        "Patrician Presentation Secondary School, Rocklow Road, Fethard, Co. Tipperary"
+      ],
+      "note": "Mixed, Catholic, free, DEIS, roll 65350S, about 280 pupils (149 boys). About 2.5 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Small mixed DEIS school; no progression figure found in the feeder-school roundups searched."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Rockwell College",
+      "candidates": [
+        "Rockwell College, New Inn, Cashel, Co. Tipperary"
+      ],
+      "note": "Mixed, fee-paying day and boarding school, about 15 km straight-line west.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "Heads the South Tipperary list in Tipperary Live's top-50 feeder-school report (22nd nationally, 104% progression to third level; the report is undated); fee-paying."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Centra Fethard",
+      "candidates": [
+        "Centra, Main Street, Fethard, Co. Tipperary",
+        "The Cross Stop Spar, Fethard, Co. Tipperary"
+      ],
+      "note": "Centra at the north-east end of Main Street (daily 7 a.m.–9 p.m. per Wikivoyage) and a Spar at The Cross Stop, about 2 km.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Supermarket in Clonmel or Cashel",
+      "candidates": [
+        "Tesco, Clonmel, Co. Tipperary",
+        "Lidl, Clonmel, Co. Tipperary",
+        "SuperValu, Cashel, Co. Tipperary"
+      ],
+      "note": "No large supermarket was confirmed in Fethard; Clonmel (about 14 km) and Cashel (about 16 km) have the full set. The page keeps the fastest.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Sadler's, Fethard",
+      "candidates": [
+        "Sadler's, Fethard, Co. Tipperary",
+        "McCarthy's, Main Street, Fethard, Co. Tipperary"
+      ],
+      "note": "Sadler's opened in March 2024 in the former Dooks premises; McCarthy's is the celebrated pub-restaurant-undertaker. Check both are serving.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Tipperary University Hospital, Clonmel",
+      "candidates": [
+        "Tipperary University Hospital, Western Road, Clonmel",
+        "St Luke's General Hospital, Kilkenny"
+      ],
+      "note": "24-hour ED that takes children, about 14 km straight-line. St Luke's, Kilkenny is the next all-ages ED.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Fethard",
+      "candidates": [
+        "Main Street, Fethard, Co. Tipperary",
+        "Main Street, Cashel, Co. Tipperary"
+      ],
+      "note": "Fethard, the walled town 2 km away, for daily errands; Clonmel and Cashel for everything else.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "The Quay, Waterford"
+      ],
+      "note": "Kilkenny city, about 34 km straight-line; Waterford is the alternative.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M8. The train from Thurles is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Thurles",
+      "candidates": [
+        "Thurles railway station, Co. Tipperary"
+      ],
+      "note": "Cork and Limerick/Tralee lines: about 16 weekday trains to Heuston (12 on the Cork line alone, from 07:00), about 1h10–1h35. About 24 km straight-line; Clonmel and Cahir stations have no direct Dublin trains.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

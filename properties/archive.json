@@ -181,6 +181,62 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/ballinkillen-muine-bheag-co-carlow/6676559",
       "recheck": true
+    },
+    {
+      "id": "castleinch-kilkenny",
+      "name": "Castleinch",
+      "left": "2026-10-26",
+      "reason": "bumped by the €500k–1.5M pass (Grangehill 4.0; Brookhill, Brookview, Woodbrook 3.5) at a six-way tie on 3.0; lost the tie-break: 94 m², under the 100 m² size floor",
+      "lastPrice": 350000,
+      "aiStars": 3.0,
+      "human": {
+        "n": 1,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/castleinch-co-kilkenny-castleinch-co-kilkenny/6673997",
+      "recheck": false
+    },
+    {
+      "id": "parochial-house-monasterevin",
+      "name": "Parochial House",
+      "left": "2026-10-26",
+      "reason": "bumped by the €500k–1.5M pass (Grangehill 4.0; Brookhill, Brookview, Woodbrook 3.5) at a six-way tie on 3.0; lost the tie-break: ground-floor bedroom only by conversion",
+      "lastPrice": 370000,
+      "aiStars": 3.0,
+      "human": {
+        "n": 0,
+        "avg": null
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/parochial-house-drogheda-street-monasterevin-co-kildare/6672709",
+      "recheck": false
+    },
+    {
+      "id": "clomantagh-farmhouse",
+      "name": "Clomantagh Farmhouse",
+      "left": "2026-10-26",
+      "reason": "bumped by the €500k–1.5M pass (Grangehill 4.0; Brookhill, Brookview, Woodbrook 3.5) at a six-way tie on 3.0; lost the tie-break: ground-floor bedroom only by conversion",
+      "lastPrice": 250000,
+      "aiStars": 3.0,
+      "human": {
+        "n": 2,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/clomantagh-farmhouse-clomanatagh-barna-co-kilkenny/6692311",
+      "recheck": false
+    },
+    {
+      "id": "leavalley-leixlip",
+      "name": "Leavalley",
+      "left": "2026-10-26",
+      "reason": "bumped by the €500k–1.5M pass (Grangehill 4.0; Brookhill, Brookview, Woodbrook 3.5) at a six-way tie on 3.0; lost the tie-break: over budget (€550k), one bathroom",
+      "lastPrice": 550000,
+      "aiStars": 2.0,
+      "human": {
+        "n": 2,
+        "avg": 3.5
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/leavalley-confey-leixlip-co-kildare/6533852",
+      "recheck": false
     }
   ]
 }

@@ -1,15 +1,12 @@
 {
   "properties": [
     "forty-shades",
-    "castleinch-kilkenny",
     "old-forge-ballyduff",
-    "parochial-house-monasterevin",
     "stone-lodge-freshford",
     "tobinstown-lodge-tullow",
     "alderfern-ferns",
     "jenkinstown-park-jenkinstown",
     "jamestown-ballybrittas",
-    "clomantagh-farmhouse",
     "ballygowan-kilmoganny",
     "ballyhast-castletown-geoghegan",
     "poppy-house-emo",
@@ -19,6 +16,9 @@
     "friars-hill-thomastown",
     "tirernan-ballickmoyler",
     "posey-cottage-graiguenamanagh",
-    "leavalley-leixlip"
+    "grangehill-clara",
+    "brookhill-fethard",
+    "brookview-house-skerries",
+    "woodbrook-house-clane"
   ]
 }

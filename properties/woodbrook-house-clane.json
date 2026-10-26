@@ -1,0 +1,379 @@
+{
+  "id": "woodbrook-house-clane",
+  "name": "Woodbrook House",
+  "address": "Woodbrook House, Kilmurray, Clane, Co. Kildare",
+  "eircode": "W91 T9C5",
+  "lat": 53.329764,
+  "lng": -6.748685,
+  "listingUrl": "https://www.daft.ie/for-sale/woodbrook-house-kilmurray-clane-co-kildare/6570178",
+  "status": "Considering",
+  "added": "2026-10-26",
+  "area": "Clane, Co. Kildare",
+  "agent": "Gero Gannon, Sherry FitzGerald Reilly (Clane)",
+  "agentPhone": "045 868412",
+  "price": 1175000,
+  "type": "Detached period house (c.1850, extended c.2002)",
+  "beds": 6,
+  "bedsNote": "Two en-suite doubles on the ground floor, four upstairs; plus a detached ~1,000 sq ft mews (kitchen, shower room, two lofts)",
+  "baths": 4,
+  "floorM2": 390,
+  "landHa": 1.21,
+  "landAcres": 3,
+  "ber": "D1",
+  "berKwh": 238.59,
+  "heating": "Oil-fired central heating, plus a wood-burning stove",
+  "listed": "2026-06-27",
+  "views": 10289,
+  "stampDuty": 13500,
+  "tagline": "An ivy-covered 1850s house, extended in 2002, on 3 acres with paddocks and a sand arena, across the road from Donadea Forest Park, 6 km from Clane.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/3/2/5009237/c8ca2453-907f-4344-b14a-6deea3a60643_l.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/3/2/5009237/232b6668-e78f-4ce4-b80d-6234cfe48966_l.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/3/2/5009237/b846a64c-f550-4ad4-918c-b54b74e21adf_l.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/3/2/5009237/c775d3aa-238d-4772-9d56-bafae8dec7cf_l.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/3/2/5009237/2e699954-0ee4-43d0-af38-c30a5b9c9a0c_l.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/3/2/5009237/e52ccc71-fea1-4cf5-b869-ebbb5725e679_l.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/3/2/5009237/118b1e0b-d733-4f0d-87b2-104a0eebb997_l.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/3/2/5009237/cc0d5fe3-0f0c-43b5-b642-152d3d5d0bf8_l.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Two en-suite bedrooms on the ground floor",
+      "weight": 3,
+      "detail": "Bedroom 1 (5.3 × 4.0 m, shower en suite) and Bedroom 2 (5.3 × 4.7 m, bath en suite) come before the 'First Floor' heading in the agent's room list, next to a ground-floor WC with shower."
+    },
+    {
+      "text": "3 acres beside Donadea Forest",
+      "weight": 3,
+      "detail": "Two paddocks, a ~600 m² sand arena, three loose boxes and a landscaped garden; Donadea Forest Park's trails are across the road."
+    },
+    {
+      "text": "Big common rooms",
+      "weight": 2,
+      "detail": "10.7 × 5.1 m kitchen/living, 10.7 × 6.6 m games room with bar and sauna, 7.4 × 3.8 m stone dining room, plus a lounge, TV room and office."
+    },
+    {
+      "text": "Four bathrooms plus a separate mews",
+      "weight": 2,
+      "detail": "Two en suites, a family bathroom and a shower WC in the house; the ~1,000 sq ft mews has its own kitchen and shower room for guests or letting (its two lofts are up a spiral stair)."
+    },
+    {
+      "text": "Children's ED about 35 minutes away",
+      "weight": 2,
+      "detail": "CHI at Tallaght is about 25 km in a straight line (about 35 km by road via Clane and the N7); Crumlin is the alternative."
+    },
+    {
+      "text": "Train to Dublin 9 km away",
+      "weight": 2,
+      "detail": "Kilcock has 10 weekday trains to Connolly (06:42–21:27, 43–62 min); Maynooth, 12 km away, has far more."
+    },
+    {
+      "text": "Village primary 1.2 km; Clongowes 4.7 km",
+      "weight": 1,
+      "detail": "Staplestown NS (co-ed, ~110 pupils) is 1.2 km away; the house is in St Farnan's (Prosperous) catchment, and Clongowes Wood (fee-paying) is 4.7 km."
+    },
+    {
+      "text": "Full fibre at the address",
+      "weight": 1,
+      "detail": "BuyerIQ shows 387 Mb full fibre for this Eircode."
+    }
+  ],
+  "cons": [
+    {
+      "text": "€1,175,000, well over the brief",
+      "weight": 3,
+      "detail": "€3,013/m², about 2.35 times the €500k line, with €13,500 stamp duty. It has been listed for 121 days (since 27 Jun) with no price change found, which gives some room to negotiate."
+    },
+    {
+      "text": "BER D1, oil heating, 390 m² to heat",
+      "weight": 3,
+      "detail": "238.59 kWh/m²/yr, about 93,000 kWh/yr modelled. As a rough guess, oil costs €7–10k a year and a heat-pump and insulation retrofit costs €60–100k before grants."
+    },
+    {
+      "text": "A lot to maintain",
+      "weight": 2,
+      "detail": "1850s stone house, 2002 extension, mews, stables, arena, paddocks, hot tub, sauna and bar: years of upkeep and running costs before any change."
+    },
+    {
+      "text": "Water and sewage not stated",
+      "weight": 2,
+      "detail": "Neither the listing nor the features mention them; a rural site like this usually has a septic tank or treatment unit, and possibly a well."
+    },
+    {
+      "text": "Local school quality unverified",
+      "weight": 1,
+      "detail": "No inspection or progression figures were found for Staplestown NS, St Farnan's or Scoil Mhuire Clane, and the Clane–Prosperous area is oversubscribed for first-year places; only Clongowes (fee-paying) has a strong record."
+    },
+    {
+      "text": "Flood zone 0.3 km away",
+      "weight": 1,
+      "detail": "BuyerIQ (OPW NIFM, indicative) maps a river flood zone about 0.3 km from the address; get a flood-cover quote."
+    },
+    {
+      "text": "Front wall on the road, farmyard nearby",
+      "weight": 1,
+      "detail": "From above, the house fronts a local road with a row of four or five houses alongside to the west and a farmyard about 200 m west; fields to the south and the forest to the north."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "category": "Schools",
+      "kind": "Primary school",
+      "title": "Staplestown National School (Scoil Naomh Mhuire)",
+      "label": "School run",
+      "candidates": [
+        "Staplestown National School, Staplestown, Donadea, Co. Kildare",
+        "Scoil Naomh Mhuire Staplestown, Co. Kildare"
+      ],
+      "note": "Catholic, co-ed, roll 16777G, ~104–110 pupils (2026 job adverts: 110), about 1.2 km.",
+      "when": "08:20",
+      "group": "weekday",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Small co-ed Catholic school; no inspection report could be retrieved and no reputation found either way."
+      }
+    },
+    {
+      "id": "secondary",
+      "category": "Schools",
+      "kind": "Secondary school",
+      "title": "St Farnan's Post Primary School",
+      "label": "School run",
+      "candidates": [
+        "St Farnan's Post Primary School, Prosperous, Co. Kildare"
+      ],
+      "note": "Mixed KWETB school, ~635 pupils, about 4.8 km; its catchment names Donadea and Staplestown, and a new 1,000-pupil building is planned. Scoil Mhuire Community School, Clane (mixed, 1,183 pupils), is 5.4 km.",
+      "when": "08:05",
+      "group": "weekday",
+      "rating": {
+        "level": "Unknown",
+        "basis": "No progression figure found for St Farnan's or Scoil Mhuire Clane; the Irish Times and Leinster Leader tables couldn't be read."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "category": "Schools",
+      "kind": "Good secondary school",
+      "title": "Clongowes Wood College",
+      "label": "School run",
+      "candidates": [
+        "Clongowes Wood College, Clane, Co. Kildare"
+      ],
+      "note": "Fee-paying Jesuit boys' boarding and day school, about 4.7 km.",
+      "when": "08:05",
+      "group": "weekday",
+      "rating": {
+        "level": "Strong",
+        "basis": "Topped Kildare in the Irish Times feeder-school table per the Leinster Leader (112% progression) and was the Sunday Times' top Leinster school outside Dublin for eight years running."
+      }
+    },
+    {
+      "id": "shop",
+      "category": "Groceries",
+      "kind": "Village shop",
+      "title": "SPAR Prosperous",
+      "label": "Milk and bread",
+      "candidates": [
+        "SPAR Prosperous, Curryhills, Co. Kildare",
+        "Londis Prosperous, Co. Kildare"
+      ],
+      "note": "Cully's SPAR at Curryhills, Prosperous, about 4.6 km; there's no shop in Staplestown or Kilmurray that we found.",
+      "when": "09:15",
+      "group": "weekday"
+    },
+    {
+      "id": "bigshop",
+      "category": "Groceries",
+      "kind": "Supermarket",
+      "title": "Clane supermarkets",
+      "label": "Weekly shop",
+      "candidates": [
+        "Lidl Clane, Co. Kildare",
+        "Aldi Clane, Co. Kildare",
+        "Tesco Kilcock, Co. Kildare"
+      ],
+      "note": "Clane is about 6 km; Kilcock and Naas are the bigger options.",
+      "when": "10:30",
+      "group": "weekday"
+    },
+    {
+      "id": "dinner",
+      "category": "Eating out",
+      "kind": "Restaurant",
+      "title": "The Lonesome Boatman, Clane",
+      "label": "Dinner out",
+      "candidates": [
+        "The Lonesome Boatman, Clane, Co. Kildare",
+        "Mode Tapas & Grill, Clane, Co. Kildare",
+        "Cooke's of Caragh, Caragh, Co. Kildare"
+      ],
+      "note": "Clane's steakhouse pub; Connolly's at Ballagh Cross, Donadea, is for sale with its kitchen closed. Cooke's of Caragh (4.7 on OpenTable) is the better-reviewed option further out.",
+      "when": "19:00",
+      "group": "weekday"
+    },
+    {
+      "id": "hospital",
+      "category": "Health",
+      "kind": "Emergency department",
+      "title": "CHI at Tallaght",
+      "label": "3 a.m. emergency",
+      "candidates": [
+        "Tallaght University Hospital, Dublin",
+        "Children's Health Ireland at Crumlin",
+        "Children's Health Ireland at Temple Street, Dublin"
+      ],
+      "note": "Tallaght and Crumlin have children's 24-hour EDs; Naas (14 km) and Connolly take 16+ only. Tallaght's paediatric ED closed for four days in Sept 2026 ahead of the move to the new children's hospital, which has no opening date yet.",
+      "when": "03:00",
+      "group": "night"
+    },
+    {
+      "id": "town",
+      "category": "Towns and cities",
+      "kind": "Small town",
+      "title": "Clane",
+      "label": "Errands and coffee",
+      "candidates": [
+        "Main Street, Clane, Co. Kildare",
+        "Main Street, Naas, Co. Kildare",
+        "Main Street, Maynooth, Co. Kildare"
+      ],
+      "note": "Clane for everyday needs; Naas or Maynooth for more.",
+      "when": "12:30",
+      "group": "weekday"
+    },
+    {
+      "id": "city",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "Dublin",
+      "label": "City trip",
+      "candidates": [
+        "Grafton Street, Dublin"
+      ],
+      "note": "Dublin is the city here.",
+      "when": "15:00",
+      "group": "weekday"
+    },
+    {
+      "id": "dublin",
+      "category": "Towns and cities",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "label": "Day in Dublin",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the M4 or N7, or the train from Kilcock or Maynooth.",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday"
+    },
+    {
+      "id": "cork",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "Cork city centre",
+      "label": "Weekend away",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday"
+    },
+    {
+      "id": "train",
+      "category": "Getting away",
+      "kind": "Station",
+      "title": "Kilcock station",
+      "label": "Train to Dublin",
+      "candidates": [
+        "Kilcock railway station, Co. Kildare",
+        "Maynooth railway station, Co. Kildare"
+      ],
+      "note": "Maynooth/Sligo line: 10 weekday trains to Connolly from Kilcock (06:42–21:27, 43–62 min; timetable from 21 Sep 2026); Maynooth, 12 km away, runs every 15–30 min.",
+      "when": "07:15",
+      "group": "further"
+    },
+    {
+      "id": "airport",
+      "category": "Getting away",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "label": "Flights",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "when": "06:00",
+      "group": "further",
+      "day": "friday"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ],
+  "questions": [
+    "Can you send a floor plan? We'd like to confirm that Bedrooms 1 and 2 are on the ground floor, and whether the 390 m² (Daft) or 4,500 sq ft (MyHome) includes the mews.",
+    "Is the water mains or a well, and is the sewage a septic tank or a treatment unit? How old is it, and has it been inspected?",
+    "Does the mews have planning permission as a habitable unit, and is there a certificate of compliance for the c.2002 extension?",
+    "What does the house use in oil a year, and are there any quotes for a heat pump or insulation?",
+    "BuyerIQ maps a river flood zone about 0.3 km away. Has the house, the land or the road ever flooded, and does the vendor hold flood cover?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "On fit it's close to ideal: two ground-floor en-suite bedrooms, four bathrooms, 3 acres by a forest, big rooms, Kilcock trains and a children's ED about 35 minutes away. But at €1.175m it's well over twice the budget, with D1 oil heating on 390 m² and a lot of property to keep up."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated (lived-in house with CCTV and electric gates)."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Not stated: could be mains or a private well; ask."
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Septic tank or treatment unit likely; not stated, and there's no public sewer this far out."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Full fibre likely: BuyerIQ shows 387 Mb full fibre at this address; the listing doesn't mention broadband.",
+      "type": "Fibre",
+      "speed": "~387 Mb (up to 1 Gb plans)",
+      "provider": "NBI / open eir (check)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Two: Bedroom 1 (5.3 × 4.0 m, shower en suite) and Bedroom 2 (5.3 × 4.7 m, bath en suite) are listed before the 'First Floor' heading; no floor plan is published, so the layout is from the room list."
+  }
+}

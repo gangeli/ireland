@@ -1,0 +1,381 @@
+{
+  "id": "brookview-house-skerries",
+  "name": "Brookview House",
+  "address": "Brookview House, Balcunnin, Skerries, Co. Dublin",
+  "eircode": "K34 K226",
+  "lat": 53.560368,
+  "lng": -6.139464,
+  "listingUrl": "https://www.daft.ie/for-sale/brookview-house-balcunnin-skerries-co-dublin/6205614",
+  "status": "Considering",
+  "added": "2026-10-26",
+  "area": "Skerries, Co. Dublin",
+  "agent": "John Cumisky, Sherry FitzGerald Cumisky Kelly, Balbriggan",
+  "agentEmail": "john@sfcumisky.ie",
+  "agentPhone": "01 691 3000",
+  "price": 1450000,
+  "type": "Detached two-storey house",
+  "beds": 4,
+  "bedsNote": "listed as 4/5 bed; office could be a 5th, and there is a finished bedroom and study whose location isn't stated",
+  "baths": 4,
+  "floorM2": 382,
+  "landHa": 1.27,
+  "landAcres": 3.14,
+  "ber": "A3",
+  "berKwh": 68.93,
+  "heating": "Geothermal heat pump (house); air-to-water heat pump (barn)",
+  "listed": "2025-10-09",
+  "views": 42776,
+  "stampDuty": 19000,
+  "tagline": "A large modern A3 house on 3.14 acres off the Baldongan Road, 2 km from Skerries station, between vegetable fields and a farmyard.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/7/4/4947476/df0f0ea4-e130-4078-af2f-d612a19f13c2_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/7/4/4947476/8cc3f0aa-7edc-40cb-8bc2-05cce29ad708_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/7/4/4947476/decf78a1-1ecc-499b-9fc2-c2256f119e07_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/7/4/4947476/92c1f98a-4b3d-48ab-b022-ec9edb759695_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/7/4/4947476/309d7182-4e67-4590-86eb-696734c275a2_x.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/7/4/4947476/e24c16bd-59b6-4f00-b2b2-921cd891e690_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/7/4/4947476/5559e813-38be-4152-a95e-049c492c7e4f_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/7/4/4947476/02787ab0-2cae-49a5-89af-e06f57fabab5_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Train to Connolly 2 km away",
+      "weight": 3,
+      "detail": "Skerries station is 2.0 km by the listing; about 30 southbound departures a weekday on the Northern Commuter line, roughly 38–44 minutes to Connolly."
+    },
+    {
+      "text": "3.14 acres, private and fenced by hedges",
+      "weight": 3,
+      "detail": "Electric gates, a long tree-lined drive, open lawns and mature planting; plenty of room for the dogs."
+    },
+    {
+      "text": "A3 BER with geothermal heating",
+      "weight": 2,
+      "detail": "68.93 kWh/m²/yr; low running costs and no retrofit bill, which few houses on the list can say."
+    },
+    {
+      "text": "Bathrooms for six",
+      "weight": 2,
+      "detail": "Three ensuite shower rooms plus a family bathroom upstairs, a ground-floor shower room at the rear and a guest WC."
+    },
+    {
+      "text": "Large common rooms",
+      "weight": 2,
+      "detail": "Living room 6.8 × 4.86 m, family room 6.34 × 6.6 m with a stove, kitchen 4.73 × 5.9 m and dining 6.3 × 5.1 m, plus a 3.95 × 4.48 m office."
+    },
+    {
+      "text": "Barn with its own heat pump",
+      "weight": 2,
+      "detail": "A large insulated barn set apart from the house with air-to-water heating; a possible annex for the parents or a letting unit, subject to planning."
+    },
+    {
+      "text": "Skerries schools and town close",
+      "weight": 2,
+      "detail": "Milverton NS is 710 m away (listing); Skerries Community College 2.6 km; 75–85% progression to third level."
+    },
+    {
+      "text": "Dublin Airport about 20 minutes",
+      "weight": 1,
+      "detail": "Via the M1 from Lusk; the airport trip the family will make most is short."
+    }
+  ],
+  "cons": [
+    {
+      "text": "€1.45m, about three times the brief",
+      "weight": 3,
+      "detail": "€3,796/m²; stamp duty about €19,000. On Daft since 9 Oct 2025 (over a year, 42.8k views) and on MyHome since 30 Jul 2025 with no price change shown: leverage to negotiate."
+    },
+    {
+      "text": "Farmyard and vegetable fields on both sides",
+      "weight": 3,
+      "detail": "The aerials show a large yard of agricultural sheds, polytunnels and a car park directly east along the drive, and commercial brassica fields hard against the west hedge. Expect tractors, spraying and early starts."
+    },
+    {
+      "text": "Ground-floor bedroom not on the floor plan",
+      "weight": 3,
+      "detail": "The text promises a rear ground-floor bedroom with ensuite shower, but the published plan shows all four bedrooms upstairs and only a laundry, entry and shower room at the rear."
+    },
+    {
+      "text": "Bedrooms all upstairs otherwise",
+      "weight": 2,
+      "detail": "Double-height hall and a long first-floor landing; the parents would be climbing stairs unless the barn or the office is converted."
+    },
+    {
+      "text": "Water and drainage not stated",
+      "weight": 2,
+      "detail": "Rural site off the Baldongan Road; the listing doesn't say mains water or septic. BuyerIQ flags one environmental factor and 10 planning applications within 1 km, details paywalled."
+    },
+    {
+      "text": "Stream along the drive",
+      "weight": 1,
+      "detail": "A 'gently flowing stream' runs beside the driveway; worth fencing for two small boys and checking for flood history."
+    },
+    {
+      "text": "Overhead lines at the entrance",
+      "weight": 1,
+      "detail": "Poles and lines cross the front of the site by the road in the drive photos."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "category": "Schools",
+      "kind": "Primary school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "title": "Milverton National School",
+      "candidates": [
+        "Milverton National School, Skerries, Co. Dublin",
+        "Scoil Moibhí Milverton, Skerries, Co. Dublin"
+      ],
+      "note": "Small Catholic co-ed school, about 85 pupils and five teachers (roll 15569R); 710 m straight-line per the listing.",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Small, not DEIS as far as found; no inspection report could be retrieved (gov.ie blocked) and no reputation either way found."
+      }
+    },
+    {
+      "id": "school-good",
+      "category": "Schools",
+      "kind": "Town primary school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "title": "Scoil Réalt na Mara",
+      "candidates": [
+        "Scoil Réalt na Mara, Skerries, Co. Dublin",
+        "Skerries Educate Together National School, Kelly's Bay, Skerries"
+      ],
+      "note": "The larger alternatives in Skerries: Réalt na Mara (Catholic, co-ed, ~367 pupils) or Skerries Educate Together, about 2.5 km.",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Both co-ed and well subscribed; inspection reports exist on gov.ie but couldn't be read from here, so not rated."
+      }
+    },
+    {
+      "id": "secondary",
+      "category": "Schools",
+      "kind": "Secondary school",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "title": "Skerries Community College",
+      "candidates": [
+        "Skerries Community College, Skerries, Co. Dublin"
+      ],
+      "note": "Mixed ETB school, about 2.6 km; Loreto Balbriggan (91%) is the strongest nearby on the same table.",
+      "rating": {
+        "level": "Good",
+        "basis": "Feeder tables: 156 Leaving Cert sits in 2021, 75% to third level (85% in 2020), above Lusk and Ardgillan."
+      }
+    },
+    {
+      "id": "shop",
+      "category": "Groceries",
+      "kind": "Village shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "title": "Skerries",
+      "candidates": [
+        "Centra Skerries, Co. Dublin",
+        "Spar Lusk, Co. Dublin",
+        "Londis Skerries, Co. Dublin"
+      ],
+      "note": "Nothing at Balcunnin itself; the nearest convenience shops are in Skerries or Lusk, each about 2–3 km."
+    },
+    {
+      "id": "bigshop",
+      "category": "Groceries",
+      "kind": "Supermarket",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "title": "SuperValu Skerries",
+      "candidates": [
+        "SuperValu Skerries, Co. Dublin",
+        "Lidl Skerries, Co. Dublin",
+        "Tesco Rush, Co. Dublin"
+      ],
+      "note": "Moriarty's SuperValu in Skerries is the main supermarket; Lidl and Rush are the alternatives."
+    },
+    {
+      "id": "dinner",
+      "category": "Eating out",
+      "kind": "Restaurant",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "title": "Stoop Your Head",
+      "candidates": [
+        "Stoop Your Head, Harbour Road, Skerries",
+        "Potager, Skerries, Co. Dublin"
+      ],
+      "note": "Family-run seafood bar on Skerries harbour, 4.6 on OpenTable with 2026 reviews."
+    },
+    {
+      "id": "hospital",
+      "category": "Health",
+      "kind": "Emergency department",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "title": "CHI at Temple Street",
+      "candidates": [
+        "Children's Health Ireland at Temple Street, Dublin",
+        "Our Lady of Lourdes Hospital, Drogheda"
+      ],
+      "note": "Temple Street's children's ED (moving to the new children's hospital at St James's when it opens) or the all-ages ED in Drogheda. Connolly and Beaumont are 16+ only."
+    },
+    {
+      "id": "town",
+      "category": "Towns and cities",
+      "kind": "Small town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "title": "Skerries",
+      "candidates": [
+        "Strand Street, Skerries, Co. Dublin"
+      ],
+      "note": "Seaside town of about 10,000 with GPs, pharmacies, cafés, the harbour and the station."
+    },
+    {
+      "id": "city",
+      "category": "Towns and cities",
+      "kind": "City",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "title": "Drogheda",
+      "candidates": [
+        "West Street, Drogheda, Co. Louth",
+        "Swords Pavilions, Swords, Co. Dublin"
+      ],
+      "note": "Drogheda to the north or Swords to the south for bigger shops; Dublin itself is below."
+    },
+    {
+      "id": "dublin",
+      "category": "Towns and cities",
+      "kind": "Capital",
+      "group": "further",
+      "day": "saturday",
+      "when": "09:30",
+      "label": "Day in Dublin",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the M1; the train from Skerries to Connolly is the easier way in."
+    },
+    {
+      "id": "cork",
+      "category": "Towns and cities",
+      "kind": "City",
+      "group": "further",
+      "day": "saturday",
+      "when": "09:30",
+      "label": "Weekend in Cork",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": ""
+    },
+    {
+      "id": "train",
+      "category": "Getting away",
+      "kind": "Station",
+      "group": "further",
+      "day": "weekday",
+      "when": "07:15",
+      "label": "Train to Dublin",
+      "title": "Skerries station",
+      "candidates": [
+        "Skerries railway station, Co. Dublin",
+        "Rush and Lusk railway station"
+      ],
+      "note": "Northern Commuter line: about 30 southbound trains a weekday, 38–44 minutes to Connolly (bustimes.org timetable, Oct 2026)."
+    },
+    {
+      "id": "airport",
+      "category": "Getting away",
+      "kind": "Airport",
+      "group": "further",
+      "day": "friday",
+      "when": "06:00",
+      "label": "Flight home",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most."
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ],
+  "questions": [
+    "The description mentions a ground-floor bedroom with ensuite shower to the rear, but the floor plan shows all four bedrooms upstairs. Where is that room, and is the newer bedroom and study in photos 49–52 in the house or the barn?",
+    "What is the barn's floor area, is it plumbed, and does it have planning permission for habitable or ancillary family use?",
+    "What business runs the yard next to the drive, and what goes on there day to day (machinery, packing, deliveries, hours)? Are any of the 10 planning applications within 1 km for that yard or the fields beside the house?",
+    "Is the house on mains water and sewer, or a well and septic tank or treatment plant? Has the stream by the drive ever flooded?",
+    "The house has been on the market since summer 2025 with no change in price shown. Has the asking price been revised, and is there room to move?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "Big, efficient and on 3 acres, 2 km from a Dublin train, with bathrooms to spare. The price is three times the brief, a working farmyard sits along the drive, and the plan puts every bedroom upstairs."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but the house runs two heat pumps and electric gates."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Not stated in the listing; rural site, could be mains or a well. Ask."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Not stated; likely a septic tank or treatment plant on a 3-acre rural site. Ask for certification."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Full fibre at the address per BuyerIQ ('Fast broadband — 406 Mb full fibre'); the listing doesn't mention broadband.",
+      "type": "Fibre",
+      "speed": "~406 Mb (full fibre)",
+      "provider": "open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "The listing says there's a rear ground-floor bedroom with ensuite shower, but the floor plan shows none; the 3.95 × 4.48 m office beside a ground-floor bathroom, or the heated barn, are the fallbacks."
+  }
+}

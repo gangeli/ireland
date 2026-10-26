@@ -1,0 +1,337 @@
+{
+  "id": "ballinafid-multyfarnham",
+  "name": "Ballinafid",
+  "address": "Ballinafid, Multyfarnham, Mullingar, Co. Westmeath",
+  "lat": 53.597578541133,
+  "lng": -7.3928861501282,
+  "listingUrl": "https://www.daft.ie/for-sale/ballinafid-multyfarnham-mullingar-co-westmeath/6290211",
+  "status": "Considering",
+  "added": "2026-10-26",
+  "area": "Multyfarnham, Co. Westmeath",
+  "agent": "Gary Corroon, Sherry FitzGerald Davitt & Davitt, Mullingar",
+  "agentPhone": "087 794 4115",
+  "questions": [
+    "No floor area is given; summing the room list we get about 300 m² (including the 7.4 × 10.6 m conservatory, excluding walls and the balcony). What is the measured floor area, and what are the BER number and kWh/m²/yr figure behind the B1?",
+    "The features say 'Option to purchase 5.5/ 9acre site'. Is the €795,000 for the house on about 9 acres, or on 5.5 acres with the rest optional, and at what price? Can you send the folio map, and is the woodland fenced enough for two dogs?",
+    "The only bathrooms we can see are the four en-suites and the main bathroom, all upstairs. Is there a WC or shower on the ground floor near the downstairs bedroom, and has anyone priced or sought planning to add one (for example off the 2.1 × 4.9 m utility)?",
+    "How far is the house from the N4 carriageway, how loud is the traffic in the garden and bedrooms, and is the entrance directly onto the N4 or onto a local road? How often do you hear trains on the Sligo line, about 300 m away?",
+    "Is the water supply mains, a group scheme or a private well? When was the septic tank/treatment plant last serviced, and has the house been tested for radon? It has been listed since September 2025 at €795,000; is the vendor open to offers?"
+  ],
+  "ai": {
+    "stars": 3,
+    "why": "A handsome 1830s stone house, extended in 2006, on about 9 acres of woodland 8 minutes from Mullingar's all-ages ED, schools and Dublin trains: about 300 m², five bedrooms, five bathrooms, BER B1. Held back by the €795k price (about €2,650/m²), the N4 about 100 m from the house, and a ground-floor bedroom with no ground-floor bathroom."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but the house is lived in and runs an air-to-water heat pump."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Not stated in the listing; could be mains, a group water scheme or a private well. Ask."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank/treatment plant, stated in the features. Ask its age and service history."
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Not stated in the listing and no Eircode is published to check BuyerIQ or NBI's map. The area was in NBI's rollout (amber) zone in 2021; fibre is likely by now but unconfirmed.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb if connected (unconfirmed)",
+      "provider": "NBI (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "One: the 'Downstairs Bedroom' (3.71 × 3.31 m, laminate floor, built-in wardrobes); the room list shows no ground-floor WC or shower, so the parents would climb the stairs to a bathroom until one is added."
+  },
+  "price": 795000,
+  "type": "Detached two-storey house (1830s, extended 2006)",
+  "beds": 5,
+  "bedsNote": "One bedroom (3.71 × 3.31 m) on the ground floor; four upstairs, each with an en-suite (primary 4.92 × 4.45 m with jacuzzi and balcony access)",
+  "baths": 5,
+  "floorM2": 300,
+  "landHa": 3.64,
+  "landAcres": 9,
+  "ber": "B1",
+  "heating": "Oil-fired central heating with an air-to-water heat pump, plus a solid-fuel stove in the sitting room",
+  "listed": "2025-09-12",
+  "views": 29893,
+  "stampDuty": 7950,
+  "tagline": "An 1830s cut-stone house, extended in 2006 to about 300 m², on roughly 9 acres of woodland beside the N4 about 3 km south of Multyfarnham and 8 minutes from Mullingar.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/9/9/4955996/0c2b46e7-550e-4a1c-8462-e2db67578231_l.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/9/9/4955996/fc7a2bbc-72db-4fef-9369-17c19234bf34_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/9/9/4955996/da5cdee3-ff46-4dd2-90d1-2ce736ab985c_l.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/9/9/4955996/0f31c6e8-a023-4d5c-9f66-3362ecd82ea3_l.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "About 9 acres of mature woodland",
+      "weight": 3,
+      "detail": "Stated as approximately 9 acres (about 3.6 ha) of woodland and paddock, with a stone-and-slate garage; the features also mention an option on a 5.5-acre site, to be clarified."
+    },
+    {
+      "text": "Room for six: about 300 m², five bathrooms",
+      "weight": 3,
+      "detail": "Room list sums to about 300 m²: four upstairs bedrooms of 18–23 m², each en-suite, plus a main bathroom, a 4.7 × 4.4 m sitting room, a 4.7 × 4.1 m dining room and a 7.4 × 10.6 m conservatory."
+    },
+    {
+      "text": "Mullingar's all-ages ED about 10 minutes",
+      "weight": 2,
+      "detail": "Regional Hospital Mullingar (24-hour ED with paediatrics) is roughly 7–9 km by road; the listing puts Mullingar 8 minutes away."
+    },
+    {
+      "text": "Dublin trains from Mullingar",
+      "weight": 2,
+      "detail": "Mullingar station is about 10 km (roughly 12–15 minutes); Sligo-line trains reach Connolly in about 1h15, with about 8 a weekday."
+    },
+    {
+      "text": "Good schools within reach",
+      "weight": 2,
+      "detail": "Scoil Chruimín Naofa in Multyfarnham (222 pupils, mixed, non-DEIS) is about 3 km; St Finian's College in Mullingar, a mixed secondary with very high progression to third level, is about 10 km."
+    },
+    {
+      "text": "Character and a decent BER",
+      "weight": 1,
+      "detail": "Cut-stone 1830s house with a double-height hall, timber sliding sashes and a solid-timber kitchen, renovated in 2006 to BER B1 with a heat pump alongside the oil."
+    },
+    {
+      "text": "Lough Owel and Multyfarnham nearby",
+      "weight": 1,
+      "detail": "Ballinafid Lake about 700 m and Lough Owel just south; Multyfarnham village, about 3 km, has a shop, two pubs and Weir's gastropub."
+    }
+  ],
+  "cons": [
+    {
+      "text": "€795k, well above the €500k line",
+      "weight": 3,
+      "detail": "About €2,650/m² for roughly 300 m², with stamp duty about €7,950. On Daft since 12 Sep 2025 (about 410 days, 29,900 views) with no price change shown on Daft or MyHome: room to negotiate."
+    },
+    {
+      "text": "The N4 is about 100 m away",
+      "weight": 3,
+      "detail": "OpenStreetMap puts the N4 Mullingar–Longford road (100 km/h) about 100 m from the house at its nearest and the Sligo railway about 300 m; expect traffic noise in the garden, and the woodland may sit between."
+    },
+    {
+      "text": "No ground-floor bathroom for the parents",
+      "weight": 2,
+      "detail": "The downstairs bedroom is 3.71 × 3.31 m with built-ins, but all five bathrooms are upstairs; adding a shower room (perhaps off the 2.1 × 4.9 m utility) is a rough €15–25k."
+    },
+    {
+      "text": "Most of the house is up the stairs",
+      "weight": 1,
+      "detail": "Four of five bedrooms and every bathroom are on the first floor, reached from a double-height hall."
+    },
+    {
+      "text": "Land terms unclear",
+      "weight": 1,
+      "detail": "The listing says 'approximately nine acres' but also 'Option to purchase 5.5/ 9acre site'; it isn't clear what the asking price buys."
+    },
+    {
+      "text": "Water, broadband and floor area not stated",
+      "weight": 1,
+      "detail": "No water source, broadband, Eircode, kWh figure or floor area is published; the 300 m² is our sum of the room list. Septic tank/treatment plant and oil heating are stated."
+    },
+    {
+      "text": "Woodland and lakes to manage",
+      "weight": 1,
+      "detail": "Nine acres of trees means upkeep and fencing for the dogs; Ballinafid Lake is about 700 m away and the flood-zone check needs the Eircode."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Scoil Chruimín Naofa, Multyfarnham",
+      "candidates": [
+        "Scoil Chruimin Naofa, Multyfarnham, Co. Westmeath",
+        "Multyfarnham National School, Multyfarnham, Co. Westmeath"
+      ],
+      "note": "Catholic, mixed, roll 19350I, 222 pupils (116 boys, 106 girls) in 2025/26, not DEIS; about 3 km north.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed, non-DEIS, enrolment up about 10% since 2019/20 (scoilscout); its inspection reports sit behind gov.ie's verification check and couldn't be read."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "St Finian's College, Mullingar",
+      "candidates": [
+        "St Finian's College, Mullingar, Co. Westmeath"
+      ],
+      "note": "Co-educational diocesan school, about 775 pupils, about 10 km. Coláiste Mhuire (boys) and Mullingar Community College (mixed) are the other options in Mullingar.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "In the 2019 feeder tables (Midlands 103) every Leaving Cert student went on to third level, the only Midlands school to manage that; another year's figure was 87%, against a Westmeath average of about 75%."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Lennon's, Multyfarnham",
+      "candidates": [
+        "Lennon's Shop, Main Street, Multyfarnham, Co. Westmeath",
+        "Centra, Mullingar, Co. Westmeath"
+      ],
+      "note": "Lennon's is described as the village's only shop (newspapers, Lotto, fuel, animal feed), about 3 km; it was offered for sale, so check it is still trading. Mullingar's north side is the fallback.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Tesco or Aldi, Mullingar",
+      "candidates": [
+        "Tesco Superstore, Ashe Road, Mullingar, Co. Westmeath",
+        "Aldi, Green Road, Mullingar, Co. Westmeath",
+        "Lidl, Mullingar, Co. Westmeath"
+      ],
+      "note": "Mullingar, about 8 minutes per the listing, has Tesco, Aldi, Lidl, Dunnes and SuperValu.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Weir's Bar & Restaurant, Multyfarnham",
+      "candidates": [
+        "Weirs Bar and Restaurant, Main Street, Multyfarnham, Co. Westmeath"
+      ],
+      "note": "Award-winning gastropub with home-made food; food served Wednesday to Sunday (to about 8.30 pm), not Monday or Tuesday. About 3 km.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Regional Hospital Mullingar",
+      "candidates": [
+        "Regional Hospital Mullingar, Longford Road, Mullingar",
+        "Midland Regional Hospital Tullamore, Arden Road, Tullamore"
+      ],
+      "note": "24-hour ED for adults and children on the Longford Road side of Mullingar, roughly 7–9 km; often in escalation. Tullamore is the other all-ages ED.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Mullingar",
+      "candidates": [
+        "Pearse Street, Mullingar, Co. Westmeath"
+      ],
+      "note": "Westmeath's county town, about 8 minutes per the listing: shops, GPs, the hospital and the station.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Athlone",
+      "candidates": [
+        "Athlone Castle, Athlone, Co. Westmeath"
+      ],
+      "note": "The Midlands' largest town, about 45 minutes; Galway, the nearest city, is about 1h15 per the listing.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the N4/M4 (the listing says 50 minutes to Dublin, likely to the M50). The train from Mullingar is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Mullingar",
+      "candidates": [
+        "Mullingar railway station, Co. Westmeath"
+      ],
+      "note": "Sligo line to Connolly: about 8 trains a weekday, about 1h15 (bustimes.org's Irish Rail data shows 1h14–1h20 for daytime trains). About 10 km.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
