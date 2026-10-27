@@ -36,7 +36,7 @@ Pull out:
 - lat/lng: on Daft, from the "Satellite View" link (`google.com/maps?t=k&q=<lat>,<lng>`) or `L.point`; otherwise geocode the Eircode. Get this right; every trip starts here.
 - price, type, beds (+ any convertible room), baths, floor area m², land (ha and acres; 1 ha = 2.471 ac), BER letter **and** kWh/m²/yr, heating, date listed (`listed`, YYYY-MM-DD; the index shows "listed 12d ago"), views
 - stamp duty: 1% of price up to €1m
-- the agent's email/phone if shown publicly.
+- the agent's email/phone if shown publicly. Prefer the agent's **mobile** (Irish mobiles start 08x) when the listing shows one, since the page's "WhatsApp the agent" button only appears for a mobile; put several numbers in `agentPhone` separated by " / " (e.g. `056 772 1904 / 087 961 3274`).
 
 Sanity checks on the numbers (each of these was wrong on a live page):
 - **An implausible m² is usually sq ft.** Castleinch's "1,015 m²" bungalow is 1,015 sq ft ≈ 94 m². Divide by 10.76.

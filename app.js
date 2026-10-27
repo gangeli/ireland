@@ -116,6 +116,11 @@
     $("gmapslink").href = `https://www.google.com/maps/search/?api=1&query=${P.lat},${P.lng}`;
     $("maillink").href = "#";
     $("maillink").addEventListener("click", (e) => { e.preventDefault(); openMail(); });
+    const wa = waNumber(P.agentPhone);
+    if (wa) {
+      $("walink").href = `https://wa.me/${wa}?text=${encodeURIComponent(`Hi, I'm interested in ${P.name}, ${P.address} (${P.listingUrl}). Is it still available?`)}`;
+      $("walink").hidden = false;
+    }
 
     const has = (v) => v !== undefined && v !== null && v !== "";
     const dom = has(P.listed) ? Math.max(0, Math.round((Date.now() - Date.parse(P.listed)) / 86400000)) : null;
@@ -271,6 +276,17 @@
   function stepLB(d) { LB.i = (LB.i + d + LB.items.length) % LB.items.length; showLB(); }
 
   /* ---------- email the agent ---------- */
+  // WhatsApp needs an international mobile number; Irish mobiles are 08x. Landlines can't take WhatsApp, so they return null.
+  function waNumber(phone) {
+    for (const part of String(phone || "").split(/[\/,;]| or /)) {
+      let d = part.replace(/[^\d+]/g, "");
+      if (d.startsWith("+")) d = d.slice(1);
+      else if (d.startsWith("00")) d = d.slice(2);
+      else if (d.startsWith("0")) d = "353" + d.slice(1);
+      if (/^3538\d{8}$/.test(d)) return d;
+    }
+    return null;
+  }
   function draft() {
     const town = (P.area || P.address).split(",")[0].trim();
     const sv = P.services || {}, known = (k) => sv[k] && (sv[k].status === "ok" || sv[k].status === "check");
@@ -296,6 +312,9 @@
     const to = P.agentEmail || "", su = $("md-subject").value, body = $("md-text").value;
     $("md-mailto").href = `mailto:${encodeURIComponent(to)}?subject=${encodeURIComponent(su)}&body=${encodeURIComponent(body)}`;
     $("md-gmail").href = `https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(to)}&su=${encodeURIComponent(su)}&body=${encodeURIComponent(body)}`;
+    const wa = waNumber(P.agentPhone);
+    $("md-whatsapp").hidden = !wa;
+    if (wa) $("md-whatsapp").href = `https://wa.me/${wa}?text=${encodeURIComponent(body)}`;
   }
   function openMail() {
     const d = draft();
