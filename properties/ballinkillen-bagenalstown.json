@@ -6,7 +6,7 @@
   "lat": 52.647311,
   "lng": -6.915607,
   "listingUrl": "https://www.daft.ie/for-sale/ballinkillen-muine-bheag-co-carlow/6676559",
-  "status": "Sale agreed",
+  "status": "Considering",
   "added": "2026-10-04",
   "area": "Ballinkillen, Co. Carlow",
   "agent": "Thomas Byrne",
@@ -115,6 +115,11 @@
       "text": "Private well and septic tank",
       "weight": 1,
       "detail": "Ask for water test results and the septic tank's age and compliance."
+    },
+    {
+      "text": "Sale fell through",
+      "weight": 1,
+      "detail": "Was sale agreed from 22 Oct; the listing showed 'for sale' again on 28 Oct with no price change. Ask the agent why the sale collapsed (survey, finance or title)."
     }
   ],
   "trips": [
@@ -302,8 +307,8 @@
     "Getting away"
   ],
   "ai": {
-    "stars": 4.0,
-    "why": "Two ground-floor bedrooms on 1.5 acres under €500k, school nearby. Tiny village, few trains."
+    "stars": 3.0,
+    "why": "Two ground-floor bedrooms in a 218 m² house on about 1.5 acres for €450k, back on the market after its sale fell through; but only 2 bathrooms, steep stairs, close neighbours and about 30 minutes to an emergency department."
   },
   "services": {
     "electricity": {

@@ -169,20 +169,6 @@
       "recheck": false
     },
     {
-      "id": "ballinkillen-bagenalstown",
-      "name": "Ballinkillen",
-      "left": "2026-10-22",
-      "reason": "sale agreed",
-      "lastPrice": 450000,
-      "aiStars": 4.0,
-      "human": {
-        "n": 2,
-        "avg": 3.0
-      },
-      "listingUrl": "https://www.daft.ie/for-sale/ballinkillen-muine-bheag-co-carlow/6676559",
-      "recheck": true
-    },
-    {
       "id": "castleinch-kilkenny",
       "name": "Castleinch",
       "left": "2026-10-26",
@@ -237,6 +223,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/clomantagh-farmhouse-clomanatagh-barna-co-kilkenny/6692311",
       "recheck": false
+    },
+    {
+      "id": "tobinstown-lodge-tullow",
+      "name": "Tobinstown Lodge",
+      "left": "2026-10-28",
+      "reason": "sale agreed",
+      "lastPrice": 500000,
+      "aiStars": 3.0,
+      "human": {
+        "n": 2,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/tobinstown-lodge-tobinstown-tullow-co-carlow/6684775",
+      "recheck": true
     }
   ]
 }
