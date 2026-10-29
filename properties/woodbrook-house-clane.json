@@ -152,6 +152,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Small co-ed Catholic school; no inspection report could be retrieved and no reputation found either way."
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "1.2 km of quiet narrow lanes, then a short stretch of the L5071 at Staplestown with no footpath."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet narrow lanes all the way to Staplestown; suits kids with an adult."
+        }
       }
     },
     {
@@ -169,6 +179,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "No progression figure found for St Farnan's or Scoil Mhuire Clane; the Irish Times and Leinster Leader tables couldn't be read."
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "4.3 km of quiet lanes, then footpaths through Prosperous; safe but long."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet lanes all the way, then Prosperous village streets."
+        }
       }
     },
     {
@@ -186,6 +206,16 @@
       "rating": {
         "level": "Strong",
         "basis": "Topped Kildare in the Irish Times feeder-school table per the Leinster Leader (112% progression) and was the Sunday Times' top Leinster school outside Dublin for eight years running."
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Quiet lanes for 3.4 km, then about 1 km on a regional road with only a verge; 800 m has no imagery."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lanes, then about 1 km on a regional road with no shoulder; 800 m has no imagery."
+        }
       }
     },
     {
@@ -200,7 +230,17 @@
       ],
       "note": "Cully's SPAR at Curryhills, Prosperous, about 4.6 km; there's no shop in Staplestown or Kilmurray that we found.",
       "when": "09:15",
-      "group": "weekday"
+      "group": "weekday",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "4.5 km of quiet bog lanes (L1021), then footpaths in Prosperous; safe but long."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet bog lanes all the way to Prosperous."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -215,7 +255,17 @@
       ],
       "note": "Clane is about 6 km; Kilcock and Naas are the bigger options.",
       "when": "10:30",
-      "group": "weekday"
+      "group": "weekday",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "5 km of quiet lanes, then the R403/R407 with a footpath into Clane; long."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lanes for 5 km, then the busier R403/R407 into Clane."
+        }
+      }
     },
     {
       "id": "dinner",
@@ -230,7 +280,17 @@
       ],
       "note": "Clane's steakhouse pub; Connolly's at Ballagh Cross, Donadea, is for sale with its kitchen closed. Cooke's of Caragh (4.7 on OpenTable) is the better-reviewed option further out.",
       "when": "19:00",
-      "group": "weekday"
+      "group": "weekday",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Quiet lanes to Prosperous, footpaths through the village, then quiet local roads to the canal; 7.7 km."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet lanes and local roads throughout, with a short village stretch in Prosperous."
+        }
+      }
     },
     {
       "id": "hospital",
@@ -260,7 +320,17 @@
       ],
       "note": "Clane for everyday needs; Naas or Maynooth for more.",
       "when": "12:30",
-      "group": "weekday"
+      "group": "weekday",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "5 km of quiet lanes, then the R403 into Clane with a footpath; the last 2 km has no imagery on this sheet."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lanes for 5 km, then the busier R403/R407 into Clane."
+        }
+      }
     },
     {
       "id": "city",

@@ -196,6 +196,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Co-ed, not DEIS, enrolment steady (down 5% since 2019/20); no inspection report could be retrieved."
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Quiet narrow lanes between hedges for ~1.9 km, then a village road with a footpath to St. Colman's; no verges, so kids walk single file."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet single-track lanes almost the whole way; a nice ride for kids with an adult."
+        }
       }
     },
     {
@@ -228,7 +238,17 @@
         "Gowran, Co. Kilkenny filling station shop"
       ],
       "note": "Clara has no shop that we could find; the Applegreen at M9 exit 7 (M&S Food, 06:00–23:00) is about 7 minutes per the listing.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "7.6 km including the R712 crossing and about 1.5 km on the R702 with no footpath; too far to walk."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lanes, a crossing of the R712, then about 1.5 km on the R702 with no shoulder into Gowran."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -284,7 +304,17 @@
         "Main Street, Gowran, Co. Kilkenny"
       ],
       "note": "Gowran (about 800 people: pubs, petrol station) is the nearest village; Kilkenny city does the real errands.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "7.3 km of lanes, then about 1.5 km on the R702 with no footpath into Gowran; too far for a routine walk."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Mostly quiet lanes, then about 1.5 km on the R702 with no shoulder into Gowran; one lane frame dates from 2009."
+        }
+      }
     },
     {
       "id": "city",

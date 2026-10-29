@@ -147,6 +147,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Last listed inspection is a WSE-MLL follow-through (Feb 2017), findings not readable; very small (64 pupils, 32 boys/32 girls), probably 3 teachers with multi-grade classes."
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Narrow, hedged single-track lanes almost the whole way, finishing on a quiet centre-lined local road with no footpath; fine for kids with an adult."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet single-track lanes for about 1 km, then a short stretch of quiet local road to the school."
+        }
       }
     },
     {
@@ -178,7 +188,17 @@
       ],
       "note": "Lambert's Londis and filling station in Camolin, about 4 km south-east; Ballyduff itself has no shop that could be confirmed, and Centra Ferns (about 6 km) is the fallback.",
       "title": "Lambert's Londis Camolin",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "6 km of mostly quiet lanes plus a wider L-road through a hamlet, but 2.8–4.4 km has no Street View; footpaths only on the final Main St."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lanes and the L5072 look easy riding, but about 1.6 km (2.8–4.4 km) has no Street View to check."
+        }
+      }
     },
     {
       "id": "bigshop",

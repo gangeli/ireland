@@ -181,6 +181,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Large co-ed Catholic school with special classes; DEIS Band 1 per its job adverts. Its only indexed inspection is a DEIS action-planning evaluation, which couldn't be read; no WSE found."
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths all the way via Carriglawn and Coolcotts Lane to O'Leary Rd; suits kids."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short stretch of R769, then quiet suburban Carriglawn and Coolcotts Lane; OK for kids with an adult."
+        }
       }
     },
     {
@@ -198,6 +208,16 @@
       "rating": {
         "level": "Good",
         "basis": "Named among Wexford's well-placed schools in the Irish Times feeder tables (South East Radio, Dec 2019) and on an older Sunday Independent best-performers list; no recent percentage found."
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths all the way along Newtown Rd and Belvedere Rd to the college; fine for older kids."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Newtown Rd and Belvedere Rd with a roundabout and no cycle lanes; moderate urban traffic."
+        }
       }
     },
     {
@@ -211,7 +231,17 @@
       ],
       "note": "The listing puts Aldi on Newtown Road within easy walking distance (about 300 m past the hospital); no Centra/Spar on Newtown Road turned up.",
       "when": "09:15",
-      "group": "weekday"
+      "group": "weekday",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths along the wide R769, with a segregated red cycle and foot path near the ALDI end."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Wide, fast-looking multi-lane R769 with no cycle lane until a red cycle track in the last few hundred metres."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -226,7 +256,17 @@
       ],
       "note": "Wexford town's full supermarkets are all within a few km.",
       "when": "10:30",
-      "group": "weekday"
+      "group": "weekday",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths throughout via Newtown Rd and Spawell Rd, with signalled and zebra crossings."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Urban R769 and R730 with no cycle lanes and a roundabout; OK for adults, not for young kids."
+        }
+      }
     },
     {
       "id": "dinner",
@@ -239,7 +279,17 @@
       ],
       "note": "Best restaurant in Co. Wexford at the 2026 Restaurant Association Awards; chef Paul Hynes, on the quay in town.",
       "when": "19:00",
-      "group": "weekday"
+      "group": "weekday",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths throughout via John St, Rowe St and Church Lane to Crescent Quay."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Busy R889 John St, then narrow town-centre streets with parked cars and the R730 quay."
+        }
+      }
     },
     {
       "id": "hospital",
@@ -252,7 +302,17 @@
       ],
       "note": "All-ages 24-hour ED on the same road; the listing says it's within easy walking distance.",
       "when": "03:00",
-      "group": "night"
+      "group": "night",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths on Newtown Rd and the residential streets; the last 300 m (likely hospital grounds) has no Street View."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short ride on quiet residential streets; the final 300 m has no Street View."
+        }
+      }
     },
     {
       "id": "town",
@@ -266,7 +326,17 @@
       ],
       "note": "The house is on the edge of Wexford town (county town, ~21,000 people); the centre is about 1.5 km.",
       "when": "12:30",
-      "group": "weekday"
+      "group": "weekday",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths the whole way along Newtown Rd, John St and through to the Bullring."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Busy R769 Newtown Rd and R889 John St with no cycle lanes, then narrow town-centre streets lined with parked cars."
+        }
+      }
     },
     {
       "id": "city",
@@ -322,7 +392,17 @@
       ],
       "note": "Rosslare–Dublin Connolly line: about 4 direct trains a weekday, ~2 h 40 min (earliest 05:59, arriving 08:48); fewer at weekends.",
       "when": "07:15",
-      "group": "further"
+      "group": "further",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths all along Newtown Rd and Spawell Rd to the quays, with one roundabout and the Westgate junction to cross."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "R769 and R730 urban roads with no cycle lanes, plus the Spawell Rd roundabout; fine for confident adults."
+        }
+      }
     },
     {
       "id": "airport",

@@ -177,6 +177,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Small mixed Catholic rural school; gov.ie's school and report pages sit behind a verification check and no inspection findings or reputation either way were found."
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Quiet rural local road (L3976) with no footpath for about 2 km; the last 1.4 km has no Street View imagery."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet, straight local roads for the visible 2 km; the last 1.4 km has no Street View imagery."
+        }
       }
     },
     {
@@ -225,7 +235,17 @@
         "Spar, Athy, Co. Kildare"
       ],
       "note": "About 5 km to Ballylinan's Centra; Athy's shops are about 6.5 km. The page keeps the faster drive.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 4.7 km on quiet local roads (L3976/L3975) with no footpath; the final 1.3 km into Ballylinan via the N78 has no Street View imagery."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet local roads for 4.7 km; the final stretch on the N78 into Ballylinan has no Street View imagery."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -281,7 +301,17 @@
         "Emily Square, Athy, Co. Kildare"
       ],
       "note": "About 6.5 km: GPs, pharmacies, supermarkets and the station. Carlow is about 13 km south.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 4.5 km on quiet local roads with no footpath; the last 3 km into Athy, including the N78, has no Street View imagery."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet local roads for 4.5 km; the last 3 km via the N78 Athy Distributor Road has no Street View imagery."
+        }
+      }
     },
     {
       "id": "city",

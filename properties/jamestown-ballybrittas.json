@@ -158,6 +158,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Mixed, not DEIS, steady enrolment near 200; the only report found is a 2021 Covid-safety (SSPS) check, with no whole-school evaluation readable."
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Narrow quiet single-track lanes for the whole 4.3 km; safe but a long walk for small kids."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet farm lanes the whole way with no main road, which suits kids on bikes."
+        }
       }
     },
     {
@@ -175,6 +185,16 @@
       "rating": {
         "level": "Below average",
         "basis": "55% progression to third level in the 2017 Irish Independent table (40 students) and DEIS status; the move to a new 850-place building may have changed this, but no newer figure was found."
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 3.5 km on the R445 hard shoulder with no footpath, then footpaths through Monasterevin past lorries on the R445/R417."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "R445 hard shoulder for 3.5 km, then busier town roads with lorries and no cycle lane."
+        }
       }
     },
     {
@@ -207,7 +227,17 @@
         "Londis Monasterevin, Co. Kildare"
       ],
       "note": "Ballybrittas has a pub and a service station about 2 km away; Monasterevin, about 4.5 km, has the fuller choice. The page keeps the fastest.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Quiet lane for 500 m, then 1.7 km on the wide R445 (old N7) with a narrow hard shoulder and no footpath; not for kids."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lane, then 1.7 km on the R445 hard shoulder, which is straight with good sightlines."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -222,7 +252,17 @@
         "Aldi Portarlington, Co. Laois"
       ],
       "note": "Monasterevin's and Portarlington's supermarkets (stores unconfirmed); Lidl has reportedly bought the old St Paul's site on Monasterevin's Main Street.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 3.5 km on the R445 hard shoulder with no footpath; the final 1.2 km into Monasterevin has no Street View imagery."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "R445 hard shoulder for 3.5 km, wide and straight; the final 1.2 km has no Street View imagery."
+        }
+      }
     },
     {
       "id": "dinner",
@@ -236,7 +276,17 @@
         "Hazel Hotel, Monasterevin, Co. Kildare"
       ],
       "note": "The Heritage resort in Killenard, about 5 km, or the Hazel Hotel in Monasterevin; check opening hours.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 3.5 km on the R445 hard shoulder with no footpath, then footpaths for the last 700 m into Monasterevin; long and not for kids."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "R445 hard shoulder for 3.5 km, straight with good sightlines, then town streets."
+        }
+      }
     },
     {
       "id": "hospital",
@@ -262,7 +312,17 @@
         "Main Street, Monasterevin, Co. Kildare"
       ],
       "note": "Monasterevin, about 4.5 km: shops, pharmacies, cafés and the station; Portarlington and Portlaoise for more.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 3 km on the R445 hard shoulder with no footpath, then footpaths for the last 1 km into Monasterevin; long and not for kids."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Mostly the R445 hard shoulder for 3 km, straight and wide, then town streets in Monasterevin."
+        }
+      }
     },
     {
       "id": "city",
@@ -317,7 +377,17 @@
         "Monasterevin railway station, Co. Kildare"
       ],
       "note": "Dublin–Portlaoise commuter and Cork/Limerick lines: about 26 trains a weekday to Heuston, 43–60 minutes.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 3 km on the R445 hard shoulder with no footpath, then a grassy canal towpath; the last 800 m has no Street View imagery."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "R445 hard shoulder for 3 km, then a rough grass canal towpath; the last 800 m has no Street View imagery."
+        }
+      }
     },
     {
       "id": "airport",

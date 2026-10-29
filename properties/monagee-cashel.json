@@ -157,6 +157,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Large DEIS Band 1 boys' school; no inspection report could be read (gov.ie returns a verification check) and no reputation evidence found either way."
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "First 2.3 km on the R505 with no footpath; footpaths from the edge of Cashel to the school."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "2.3 km on the R505 with no shoulder, then town streets with footpaths."
+        }
       }
     },
     {
@@ -192,6 +202,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Appears in the Irish Times South Tipperary feeder table (2026) below Rockwell, but no progression percentage or inspection finding could be read."
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "First 2.3 km on the R505 with no footpath, then footpaths through Cashel and the R691 to the school."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "2.3 km on the R505 with no shoulder, then town streets and a roundabout on the R691."
+        }
       }
     },
     {
@@ -224,7 +244,17 @@
         "Circle K, Cashel Service Area, Co. Tipperary"
       ],
       "note": "No shop on the Camus Road itself; the nearest are in Cashel, about 3 km east.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "First 2.3 km on the R505 with only a grass verge and no footpath, then footpaths through Cashel."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "2.3 km on the two-lane R505 with no shoulder, then Cashel town streets."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -239,7 +269,17 @@
         "Lidl, Cashel, Co. Tipperary"
       ],
       "note": "Cashel has Tesco, SuperValu and Lidl, about 3–4 km.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "First 2.3 km on the R505 with only a grass verge and no footpath, then footpaths into Cashel."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "2.3 km on the two-lane R505 with no shoulder, then town streets."
+        }
+      }
     },
     {
       "id": "dinner",
@@ -253,7 +293,17 @@
         "Mikey Ryan's Bar & Kitchen, Main Street, Cashel, Co. Tipperary"
       ],
       "note": "Chez Hans won Best Restaurant for Tipperary at the 2026 Irish Restaurant Awards; Mikey Ryan's (Cashel Palace) serves dinner daily. The Michelin-starred Bishop's Buttery is the treat.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "First 2.3 km on the R505 with only a grass verge, then footpaths into central Cashel."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "2.3 km on the R505 with no shoulder, then town streets."
+        }
+      }
     },
     {
       "id": "hospital",
@@ -280,7 +330,17 @@
         "Main Street, Cashel, Co. Tipperary"
       ],
       "note": "Cashel, about 3 km: pharmacies, GPs, cafés, post office and the Rock.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "First 2.3 km on the R505 with only a grass verge and no footpath, then footpaths up Lower Gate St."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "2.3 km on the two-lane R505 with no shoulder, then quiet town streets."
+        }
+      }
     },
     {
       "id": "city",

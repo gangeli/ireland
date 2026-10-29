@@ -153,6 +153,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Very small mixed school (21–23 pupils, steady since 2018); no inspection report retrieved."
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Lane, then the L1034, then about 1 km on the narrow, hedged R697 with no verge; footpaths start only at Kilmoganny."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lane and the L1034, then about 1 km on the narrow R697 into Kilmoganny with no shoulder."
+        }
       }
     },
     {
@@ -202,7 +212,17 @@
         "Pete's shop, Kilmoganny, Co. Kilkenny"
       ],
       "note": "Kilmoganny's village shop, Moran's, known locally as Pete's; about 4 km north.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Quiet lane for 1 km, then the centre-lined L1034 with no verge; the final 1 km on the R697 has no imagery."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lane then the lightly used L1034; the last 1 km on the R697 has no imagery."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -232,7 +252,17 @@
         "The Carraig Hotel, Carrick-on-Suir"
       ],
       "note": "Kilkieran Cottage has a long Georgina Campbell listing (dinner Wed–Sun) but no recent reviews found, so check it is still open; Befani's and the Carraig Hotel restaurant in Carrick are the fallbacks.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "5.6 km of very quiet narrow boreens, long but safe; the final stretch on the R698 has no imagery."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Very quiet narrow boreens nearly all the way; the short final bit on the R698 has no imagery."
+        }
+      }
     },
     {
       "id": "hospital",

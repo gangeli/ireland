@@ -189,6 +189,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Small DEIS boys' school; a Whole School Evaluation was published in May 2025, but gov.ie returned 403 and it couldn't be read."
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "First ~3 km on the R705 with no footpath or hard shoulder, only grass verges; footpaths start near the Harristown roundabout."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "About 3 km on the open R705 with no shoulder but good sightlines, then town streets; not for kids alone."
+        }
       }
     },
     {
@@ -206,6 +216,16 @@
       "rating": {
         "level": "Strong",
         "basis": "KCETB reports it ranked third among mixed schools nationally for progression to third level in the Irish Times tables (Jan 2026); no percentage was given."
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "About 3 km on the R705 with no footpath or shoulder before footpaths begin at the edge of Graiguenamanagh."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "About 3 km on the R705 with no shoulder, then town streets; manageable for an adult or older teen."
+        }
       }
     },
     {
@@ -220,7 +240,17 @@
         "Centra, Main Street, Borris, Co. Carlow"
       ],
       "note": "The listing names Fairview Service Station / Walsh's Daybreak in Graiguenamanagh; Centra Borris is about 6 km north.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Nearly the whole 3.2 km is on the R705 with no footpath or hard shoulder."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "3 km on the open R705 with no shoulder; fine for a confident adult, not for kids."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -235,7 +265,17 @@
         "Lidl, Royal Oak Road, Bagenalstown, Co. Carlow"
       ],
       "note": "Doran's SuperValu and Aldi in Graiguenamanagh, about 4 km.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "About 3 km on the R705 with no footpath or shoulder, then footpaths from the roundabout to ALDI."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "About 3 km on the R705 with no shoulder, then a short run to ALDI."
+        }
+      }
     },
     {
       "id": "dinner",
@@ -249,7 +289,17 @@
         "Step House Hotel, Main Street, Borris, Co. Carlow"
       ],
       "note": "Waterside is a long-established restaurant in an old corn store on the Barrow quay (current opening not confirmed); the Step House in Borris is about 6 km.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "About 3 km on the R705 with no footpath or shoulder, then footpaths through town to The Quay."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "About 3 km on the R705 with no shoulder, then the town centre to the quay."
+        }
+      }
     },
     {
       "id": "hospital",
@@ -277,7 +327,17 @@
         "Main Street, New Ross, Co. Wexford"
       ],
       "note": "Graiguenamanagh, about 4 km: health centre, two pharmacies, post office, cafés. New Ross is about 22 minutes.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "About 3 km on the R705 with no footpath or shoulder, then footpaths down Upper Main Street."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "About 3 km on the open R705 with no shoulder, then town streets."
+        }
+      }
     },
     {
       "id": "city",

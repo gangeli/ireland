@@ -157,6 +157,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Small Catholic village school, not DEIS; no inspection report could be retrieved and no notable reputation either way found."
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "About 1.5 km of quiet single-track lanes, then village streets with footpaths into Inistioge; lanes have no verge, so kids walk single file."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet single-track lanes then Inistioge village streets; suitable for kids with an adult."
+        }
       }
     },
     {
@@ -205,7 +215,17 @@
       ],
       "note": "Everyday, the grocery shop on Church Street in Inistioge village, about 1.5 km away.",
       "title": "Everyday Inistioge",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Quiet single-track lanes for ~1.5 km, then the narrow Inistioge bridge with no footpath, then the village square."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet lanes and the narrow village bridge; low traffic the whole way."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -233,7 +253,17 @@
         "Woodstock Arms, Inistioge"
       ],
       "note": "The Otter is the village's best-reviewed pub for food.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Quiet single-track lanes for ~1.5 km, then the narrow Inistioge bridge with no footpath into the square."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet lanes then the village bridge and square; pleasant ride."
+        }
+      }
     },
     {
       "id": "hospital",

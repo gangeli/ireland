@@ -188,6 +188,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "DEIS per scoilscout and a growing roll (about 285–301); no inspection report could be retrieved (gov.ie reports sit behind a verification check)."
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "1.8 km of very quiet lanes, then about 300 m of the Carnew road at the edge of Ferns with no footpath before town footpaths."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Very quiet lanes almost to Ferns, then 50 km/h town streets; a good family ride."
+        }
       }
     },
     {
@@ -205,6 +215,16 @@
       "rating": {
         "level": "Good",
         "basis": "A 2016 Department curriculum evaluation (Visual Arts) rated pupils' learning and teaching very good; it covers one subject and is ten years old."
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Quiet lanes, then a short footpath-less stretch on the Carnew road; footpaths through Ferns and on Ferns Lower to the school."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet lanes, then a ride through Ferns town (R745 and R772 with one roundabout) on 50 km/h streets."
+        }
       }
     },
     {
@@ -235,7 +255,17 @@
         "Centra, Main Street, Ferns, Co. Wexford Y21 N8X7"
       ],
       "note": "Ferns Centra on Main Street, about 2.2 km straight-line; open 7 a.m.–9 p.m. weekdays.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Quiet lanes for 1.8 km, then the Carnew road into Ferns with no footpath for about 300 m, then footpaths along Main St."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet lanes (a cyclist appears in the imagery), then Ferns town streets and one roundabout onto the R772."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -264,7 +294,17 @@
         "Partridge's Bistro, Main Street, Gorey, Co. Wexford"
       ],
       "note": "The Courtyard in Ferns (4.4 on Tripadvisor) is about 2 km away; Partridge's in Gorey for a night out.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Quiet lanes, then about 300 m of the Carnew road past the 50/60 signs with only a grass verge, then footpaths."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet lanes almost to town, then a short stretch of Ferns Upper Main St."
+        }
+      }
     },
     {
       "id": "hospital",

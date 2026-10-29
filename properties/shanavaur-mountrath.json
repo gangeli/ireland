@@ -156,6 +156,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Small co-ed rural school; the only inspection found is a 2021 Covid-era SSPS check, and gov.ie's report pages couldn't be read."
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Quiet narrow lanes for 1.7 km (2009 imagery); the last 1 km, including the R440, has no Street View imagery."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lanes for 1.7 km; the last 1 km onto the R440 has no Street View imagery."
+        }
       }
     },
     {
@@ -190,6 +200,16 @@
       "rating": {
         "level": "Good",
         "basis": "Leinster Express feeder-school roundups put its progression to third level at 83% in 2018 (108 of 130) and 71% in 2017, around or above the Laois average; no recent figure found."
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Quiet lanes for 2.5 km, then about 2.5 km on the narrow R440 with no footpath or shoulder; the last 1.5 km has no Street View imagery."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lanes, then a narrow R440 with bends and no shoulder; the last 1.5 km has no Street View imagery; not for kids."
+        }
       }
     },
     {
@@ -204,7 +224,17 @@
         "Spar, Mountrath, Co. Laois"
       ],
       "note": "Centra on Main Street, Mountrath, about 5 km; there's also a Spar in the town.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Quiet lanes for 2.5 km, then about 3 km on the narrow R440 with no footpath; footpaths start only at the Mountrath edge."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lanes, then about 3 km on the narrow R440 with bends and no shoulder; fine for an adult, not for kids."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -233,7 +263,17 @@
         "O'Gorman's Bar & Restaurant, Main Street, Portlaoise, Co. Laois"
       ],
       "note": "Phelan's is a family-run Mountrath restaurant of 37+ years, recently refitted; O'Gorman's in Portlaoise was named Laois gastropub of the year.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Quiet lanes for 2.5 km, then about 3 km on the narrow R440 with chevron bends and no footpath or shoulder."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lanes, then about 3 km on the narrow R440 with bends and no shoulder; fine for an adult, not for kids."
+        }
+      }
     },
     {
       "id": "hospital",

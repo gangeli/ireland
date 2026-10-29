@@ -178,6 +178,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Small three-teacher rural school; no inspection report could be retrieved (gov.ie reports sit behind a verification check)."
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Very quiet narrow lanes with grass verges the whole 800 m; suits kids."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet narrow lanes the whole way; ideal for kids."
+        }
       }
     },
     {
@@ -195,6 +205,16 @@
       "rating": {
         "level": "Good",
         "basis": "A 2016 Department curriculum evaluation (Visual Arts) rated pupils' learning and teaching very good; it covers one subject and is ten years old."
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "After 1.2 km of lanes, about 2.5 km on the Ballycarney road and R745 with no footpath, only grass verges; footpaths start in Ferns. Last two frames didn't render."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Lanes, then about 2.5 km on a fairly quiet centre-lined country road and the R745 into Ferns; fine for adults, not young kids."
+        }
       }
     },
     {
@@ -225,7 +245,17 @@
         "Centra, Main Street, Ferns, Co. Wexford Y21 N8X7"
       ],
       "note": "Ferns Centra on Main Street, about 4 km; open 7 a.m.–9 p.m. weekdays.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "About 3 km on the Ballycarney road and R745 with no footpath, only hedges and verges, before footpaths in Ferns. Last two frames didn't render."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lanes, then the Ballycarney road and the R745 into Ferns, rural two-lane roads with no shoulder; OK for an adult."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -254,7 +284,17 @@
         "Partridge's Bistro, Main Street, Gorey, Co. Wexford"
       ],
       "note": "The Courtyard in Ferns (4.4 on Tripadvisor) is about 4 km; Partridge's in Gorey for a night out.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "About 3 km on the Ballycarney road and the R745 approach with no footpath until the edge of Ferns."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lanes, then fairly quiet two-lane country road and the R745 into Ferns; OK for an adult, not for young kids."
+        }
+      }
     },
     {
       "id": "hospital",

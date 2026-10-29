@@ -10,7 +10,7 @@
   const ARRIVE_M = 1500;   // over the last 1.5 km, frames get denser and playback eases down to 1x
   const SWAP_MS = 110;            // fastest frame swap (~9 fps)
   const CACHE_DAYS = 7;
-  const CACHE_VER = "v3";
+  const CACHE_VER = "v4";
   const hashStr = (s) => { let h = 5381; for (let i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) | 0; return (h >>> 0).toString(36); };
 
   const $ = (id) => document.getElementById(id);
@@ -391,7 +391,7 @@
         reject(new Error("auth"));
       };
       const s = document.createElement("script");
-      s.src = `https://maps.googleapis.com/maps/api/js?key=${encodeURIComponent(key)}&v=weekly&libraries=places,geometry,marker&loading=async&callback=__hdReady`;
+      s.src = `https://maps.googleapis.com/maps/api/js?key=${encodeURIComponent(key)}&v=weekly&language=en&region=IE&libraries=places,geometry,marker&loading=async&callback=__hdReady`;
       s.async = true;
       s.onerror = () => reject(new Error("load"));
       document.head.append(s);
@@ -468,6 +468,7 @@
       maxResultCount: 3,
       rankPreference: SearchNearbyRankPreference.DISTANCE,
       region: "ie",
+      language: "en",
     });
     return (places || []).map((pl) => toDest(pl, "nearby"));
   }
@@ -479,6 +480,7 @@
       locationBias: { center: { lat: P.lat, lng: P.lng }, radius: 50000 },
       maxResultCount: 1,
       region: "ie",
+      language: "en",
     });
     const pl = places && places[0];
     if (!pl) return null;
@@ -541,6 +543,7 @@
     for (const q of t.candidates) {
       try {
         const dest = await findPlace(q);
+        if (dest) dest.q = q;
         if (!dest) { console.warn("trip", t.id, "no match for", q); continue; }
         if (!near(dest)) { console.warn("trip", t.id, q, "matched", dest.name, "too far away; skipping"); continue; }
         await tryDest(dest);
@@ -618,18 +621,21 @@
     }
   }
 
+  // Some Irish places carry a non-Latin display name in Google's data (the Hazel Hotel shows as "اوتيل هازل"); use our own query's name then.
+  const destName = (d) => (/[\u0370-\u03FF\u0400-\u04FF\u0590-\u08FF\u0E00-\u9FFF]/.test(d.name || "") && d.q ? d.q.split(",")[0] : d.name);
+
   async function resolveAll() {
     // Short trips first so the top of the timeline fills in quickly.
     for (const t of P.trips) {
       try {
         const r = await resolveTrip(t);
         trips[t.id] = r;
-        $("dn-" + t.id).textContent = r.dest.name;
+        $("dn-" + t.id).textContent = destName(r.dest);
         const mn = $("mn-" + t.id);
         mn.textContent = "";
         mn.append(fmtMin(r.route.duration).replace(" min", ""), el("small", { text: r.route.duration < 3600 ? "min" : "" }));
         $("alt-" + t.id).textContent = fmtKm(r.route.distance) + (r.dest.how === "nearby" ? " · nearest found by map search" : "") + (r.alts.length ? " · vs " + r.alts.map((a) => `${a.name} ${fmtMin(a.duration)}`).join(", ") : "");
-        const im = $("ph-" + t.id); im.alt = r.dest.name;
+        const im = $("ph-" + t.id); im.alt = destName(r.dest);
         im.src = r.dest.photo || destStreetView(r.dest);
         activeFor(t, r).then((a) => renderActive(t, a)).catch((e) => console.warn("active", t.id, e));
       } catch (e) {

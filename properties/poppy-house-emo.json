@@ -166,6 +166,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Mixed and growing (about 200 pupils, 8 or more teachers), DEIS Rural; no inspection report could be read because gov.ie's report pages sit behind a human check."
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 1 km on the R422 with only a grass verge and no footpath, then a footpath near the school; not for kids alone."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Straight R422 with good sightlines but no shoulder for 1.3 km."
+        }
       }
     },
     {
@@ -183,6 +193,16 @@
       "rating": {
         "level": "Average",
         "basis": "Topped the Laois Irish Independent feeder tables for 2016 (95% of 78) and 2017 (100% of a small class of 31), but sent 56% of 62 in 2018; no newer figure found."
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "First 1.2 km on the R422 with a grass verge only, then footpaths into Mountmellick; the last 600 m has no Street View imagery."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "First 1.2 km on the R422 with no shoulder, then a wider road into Mountmellick; the last 600 m has no Street View imagery."
+        }
       }
     },
     {
@@ -214,7 +234,17 @@
         "Centra Mountmellick, Co. Laois"
       ],
       "note": "No shop was found in Emo village; Mountmellick, about 3.5 km west, is the nearest place for milk and the paper. The page keeps the fastest.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "First 1.2 km on the R422 with a grass verge only, then footpaths all the way into Mountmellick town centre."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "First 1.2 km on the R422 with no shoulder, then town streets with some painted cycle markings in Mountmellick."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -229,7 +259,17 @@
         "Tesco Portlaoise, Co. Laois"
       ],
       "note": "SuperValu Mountmellick (about 3.5 km); Lidl had permission sought for a Mountmellick store (status unconfirmed); Portlaoise, about 9 km, has the full choice.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "First 1.2 km on the R422 with a grass verge only, then footpaths all the way through Mountmellick to the SuperValu."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "First 1.2 km on the R422 with no shoulder, then town streets in Mountmellick."
+        }
+      }
     },
     {
       "id": "dinner",
@@ -243,7 +283,17 @@
         "The Hare's Corner, Mountmellick, Co. Laois"
       ],
       "note": "Batoni's (Italian) was Best Restaurant in Laois at the 2022 Leinster awards; The Hare's Corner in Mountmellick is the other award-listed option. Check both are still open.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "About 3.7 km on the R422 with no footpath or shoulder, ending at a large junction; the last 1 km has no Street View imagery."
+        },
+        "bike": {
+          "level": "poor",
+          "note": "A long, narrow stretch of the R422 with no shoulder, then a big junction; the last 1 km has no Street View imagery."
+        }
+      }
     },
     {
       "id": "hospital",

@@ -171,6 +171,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Not DEIS and a steady roll (about 170 in 2014, 184 now, 11 teachers); no inspection report could be read because gov.ie returned 403."
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "6.5 km of local roads with no footpath, a short R448 crossing, then footpath near Milford; long, not for kids."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet local roads with one short stretch on the R448 bridge."
+        }
       }
     },
     {
@@ -189,6 +199,16 @@
       "rating": {
         "level": "Good",
         "basis": "Reported at 100% progression to third level in the Irish Independent's 2021 tables (Beat 102-103), ahead of Askea's 95%; the 2025 Irish Times figures for Carlow couldn't be read."
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Lanes and a motorway underpass, then about 2.5 km on the R448 with a hard shoulder into Carlow; one gap has no imagery."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lanes, then about 2.5 km on the R448 with a hard shoulder into Carlow."
+        }
       }
     },
     {
@@ -204,7 +224,17 @@
         "Centra, Maxol Service Station, O'Brien Road, Carlow"
       ],
       "note": "Leighlinbridge has a village shop and the Drive filling station (brand not confirmed), about 5 minutes; the Maxol Centra on Carlow's O'Brien Road is the fallback.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "2 km of quiet lanes, then the wide R448 with a hard shoulder; the last 1.5 km has no imagery."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet lanes, then the R448 with a wide hard shoulder; the final 1.5 km has no imagery."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -233,7 +263,17 @@
         "Teach Dolmain, Tullow Street, Carlow"
       ],
       "note": "Family-run hotel restaurant on the Barrow, Carlow winner for wine at the 2026 Restaurant Association Awards; Teach Dolmain in Carlow is the pub option.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "4.3 km of centre-lined local roads with no footpath into Bagenalstown; long, and not for kids."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet local roads (L3044/L3046) nearly the whole way into Bagenalstown."
+        }
+      }
     },
     {
       "id": "hospital",
@@ -261,7 +301,17 @@
         "Main Street, Leighlinbridge, Co. Carlow"
       ],
       "note": "Carlow town, under 10 minutes per the listing: GPs, pharmacies, shopping centres, the station. Leighlinbridge is 5 minutes.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "4.3 km of local roads with no footpath, then a footpath on the R705 into Bagenalstown."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet local roads nearly the whole way, then the R705 into Bagenalstown."
+        }
+      }
     },
     {
       "id": "city",
@@ -317,7 +367,17 @@
         "Muine Bheag railway station, Bagenalstown, Co. Carlow"
       ],
       "note": "Waterford–Heuston line: about 10 direct trains a weekday (06:30 to 19:47 on a sample Tuesday), roughly 1h to 1h20 to Heuston; about 10 km north.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 5.5 km of quiet local roads with no footpath, then footpaths through Bagenalstown to the station; long."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet local roads for 5.5 km, then Bagenalstown streets to the station."
+        }
+      }
     },
     {
       "id": "airport",

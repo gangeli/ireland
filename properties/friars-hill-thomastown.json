@@ -167,6 +167,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Large co-ed town school with a 2023 curriculum evaluation and a 2014 whole-school evaluation on record, but the gov.ie reports sit behind a verification check and couldn't be read; DEIS status not confirmed."
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "First ~400 m on the R448 with a grass verge, then footpaths through town and Maudlin estate to St. Mary's."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "R448 approach to the 50 km/h sign, then town streets and an estate road; kids need an adult for the first part."
+        }
       }
     },
     {
@@ -184,6 +194,16 @@
       "rating": {
         "level": "Average",
         "basis": "Small DEIS ETB school; an Oct 2023 subject inspection rated teaching 'good, with some very good practice' but no published progression figure was found."
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "First ~400 m on the R448 with a grass verge, then footpaths over the bridge and up Lady's Well Street to Grennan."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Short R448 stretch, then 50 km/h town streets; fine for a teenager once past the first 400 m."
+        }
       }
     },
     {
@@ -201,6 +221,16 @@
       "rating": {
         "level": "Good",
         "basis": "Small ETB school with historically very high CAO/progression rates in KCLR's roundups of the feeder tables. St Kieran's (boys) and Kilkenny College (mixed) in Kilkenny are the Strong options, about 18 km."
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "7.6 km almost entirely on the rural R448 southwest, with no footpath and only a narrow hard shoulder."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "7.6 km on the R448 with a narrow yellow-line hard shoulder and long straights; doable for an adult, not for kids."
+        }
       }
     },
     {
@@ -214,7 +244,17 @@
         "Daybreak, Market Street, Thomastown, Co. Kilkenny"
       ],
       "note": "Daybreak on Market Street, about 1 km away on foot.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "First ~400 m on the R448 with only a grass verge, then footpaths and the bridge footway to O'Keeffe's."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "About 400 m on the R448 approach, then 50 km/h town streets over the bridge."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -228,7 +268,17 @@
         "Lidl, Dublin Road, Thomastown, Co. Kilkenny"
       ],
       "note": "SuperValu and Lidl side by side on the Dublin Road, about 2 km.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "First ~400 m on the R448 with a grass verge, then continuous footpaths through town and out the Dublin Road to SuperValu."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "R448 approach then town streets and the Dublin Road (R448) with footpaths; carrying shopping is the main drawback."
+        }
+      }
     },
     {
       "id": "dinner",
@@ -242,7 +292,17 @@
         "Lady Helen, Mount Juliet Estate, Thomastown, Co. Kilkenny"
       ],
       "note": "Tābú (sharing plates and pizza, 2026 Restaurant Association award) is in town; Lady Helen at Mount Juliet holds a Michelin star.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "First ~400 m on the R448 with a grass verge only, then footpaths through Market Street to Station Road."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Brief R448 stretch outside the speed limit, then quiet town streets."
+        }
+      }
     },
     {
       "id": "hospital",
@@ -269,7 +329,17 @@
         "Market Street, Thomastown, Co. Kilkenny"
       ],
       "note": "Thomastown: GPs, pharmacies, cafés and the station, about 1 km.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "First ~400 m on the rural R448 with only a grass verge, then footpaths all the way into Thomastown; kids need holding on that first stretch."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Short run on the R448 before the 50 km/h sign, then town streets; fine for adults, kids need an escort on the R448 bit."
+        }
+      }
     },
     {
       "id": "city",
@@ -325,7 +395,17 @@
         "Thomastown railway station"
       ],
       "note": "Waterford–Heuston line: about 7 trains each weekday towards Dublin (06:16, 08:11, 11:21, 13:21, 15:13, 18:55, 20:50 in the current timetable), roughly 1h45–2h to Heuston. About 2.2 km on foot.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "First ~400 m on the R448 with a grass verge, then footpaths through town and along Station Road to the station."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "R448 approach, then town and the quiet tree-lined Station Road."
+        }
+      }
     },
     {
       "id": "airport",

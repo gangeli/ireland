@@ -168,6 +168,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Mixed Catholic school, not DEIS, enrolment up 37% since 2019/20 with a special class on site; no inspection report could be retrieved."
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "The whole 2.4 km is on the N77 national road with only a grass verge and no footpath; not for kids."
+        },
+        "bike": {
+          "level": "poor",
+          "note": "All on the N77 national road with no hard shoulder or cycle lane."
+        }
       }
     },
     {
@@ -185,6 +195,16 @@
       "rating": {
         "level": "Strong",
         "basis": "Reported at over 100% progression to third level (KCLR, 2016 feeder tables); fee-paying. St Kieran's had 100% in the 2023 report."
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "N77 with no footpath, then the Castlecomer Road roundabout and R712; the last 1.5 km into Kilkenny has no Street View imagery."
+        },
+        "bike": {
+          "level": "poor",
+          "note": "N77 national road then a busy roundabout onto the R712; the final 1.5 km into Kilkenny has no imagery."
+        }
       }
     },
     {
@@ -200,7 +220,17 @@
         "Mullany's Pharmacy, Ballyragget, Co. Kilkenny"
       ],
       "note": "No shop found in Jenkinstown; the nearest are on the north edge of Kilkenny city or in Ballyragget. The page keeps the fastest.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "7.9 km along the N77 with grass verges only and no footpath; the last few hundred metres into Ballyragget have no imagery."
+        },
+        "bike": {
+          "level": "poor",
+          "note": "7.9 km on the N77 national road with no shoulder; not suitable."
+        }
+      }
     },
     {
       "id": "bigshop",

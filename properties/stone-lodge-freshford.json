@@ -144,6 +144,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Catholic co-ed with DEIS status and enrolment growing about 6% since 2019; no inspection report could be retrieved."
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths through the village, then a final short lane by the church with a grass edge and school warning signs."
+        },
+        "bike": {
+          "level": "good",
+          "note": "1 km on 50 km/h village streets and a quiet lane to the school; fine for kids."
+        }
       }
     },
     {
@@ -192,7 +202,17 @@
       ],
       "note": "The Mace at the Inver filling station in Freshford, about 1 km.",
       "title": "Mace Freshford",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths along the R694 and Church Street into Freshford village; roadworks seen near the junction in 2025."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short ride on 50 km/h village streets."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -220,7 +240,17 @@
         "Campagne, Kilkenny"
       ],
       "note": "McGrath's locally; Campagne in Kilkenny for a proper dinner.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths along the R694 and Church Street to The Square."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short ride on 50 km/h village streets."
+        }
+      }
     },
     {
       "id": "hospital",

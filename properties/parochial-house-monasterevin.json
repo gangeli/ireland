@@ -140,6 +140,16 @@
       "rating": {
         "level": "Unknown",
         "basis": "Catholic boys' school, 239 pupils, non-DEIS, stable enrolment (Scoilscout 2025/26); no inspection findings could be retrieved (gov.ie report pages blocked), so no quality verdict."
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths along Drogheda Street the whole 350 m to the school; fine for kids."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short ride on a 50 km/h town street with wide verges."
+        }
       }
     },
     {
@@ -157,6 +167,16 @@
       "rating": {
         "level": "Average",
         "basis": "60% progression to third level in the Irish Times 2025 feeder table (86 LC sits), below the Kildare schools nearby; DEIS school (DEIS action-planning inspection, 2023)."
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths on the R445 and R417 the whole way; one frame around 400 m has no Street View imagery."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "About 1 km on the R445 and R417 town roads with traffic and no cycle lane."
+        }
       }
     },
     {
@@ -188,7 +208,17 @@
       ],
       "note": "The Circle K Express on Rathangan Road, Monasterevin, is a 5-minute walk (about 450 m).",
       "title": "Circle K Express Monasterevin",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths the whole way along Drogheda Street and the R445 Dublin Road."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Short, but on the R445 Dublin Road with traffic and no cycle lane."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -202,7 +232,17 @@
         "ALDI Main Street Portarlington Co. Laois"
       ],
       "note": "McConville's SuperValu in Monasterevin is a 5-minute walk (about 350 m); Lidl and Aldi in Portarlington are about 8 km, and Tesco Kildare about 10 km.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths along Drogheda Street and then through a housing estate to the SuperValu."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet town and estate roads the whole way."
+        }
+      }
     },
     {
       "id": "dinner",
@@ -215,7 +255,17 @@
         "Hazel Hotel, Monasterevin"
       ],
       "note": "Monasterevin is thin on restaurants; Kildare Village and Newbridge are the step up.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths the whole way through the town centre to Main Street."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short ride on town-centre streets at 50 km/h."
+        }
+      }
     },
     {
       "id": "hospital",
@@ -297,7 +347,17 @@
         "Monasterevin railway station"
       ],
       "note": "Dublin–Portlaoise/Cork line. Walk here, then 43–59 minutes to Dublin Heuston.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths along Drogheda Street and Canal Harbour to the station."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short ride on quiet town streets to the station."
+        }
+      }
     },
     {
       "id": "airport",

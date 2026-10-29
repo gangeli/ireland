@@ -145,6 +145,21 @@ Naas General and Connolly (Blanchardstown) EDs take **ages 16+ only**. Never mak
 - Hotels get renamed. Check that two "different" candidates aren't the same venue (Hotel Castlepollard is now the Castle Varagh Hotel, home of Tom's Bistro), and that a pub actually serves food.
 - Count trains per weekday from the timetable, not memory: Muine Bheag ~7, Carlow ~10, Gorey ~5 (fastest 1h43). Kildare-line towns have 20+.
 
+## 4b. Walking and cycling (Street View)
+
+Trip cards show live walk and bike times for trips under 8 km. Each trip also needs `active: {walk: {level, note}, bike: {level, note}}`, where `level` is `good`, `ok` or `poor`. It is judged from Street View along the route, never from the map alone.
+
+1. Run `node setup/sv_sheets.js <id> <scratch-dir>`.
+   - It loads the page under its real origin so the Maps key works, follows each short trip's walking route, and screenshots a contact sheet of Street View frames about every 250 m.
+   - Run one house at a time. Parallel runs time out and leave black, unrendered frames; re-run those.
+2. Look at every sheet, then rate each trip:
+   - **good**: a continuous footpath or shared path, or a genuinely quiet lane, the whole way.
+   - **ok**: doable with care. Short stretches (under ~500 m) with only a verge, a regional road with a decent hard shoulder, or long but safe.
+   - **poor**: not advisable. Long stretches of 80–100 km/h regional or national road with no footpath or verge, blind bends on narrow fast roads, or a busy N-road.
+
+   For bikes, a wide hard shoulder or quiet roads help; national roads with lorries and narrow fast regional roads count against.
+3. Write the note as one plain sentence naming the decisive stretch, e.g. "First 400 m on the R448 with only a grass verge, then footpaths all the way". Say whether the route suits kids, and mention any stretch with no imagery.
+
 ## 5. Services
 
 `services` has one entry each for `electricity`, `water`, `sewer` and `internet`: `{ "status": ..., "detail": ... }`. Status is `ok` (stated: mains, fibre, connected), `check` (stated but worth checking: septic tank, private well), `likely` (not stated but strongly implied) or `unknown`. Start `detail` with the conclusion, because the page shows its first phrase.
