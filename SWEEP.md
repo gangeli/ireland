@@ -41,9 +41,9 @@ score = (ai.stars + sum of human stars) / (1 + number of human ratings)
 With no ratings, the score is the AI's stars. One person at 2 against an AI 4 gives 3.0. Three people at 2 give 2.5. The more people rate, the less the AI matters, and that's the whole "trust people over AI" rule. No extra overrides are needed.
 
 1. **Live list = the 20 highest scores** among houses still on the market. Off-market houses (sale agreed, sold, withdrawn) leave regardless of score.
-2. **A new house** starts with only the AI vote, so it gets in only if its AI stars beat the current #20's score (or there's room). Be honest with the AI stars: don't inflate a new find to get it on the list.
+2. **A new house** starts with only the AI vote, so it gets in if its AI stars **match or beat** the current #20's score (or there's room). **New wins ties** (Gabor, 29 Oct: "better to have some churn and fresh things to view"). A new find that ties #20 replaces the tied incumbent that has been on the list longest, preferring one people have already rated, since they've seen it. Be honest with the AI stars: don't inflate a new find to get it on the list.
 3. **Keep the AI vote current.** Re-score a house's `ai.stars` when facts change (a price cut, a confirmed floor plan), or when people's notes reveal a preference the AI was missing ("too far from Dublin", "need fenced land"). Apply those lessons to similar houses too, and log them. The AI's vote should get smarter. It shouldn't get louder.
-4. **Ties and near-ties** (within 0.25) go to the house that fits more hard requirements: a ground-floor bedroom (or a room that can convert), land for the dogs, school and ED access, and budget. Note each such call in the log.
+4. **Ties and near-ties** (within 0.25) between houses already in the pool go to the house that fits more hard requirements: a ground-floor bedroom (or a room that can convert), land for the dogs, school and ED access, and budget. A new find tied with an incumbent wins under rule 2. Note each such call in the log.
 5. **Fill to 20.** When slots open, the best new or archived-but-still-for-sale house comes back. Log it as a re-add.
 
 ## Archive entry shape
