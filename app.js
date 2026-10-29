@@ -217,6 +217,7 @@
               el("p", { class: "trip-alt", id: "alt-" + t.id })),
             el("div", { class: "trip-go" },
               el("span", { class: "mins", id: "mn-" + t.id, text: "–" }),
+              el("span", { class: "trip-active", id: "ac-" + t.id }),
               el("span", { class: "ride", text: "Ride along →" })))));
       }
       box2.append(el("h3", { class: "group-h", text: c }), list);
@@ -561,6 +562,62 @@
     return out;
   }
 
+  /* ---------- walking and cycling ----------
+   * Times come from the Routes API live; whether the route is safe and pleasant comes from the
+   * data (trip.active.walk/bike = {level: good|ok|poor, note}), judged from Street View along the path. */
+  const ACTIVE = { WALK: { maxKm: 8, maxMin: 60, label: "Walk", key: "walk", dir: "WALKING" }, BICYCLE: { maxKm: 20, maxMin: 45, label: "Bike", key: "bike", dir: "BICYCLING" } };
+  async function activeRoute(dest, mode) {
+    try {
+      const res = await fetch("https://routes.googleapis.com/directions/v2:computeRoutes", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "X-Goog-Api-Key": KEY, "X-Goog-FieldMask": "routes.duration,routes.distanceMeters" },
+        body: JSON.stringify({
+          origin: { location: { latLng: { latitude: P.lat, longitude: P.lng } } },
+          destination: { location: { latLng: { latitude: dest.lat, longitude: dest.lng } } },
+          travelMode: mode, regionCode: "ie", units: "METRIC",
+        }),
+      });
+      if (!res.ok) throw new Error("routes " + res.status);
+      const r = ((await res.json()).routes || [])[0];
+      if (!r) throw new Error("no " + mode + " route");
+      return { duration: secs(r.duration), distance: r.distanceMeters };
+    } catch (e) {
+      const res = await new google.maps.DirectionsService().route({
+        origin: { lat: P.lat, lng: P.lng }, destination: { lat: dest.lat, lng: dest.lng }, travelMode: google.maps.TravelMode[ACTIVE[mode].dir],
+      });
+      const leg = res.routes[0].legs[0];
+      return { duration: leg.duration.value, distance: leg.distance.value };
+    }
+  }
+  async function activeFor(t, r) {
+    const ck = `hd:${CACHE_VER}:${PID}:${t.id}:act:${r.dest.lat.toFixed(4)},${r.dest.lng.toFixed(4)}`;
+    const hit = load(ck);
+    if (hit && Date.now() - hit.ts < CACHE_DAYS * 86400000) return hit;
+    const out = { ts: Date.now() };
+    for (const mode of ["WALK", "BICYCLE"]) {
+      if (r.route.distance / 1000 > ACTIVE[mode].maxKm) continue;
+      try { out[mode] = await activeRoute(r.dest, mode); }
+      catch (e) {
+        // Google has no cycling directions for some Irish roads; estimate from the walking route at 15 km/h.
+        if (mode === "BICYCLE" && out.WALK) out[mode] = { duration: out.WALK.distance / (15 / 3.6), distance: out.WALK.distance, est: true };
+        else console.warn("active", t.id, mode, e);
+      }
+    }
+    store(ck, out);
+    return out;
+  }
+  function renderActive(t, a) {
+    const box = $("ac-" + t.id); box.textContent = "";
+    for (const mode of ["WALK", "BICYCLE"]) {
+      const v = a[mode], m = ACTIVE[mode];
+      if (!v || v.duration > m.maxMin * 60) continue;
+      const f = (t.active || {})[m.key] || {};
+      const what = mode === "WALK" ? "Walking" : "Cycling";
+      const tip = (f.note || `${what} time; the route hasn't been checked on Street View yet.`) + (v.est ? " Time estimated from the walking route." : "");
+      box.append(el("span", { class: "act act-" + (f.level || "na"), title: tip }, `${m.label} ${v.est ? "~" : ""}${fmtMin(v.duration)}`));
+    }
+  }
+
   async function resolveAll() {
     // Short trips first so the top of the timeline fills in quickly.
     for (const t of P.trips) {
@@ -574,6 +631,7 @@
         $("alt-" + t.id).textContent = fmtKm(r.route.distance) + (r.dest.how === "nearby" ? " · nearest found by map search" : "") + (r.alts.length ? " · vs " + r.alts.map((a) => `${a.name} ${fmtMin(a.duration)}`).join(", ") : "");
         const im = $("ph-" + t.id); im.alt = r.dest.name;
         im.src = r.dest.photo || destStreetView(r.dest);
+        activeFor(t, r).then((a) => renderActive(t, a)).catch((e) => console.warn("active", t.id, e));
       } catch (e) {
         console.warn(e);
         $("mn-" + t.id).textContent = "?";
