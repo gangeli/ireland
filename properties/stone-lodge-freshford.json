@@ -352,5 +352,6 @@
   "groundFloorBedroom": {
     "status": "check",
     "detail": "Bedroom 5 is downstairs, but that floor has only a WC, no shower."
-  }
+  },
+  "agentPhone": "086 232 4941"
 }

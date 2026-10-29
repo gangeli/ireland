@@ -352,5 +352,6 @@
   "groundFloorBedroom": {
     "status": "check",
     "detail": "All bedrooms are upstairs; the family room beside the ground-floor shower room could convert."
-  }
+  },
+  "agentPhone": "045 433550 / 085 122 6720"
 }
