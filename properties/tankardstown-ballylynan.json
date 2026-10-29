@@ -1,0 +1,365 @@
+{
+  "id": "tankardstown-ballylynan",
+  "name": "Tankardstown",
+  "address": "Tankardstown, Ballylynan, Co. Laois",
+  "eircode": "R14 PE89",
+  "lat": 52.934577,
+  "lng": -6.965266,
+  "listingUrl": "https://www.daft.ie/for-sale/tankardstown-ballylynan-co-laois/6706728",
+  "status": "Considering",
+  "added": "2026-10-29",
+  "area": "Ballylinan, Co. Laois",
+  "agent": "Adrian Harley, Sherry FitzGerald McDermott (Athy)",
+  "agentPhone": "059 863 2797",
+  "questions": [
+    "Satellite imagery shows a large yard across the road, about 100 m south-east, full of trucks, trailers and caravans beside a big shed. What business is it, what hours does it run, and how much HGV traffic does it put past the gate?",
+    "The listing says the house 'benefits from private services'. Is the water from a well (with a recent water test and yield), and is drainage a septic tank or treatment unit? How old is it, and does it have a certificate?",
+    "Is there a floor plan? When was the house built, is the attic (hatch in the utility) floored or convertible, and can you show the 0.71-acre boundary on a map, including which parts are fenced for dogs?",
+    "Is fibre broadband connected (BuyerIQ lists 102 Mb full fibre at the address)? Has the house had a radon test, and has the site or the L3976 at the gate ever flooded?",
+    "BuyerIQ shows three planning applications within 1 km, one an active build. Do you know what they are, and is anything planned for the fields beside the house?"
+  ],
+  "ai": {
+    "stars": 3.0,
+    "why": "A sound, well-kept single-storey bungalow with all four bedrooms on the ground floor, 10 minutes from Athy's Dublin trains, at €450k with a C3 BER. But at 150 m² with one living room and two bathrooms it is compact for six, it is plain and dated inside, and a truck and caravan yard sits about 100 m across the road."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Connected; an occupied, furnished house with light fittings throughout, though the listing doesn't state the supply."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private supply: the listing says the house 'benefits from private services', most likely a well. Type not stated; ask for a water test."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Private drainage per 'private services', most likely a septic tank or treatment unit; type, age and certification not given."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Fibre likely: BuyerIQ lists '102 Mb full fibre' at the address, but gives no provider and the listing doesn't mention broadband. Confirm on nbi.ie with R14 PE89.",
+      "type": "Fibre",
+      "speed": "~102 Mb per BuyerIQ (unconfirmed)",
+      "provider": "NBI / open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Single-storey bungalow (confirmed by the front photo): Bedroom 1 (3.46 × 3.55 m, fitted wardrobes) has its own en suite with a shower, and all four bedrooms are on the one level."
+  },
+  "price": 450000,
+  "type": "Detached bungalow",
+  "beds": 4,
+  "baths": 2,
+  "bedsNote": "all on the ground floor; plus guest WC",
+  "floorM2": 150,
+  "landHa": 0.29,
+  "landAcres": 0.71,
+  "ber": "C3",
+  "berKwh": 212.15,
+  "heating": "Oil-fired central heating; open fireplace in the sitting room",
+  "listed": "2026-10-27",
+  "views": 359,
+  "stampDuty": 4500,
+  "tagline": "A tidy four-bedroom bungalow on 0.71 acres among fields on a country road, about 10 minutes south of Athy and its Dublin trains.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/4/2/5038244/31f749e5-7650-4aa7-8d6d-f0770b7e793e_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/4/2/5038244/bf86f119-33f0-4b08-baf3-868bc4e6bf77_l.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/4/2/5038244/a5865479-a647-41d6-b9ab-cb69fb57b32a_l.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/4/2/5038244/1b336ffa-e2bd-4975-83bf-810bf5c6399c_l.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/4/2/5038244/138a80e0-f966-4a71-a65a-a045ffab2f6e_l.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€450k, under the €500k line",
+      "weight": 3,
+      "detail": "About €3,000/m². Stamp duty about €4,500."
+    },
+    {
+      "text": "Single storey, every bedroom on the ground floor",
+      "weight": 3,
+      "detail": "Four bedrooms of 11–12.5 m² each; Bedroom 1 (3.46 × 3.55 m) has an en suite shower, so Gabor's parents need no stairs at all."
+    },
+    {
+      "text": "Athy and its Dublin trains about 10 minutes away",
+      "weight": 2,
+      "detail": "About 6.5 km to Athy (shops, supermarkets, GPs); Athy station has about 10 direct trains to Heuston each weekday, roughly 1 hour."
+    },
+    {
+      "text": "Good secondaries within 8 km",
+      "weight": 2,
+      "detail": "Ardscoil na Tríonóide, Athy (mixed, 882 pupils, 74% progression in an older Irish Times table) is about 7 km; Knockbeg College (boys, 92% in 2016) about 7.7 km."
+    },
+    {
+      "text": "0.71 acre with open fields around",
+      "weight": 2,
+      "detail": "Big front lawn and a south-west-facing rear garden; satellite shows farmland on two sides. Less than the ideal acre, but room for the dogs."
+    },
+    {
+      "text": "BER C3, oil heating",
+      "weight": 1,
+      "detail": "212 kWh/m²/yr, better than most houses on the list; still oil, so a heat pump is a later job."
+    },
+    {
+      "text": "Move-in condition, with a garage",
+      "weight": 1,
+      "detail": "Described as 'superbly presented'; detached garage 6.51 × 4.85 m with roller door, gravel drive and double entrance."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Compact for six",
+      "weight": 2,
+      "detail": "150 m² (rooms sum to about 155 m²): one sitting room (5.55 × 4.04 m) plus an 8.30 × 3.45 m kitchen/dining; no playroom or second living room."
+    },
+    {
+      "text": "Only two bathrooms",
+      "weight": 2,
+      "detail": "A small en suite (1.03 × 3.06 m, electric shower) and one family bathroom with corner bath and shower, plus a guest WC."
+    },
+    {
+      "text": "Truck and caravan yard across the road",
+      "weight": 2,
+      "detail": "Satellite imagery (date unknown) shows a large yard of trucks, trailers and caravans with a shed about 100 m south-east; a neighbouring bungalow sits right beside, about 40 m away."
+    },
+    {
+      "text": "Children's ED about 35 minutes",
+      "weight": 2,
+      "detail": "Midland Regional Portlaoise (all ages) is about 35 km; Naas is 16+ only, and Tallaght or Crumlin are an hour or more."
+    },
+    {
+      "text": "Plain and dated inside",
+      "weight": 1,
+      "detail": "Pine kitchen and doors, patterned carpets throughout, curtains; a standard rendered bungalow whose only feature is the sitting-room fireplace."
+    },
+    {
+      "text": "Private water and drainage",
+      "weight": 1,
+      "detail": "'Private services' only: probably a well and septic tank, type, age and certificate not given."
+    },
+    {
+      "text": "Nothing walkable",
+      "weight": 1,
+      "detail": "On the L3976 local road, about 5 km from Ballylinan and 6.5 km from Athy; the primary school is 2.8 km. Every errand is a drive."
+    },
+    {
+      "text": "Primary quality and floor plan unknown",
+      "weight": 1,
+      "detail": "No inspection report could be read for Shanganamore NS, and no floor plan was found on MyHome."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Shanganamore National School (Barrowhouse NS)",
+      "candidates": [
+        "Shanganamore National School, Barrowhouse, Athy, Co. Laois",
+        "Barrowhouse National School, Shanganamore, Athy, Co. Laois R14 K659"
+      ],
+      "note": "Catholic, co-ed, roll 00892Q, about 103 pupils; 2.8 km per Daft. St Abban's NS, Killeen (co-ed, ~100) is 3.2 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Small mixed Catholic rural school; gov.ie's school and report pages sit behind a verification check and no inspection findings or reputation either way were found."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Athy Community College",
+      "candidates": [
+        "Athy Community College, Athy, Co. Kildare"
+      ],
+      "note": "Mixed ETB school, about 655 pupils, 5.9 km per Daft.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "41–46% progression to third level in older Kildare feeder-school tables reported by the Leinster Leader, at the bottom of the county list."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Ardscoil na Tríonóide",
+      "candidates": [
+        "Ardscoil na Tríonóide, Rathstewart, Athy, Co. Kildare"
+      ],
+      "note": "Mixed, Catholic (CEIST), about 882 pupils, 7 km. Knockbeg College (boys, Strong, 92% progression in 2016) is about 7.7 km toward Carlow.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "74% progression to third level in an older Irish Times feeder table quoted by the Leinster Leader; large and popular, but no recent figure found."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Centra Ballylinan",
+      "candidates": [
+        "Centra, Ballylinan, Co. Laois",
+        "Spar, Athy, Co. Kildare"
+      ],
+      "note": "About 5 km to Ballylinan's Centra; Athy's shops are about 6.5 km. The page keeps the faster drive.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Tesco Athy",
+      "candidates": [
+        "Tesco, Athy, Co. Kildare",
+        "Aldi, Athy, Co. Kildare",
+        "Lidl, Athy, Co. Kildare"
+      ],
+      "note": "Athy's supermarkets are about 6.5–8 km north; Carlow's are a similar run south.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Clanard Court Hotel, Athy",
+      "candidates": [
+        "Clanard Court Hotel, Dublin Road, Athy, Co. Kildare",
+        "The Green Barn, Burtown House, Athy, Co. Kildare"
+      ],
+      "note": "Both won 2026 Restaurant Association awards for Kildare: Clanard Court for customer service, the Green Barn at Burtown House for contemporary Irish cuisine.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Midland Regional Hospital Portlaoise",
+      "candidates": [
+        "Midland Regional Hospital Portlaoise, Dublin Road, Portlaoise",
+        "St Luke's General Hospital, Kilkenny"
+      ],
+      "note": "Portlaoise: 24-hour ED that takes children (paediatric extension since May 2026), about 35 km. Naas is 16+ only, and Athy and Carlow have no ED.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Athy",
+      "candidates": [
+        "Emily Square, Athy, Co. Kildare"
+      ],
+      "note": "About 6.5 km: GPs, pharmacies, supermarkets and the station. Carlow is about 13 km south.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "The nearest city outside Dublin, via Carlow and the M9.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the M9/M7; the train from Athy is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Athy station",
+      "candidates": [
+        "Athy railway station, Athy, Co. Kildare",
+        "Carlow railway station"
+      ],
+      "note": "Waterford–Heuston line (not a Kildare commuter town): about 10 trains to Heuston each weekday, roughly 55–65 min; peak trains are reported full. Carlow (about 10 a day) is the alternative.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

@@ -237,6 +237,76 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/tobinstown-lodge-tobinstown-tullow-co-carlow/6684775",
       "recheck": true
+    },
+    {
+      "id": "ballyhast-castletown-geoghegan",
+      "name": "Ballyhast",
+      "left": "2026-10-29",
+      "reason": "bumped at 2.83 by the 29 Oct catch-up adds (score 2.83 below new finds at 3.0–3.5)",
+      "lastPrice": 399950,
+      "aiStars": 2.5,
+      "human": {
+        "n": 2,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.myhome.ie/residential/brochure/ballyhast-castletown-geoghegan-mullingar-co-westmeath/5032366",
+      "recheck": false
+    },
+    {
+      "id": "tirernan-ballickmoyler",
+      "name": "Tirernan",
+      "left": "2026-10-29",
+      "reason": "bumped at 2.83 by the 29 Oct catch-up adds (score 2.83 below new finds at 3.0–3.5)",
+      "lastPrice": 490000,
+      "aiStars": 2.5,
+      "human": {
+        "n": 2,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/tirernan-ballickmoyler-carlow-co-laois/6697094",
+      "recheck": false
+    },
+    {
+      "id": "ballycarrigeen-boolavogue",
+      "name": "Ballycarrigeen Upper",
+      "left": "2026-10-29",
+      "reason": "tied at 3.0 with new finds; new wins ties (Gabor, 29 Oct) — longest-standing rated incumbent (on since 13 Oct)",
+      "lastPrice": 450000,
+      "aiStars": 3.0,
+      "human": {
+        "n": 2,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/ballycarrigeen-upper-ferns-enniscorthy-co-wexford/6694823",
+      "recheck": false
+    },
+    {
+      "id": "leavalley-leixlip",
+      "name": "Leavalley",
+      "left": "2026-10-29",
+      "reason": "tied at 3.0 with new finds; new wins ties (Gabor, 29 Oct) — rated incumbent",
+      "lastPrice": 550000,
+      "aiStars": 2.0,
+      "human": {
+        "n": 2,
+        "avg": 3.5
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/leavalley-confey-leixlip-co-kildare/6533852",
+      "recheck": false
+    },
+    {
+      "id": "ballinkillen-bagenalstown",
+      "name": "Ballinkillen",
+      "left": "2026-10-29",
+      "reason": "tied at 3.0 with new finds; new wins ties (Gabor, 29 Oct) — rated incumbent",
+      "lastPrice": 450000,
+      "aiStars": 3.0,
+      "human": {
+        "n": 2,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/ballinkillen-muine-bheag-co-carlow/6676559",
+      "recheck": false
     }
   ]
 }

@@ -1,0 +1,345 @@
+{
+  "id": "garryhundon-milford",
+  "name": "Garryhundon",
+  "address": "Garryhundon, Milford, Co. Carlow",
+  "eircode": "R93 FW56",
+  "lat": 52.7616256,
+  "lng": -6.9333168,
+  "listingUrl": "https://www.daft.ie/for-sale/garryhundon-milford-tinryland-co-carlow/6615103",
+  "status": "Considering",
+  "added": "2026-10-29",
+  "area": "Milford, Co. Carlow",
+  "agent": "Florin Lungu, Kehoe Auctioneers",
+  "agentEmail": "info@kehoe.ie",
+  "agentPhone": "087 229 9707 / 059 913 1678",
+  "questions": [
+    "The fourth bedroom on the floor plan is 3.43 × 1.63 m. Is there any scope (planning or space on the 2,700 m² site) to extend for a proper fourth double bedroom or a second living room?",
+    "Is the house on mains water or a group scheme, or a private well? Is drainage a septic tank or treatment system, and when was it last desludged or inspected?",
+    "BuyerIQ puts a mapped river flood zone about 0.5 km away. Has the house, garden or access road ever flooded, and is flood cover available on the buildings insurance?",
+    "How close is the M9, and can traffic be heard from the garden? What is the planning application lodged within 1 km of the house for?",
+    "Are the 10 solar panels PV (electricity) or thermal (hot water), and how old are the oil boiler and the panels? Are the boundaries stock-proof all round (we have two dogs)?"
+  ],
+  "ai": {
+    "stars": 3.0,
+    "why": "A tidy B3 bungalow, all on one level with two en-suite bedrooms, 10 minutes from Carlow town and its station, at €450k. Held back by 154 m² with only three real bedrooms (the fourth is 3.43 × 1.63 m), plain looks, a 0.67 ac site and about 30 minutes to a children's ED."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "Connected; lived-in house with 10 solar panels on the roof (type not stated)."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Not stated in the listing. A rural one-off house, so it could be mains, a group scheme or a private well; ask."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Not stated in the listing. Probably a septic tank or treatment unit for a rural site; ask its age and certification."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Full fibre at the address per BuyerIQ ('Fast broadband — 387 Mb full fibre'); the listing doesn't mention broadband and the provider isn't confirmed.",
+      "type": "Fibre",
+      "speed": "~387 Mb (full fibre)",
+      "provider": "NBI / open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Single storey: every bedroom is on the ground floor, including two doubles with en-suites (3.73 × 4.47 m and 4.87 × 4.44 m) per the floor plan."
+  },
+  "price": 450000,
+  "type": "Detached bungalow",
+  "beds": 4,
+  "bedsNote": "3 doubles + a 3.43 × 1.63 m box room",
+  "baths": 3,
+  "floorM2": 154,
+  "landHa": 0.27,
+  "landAcres": 0.67,
+  "ber": "B3",
+  "berKwh": 145.52,
+  "heating": "Oil-fired central heating, solid-fuel stove insert, 10 solar panels",
+  "listed": "2026-07-08",
+  "views": 6771,
+  "stampDuty": 4500,
+  "tagline": "A tidy single-storey bungalow on about two-thirds of an acre between Leighlinbridge and Carlow, a few minutes off the M9.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/3/1/5011135/4330f17a-204a-4cc4-b66d-d6f4c5539129_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/3/1/5011135/d115bca9-79e6-4094-b873-a27989b68ce3_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/3/1/5011135/63cfd923-605b-4507-adeb-6b2bf70ad2a2_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/3/1/5011135/04bb3950-5563-406d-b5d7-f9c8f1b574ff_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€450k, under the €500k line",
+      "weight": 3,
+      "detail": "About €2,920/m² on the 154 m² floor plan. Stamp duty about €4,500."
+    },
+    {
+      "text": "All on one level, two en-suites",
+      "weight": 3,
+      "detail": "Single storey: the parents could take the 4.87 × 4.44 m double with its own shower room; three bathrooms in all."
+    },
+    {
+      "text": "Close to Carlow and its station",
+      "weight": 3,
+      "detail": "Under 10 minutes to Carlow town (per the listing); Carlow station has about 10 direct weekday trains to Heuston, roughly 1h to 1h20."
+    },
+    {
+      "text": "B3 and ready to move into",
+      "weight": 2,
+      "detail": "145.5 kWh/m²/yr with 10 solar panels; the listing says it is in excellent condition throughout."
+    },
+    {
+      "text": "Good secondaries nearby",
+      "weight": 2,
+      "detail": "Tyndall College (mixed) is on Carlow's Kilkenny Road; Knockbeg College (boys) and Presentation Askea (mixed) are also in reach."
+    },
+    {
+      "text": "Full-fibre broadband",
+      "weight": 1,
+      "detail": "BuyerIQ shows 387 Mb full fibre at the address."
+    },
+    {
+      "text": "Leighlinbridge 5 minutes away",
+      "weight": 1,
+      "detail": "A Barrow-side village with the Lord Bagenal Inn and the Barrow Way, per the listing's 5-minute drive."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Tight for six: three real bedrooms",
+      "weight": 3,
+      "detail": "154 m², and the fourth bedroom is 3.43 × 1.63 m, a box room or study. Living space is one 10.3 × 3.8 m kitchen/living area plus a 3.6 × 5.5 m living room."
+    },
+    {
+      "text": "Children's ED about 30 minutes",
+      "weight": 2,
+      "detail": "Carlow has no ED; St Luke's Kilkenny is about 35 km, Portlaoise about 45 km."
+    },
+    {
+      "text": "Only two-thirds of an acre",
+      "weight": 2,
+      "detail": "c. 2,700 m² (0.67 ac), mostly lawn; fine for dogs, but not the acre of the brief, and the photos show a house across the road."
+    },
+    {
+      "text": "Plain 1970s–80s bungalow",
+      "weight": 1,
+      "detail": "Standard dashed bungalow with uPVC windows; tidy, but little character."
+    },
+    {
+      "text": "Flood zone about 0.5 km away",
+      "weight": 1,
+      "detail": "BuyerIQ flags moderate river flood risk with a mapped flood zone ~0.5 km off (the Barrow valley); check insurance and the access road."
+    },
+    {
+      "text": "Water and drainage not stated",
+      "weight": 1,
+      "detail": "Rural site; likely a septic tank and possibly a well or group scheme. Ask."
+    },
+    {
+      "text": "Overhead line and M9 nearby",
+      "weight": 1,
+      "detail": "A wire runs to the house in the facade photo, and the M9 junction is about 4 minutes away; check for road noise and poles on the site."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Ballinabranna National School",
+      "candidates": [
+        "Ballinabranna National School, Milford, Co. Carlow",
+        "Ballinabranna Mixed National School, Ballinabranna, Co. Carlow"
+      ],
+      "note": "Catholic, co-ed, not DEIS, roll 17756D, 184 pupils (97 boys, 87 girls), with special classes; about 2 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Not DEIS and a steady roll (about 170 in 2014, 184 now, 11 teachers); no inspection report could be read because gov.ie returned 403."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Tyndall College",
+      "candidates": [
+        "Tyndall College, Kilkenny Road, Carlow",
+        "Tyndall College Carlow"
+      ],
+      "note": "Mixed ETB school on the south side of Carlow, about 8 km. St Mary's Knockbeg College (boys, 92% progression in 2016) is the strong alternative north of the town.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Reported at 100% progression to third level in the Irish Independent's 2021 tables (Beat 102-103), ahead of Askea's 95%; the 2025 Irish Times figures for Carlow couldn't be read."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Shop in Leighlinbridge",
+      "candidates": [
+        "Drive Service Station, Seskin Road, Leighlinbridge, Co. Carlow",
+        "Centra, Leighlinbridge, Co. Carlow",
+        "Centra, Maxol Service Station, O'Brien Road, Carlow"
+      ],
+      "note": "Leighlinbridge has a village shop and the Drive filling station (brand not confirmed), about 5 minutes; the Maxol Centra on Carlow's O'Brien Road is the fallback.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Tesco Carlow Fairgreen",
+      "candidates": [
+        "Tesco, Fairgreen Shopping Centre, Barrack Street, Carlow",
+        "Aldi, Hanover Road, Carlow",
+        "Lidl, Kilkenny Road, Carlow"
+      ],
+      "note": "Carlow town, under 10 minutes: Tesco, Aldi, Lidl, Dunnes and SuperValu.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "The Lord Bagenal Inn, Leighlinbridge",
+      "candidates": [
+        "The Lord Bagenal Inn, Leighlinbridge, Co. Carlow",
+        "Teach Dolmain, Tullow Street, Carlow"
+      ],
+      "note": "Family-run hotel restaurant on the Barrow, Carlow winner for wine at the 2026 Restaurant Association Awards; Teach Dolmain in Carlow is the pub option.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "St Luke's General Hospital",
+      "candidates": [
+        "St Luke's General Hospital, Kilkenny",
+        "Midland Regional Hospital Portlaoise"
+      ],
+      "note": "24-hour ED for all ages, about 35 km. Portlaoise (all ages, extended paediatric ED opened May 2026) is about 45 km; Carlow has no ED, and Naas takes 16+ only.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Carlow",
+      "candidates": [
+        "Tullow Street, Carlow",
+        "Main Street, Leighlinbridge, Co. Carlow"
+      ],
+      "note": "Carlow town, under 10 minutes per the listing: GPs, pharmacies, shopping centres, the station. Leighlinbridge is 5 minutes.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Kilkenny city via the M9 and N10.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car on the M9 from Junction 6, about 4 minutes away; the train from Carlow is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Carlow station",
+      "candidates": [
+        "Carlow railway station, Station Road, Carlow",
+        "Muine Bheag railway station, Bagenalstown, Co. Carlow"
+      ],
+      "note": "Waterford–Heuston line: about 10 direct trains a weekday (06:30 to 19:47 on a sample Tuesday), roughly 1h to 1h20 to Heuston; about 10 km north.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

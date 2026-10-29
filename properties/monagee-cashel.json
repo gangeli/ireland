@@ -1,0 +1,365 @@
+{
+  "id": "monagee-cashel",
+  "name": "Monagee",
+  "address": "Monagee, Camus, Cashel, Co. Tipperary",
+  "eircode": "E25 F437",
+  "lat": 52.532697,
+  "lng": -7.919509,
+  "listingUrl": "https://www.daft.ie/for-sale/bungalow-monagee-camus-cashel-co-tipperary/6706734",
+  "status": "Considering",
+  "added": "2026-10-29",
+  "area": "Cashel, Co. Tipperary",
+  "agent": "William Carroll, William Carroll Auctioneers",
+  "agentPhone": "062 52152",
+  "questions": [
+    "BuyerIQ places this Eircode inside the OPW 1-in-100 river flood extent, and the ground is only a few metres above the Suir about 1.1 km west. Has the house, garden or the lane off the Camus Road (R505) ever flooded, and does the current owner hold buildings insurance with flood cover?",
+    "The listing gives both 1,153 sq ft and 150 m². Can you send a floor plan or room sizes so we can confirm the true floor area (we have used 150 m²)?",
+    "Is every room on one level? Which two bedrooms have the WC, and is one of them near a shower room that could suit older parents?",
+    "What heats the house besides the stove and fireplace (oil, LPG?), and how old is the boiler? 'All main services' — is that mains water and mains sewer, or a septic tank?",
+    "Can you send a boundary map for the acre? BuyerIQ shows the property as listed for about 216 days, while Daft shows 27 Oct; has the price changed?"
+  ],
+  "ai": {
+    "stars": 3,
+    "why": "A €350k single-storey four-bed on about an acre of mature trees, 3 km from Cashel, with Thurles trains 25 minutes away. Pulled back to a plain 3 by a mapped river flood risk, only two shower rooms for six, no floor plan, and a 30-minute ED."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; the listing says 'Modern house with all main services'."
+    },
+    "water": {
+      "status": "likely",
+      "detail": "Probably mains: the listing says 'all main services' but doesn't name the water supply."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Not stated; 'all main services' is vague and a house 3 km out of Cashel may well be on a septic tank."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Full fibre at the address per BuyerIQ ('Fast broadband — 102 Mb full fibre'); the listing only says 'Wired for cable television'. Provider not confirmed.",
+      "type": "Fibre",
+      "speed": "~100 Mb+ (full fibre)",
+      "provider": "NBI / open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "Listed on Daft as a bungalow, so all four bedrooms (two with a WC) should be on the ground floor, but there is no floor plan or room list to confirm it."
+  },
+  "price": 350000,
+  "type": "Detached bungalow",
+  "beds": 4,
+  "bedsNote": "Two bedrooms with a WC, plus a home office/study",
+  "baths": 2,
+  "floorM2": 150,
+  "landHa": 0.4,
+  "landAcres": 1,
+  "ber": "C3",
+  "heating": "Not stated beyond a wood-burning stove and an open fireplace",
+  "listed": "2026-10-27",
+  "views": 674,
+  "stampDuty": 3500,
+  "tagline": "A four-bed bungalow on about an acre of mature, tree-lined grounds with Galtee views, off the Camus Road 3 km west of Cashel.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIwXC81XC8wNWZkYjQ5ZDhmNWY0OTJlMDk2YjVjZTFiMDQ0ZTY0NS5qcGcifQ==?signature=2ed3b7d6fcef5b054a4f774e8c7d75370c87cb6d95e600ed6938f4a9592860a8",
+      "role": "facade"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€350k, well under the €500k line",
+      "weight": 3,
+      "detail": "About €2,333/m² on 150 m²; stamp duty about €3,500, leaving room for upgrades."
+    },
+    {
+      "text": "About an acre of mature, tree-lined grounds",
+      "weight": 3,
+      "detail": "Stated as approx. one acre 'surrounded by mature trees', with a deck and an attached garage; set about 110 m back from the R505 on a private lane, nearest house roughly 115 m away (OpenStreetMap)."
+    },
+    {
+      "text": "Single storey, four bedrooms",
+      "weight": 2,
+      "detail": "Listed as a bungalow with four bedrooms, two with a WC, two reception rooms (stove and fireplace), a kitchen/breakfast room, a study and a utility."
+    },
+    {
+      "text": "Cashel 3 km away",
+      "weight": 2,
+      "detail": "About 5 minutes to a real town: Tesco, SuperValu, Lidl, pharmacies, GPs, the Rock of Cashel and Chez Hans (Best Restaurant, Tipperary, 2026)."
+    },
+    {
+      "text": "Thurles trains about 25 minutes away",
+      "weight": 2,
+      "detail": "Thurles is on the Cork–Dublin main line, roughly hourly, about 1h15 to Heuston; Limerick Junction is a similar drive west."
+    },
+    {
+      "text": "Secondary options on the doorstep",
+      "weight": 1,
+      "detail": "Cashel Community School (mixed, ~860 pupils) is about 3 km; Rockwell College (fee-paying, co-ed day places, reported 100% progression) is about 8.5 km."
+    },
+    {
+      "text": "Lets well, and views of the Galtees",
+      "weight": 1,
+      "detail": "Cashel is a busy tourist town for summer lets; the listing cites 'Lovely views of Galtee mountains'."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Mapped river flood risk",
+      "weight": 3,
+      "detail": "BuyerIQ puts the Eircode inside the OPW 1-in-100 fluvial flood extent; the house sits at about 69 m, only ~3 m above the Suir about 1.1 km west (EU-DEM), so insurance and access need checking."
+    },
+    {
+      "text": "Only two shower rooms for six",
+      "weight": 2,
+      "detail": "Two shower rooms plus WCs in two bedrooms; no bath mentioned. The family brief wants three full bathrooms."
+    },
+    {
+      "text": "Floor area is uncertain; no floor plan",
+      "weight": 2,
+      "detail": "The listing says '1,153sqft / 150 sq.m approx.' (1,153 sq ft is only 107 m²). The room list fits 150 m² better, which we use, but there are no room sizes or plan to confirm it."
+    },
+    {
+      "text": "Emergency department about 30 minutes",
+      "weight": 2,
+      "detail": "Tipperary University Hospital, Clonmel (all ages) is roughly 30 km by road; Cashel's own hospital, 3 km away, has no ED."
+    },
+    {
+      "text": "Heating and drainage not stated",
+      "weight": 1,
+      "detail": "Only a wood-burning stove and a fireplace are named; 'all main services' doesn't say whether it's mains sewer or septic, or what the boiler runs on. BER C3, kWh figure not shown."
+    },
+    {
+      "text": "Dated, and only one photo seen",
+      "weight": 1,
+      "detail": "'Antique pine' kitchen units suggest an older fit-out; only the lead photo could be checked, so condition and light are unverified."
+    },
+    {
+      "text": "Primary choice is thin for boys",
+      "weight": 1,
+      "detail": "Cashel's boys' primary is a DEIS Band 1 school; the small rural mixed schools (Golden ~85 pupils, Boherlahan ~116) have no inspection results we could read."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "St John the Baptist Boys' National School",
+      "candidates": [
+        "St John the Baptist Boys National School, Cashel, Co. Tipperary"
+      ],
+      "note": "Catholic boys' school in Cashel, about 270 pupils (July 2026 advert), DEIS Band 1, with special classes; about 3.5 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Large DEIS Band 1 boys' school; no inspection report could be read (gov.ie returns a verification check) and no reputation evidence found either way."
+      }
+    },
+    {
+      "id": "school-good",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Good primary school",
+      "title": "Golden National School",
+      "candidates": [
+        "Golden National School, Golden, Co. Tipperary",
+        "Boherlahan National School, Boherlahan, Co. Tipperary"
+      ],
+      "note": "Small mixed rural school, about 85 pupils and six teachers (July 2026), about 5.5 km west; Boherlahan NS (~116 pupils) is the other rural option. Neither is confirmed as Good.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "A Whole School Evaluation for Golden NS was published in 2015 but gov.ie blocked reading it; listed as the nearest mixed alternative, not a verified Good school."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Cashel Community School",
+      "candidates": [
+        "Cashel Community School, Dualla Road, Cashel, Co. Tipperary"
+      ],
+      "note": "Mixed, non-fee-paying, about 860 pupils (445 boys), the largest in Tipperary, with a new building; about 3 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Appears in the Irish Times South Tipperary feeder table (2026) below Rockwell, but no progression percentage or inspection finding could be read."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Rockwell College",
+      "candidates": [
+        "Rockwell College, New Inn, Cashel, Co. Tipperary"
+      ],
+      "note": "Spiritan co-ed boarding and day school, about 500 pupils, fee-paying (day fee was €4,650 in 2019/20; confirm current); about 8.5 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "Tops the South Tipperary feeder table; an Irish Independent fee-paying list reported 88 Leaving Cert students and 100% progression to third level."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Cashel town shops",
+      "candidates": [
+        "Centra, Main Street, Cashel, Co. Tipperary",
+        "Spar, Cashel, Co. Tipperary",
+        "Circle K, Cashel Service Area, Co. Tipperary"
+      ],
+      "note": "No shop on the Camus Road itself; the nearest are in Cashel, about 3 km east.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Tesco Cashel",
+      "candidates": [
+        "Tesco, Cashel Shopping Centre, Cashel, Co. Tipperary",
+        "SuperValu, Cashel, Co. Tipperary",
+        "Lidl, Cashel, Co. Tipperary"
+      ],
+      "note": "Cashel has Tesco, SuperValu and Lidl, about 3–4 km.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Chez Hans, Cashel",
+      "candidates": [
+        "Chez Hans, Moor Lane, Cashel, Co. Tipperary",
+        "Mikey Ryan's Bar & Kitchen, Main Street, Cashel, Co. Tipperary"
+      ],
+      "note": "Chez Hans won Best Restaurant for Tipperary at the 2026 Irish Restaurant Awards; Mikey Ryan's (Cashel Palace) serves dinner daily. The Michelin-starred Bishop's Buttery is the treat.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Tipperary University Hospital, Clonmel",
+      "candidates": [
+        "Tipperary University Hospital, Western Road, Clonmel, Co. Tipperary",
+        "University Hospital Limerick, Dooradoyle"
+      ],
+      "note": "24-hour ED for all ages, roughly 30 km; Our Lady's Hospital in Cashel has no ED.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Cashel",
+      "candidates": [
+        "Main Street, Cashel, Co. Tipperary"
+      ],
+      "note": "Cashel, about 3 km: pharmacies, GPs, cafés, post office and the Rock.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Limerick",
+      "candidates": [
+        "O'Connell Street, Limerick",
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Limerick, roughly an hour west; Kilkenny is a similar drive east.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M8. The train from Thurles is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "Straight down the M8.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Thurles",
+      "candidates": [
+        "Thurles railway station, Co. Tipperary",
+        "Limerick Junction railway station, Co. Tipperary"
+      ],
+      "note": "Cork–Dublin line: roughly hourly, about 1h15 to Heuston (aggregator data; weekday count not checked against the timetable); about 22 km north. Limerick Junction, on the same line, is a similar drive west.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most. Shannon is the closer alternative.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

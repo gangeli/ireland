@@ -1,0 +1,350 @@
+{
+  "id": "slaney-vista-wexford",
+  "name": "Slaney Vista",
+  "address": "Slaney Vista, Newtown Road, Wexford",
+  "eircode": "Y35 T1D2",
+  "lat": 52.341251,
+  "lng": -6.481263,
+  "listingUrl": "https://www.myhome.ie/residential/brochure/slaney-vista-newtown-road-wexford/5038596",
+  "status": "Considering",
+  "added": "2026-10-29",
+  "area": "Wexford town, Co. Wexford",
+  "agent": "Nick Popplewell, Sherry FitzGerald Radford, Wexford",
+  "agentEmail": "Nick@radfordauctioneers.com",
+  "agentPhone": "087 997 2552 / 053 914 6046",
+  "questions": [
+    "The listing gives no site area. Can you send the folio map with the acreage? From the drone shot we make it roughly 0.4–0.6 acres, much of it tarmac and patio. Is the boundary fully walled or fenced for two dogs?",
+    "How is the house heated: is the living-area stove's back boiler the main system, or is there oil or gas central heating too? How old is the boiler?",
+    "Is there a floor plan? We'd like to see how the bedroom 4 suite (5.5 × 5.26 m, en suite) sits relative to the living rooms for Gabor's parents.",
+    "Is the house on mains water and mains sewerage? BuyerIQ shows ten large residential schemes lodged within about 250 m. Do you know what is planned next to or behind the site?",
+    "How much traffic noise reaches the house from Newtown Road? Has a radon test been done? BuyerIQ flags moderate radon risk in the area."
+  ],
+  "ai": {
+    "stars": 3.0,
+    "why": "Right size and all on one level: 235 m², four big doubles, three bathrooms, walk to Wexford General's ED and the town. Held back by the €575k asking price, over the €500k line, a modest walled site on a main town road with estates growing around it, and a slow train (about 4 a day, 2 h 40 min)."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but it's a lived-in town house in walk-in condition."
+    },
+    "water": {
+      "status": "likely",
+      "detail": "Likely mains: not stated, but it's on a town road beside new estates and the hospital. Confirm with the agent."
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Likely mains sewer: not stated, but on the edge of Wexford town among serviced estates. Confirm there's no septic tank."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Likely full fibre; not stated in the listing. Wexford town has open eir FTTH, SIRO and Virgin Media; check each provider's checker for this Eircode.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb (unconfirmed)",
+      "provider": "open eir / SIRO / Virgin Media"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Single-storey bungalow: all four bedrooms are on the ground floor, including Bedroom 4 (5.5 × 5.26 m, en suite), which suits Gabor's parents. No floor plan is published."
+  },
+  "price": 575000,
+  "type": "Detached bungalow",
+  "beds": 4,
+  "bedsNote": "All doubles, two with en suites",
+  "baths": 3,
+  "floorM2": 235,
+  "ber": "C1",
+  "berKwh": 155.19,
+  "heating": "Not stated; solid-fuel stove with back boiler in the living area, plus an open fire in the living room",
+  "listed": "2026-10-29",
+  "stampDuty": 5750,
+  "tagline": "A large detached bungalow on its own elevated, walled site on Newtown Road, on the edge of Wexford town, a short walk from Wexford General Hospital.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/9/5/5038596/d25dfd05-8175-40a0-ac28-0d68cabd5faf_l.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/9/5/5038596/844401c1-f91f-423a-8b72-fff9add4fb1a_l.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/9/5/5038596/b0c42ef0-95b2-4a5f-af11-724a857d4874_l.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/9/5/5038596/922645fe-b1a4-425b-b90a-d25a81a0c62e_l.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/9/5/5038596/6f0274bc-5a4f-436f-b542-03e169b4be83_l.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/9/5/5038596/5f48b298-4ecb-4045-b901-6649dec74892_l.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/9/5/5038596/a20efe56-4c9f-4ea7-8c48-7ace92e4cab7_l.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/9/5/5038596/ed8813ee-12ff-4880-a059-ae1a1b6fd94a_l.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Room for six on one level",
+      "weight": 3,
+      "detail": "235 m², four double bedrooms (3.2–5.5 m wide), a 9 × 6.66 m kitchen/dining room, a living room, a living area and a 4.4 × 3.65 m sunroom."
+    },
+    {
+      "text": "Three bathrooms",
+      "weight": 2,
+      "detail": "Two en suites plus a 4.17 × 1.95 m family bathroom and a cloakroom WC, all on the same floor as the bedrooms."
+    },
+    {
+      "text": "Walk to a children's ED",
+      "weight": 3,
+      "detail": "Wexford General's all-ages 24-hour ED is on Newtown Road; the listing says it's within easy walking distance (about 600 m)."
+    },
+    {
+      "text": "Town on the doorstep",
+      "weight": 2,
+      "detail": "Aldi about 300 m away, Wexford centre about 1.5 km, St Peter's College (boys' secondary) about 1.5 km, and buses into town."
+    },
+    {
+      "text": "Walk-in condition, BER C1",
+      "weight": 2,
+      "detail": "155 kWh/m²/yr; the vendors want to close by the end of February. The fit-out is dated (pine doors, electric showers) but sound."
+    },
+    {
+      "text": "Light, views and some character",
+      "weight": 1,
+      "detail": "Bay windows, an open fireplace and coving in the living room, which the listing says has great views; the drone shots show the Slaney estuary about 1 km off."
+    },
+    {
+      "text": "Detached 8 × 4 m garage",
+      "weight": 1,
+      "detail": "Plus a large walled patio at the back and vehicle access all round the house."
+    }
+  ],
+  "cons": [
+    {
+      "text": "€575k, over the €500k line",
+      "weight": 3,
+      "detail": "About €75k over budget before any changes (€2,447/m²); stamp duty about €5,750. 'Offers in excess of' suggests it may go higher."
+    },
+    {
+      "text": "Modest garden for the dogs",
+      "weight": 2,
+      "detail": "No site area is stated; the boundary on the drone shot looks roughly 0.4–0.6 acres (rough estimate), much of it tarmac drive and patio, with a lawn at the back."
+    },
+    {
+      "text": "On a main town road, neighbours close",
+      "weight": 2,
+      "detail": "The front wall is on Newtown Road, which has bus and cycle lanes and a junction at the corner, with detached houses on both sides about 20–30 m away."
+    },
+    {
+      "text": "Estates growing around it",
+      "weight": 1,
+      "detail": "BuyerIQ shows ten large residential schemes lodged within about 250 m (new estates such as Radharc na hAbhann are on Newtown Road); the scrub field behind could be next."
+    },
+    {
+      "text": "Slow, sparse Dublin trains",
+      "weight": 2,
+      "detail": "Wexford O'Hanrahan has about 4 direct Connolly trains a weekday, taking ~2 h 40 min; Dublin by car is about 2 h."
+    },
+    {
+      "text": "Nearest mixed primary is DEIS Band 1",
+      "weight": 1,
+      "detail": "Scoil Mhuire, Coolcotts (~600 pupils) is the closest; no inspection report could be read for it or the alternatives."
+    },
+    {
+      "text": "Heating and floor plan unknown",
+      "weight": 1,
+      "detail": "The listing names only a solid-fuel back-boiler stove and an open fire, with no central-heating fuel, and there's no floor plan. BuyerIQ flags moderate radon risk."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "category": "Schools",
+      "kind": "Primary school",
+      "title": "Scoil Mhuire, Coolcotts",
+      "label": "School run",
+      "candidates": [
+        "Scoil Mhuire Coolcotts, Coolcotts, Wexford",
+        "Scoil Mhuire National School, Coolcotts Lane, Wexford"
+      ],
+      "note": "Nearest mixed primary, about 800 m (Daft's straight-line list); ~600 pupils, Catholic, DEIS Band 1, roll 19739N. The nearer Mercy School is girls-only.",
+      "when": "08:20",
+      "group": "weekday",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Large co-ed Catholic school with special classes; DEIS Band 1 per its job adverts. Its only indexed inspection is a DEIS action-planning evaluation, which couldn't be read; no WSE found."
+      }
+    },
+    {
+      "id": "secondary",
+      "category": "Schools",
+      "kind": "Secondary school",
+      "title": "St Peter's College",
+      "label": "School run",
+      "candidates": [
+        "St Peter's College, Summerhill, Wexford"
+      ],
+      "note": "Boys' diocesan secondary on Summerhill, ~785 pupils (2019–2026 job adverts), about 1.5 km across town.",
+      "when": "08:05",
+      "group": "weekday",
+      "rating": {
+        "level": "Good",
+        "basis": "Named among Wexford's well-placed schools in the Irish Times feeder tables (South East Radio, Dec 2019) and on an older Sunday Independent best-performers list; no recent percentage found."
+      }
+    },
+    {
+      "id": "shop",
+      "category": "Groceries",
+      "kind": "Village shop",
+      "title": "Aldi Newtown Road",
+      "label": "Milk and the paper",
+      "candidates": [
+        "Aldi, Newtown Road, Wexford"
+      ],
+      "note": "The listing puts Aldi on Newtown Road within easy walking distance (about 300 m past the hospital); no Centra/Spar on Newtown Road turned up.",
+      "when": "09:15",
+      "group": "weekday"
+    },
+    {
+      "id": "bigshop",
+      "category": "Groceries",
+      "kind": "Supermarket",
+      "title": "Tesco Wexford",
+      "label": "The big shop",
+      "candidates": [
+        "Tesco Extra, Clonard, Wexford",
+        "Dunnes Stores, Redmond Square, Wexford",
+        "SuperValu, Wexford, Co. Wexford"
+      ],
+      "note": "Wexford town's full supermarkets are all within a few km.",
+      "when": "10:30",
+      "group": "weekday"
+    },
+    {
+      "id": "dinner",
+      "category": "Eating out",
+      "kind": "Restaurant",
+      "title": "La Côte Seafood Restaurant",
+      "label": "Dinner out",
+      "candidates": [
+        "La Cote Seafood Restaurant, Custom House Quay, Wexford"
+      ],
+      "note": "Best restaurant in Co. Wexford at the 2026 Restaurant Association Awards; chef Paul Hynes, on the quay in town.",
+      "when": "19:00",
+      "group": "weekday"
+    },
+    {
+      "id": "hospital",
+      "category": "Health",
+      "kind": "Emergency department",
+      "title": "Wexford General Hospital",
+      "label": "The 3 a.m. trip",
+      "candidates": [
+        "Wexford General Hospital, Newtown Road, Wexford"
+      ],
+      "note": "All-ages 24-hour ED on the same road; the listing says it's within easy walking distance.",
+      "when": "03:00",
+      "group": "night"
+    },
+    {
+      "id": "town",
+      "category": "Towns and cities",
+      "kind": "Small town",
+      "title": "Wexford town centre",
+      "label": "Errands in town",
+      "candidates": [
+        "The Bullring, Wexford",
+        "Main Street, Wexford"
+      ],
+      "note": "The house is on the edge of Wexford town (county town, ~21,000 people); the centre is about 1.5 km.",
+      "when": "12:30",
+      "group": "weekday"
+    },
+    {
+      "id": "city",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "Waterford",
+      "label": "Day in the city",
+      "candidates": [
+        "The Quay, Waterford",
+        "University Hospital Waterford, Waterford"
+      ],
+      "note": "Nearest city, roughly an hour west via the N25.",
+      "when": "15:00",
+      "group": "weekday"
+    },
+    {
+      "id": "dublin",
+      "category": "Towns and cities",
+      "kind": "Capital",
+      "title": "St Stephen's Green, Dublin",
+      "label": "Day in Dublin",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday"
+    },
+    {
+      "id": "cork",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "English Market, Cork",
+      "label": "Day in Cork",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday"
+    },
+    {
+      "id": "train",
+      "category": "Getting away",
+      "kind": "Station",
+      "title": "Wexford O'Hanrahan station",
+      "label": "Train to Dublin",
+      "candidates": [
+        "Wexford O'Hanrahan Railway Station, Redmond Place, Wexford",
+        "Wexford Train Station, Wexford"
+      ],
+      "note": "Rosslare–Dublin Connolly line: about 4 direct trains a weekday, ~2 h 40 min (earliest 05:59, arriving 08:48); fewer at weekends.",
+      "when": "07:15",
+      "group": "further"
+    },
+    {
+      "id": "airport",
+      "category": "Getting away",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "label": "Flights",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "",
+      "when": "06:00",
+      "group": "further",
+      "day": "friday"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

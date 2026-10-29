@@ -1,0 +1,344 @@
+{
+  "id": "shanavaur-mountrath",
+  "name": "Shanavaur",
+  "address": "Shanavaur, Mountrath, Co. Laois",
+  "eircode": "R32 HP64",
+  "lat": 53.041672,
+  "lng": -7.49253,
+  "listingUrl": "https://www.daft.ie/for-sale/shanavaur-mountrath-mountrath-co-laois/6706176",
+  "status": "Considering",
+  "added": "2026-10-29",
+  "area": "Mountrath, Co. Laois",
+  "agent": "John Dunne, Hume Auctioneers, Portlaoise",
+  "agentPhone": "057 868 1111 / 057 862 2452",
+  "questions": [
+    "Daft shows BER C but no sub-band or kWh figure (cert no. 120016175); can you send the full BER certificate and advisory report? What is the main heating system and fuel, besides the two stoves?",
+    "How big is the site in acres, and does it include the field north-east of the house? Can you send the folio map, and is the boundary dog-proof all round?",
+    "Are Room 5 and Room 6 in the attic covered by planning and building regulations for habitable use (head height, fire escape)? Is there any bathroom or WC upstairs, or plumbing for one?",
+    "Is there a floor plan with room sizes? How big are the three ground-floor bedrooms?",
+    "What is the yard about 100 m east along the lane used for, and is water from mains, a group scheme or a well? Is drainage a septic tank, and when was it last inspected?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "A well-kept 197 m² dormer bungalow with all three main bedrooms and the family bathroom on the ground floor, landscaped gardens set well back, and Portlaoise's ED and Dublin trains about 15 minutes away, at €475k. Held back by two attic rooms with no bathroom upstairs, an unstated site size and heating, and a working yard about 100 m east."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but the house is lived in and well kept."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Not stated; mains, group scheme or private well all possible in the Slieve Bloom foothills."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Not stated; a rural house set back on its own site almost certainly has its own septic tank or treatment system."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Full fibre at the address per BuyerIQ ('101 Mb full fibre'); the listing doesn't mention broadband. Provider not confirmed, most likely NBI in this rural area.",
+      "type": "Fibre",
+      "speed": "~100 Mb (full fibre)",
+      "provider": "NBI (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Three bedrooms on the ground floor, including the principal with its own tiled en suite, plus a ground-floor family bathroom with bath and separate shower; room sizes aren't given."
+  },
+  "price": 475000,
+  "type": "Detached dormer bungalow",
+  "beds": 4,
+  "bedsNote": "Three bedrooms on the ground floor plus two large attic rooms (Room 5 and Room 6) under sloping ceilings with roof windows; Daft counts 4 beds",
+  "baths": 3,
+  "floorM2": 197,
+  "ber": "C",
+  "heating": "Not stated; an inset stove in the sitting room and a stove in the dining area's brick fireplace",
+  "listed": "2026-10-27",
+  "views": 639,
+  "stampDuty": 4750,
+  "tagline": "A well-kept 197 m² dormer bungalow with three ground-floor bedrooms and landscaped gardens, set back off a lane in the Slieve Bloom foothills 5 km north of Mountrath and about 15 minutes from Portlaoise.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIxXC80XC8xNGE1OGRiYS1mMTUzLTQ4NWUtYjM1YS0yM2RlYjI5MjI5ZGIuSlBFRyJ9?signature=7055035d6cddffb8eb2bd38be06cb107487e51e84cb114f632a805db095a4274",
+      "role": "facade"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€475k, under the €500k line",
+      "weight": 3,
+      "detail": "About €2,411/m² for 197 m²; stamp duty about €4,750."
+    },
+    {
+      "text": "Three ground-floor bedrooms and a full bathroom",
+      "weight": 3,
+      "detail": "The principal bedroom has an en suite; the ground-floor family bathroom has a full bath and separate shower, and there's a guest WC by the rear hall."
+    },
+    {
+      "text": "Portlaoise about 15 minutes: ED, trains, shops",
+      "weight": 3,
+      "detail": "Midland Regional Hospital Portlaoise has a 24-hour ED with a paediatric extension opened in May 2026; Portlaoise station has frequent Heuston trains."
+    },
+    {
+      "text": "197 m² with a big kitchen-dining room",
+      "weight": 2,
+      "detail": "Kitchen with island and breakfast bar, a dining area with exposed brick fireplace and stove, glazed doors to a decked terrace, plus a sitting room with stove and a large utility."
+    },
+    {
+      "text": "Landscaped gardens, set well back from the lane",
+      "weight": 2,
+      "detail": "Sweeping drive with two entrances around a front lawn, mature trees, a decked terrace with pergola, a fenced rear patio and sheds; fields and forestry to the west and south."
+    },
+    {
+      "text": "Mixed village primary 2 km away",
+      "weight": 1,
+      "detail": "Paddock NS, about 80 pupils (34 boys, 46 girls), Catholic, co-ed; Mountrath Community School (about 800 pupils) is 5 km."
+    },
+    {
+      "text": "Full fibre at the address",
+      "weight": 1,
+      "detail": "BuyerIQ shows 101 Mb full fibre for R32 HP64."
+    }
+  ],
+  "cons": [
+    {
+      "text": "No bathroom upstairs; attic rooms may not be bedrooms",
+      "weight": 2,
+      "detail": "Room 5 and Room 6 are attic rooms under sloping ceilings with roof windows, named 'rooms' not bedrooms; whoever sleeps up there comes down for every bathroom trip. Check head height, fire escape and planning."
+    },
+    {
+      "text": "Site size, heating, water and drainage not stated",
+      "weight": 2,
+      "detail": "The listing gives no acreage, main heating fuel, water source or septic details; from the aerial the house plot with its looped drive looks about 0.2–0.3 ha, more if the field to the north-east comes with it."
+    },
+    {
+      "text": "A working yard about 100 m east",
+      "weight": 2,
+      "detail": "Satellite shows sheds, vehicles and stacked materials in a yard about 100 m east along the lane, a neighbouring house about 65 m east and another about 95 m north; use not known."
+    },
+    {
+      "text": "BER C with no sub-band or kWh figure",
+      "weight": 1,
+      "detail": "Daft shows only 'C' (cert 120016175), not exempt as first noted; C1–C3 is 150–225 kWh/m²/yr, so ask for the certificate."
+    },
+    {
+      "text": "Mapped flood zone about 0.4 km away",
+      "weight": 1,
+      "detail": "BuyerIQ flags moderate river flood risk with a mapped zone ~0.4 km from the address; the house itself isn't shown in it. Get an insurance quote with flood cover."
+    },
+    {
+      "text": "No floor plan or room sizes",
+      "weight": 1,
+      "detail": "The listing gives only the 197 m² total; bedroom and kitchen sizes are unknown."
+    },
+    {
+      "text": "Everything is a drive",
+      "weight": 1,
+      "detail": "Paddock NS is 2.1 km and Mountrath about 5 km down rural lanes; no footpaths to the school or shop."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Paddock National School",
+      "candidates": [
+        "Paddock National School, Mountrath, Co. Laois",
+        "Paddock N.S., Paddock, Mountrath, Co. Laois"
+      ],
+      "note": "Catholic, co-ed, roll 13173F, about 80 pupils (34 boys, 46 girls), 5 teachers; about 2.1 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Small co-ed rural school; the only inspection found is a 2021 Covid-era SSPS check, and gov.ie's report pages couldn't be read."
+      }
+    },
+    {
+      "id": "school-good",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Good primary school",
+      "title": "Ballyfin National School",
+      "candidates": [
+        "Ballyfin National School, Ballyfin, Co. Laois"
+      ],
+      "note": "The largest primary nearby (about 214 pupils), about 6 km; a fallback if Paddock doesn't suit. Quality not verified.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Larger village school (Daft lists 214 pupils); no inspection report could be read, so it's a size-based alternative, not a rated one."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Mountrath Community School",
+      "candidates": [
+        "Mountrath Community School, Mountrath, Co. Laois"
+      ],
+      "note": "Mixed community school, about 800 pupils, about 5 km; the listing says 10 minutes.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Leinster Express feeder-school roundups put its progression to third level at 83% in 2018 (108 of 130) and 71% in 2017, around or above the Laois average; no recent figure found."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Centra Mountrath",
+      "candidates": [
+        "Centra, Main Street, Mountrath, Co. Laois",
+        "Spar, Mountrath, Co. Laois"
+      ],
+      "note": "Centra on Main Street, Mountrath, about 5 km; there's also a Spar in the town.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Tesco Portlaoise",
+      "candidates": [
+        "Tesco, Kyle Centre, Portlaoise, Co. Laois",
+        "Aldi, Portlaoise, Co. Laois",
+        "Lidl, Portlaoise, Co. Laois"
+      ],
+      "note": "Portlaoise has Tesco, Dunnes, SuperValu, Aldi and Lidl, about 15 minutes.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Phelan's Restaurant, Mountrath",
+      "candidates": [
+        "Phelan's Restaurant, Main Street, Mountrath, Co. Laois",
+        "O'Gorman's Bar & Restaurant, Main Street, Portlaoise, Co. Laois"
+      ],
+      "note": "Phelan's is a family-run Mountrath restaurant of 37+ years, recently refitted; O'Gorman's in Portlaoise was named Laois gastropub of the year.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Midland Regional Hospital Portlaoise",
+      "candidates": [
+        "Midland Regional Hospital Portlaoise, Dublin Road, Portlaoise",
+        "Midland Regional Hospital Tullamore"
+      ],
+      "note": "24-hour ED for all ages; its paediatric extension opened in May 2026. Downgrade talk recurs, so Tullamore is the fallback.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Portlaoise",
+      "candidates": [
+        "Main Street, Portlaoise, Co. Laois"
+      ],
+      "note": "Portlaoise, about 15 minutes per the listing: hospital, station, supermarkets, GPs; Mountrath (5 km) covers the basics.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "Limerick city centre, Limerick"
+      ],
+      "note": "Kilkenny is the nearest city; Limerick is the alternative down the M7.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the M7; the train from Portlaoise is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Portlaoise",
+      "candidates": [
+        "Portlaoise railway station, Portlaoise, Co. Laois"
+      ],
+      "note": "Dublin–Cork main line plus the Portlaoise commuter service: hourly or better to Heuston, roughly 1 hour (the exact weekday count wasn't verified).",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
