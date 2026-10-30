@@ -168,6 +168,42 @@
           "level": "good",
           "note": "Quiet farm lanes the whole way with no main road, which suits kids on bikes."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:54:59.147Z",
+        "dest": {
+          "name": "Rath National School",
+          "address": "Rathronshin, Ballybrittas, Co. Laois",
+          "uri": "https://maps.google.com/?cid=9484513724980772702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.094422699999996,
+          "lng": -7.0921987,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJBwJE3rJ2XUgRXr_LVPvCn4M/photos/AV-0GLejRxiRsZ6ehOEQrtq5WjAA7s_5nLBqwFE03PiWL7uSYHH9TjMWCKrMCnhrXOzkY-nP7PgOAQRB4BR6fl9mH5jUXXw9TeFjHuKrUd1W_Ec7EqBGdNKbTmx-jxjtvyIfjSvx5vWPg8RwnJVKgE_vN9ZLjOyqBVmjmDtkL4R3P8VtucJVmmJqqNC-eyEocREc5fKeZ_oVKh41dBziANfiwe2q3eDCGdHfQFrO6nUGQCwprI5i8_0Of-KdfeUFbx_hkHZczZC8nFn9_Jek3__qfb3-VEBecZu2fhiXOTXlS1Iavred_CRdl9TKfCQ-yea12ZoGVHjhOWqf3FNTfgKyBN5PUEBBkgb9WXmcrHGKnpR2u0-O70lwoOaFz3lVRlH2VCMt3095iBvcu_RYGuuf_fl3nLM/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Richie Allen",
+            "uri": "https://maps.google.com/maps/contrib/111849458870637057873"
+          },
+          "q": "Rath National School, Rath, Ballybrittas, Co. Laois R32 Y510"
+        },
+        "duration": 351,
+        "distance": 4291,
+        "alts": [
+          {
+            "name": "Rath National School",
+            "duration": 351,
+            "distance": 4291
+          }
+        ],
+        "walk": {
+          "duration": 3465,
+          "distance": 4291
+        },
+        "bike": {
+          "duration": 761,
+          "distance": 4291
+        }
       }
     },
     {
@@ -195,6 +231,36 @@
           "level": "ok",
           "note": "R445 hard shoulder for 3.5 km, then busier town roads with lorries and no cycle lane."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:54:59.147Z",
+        "dest": {
+          "name": "St. Paul’s Secondary School",
+          "address": "Moore Abbey, Mooreabbey Demesne, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=17045807559618696278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.1356172,
+          "lng": -7.0528884,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJeSijRKp3XUgRVpS9tKnfjuw/photos/AV-0GLdEw_8bsUqFNt5lTtQoy1mwTYMK7kYhEmK3Q-eJ_0Vj7Aw4R4NuM-GeKV0WP_XUqUGrKRUKHB9NilapXI6bgkve61HiPUV0J7qVY_xV3u-6UCbxaocK99Rot0Tk1UtQo2N7EItMCVQJ2v0Y9Tm3Xe6rEBN8iioiWt1slT77ZK4JpB5hgBPbdOsvWgPRTm_MBJ6n18Z01034F5jWqZ9LO0Y6i_31ZLPeSvdQu_nTCrZuQDT0mOd7DiOLn0s5pCtmjXfnx1nqin3IEPl9OkfqOBB3llqsVTLZ0l3D4qWfCHdIrct3Xd75vkwXd4KyKtqc5wd2Bu-5qPdSQo4rjqKGsjHL811taqTK0h_vO2wIqQL7iK8s5yRncX_7Yo4EwvHr-pcc8xx7-JdaQoJIgc8WKS-RExE/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Tomas Bodnar",
+            "uri": "https://maps.google.com/maps/contrib/106818854642662693698"
+          },
+          "q": "St Paul's Secondary School, Moore Abbey, Monasterevin, Co. Kildare W34 F576"
+        },
+        "duration": 481,
+        "distance": 5446,
+        "alts": [],
+        "walk": {
+          "duration": 4382,
+          "distance": 5446
+        },
+        "bike": {
+          "duration": 1097,
+          "distance": 5446
+        }
       }
     },
     {
@@ -212,6 +278,30 @@
       "rating": {
         "level": "Strong",
         "basis": "99% progression to third level in the 2017 Kildare feeder table (Leinster Leader); fee-paying."
+      },
+      "resolved": {
+        "at": "2026-10-30T00:54:59.147Z",
+        "dest": {
+          "name": "Newbridge College",
+          "address": "Common, Newbridge, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=13302548779081641272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.188451,
+          "lng": -6.7931835,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJcdae9vx_XUgROK13eKIlnLg/photos/AV-0GLf68r5AAqNxlPIxqHbozcALAvAxVmPZOlCvlcleyYjNBPxq1TKIy11kW4nJr487j3TYW9xMT2PWlL3nOxDti5qVEOtJ2B2dNztBNZsF-m4DS9BIvhUsQh45uNEJ-G14U0SG0jNpwfAeaGax-FDi_rNYZMBmDYpG0j2Oqzk3PEDSVLFS7a19nNuB09ocJfxjIYUOq7qglJipO9QL8q3mSJZREhXnT-sm9HdYKS12cn7VPs7-QNlK_5lX0XkPoWbQyjzGAqvj7tK3XqlOkW30ie0jekwySJtxeza36j2OEkTW3CZ_PtykBsTblNcGC98DftSbOI0p3P2MBtH25k5d1iYwJLCC-9HuD_Nr0RdZholuFnJSY6hduYQWMyByTPXLIFBJGpNm69zV_tQOePz1qL2nDtA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "William Murphy",
+            "uri": "https://maps.google.com/maps/contrib/102794443405174775102"
+          },
+          "q": "Newbridge College, Newbridge, Co. Kildare"
+        },
+        "duration": 1733,
+        "distance": 24874,
+        "alts": [],
+        "walk": null,
+        "bike": null
       }
     },
     {
@@ -236,6 +326,47 @@
         "bike": {
           "level": "ok",
           "note": "Quiet lane, then 1.7 km on the R445 hard shoulder, which is straight with good sightlines."
+        }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:54:59.147Z",
+        "dest": {
+          "name": "Monasterevin",
+          "address": "Monasterevin, Co. Kildare, Ireland",
+          "uri": "https://maps.google.com/?cid=14159467292708258357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.8,
+          "ratings": 6,
+          "lat": 53.1381217,
+          "lng": -7.0631879,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJY-oxCAB3XUgRNUKjjnuIgMQ/photos/AV-0GLf1Aaoz6aY0gFtrmMFoZUMNlNk4gmU6LxD_cdwNopIzR_xHqilO3oUj6jeDuzmooU4fGRxp1NJBEZCTcu9swP1BwpGwfsL4MZP8RzF4hjP33yiE33ASYmlTItoMwN3VHwZ-Z1hXvENrjbUty_FHVlw5L4l01sOadJkLrdhEj5c1mC_sOOOYcst5dRTnGlNEhIvMKMA9_YXHBnqRQW5cK9nsbbJhpsItbE3FxzvNQlr7-ATqFmCosQmPyswD5N_zl51KFfeCk0q2FoTRm1SDh1jIrHjxuGFkl1Wnm89VH3evKn3FdwgpgFXoe71B8WJ92KhfmAn8h9p6ccirmMKwW4Lm9ghvhZtErNPFAh44aOiEF_8RfCxEui9OkLy7exc8NIb7jsFHlGNAGhPMPoTYeRPEJDk/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "darek haranicz",
+            "uri": "https://maps.google.com/maps/contrib/116153229461644066283"
+          },
+          "q": "Centra Monasterevin, Co. Kildare"
+        },
+        "duration": 268,
+        "distance": 4461,
+        "alts": [
+          {
+            "name": "Ballybrittas Service Station",
+            "duration": 345,
+            "distance": 3760
+          },
+          {
+            "name": "Spar",
+            "duration": 596,
+            "distance": 8363
+          }
+        ],
+        "walk": {
+          "duration": 3583,
+          "distance": 4461
+        },
+        "bike": {
+          "duration": 841,
+          "distance": 4461
         }
       }
     },
@@ -262,6 +393,47 @@
           "level": "ok",
           "note": "R445 hard shoulder for 3.5 km, wide and straight; the final 1.2 km has no Street View imagery."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:54:59.147Z",
+        "dest": {
+          "name": "McConville's SuperValu Monasterevin",
+          "address": "Shopping Centre, Monasterevin, Co. Kildare, W34 XD63",
+          "uri": "https://maps.google.com/?cid=2654749379365188484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 429,
+          "lat": 53.142501,
+          "lng": -7.0577087,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ4X72egB3XUgRhDPAvH6Q1yQ/photos/AV-0GLcMpnX7IZS-5gU94vCoiogbX4zJcSvvHYBk4rTIwBLbUUE8VMZVPnrL3uS4mQU4MX8pO08siUr6yubV8LbJQkG36tsOUCS8odMQ7QlVZ3rYcC6rrV9iB1wPfMSySqig4pn9VWSHk9VPf9AZqSi2BolPT-F_YbjnJgLZ9_o6Do5vNXyXbPcfUOcwTNtWSwK-VeWhC-HN2t8UBSyE7PqGxg_BvWHMH0G1p31Hf19i91WYGFnEA-ggrk_NLc7chsOvKKjvBA5XOq_MNarseUwb34q-VCGlz-bZ8ROnFXs1U8bgnspmeiQHibyqUUNV-CcDrmI0w0tkDrUQNzaKLf-QheDIv7JGlC0WRQXGW2Pz9lduYztIEXt_GPHyuwQgYxoMv2Q0eQ6jbPVXOVjUpiu3znVjYg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Adrem 360",
+            "uri": "https://maps.google.com/maps/contrib/101989183080760305054"
+          },
+          "q": "SuperValu Monasterevin, Co. Kildare"
+        },
+        "duration": 419,
+        "distance": 5211,
+        "alts": [
+          {
+            "name": "ALDI",
+            "duration": 645,
+            "distance": 9449
+          },
+          {
+            "name": "Tesco Superstore",
+            "duration": 1428,
+            "distance": 24362
+          }
+        ],
+        "walk": {
+          "duration": 4206,
+          "distance": 5211
+        },
+        "bike": {
+          "duration": 1014,
+          "distance": 5211
+        }
       }
     },
     {
@@ -286,6 +458,42 @@
           "level": "ok",
           "note": "R445 hard shoulder for 3.5 km, straight with good sightlines, then town streets."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:54:59.147Z",
+        "dest": {
+          "name": "اوتيل هازل",
+          "address": "Monasterevin, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=5820804236793739475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 5,
+          "ratings": 2,
+          "lat": 53.1400651,
+          "lng": -7.060377,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJTfqULuN3XUgR0_gtCZ2mx1A/photos/AV-0GLf80auKurjsGcvnwECIRFHL7t9cZ7MabB1lRbvcllPwjUqU1M3DWCWw4A6AUrfIToAeSAUH1a9LXpm7vil1wkiAJyXAnAvtk5-4j2srTlelQN6V60cEGKhw_ORh0L6GiK2haW5DRZ1hZNyZcxTX8CxSLuVgzA2N1YOTYrc1KO95d3s-ysTgxoMNaEvCPCDbQlw7fV_nNY_TYltZtng6EeErpjRK8Qsdb4kxVNLxJKnF0zcKVLji6JtIl-P-SdaoDp3JFGFCNclJQxTkpGEPACni_CwXu_OumKuPs_gZJsU6k97UdXw-WjY3f7xlCGFJ-H77qVG4bU7h85MkmG166w7AP5zVLBA155vSNbNd_r0PT7XIybgn-1exi-OGBglO5nNt77fHG9jPAsNM3yJPjoG8wdo/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "mohammad almhammad",
+            "uri": "https://maps.google.com/maps/contrib/110028001367448382502"
+          },
+          "q": "Hazel Hotel, Monasterevin, Co. Kildare"
+        },
+        "duration": 324,
+        "distance": 4816,
+        "alts": [
+          {
+            "name": "The Heritage",
+            "duration": 395,
+            "distance": 4096
+          }
+        ],
+        "walk": {
+          "duration": 3875,
+          "distance": 4817
+        },
+        "bike": {
+          "duration": 940,
+          "distance": 4816
+        }
       }
     },
     {
@@ -299,7 +507,34 @@
         "Midland Regional Hospital Portlaoise, Dublin Road, Portlaoise"
       ],
       "note": "24-hour ED that takes children; its extension with paediatric resus and isolation rooms opened in May 2026. Naas ED is adults (16+) only.",
-      "category": "Health"
+      "category": "Health",
+      "resolved": {
+        "at": "2026-10-30T00:54:59.147Z",
+        "dest": {
+          "name": "Midland Regional Hospital Portlaoise",
+          "address": "Block Rd, Kilminchy, Portlaoise, Co. Laois",
+          "uri": "https://maps.google.com/?cid=7142762024074450881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.7,
+          "ratings": 196,
+          "lat": 53.038208399999995,
+          "lng": -7.2760839,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJDzP436wNXUgRwZcbiDcwIGM/photos/AV-0GLeDz2ltIqY31lwpOo5nyfgWcCj0Hu1GZcSwIKV5AmglrdMmh-gvYmCI5OyOhFrKVuJ5KbYi_wWEfDfoxvUkZdrbN7OXXo-gfd7k_aK76ajKAw-I9vikAh3yyqAfzcM1k35pAXSFXnePyr7VehC4pdx3S3knj6HbYqiKNmiontIYnf5b5VJuRedWEZq44AKsOYi2vKXnjnnso2A2URmHPb5eCOyej6OdM1D1Ce877KUBL93aXyQlFbVxDQtk1c63S6A_RBulG6mRixATxW8YmBg9JvauSgh9NKQ773gPOu5hdKo1C17_86b0vTwVpneOXKo_aGxiB_3weU-Nex9FHHeYJyLpbm3FVkNKzx0hoRR3OLVk4Ka5IObrLSPlpvTvLDI8SlL1rUIe2fmHTF4pdYPyMFjTq6U577xDLnGGInMOow/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Nilesh Mishra",
+            "uri": "https://maps.google.com/maps/contrib/116976963245334691980"
+          },
+          "q": "Midland Regional Hospital Portlaoise, Dublin Road, Portlaoise"
+        },
+        "duration": 1000,
+        "distance": 15602,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2820,
+          "distance": 15155
+        }
+      }
     },
     {
       "id": "town",
@@ -322,6 +557,33 @@
           "level": "ok",
           "note": "Mostly the R445 hard shoulder for 3 km, straight and wide, then town streets in Monasterevin."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:54:59.147Z",
+        "dest": {
+          "name": "Main Street",
+          "address": "Main St, Monasterevin, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=2334726572710114890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.1395064,
+          "lng": -7.0645646,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Main Street, Monasterevin, Co. Kildare"
+        },
+        "duration": 316,
+        "distance": 4672,
+        "alts": [],
+        "walk": {
+          "duration": 3755,
+          "distance": 4673
+        },
+        "bike": {
+          "duration": 879,
+          "distance": 4672
+        }
       }
     },
     {
@@ -335,7 +597,31 @@
         "Kilkenny Castle, Kilkenny"
       ],
       "note": "The nearest city outside Dublin, via the M7/M9 or N78.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:54:59.147Z",
+        "dest": {
+          "name": "Kilkenny Castle",
+          "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
+          "uri": "https://maps.google.com/?cid=14479754400188434760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 15604,
+          "lat": 52.6504632,
+          "lng": -7.249297400000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLfbY-593CAx9zTKTlsugOzfG6uOfjq9sVEIFwhadAqeKWKknkaRNnnOISpmifrErn6kw6ysq6F5cHPaHRZ7a4Et-B0CauE3lYEnQsBCiO1XnzIcM1CpEB5qI-AbEVqnhkPtnQQZCNmsS3Uzpo1RU-HkGKcOVsyrPBraGhBnBzE75AHrX0B9tIE06ozXYI9CNnEQDFhEetqk34pnO2wvyzpfrcH2HhHnAi3vKZ6YB4PZL3l2yWMsp_IRWxxxk5uZgTk6p1oec1ifOqDhcSumkjw3sq4WJCYpABMuww-4wkxyGp06rbV_3QhyXSGL7r6UclhMl6-ep6fw8qxZA-6pZP8knjdIFT30a29rE8UotC0ZFn_ZpYxLvy-M3OFsSEpXDPddvVDGXfqDZt9bg2DO8rYKXJSz/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "lahari anandur",
+            "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
+          },
+          "q": "Kilkenny Castle, Kilkenny"
+        },
+        "duration": 3860,
+        "distance": 69830,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "dublin",
@@ -349,7 +635,31 @@
         "St Stephen's Green, Dublin"
       ],
       "note": "City centre by car via the M7. The train from Monasterevin is the other way in.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:54:59.147Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLcZuDJt1uhvUt9jCQaotBB18pdkljb6hbOPYKlGuCnNIO4oZUgiH3s1ItrQRSMesP56oUYuX1_xMb54MiFtsDJ2Fj0nEWhb9nHcVOdYiB-a8u0T3KJhOW4UdqvNINppoDLLOOMOAuu8kgGF1-yix50gR2nlEzXxYdbQuD0cjnZPeETGpNceKMisuFWrHQ5y1ymHPewRE73sMXJT8STQa1y6iUC13ig_nY6qXQXGbHRYQfxir84rRcvvXCZtthCg9xSWr6TPiQOgrmls4nY_7TB5d4K5WFDl2g8k_e1aWQlZRvgxH7ik7UFEH2ovOWMYzHkIiNpLEmQbB-jf9Mgr0CkjOqQz0s2Py5UL_bnMi9RDUTT0Ji8Pk2v3OOX1Vzi9Q8Wh_5g7y3ylhgQulfOfamVbNg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 3642,
+        "distance": 66844,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "cork",
@@ -363,7 +673,31 @@
         "English Market, Cork"
       ],
       "note": "",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:54:59.147Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLeIhBK6FG2lvCv8KPfcXruWxVBwtyakD6kiM-Y9P20h96kOqg8UB7pueqVi9En0IIjgpQqnWzLFGkce_EzjAvNyeZ27Th5Xy3VcqEilSuglGbM3oYi8A78rje1RQRoEDFXn9VYQRczgxqesmXtKTEVuu9yfXKETFPUxpHFqs7Wl-ry7jzL3sZt68i07FXLi_i4zmk0H2t8dr3S9VsmkMIr5T26AJxF-b7rLiSpRyz7fBwF5ZjUVrDpKObkf1a7ALFdDTjRbrxOn4HkWCemSMP_rZ6QbK1MVwXDvowoU6wn7zguCnVtTOvrLorqPu3Q7pQJmvl48UlX3OHFs9oMTRYaiNwbZ0PRwowhMlyNzqqpScxzF1KBTBJ5JZNJ407-Tj_eXlp2XIcX7kYeufjbpGFtbOEw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 6981,
+        "distance": 188340,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -387,6 +721,36 @@
           "level": "ok",
           "note": "R445 hard shoulder for 3 km, then a rough grass canal towpath; the last 800 m has no Street View imagery."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:54:59.147Z",
+        "dest": {
+          "name": "Monasterevin",
+          "address": "Monasterevin, Co. Kildare, Ireland",
+          "uri": "https://maps.google.com/?cid=8186022015989732277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.8,
+          "ratings": 18,
+          "lat": 53.145445800000005,
+          "lng": -7.063728599999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJOWDf76x3XUgRtVOY8qaXmnE/photos/AV-0GLc7UwhLx5Q1JLouO6N1xVQCbmO4L47pSckFXWhMbofImdWEeWnDl66AosHJCLiP3ba5EiBrEjfsMBFuDcLQz0hshXRyTuA_1NTd_nmrbGt12dfRRS5Qs0rJbJscW0OfAyEgxXSD5o34fb9OiU1t-t3YNL3RinjzXd6RnfqIFDJJ7ZZEsn7g_ebQo6OsXRsXjPhU4HvN2sitAc_984GFa87XdoeDD2i4JPla5JDIXCRl53kb2vCVWw5ptiCBmiooIe4Sy9HOIZqXjZSNgzzJAniVoieFTaSWenp2RSUfYBfKGFUE3QRQQjmFi3O1GArF70eIn6zB8kiILeEFjdFgQk0mbasm7CcvYB6-NXVevrldxOOIP7rp_zd57RYDoyu5zc_ePeLijCCwVU_LKiidemO2Y3s/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Patrick Ross",
+            "uri": "https://maps.google.com/maps/contrib/103111593888202561448"
+          },
+          "q": "Monasterevin railway station, Co. Kildare"
+        },
+        "duration": 430,
+        "distance": 5518,
+        "alts": [],
+        "walk": {
+          "duration": 4246,
+          "distance": 5260
+        },
+        "bike": {
+          "duration": 1054,
+          "distance": 5189
+        }
       }
     },
     {
@@ -401,7 +765,31 @@
         "Dublin Airport"
       ],
       "note": "The trip you and your parents will make most.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T00:54:59.147Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42131,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLcHEYgk7xqBkawGCMftuId3CdotNUL_HiN4mJSinrlfRukyf0IQaPMen0BORq9Qa8NPA-Kkg1EpAd7ay5f6MyxToGJ8FiWz67TkvX0VdZ9-GP2P5qyUo5W6u9NpHj1YXv3uwIp8rUZXDmw_yoaly1wEoOs-IFZleWjON-12Toq0sV0uu6AZ50bgnkbbRZSPKk-NAyfZz8ttaaDE3un9VoBfo9LrRk9ZJPtheRrq6M_VWxMYQ1K36mOYjkofzw0QBcPO6OSfozz_iRYAhgHJyk2oRqiyNScG1R3Xt7ODP92jM6aOGDeqyUoyG1S_I3o3oXh5zTJ6eNxtATkhO6L6z-hd42yKAsirYDziW0NgDl827Bjg0OtgIH8-PoASFu0sdAawdw1z1vV3R5P4AawBfZdwd5TWvvw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 3604,
+        "distance": 78083,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [

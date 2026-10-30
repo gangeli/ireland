@@ -199,6 +199,42 @@
           "level": "ok",
           "note": "About 3 km on the open R705 with no shoulder but good sightlines, then town streets; not for kids alone."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:56:38.841Z",
+        "dest": {
+          "name": "Graiguenamanagh Boy's National School",
+          "address": "Graiguenamanagh, Co. Kilkenny",
+          "uri": "https://maps.google.com/?cid=5016167846237083509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.5415687,
+          "lng": -6.95121,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJl5Ko1HxMXUgRdZeyUBQCnUU/photos/AV-0GLd6_tvTVKJ8phR5kReMNFn5MVFCy6pp2Wy2KK-8KalLcVdTxpcgSFli5GEfRl8mOqkpPI5XTBHkYjXKTyxRrSSZx4_uKaUCcf-AKIxNmKm-PEW0DqL26GzWdueQSONxo4T0R8HO5CFEzmh5NyNGsQ3lJT-gL_vZFpf3oU29UP9tMRiDBNsknrNCpVJ-fSe6nTW_2r5JzNAqOLxq9xJTfrQFwWLAaeWnkOy-i0gNZxLMseroBbVkH-y3QZWIJoyOwBHk-_G0a4td8Qvcqod-x81gR566_prGpvPP6YFt9dkRS3uD6nEWLrpSEOBWaT_-LAs0icnUQuoh_rQFEVmSrIrnyxxRuwj5Hxe1YtQr8RZUcDPytKs0CA1azdf5tEY12NU7Wh62EUFdOyjqY7EDfKI1KrY/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Michael Keating",
+            "uri": "https://maps.google.com/maps/contrib/104598734202943788847"
+          },
+          "q": "Graiguenamanagh Boys National School, Graiguenamanagh, Co. Kilkenny"
+        },
+        "duration": 288,
+        "distance": 4021,
+        "alts": [
+          {
+            "name": "Graiguenamanagh Boy's National School",
+            "duration": 288,
+            "distance": 4021
+          }
+        ],
+        "walk": {
+          "duration": 3148,
+          "distance": 4022
+        },
+        "bike": {
+          "duration": 642,
+          "distance": 4031
+        }
       }
     },
     {
@@ -226,6 +262,36 @@
           "level": "ok",
           "note": "About 3 km on the R705 with no shoulder, then town streets; manageable for an adult or older teen."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:56:38.841Z",
+        "dest": {
+          "name": "KCETB Duiske College",
+          "address": "High St, Graiguenamanagh, Co. Kilkenny",
+          "uri": "https://maps.google.com/?cid=17661792947475205121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.5401062,
+          "lng": -6.9572278,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJTT4jZodMXUgRAUzCChxLG_U/photos/AV-0GLcT3ItfhcrRPpcEk75OF6bbNRrPHby8XyQO6owszTNmHd5SjIfILWzQ72Q4cs0ChfjTcWLNh9dUpH4SZxBGVB7CFb49lvNgyYFCIpVM6KVtH3VwV_6fA4HfdZn2IgUAmGxW7FTzytjiBgGX-DwswSjIop5KN6RdzaL8N6pBU8bwQT08Nkp7xiJCYVFqDnZqY9uLPnlSbR3vDBMGucAExhZCTp1MNfMIsrlw39ITBedY4u15iK5_nJhcLtp7vzLJGFA36Vwb9H0tFOyr6ZrgAmOvfZcrRFnK3CsEItwjXpal0zr-fq_djcU3rp6apBSBgsFn5se_B60Q5KpMhiFgX6ZvhGtccstDktiXGDwT6KW8--j4-gi4GUTlBl7hfq7SeUm0aF5NZzKFc4XgbWG_5fqnun0/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Michael Walsh",
+            "uri": "https://maps.google.com/maps/contrib/105586336547409676096"
+          },
+          "q": "Duiske College, Graiguenamanagh, Co. Kilkenny"
+        },
+        "duration": 294,
+        "distance": 3933,
+        "alts": [],
+        "walk": {
+          "duration": 3075,
+          "distance": 3933
+        },
+        "bike": {
+          "duration": 663,
+          "distance": 3933
+        }
       }
     },
     {
@@ -249,6 +315,42 @@
         "bike": {
           "level": "ok",
           "note": "3 km on the open R705 with no shoulder; fine for a confident adult, not for kids."
+        }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:56:38.841Z",
+        "dest": {
+          "name": "Fairview Service Station",
+          "address": "R705, Graiguenamanagh, Graiguenamanagh-Tinnahinch, Co. Kilkenny, R95 A0CK",
+          "uri": "https://maps.google.com/?cid=10493066867282959598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 128,
+          "lat": 52.544813,
+          "lng": -6.959090100000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLTI_W3xMXUgR7lzSnLjcnpE/photos/AV-0GLdHiwhiJ0w8rIhYJMk_rWiyjVh3hUKWfGISH0WmHcFa6warl6SPAQxVmdRTXN7xk7D1VLgjqgfroBcwjHkSIoC-OMn6tSkxmnJLnSyXcZaRnY9EvGgHknyEWYPrxfWfiSJl7jP3cF_FyRBISWAtymodqMoqILUa4-HiOwzVU3rW2eZX1G7ukMNDQaPZM9GD0papFPN6PvK3eBh84ix4zR67DyWuZIvJda0m5GP1oOSyEjWIoK-kkgY3gaifyuEe83VyTy8uUxB0FTLYAPbHKIa5HFSClZ9UsrpTIEC7yo2eTWJpYuZdGVby5hKeJdHd6w9iY9jqyLofOQAOjCwlZaftbT7QNKXBqV2eJw8FTfWF3JUiwwvE-hhSPRWAcImwYGjsQFkni1tINJg3Dak1shYJTMo/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Mark O Keeffe",
+            "uri": "https://maps.google.com/maps/contrib/116066142772343346102"
+          },
+          "q": "Daybreak, Fairview Service Station, Graiguenamanagh, Co. Kilkenny"
+        },
+        "duration": 174,
+        "distance": 3235,
+        "alts": [
+          {
+            "name": "Centra Borris",
+            "duration": 405,
+            "distance": 6024
+          }
+        ],
+        "walk": {
+          "duration": 2506,
+          "distance": 3236
+        },
+        "bike": {
+          "duration": 484,
+          "distance": 3235
         }
       }
     },
@@ -275,6 +377,47 @@
           "level": "ok",
           "note": "About 3 km on the R705 with no shoulder, then a short run to ALDI."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:56:38.841Z",
+        "dest": {
+          "name": "ALDI",
+          "address": "Old Creamery, Upper Main St, Graiguenamanagh, Graiguenamanagh-Tinnahinch, Co. Kilkenny, R95 WVAO",
+          "uri": "https://maps.google.com/?cid=18391661620409795115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 277,
+          "lat": 52.5428484,
+          "lng": -6.9591077,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJO3WbA4VNXUgRKwK28cxOPP8/photos/AV-0GLcvOnkvVIjyOLfsrshx03N3v0KEdPVZRBtFT_3VhqQKd_whiOF2M86pMVZROPTf7ApQrF9LvQ8OwsOHhI0Zddv-O_uQse6VMOkFwPv8a3BIXP6y09Rwd5px0ADT-WKtcaUOsTW3KT4g-qwdiZecQ1SdGcZuDRuc39K3wPCG_r1uXbaM5mBy-PUT4UzljSHwzRAwKIoOFGJYBroFDTGjwfskFRnChZ9kJ2bzSxt31Iwn2tvcvVwE61aQrRLoS6_X7nAr5c23VrQ3zULUMb-7PckqihVMN7uHsO5VdLBHEoNsQSAqiPoato61kC35NaV85YsoOzwDxvR0c4mr4ygf4K4Zj_j3zORjGuw9mKOZ3DjZqPR2btNHgFBNn55RmKbYMA0EEcunMJn0ElEDB4IWNAIFNM4/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Maximilian Vogt",
+            "uri": "https://maps.google.com/maps/contrib/104934359400335138236"
+          },
+          "q": "Aldi, Old Creamery, Upper Main Street, Graiguenamanagh, Co. Kilkenny"
+        },
+        "duration": 272,
+        "distance": 3503,
+        "alts": [
+          {
+            "name": "Doran's SuperValu Graiguenamagh",
+            "duration": 305,
+            "distance": 3847
+          },
+          {
+            "name": "Lidl",
+            "duration": 1028,
+            "distance": 17410
+          }
+        ],
+        "walk": {
+          "duration": 2714,
+          "distance": 3503
+        },
+        "bike": {
+          "duration": 573,
+          "distance": 3503
+        }
       }
     },
     {
@@ -299,6 +442,42 @@
           "level": "ok",
           "note": "About 3 km on the R705 with no shoulder, then the town centre to the quay."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:56:38.841Z",
+        "dest": {
+          "name": "Waterside Guesthouse & Restaurant",
+          "address": "Graiguenamanagh, Graiguenamanagh-Tinnahinch, Co. Kilkenny, R95 XH3K",
+          "uri": "https://maps.google.com/?cid=10301406155632226331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 355,
+          "lat": 52.540385099999995,
+          "lng": -6.9537586,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJveYUC4hMXUgRGzB7wVHy9Y4/photos/AV-0GLcoCcHW2fO7ogRENp5Rvtgpl3DsxTLwoEkxJnq1OPx8SFS856NlaG4se6ylpsrYNbqScw03toyhBa4pNo2EC1DraaNnR9ZlBkpHtHALeSDqJ7iDOH9jOQNFu61bKIwoP3xYdRXfWQzCq880exQ0VL6ytmPiJHycARQ9cZHo34XeFAPyG78PqTdhxR09VajzYhlw_GRRfzJGHqTLkkzvfCa9RyQ3igV_MUbVEwUI6X9JNt50gQGaUtugUDGB6RC9OSDGo_TPdv7UNdu1pxMZ3JMml8MA02nD1A9gxndav_VsyBrni3NWqJP48jBIBQfmtygw-Ayo5SxXwuZyDs4uTNR4oRiwOHhgJHjt673QkMaRKLwV5KpOLPxIDamPB4_PmXOvwG6Ur6umfMna5ynyDAanMQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Waterside Guesthouse & Restaurant",
+            "uri": "https://maps.google.com/maps/contrib/106812932409334464575"
+          },
+          "q": "Waterside Restaurant, The Quay, Graiguenamanagh, Co. Kilkenny"
+        },
+        "duration": 304,
+        "distance": 3984,
+        "alts": [
+          {
+            "name": "Step House Hotel",
+            "duration": 385,
+            "distance": 5810
+          }
+        ],
+        "walk": {
+          "duration": 3072,
+          "distance": 3984
+        },
+        "bike": {
+          "duration": 590,
+          "distance": 3984
+        }
       }
     },
     {
@@ -313,7 +492,37 @@
         "University Hospital Waterford"
       ],
       "note": "24-hour ED for all ages, about 29 km; Waterford is about 47 km.",
-      "category": "Health"
+      "category": "Health",
+      "resolved": {
+        "at": "2026-10-30T00:56:38.841Z",
+        "dest": {
+          "name": "St. Luke's General Hospital",
+          "address": "Freshford Rd, Jamespark, Kilkenny, R95 FY71",
+          "uri": "https://maps.google.com/?cid=12990297315117170149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.2,
+          "ratings": 236,
+          "lat": 52.6665445,
+          "lng": -7.2622519,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8zBZn286XUgR5f1EIpXORrQ/photos/AV-0GLePVpk-it56BNLwFTJt2KwHP-aHz9j3I1ssPuLfB1mb7tn2UpaWuTDBNtIunFkMOeRAQbO2U_5imi-jA6wdYOFQOPPA-PimUAGhom4SKmIg0Y0hI0RS6Wjgui0HVVClw-vbzcf9AIVoXX-uLnziUGzPp_JpUtF9oEpky0VJLsJB9SNQDB0VMx4XHMB9kjwcWJT9tA-jgbcX7Ea4Z4rDKmxBtfGUGjWoHWFaKPhxfO9HfbuAABZ-G2MOyntKVjLBJJxK7QhLpwK7Yi0QYSqpC3us5JUQ28NFa55j4rMRgxXEjm1RNc7QJBzhHISonDuU66aA6gBu5gJeA4gicwr-CQNs7g_8vut-yjkXJqqnDybfDCOvVl-I_dhVKD31dEp4yj7X3GBfgoTdoxQNWf6-k7bsSBw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Damo Collier",
+            "uri": "https://maps.google.com/maps/contrib/106838707088067428534"
+          },
+          "q": "St Luke's General Hospital, Kilkenny"
+        },
+        "duration": 1953,
+        "distance": 28227,
+        "alts": [
+          {
+            "name": "University Hospital Waterford",
+            "duration": 2821,
+            "distance": 47813
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "town",
@@ -337,6 +546,39 @@
           "level": "ok",
           "note": "About 3 km on the open R705 with no shoulder, then town streets."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:56:38.841Z",
+        "dest": {
+          "name": "Main Street",
+          "address": "Main St, Graiguenamanagh, Graiguenamanagh-Tinnahinch, Co. Kilkenny",
+          "uri": "https://maps.google.com/?cid=9089236877678830848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.5415232,
+          "lng": -6.9543696,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Main Street, Graiguenamanagh, Co. Kilkenny"
+        },
+        "duration": 277,
+        "distance": 3797,
+        "alts": [
+          {
+            "name": "Main Street",
+            "duration": 2484,
+            "distance": 37338
+          }
+        ],
+        "walk": {
+          "duration": 2939,
+          "distance": 3797
+        },
+        "bike": {
+          "duration": 577,
+          "distance": 3806
+        }
       }
     },
     {
@@ -351,7 +593,37 @@
         "The Quay, Waterford"
       ],
       "note": "Kilkenny city, about 28 minutes via the R712 per the listing; Waterford is the alternative.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:56:38.841Z",
+        "dest": {
+          "name": "Kilkenny Castle",
+          "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
+          "uri": "https://maps.google.com/?cid=14479754400188434760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 15604,
+          "lat": 52.6504632,
+          "lng": -7.249297400000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLenwiyEeW_6zSgVyLCYRLsFWYI6TYSmFwfqaAdgNAruFAvQSL3W7qOo_bsk-LssktD-kPlbhhmrZ3rA6-Ymh3LlkSgZtVTLr0DdG7tgxccNunHPAzvW0BodDqUmOrc_AkWkSsxKZBTWI0shoUi69t7eCJCGbt9dckALixV5KuJFG4V2zW3_-TfOV0HqWbmqu-G6bfWtqBynGNGnEdIZ_3AFVO6b7b11GiImgQSG8yPtTbIGxXg0Ti68IIChdy4SPuqtDSD9fEEZfvjSBmpJUH88h8ELRG0qJv3tHB5920pRGQiFAsCaXhepTRoVepqcd_tmXrEjj2V--U8_GtS7Mn7JyHiUdTgyi0QPJUiyEIgnWre9hkvdm6_HhoQ3r4iNf51wYJd1qDiSkBBZVYNozWxwup8n/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "lahari anandur",
+            "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
+          },
+          "q": "Kilkenny Castle, Kilkenny"
+        },
+        "duration": 1827,
+        "distance": 27399,
+        "alts": [
+          {
+            "name": "The Quay",
+            "duration": 4210,
+            "distance": 56484
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "dublin",
@@ -365,7 +637,31 @@
         "St Stephen's Green, Dublin"
       ],
       "note": "City centre by car via the M9 (about 1h50 per the listing). The train from Muine Bheag is the other way in.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:56:38.841Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLfVlykruR49xs1i9xRzHJb-QO-O3SbRLDADQQJrZqm4Vgj0U3ez56BpWX2mvMo1Mlvc1Xdboqlh6PzfVC8iGGFL6Y9ZGX__jQaMrZnyRUoWvpYITuW4ZT6FJKCxTFj_rMFVEy6SKHJduA48s8HgWv2nltpaeqMXQ32Hl4YMzkWg6XEp1ir551tsYzoWW1WMSeyHDfSnKjt58Q4cb8LtoMirdemHyFpIpaXHjLUNx3c33ZNuHeXb1TVruQK-v88z87IccKS-9wuuhugJKkCzfgkO1CkTK0soxjm4wDLx_4KcRIE_efsoq6v5XmHRZPmjPQ_kI2bf0oGP8aqD1VmFhjeMdxBaZ988vkItIBHR2J1BSrghkXSqKN0nytPvFd0UET5hVvVjiDtz_xKaDhM0b1GqLQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 5719,
+        "distance": 123942,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "cork",
@@ -379,7 +675,31 @@
         "English Market, Cork"
       ],
       "note": "",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:56:38.841Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLcC4knyF4eQF7yZfsPqFLZKrlF0l9rukXVH7NzkTOEB9EwQTqHbfoDtNVRxfwdprH2_iZl0L-gf9sblgp2ZRaoJPYDYfcMfdgquk53FYrotOAuf1WTwSJFAU_rBI5zuCYyjSBBz8s1c2Y3_YtCm0zo3AZidbVDLhQ7XtFrOhBJdxmTlAAQTFr7UU8dWmxKzHeMckvRjEVjfEg6RQ3O3GxLD37OcEFlm-Ydor2FZns7uxFokz8umItu5bgKH_iZlOBr_UeMLvNvP9aOtsd1XRcX5GuMGKbYY24GpuroA_pfdoaZeGpU96N6Ma8OK6aZMf8v4IV1BFHxgF1j0G5VQ0eJHFdN4nU5GlaZ88onbMrDFcvn61FuPmkQJD564JcIbBFu2jh3TwEOQQLg9-jRu7pYj4R8/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 8349,
+        "distance": 167068,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -394,7 +714,40 @@
         "Thomastown railway station"
       ],
       "note": "Waterford–Heuston line: about 7 trains a weekday, 1h15–1h25 to Heuston; about 17 km north. Thomastown, on the same line, is about 22 km.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T00:56:38.841Z",
+        "dest": {
+          "name": "Muine Bheag Train Station",
+          "address": "Muine Bheag Train Station, Stationhouse Rd, Muine Bheag, Co. Carlow",
+          "uri": "https://maps.google.com/?cid=12267158297789205995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.6990881,
+          "lng": -6.9525502999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJT7SRY6dFXUgR6w02R3qzPao/photos/AV-0GLeV9xUBfNG-GCA1PrFSoVpa9ENEo_oO1LSJFPLNTd1cgwNP8lIpTK4QYflEoqGiCjewJC8qhLJ4mPCx7z5-iS5dH42znMngN8GGDfI7AmjwMqmtViluf0qon_vxOOvkHyhUtnv8iRVU37Ynbeslh2kNxDccRZaT6v5bi5WNPrqZ6pbMhrub0tCKN_LwA6OV8Bi-eXhFIAy_4ppzcPoRYk7P_dytSP4hQu_zs24rdwTWS7eq2CXvXdesa9dLUrkX2swLvoPkNf5-0bomgWNaAenHU-qo56ne3flZajpjtjRvki0J4nQ5Esmp5_pjwSv4mpox-Yao1fF1wgTI3R0d_vcgWs3oNXDhMH62oFifZftsez_H6JAdrYVQv5FYFg2NT0JYauIaLVz812_xXY_t8q5b9A/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Baldy",
+            "uri": "https://maps.google.com/maps/contrib/104040930381743786634"
+          },
+          "q": "Muine Bheag railway station, Bagenalstown, Co. Carlow"
+        },
+        "duration": 955,
+        "distance": 17236,
+        "alts": [
+          {
+            "name": "Thomastown",
+            "duration": 1230,
+            "distance": 19867
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 3259,
+          "distance": 17564
+        }
+      }
     },
     {
       "id": "airport",
@@ -408,7 +761,31 @@
         "Dublin Airport"
       ],
       "note": "The trip you and your parents will make most.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T00:56:38.841Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42131,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLeIg1ZjIJ7lRECMLIGoPxg1oqTmHNoGmwU3xzKJhaPDUHXt8Yr19efgGqj6WRwrfODnvF7COU7AKs3cH3BEKsvUGrVj1IDjxuq2821KdZPw9ShCPdyqbeg9oNoeDeVMa6Oe4E1WMBEhCmjKcMXGyK3z7QRG8CbZ_Nm9fQYFZm0F19Sb5BVDDP3UJ8NKjIoADA3-pfQUmHW234MU3m840SVoRPRWO9N3C0XutkpB0Pu7B6KHQVPPG1AYWL6BxiLQgndqgg5kyIkWiCbegJ8rRgkcMDGUkYJb87i2_Zh94rVHwC2XFFe5DVTBophRtvfUjmOvYIaVuwLAOpSuFeGVoyBpTD4qBdItVBw-q_tsNddpo0a_KJl1WR4lfDWeW5I05OitDnLTZkb_-k-ARUKx-CHttPxsUds/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 5519,
+        "distance": 135180,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [

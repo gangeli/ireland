@@ -154,6 +154,39 @@
           "level": "good",
           "note": "1 km on 50 km/h village streets and a quiet lane to the school; fine for kids."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:54:01.409Z",
+        "dest": {
+          "name": "Freshford National School",
+          "address": "Freshford, Freshford Lots, Freshford, Co. Kilkenny",
+          "uri": "https://maps.google.com/?cid=14770369984639954817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.731052299999995,
+          "lng": -7.396498199999999,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Freshford National School, Freshford, Co. Kilkenny"
+        },
+        "duration": 128,
+        "distance": 988,
+        "alts": [
+          {
+            "name": "Freshford National School",
+            "duration": 128,
+            "distance": 988
+          }
+        ],
+        "walk": {
+          "duration": 815,
+          "distance": 988
+        },
+        "bike": {
+          "duration": 181,
+          "distance": 988
+        }
       }
     },
     {
@@ -171,6 +204,30 @@
       "rating": {
         "level": "Average",
         "basis": "DEIS ETB community-style school; its progression rate rose 17 points in the 2023 feeder report, but no absolute figure was found."
+      },
+      "resolved": {
+        "at": "2026-10-30T00:54:01.409Z",
+        "dest": {
+          "name": "Coláiste Mhuire",
+          "address": "Urlingford Rd, Warrenstown, Johnstown, Co. Kilkenny",
+          "uri": "https://maps.google.com/?cid=2183878270155120673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.7443664,
+          "lng": -7.5596697,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Coláiste Mhuire, Johnstown, Co. Kilkenny"
+        },
+        "duration": 823,
+        "distance": 13939,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2588,
+          "distance": 13939
+        }
       }
     },
     {
@@ -188,6 +245,33 @@
       "rating": {
         "level": "Strong",
         "basis": "100% progression to third level in the 2023 feeder-school report (Kilkenny People/Irish Independent); large, non-fee-paying, not DEIS."
+      },
+      "resolved": {
+        "at": "2026-10-30T00:54:01.409Z",
+        "dest": {
+          "name": "St. Kieran's College",
+          "address": "College Green, College Rd, Walkinslough, Kilkenny",
+          "uri": "https://maps.google.com/?cid=1199710673382285625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.64697950000001,
+          "lng": -7.255331799999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJnRVndJswXUgROSEySIA6phA/photos/AV-0GLd7Zq6AdGpbo0dfeFi3Xj36NLJeCR1Jsan_Qf7GyCVICYaKIXIkuGPVQHMGMcXw12I648p4X9YC8ZAbB6TkbNeBJU1J5WQqIMco5HAKd9cNCtO2_9BjZpmigqjI7yAfsgl-MzoTF6wxSCuItsqc-UxXLFVv3oHNE4SVVwjTNWpn14rRc8NU93BgjRNHl_gvEcG-0cXvKwy6WWAw4e5P8rqzn4GcGLD0pYnNTNEuZ_9FXUyXXd49Xju64yRe8D4nwLnWtv9QhW_CSwumLz39cC_3WpqBi8Wsoy1gknsryv7AzKSosr_tXxXTdXF0P6BBGLhksM01ufqYRPTkHt6eh602GhSTxucplfMKCXZXoxBQnKeQJjDr7uk9foYsTBUCS-li_Jhu6NqeSXCPwScmGfjyJafR/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Janosch B",
+            "uri": "https://maps.google.com/maps/contrib/118371292697107220582"
+          },
+          "q": "St Kieran's College, College Road, Kilkenny"
+        },
+        "duration": 1479,
+        "distance": 16872,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2839,
+          "distance": 16325
+        }
       }
     },
     {
@@ -212,6 +296,42 @@
           "level": "good",
           "note": "Short ride on 50 km/h village streets."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:54:01.409Z",
+        "dest": {
+          "name": "Mace/Inver",
+          "address": "Freshford Lots, Freshford, Co. Kilkenny, R95 NC84",
+          "uri": "https://maps.google.com/?cid=15922079446509597730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 291,
+          "lat": 52.7326933,
+          "lng": -7.397011399999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ43WE5nwjXUgRIrTA1uWW9tw/photos/AV-0GLdFWrHThqZdF4A9mhB049Yrlu1abj4VzrM4mnEDK_fzg8XCqbQPvh92AuXUcRuNXrQMKDsLDS34CV1FhjPtXj-Tdw3jbsZ1rRfzKlxbWRWh57GsfDNw3dleVOTpf_Fk05BH7k7C1eixfWg_jrOZeFtYib9XOxmpTzudoIh8Zk6KOx9LeoAsZfCXl7E7LDxWZotaTS-nd6yv2FP1ZkEsYj9OlWWqfc63Ex3nyKv44XPBbkFucFRXjBozpbQ6iRMaw0_JkDXvj3ykLz66wJ1PjvnYbvLJUKIOudVEklCWwsKRQPXMyuCQDSdLOGBLHXyJ7dWWimHAulFqLqvr3JQVRcD9jBJTsqxicPUGvoT6R0zNWHiMFIqoQGpRe1gVVodeIjPJWcGS-fY1M9gxKRqlG0YVfMfXxlE/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Mace/Inver",
+            "uri": "https://maps.google.com/maps/contrib/115856690607808891006"
+          },
+          "q": "Mace, Freshford, Co. Kilkenny R95 NC84"
+        },
+        "duration": 78,
+        "distance": 768,
+        "alts": [
+          {
+            "name": "Lynchs Mace Freshford",
+            "duration": 85,
+            "distance": 786
+          }
+        ],
+        "walk": {
+          "duration": 623,
+          "distance": 768
+        },
+        "bike": {
+          "duration": 141,
+          "distance": 768
+        }
       }
     },
     {
@@ -227,7 +347,45 @@
       ],
       "note": "Dick's SuperValu in Ballyragget, about 7 km; Kilkenny city's supermarkets are about 14 km.",
       "category": "Groceries",
-      "title": "SuperValu Ballyragget"
+      "title": "SuperValu Ballyragget",
+      "resolved": {
+        "at": "2026-10-30T00:54:01.409Z",
+        "dest": {
+          "name": "Dick's SuperValu Ballyragget",
+          "address": "Castle St, Ballyragget, Co. Kilkenny, R95 FE02",
+          "uri": "https://maps.google.com/?cid=4374409317107518723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.3,
+          "ratings": 566,
+          "lat": 52.7878001,
+          "lng": -7.3331675999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJPSWtmcU9XUgRA01a6BgGtTw/photos/AV-0GLclhnXtosmMd4Zm5Rf3dJrdW5UyJNX4w3q4v7KPrCI4kZzW63CTqMuO6fIdp3A-hud4dsHZL8isHvpoTV-LFQZjNKr6XwJQBkIVgc-krKPArYgf_tO0i34kpeGdJo7K-us5A-FyE4UkgqiUGHWnb4TWnjMRv5NPOQ5QKiFDmDq39yGjLCvs9SyvOdKBRKDtT00Prh9AJn8GXzx2RGJG_53MvIvm7cWCNMgmHtwPd3g8Xxa_5aN86emaUPjgyHwxrEyYr61TAMFd30jwOyRCLckOuWixh0wkHjHEdAbFEpljw6yB9dFcZQDKp4A8EZtcOBsHeN5PKXOCSGgFBh3au8dS3AcA5QfdIFgeS9HJDliezHdBU_QmriyuuyG97LF_3kksib64Xm9FFEBdgk0adGtPmbI/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "peter lane",
+            "uri": "https://maps.google.com/maps/contrib/117268740026289165264"
+          },
+          "q": "Dick's SuperValu, Castle Street, Ballyragget, Co. Kilkenny"
+        },
+        "duration": 578,
+        "distance": 8714,
+        "alts": [
+          {
+            "name": "Dunnes Stores",
+            "duration": 1245,
+            "distance": 16116
+          },
+          {
+            "name": "ALDI",
+            "duration": 1349,
+            "distance": 17207
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1575,
+          "distance": 8561
+        }
+      }
     },
     {
       "id": "dinner",
@@ -250,6 +408,42 @@
           "level": "good",
           "note": "Short ride on 50 km/h village streets."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:54:01.409Z",
+        "dest": {
+          "name": "McGrath's Bar & Lounge",
+          "address": "Freshford Lots, Freshford, Co. Kilkenny, R95 Y277",
+          "uri": "https://maps.google.com/?cid=6245078071899050728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.9,
+          "ratings": 7,
+          "lat": 52.7321247,
+          "lng": -7.3980071999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ4zkys30jXUgR6NIfJmv5qlY/photos/AV-0GLftWQ-7OYHJq9uq5rtsCsQh2U1NBH9uw12_6zfFlYMh523IQynyyb0W3IkgAdpBWftHF5IhuJlGykcFPJuvRIk7hA3lOIBiyAv6JaQeYggmJBNKfPCaLu8u6m41zIZbm8Wg8-QV8HHMVBoaGqLyXdd1nSTLkS0V602zElH951snydqNR-t0TMtS8_EqnhiwL2Q_8AdrK-VLov_fo8dKglCw7XXbNujYyREnFiXchZtnKiAlwysXxTDJMwq7h4__L-Bdw_ZfffGdwTTitNAsMOYER2wM-jDOxO5O4AGSPqiXY8fQfOjwQW4TE8vAGJjWG1xqesqApx5yixmOII3Rhh-_POp6biiY-MUCKBDBoYayp8IwiRwfSE_H80p411g4bD4LM5YUzev0EEA_CU2TavqcIzy-/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Alberto Iglesias Torres",
+            "uri": "https://maps.google.com/maps/contrib/106785239774108919777"
+          },
+          "q": "McGrath's Public House, Freshford"
+        },
+        "duration": 73,
+        "distance": 724,
+        "alts": [
+          {
+            "name": "Campagne",
+            "duration": 1068,
+            "distance": 15507
+          }
+        ],
+        "walk": {
+          "duration": 602,
+          "distance": 724
+        },
+        "bike": {
+          "duration": 138,
+          "distance": 724
+        }
       }
     },
     {
@@ -263,7 +457,34 @@
       ],
       "note": "St Luke's, Kilkenny: 24-hour ED, about 15 km.",
       "title": "St Luke's General Hospital",
-      "category": "Health"
+      "category": "Health",
+      "resolved": {
+        "at": "2026-10-30T00:54:01.409Z",
+        "dest": {
+          "name": "St. Luke's General Hospital",
+          "address": "Freshford Rd, Jamespark, Kilkenny, R95 FY71",
+          "uri": "https://maps.google.com/?cid=12990297315117170149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.2,
+          "ratings": 236,
+          "lat": 52.6665445,
+          "lng": -7.2622519,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8zBZn286XUgR5f1EIpXORrQ/photos/AV-0GLcJoDFKpH--uo2vuK3oJrepbDOXrREzv-WNSTNf71TimXrld3cib67FBsq9dGcXX6pyFctlkHdK-PrvF5mvX4zRn9Fl2SNp0sscMk6Z7YoRynLIh5jvkQHrMJDeHfs-A-BlD5-my31ZLmPAbWXxIi93yh0q1p09iuzWLu__Id8WGd2hvpyz9Byoa_wc13_paPRBQObOqkNuwZEEM5MFxPnzuK5PII9cI6qTt6u64oEx9VUiXQImxlF0-lRb5oQQOqaYC_6gqX98yPMFJZzV-8AffoTvR05KtgD3Cr0lBnh1Sqq9JHZh7pB_HZBx-X_xtvjD7l7MlacqxoH0cayuuKtodafcYcP-_bzwDpxSj3BHqNpf1wegwZczUGGyjahEVoF37GT2_SoOL8Uhb6LV6CAe54s/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Damo Collier",
+            "uri": "https://maps.google.com/maps/contrib/106838707088067428534"
+          },
+          "q": "St Luke's General Hospital, Kilkenny"
+        },
+        "duration": 825,
+        "distance": 13812,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2342,
+          "distance": 13739
+        }
+      }
     },
     {
       "id": "town",
@@ -276,7 +497,31 @@
       ],
       "note": "Ballyragget: SuperValu, pharmacy; Kilkenny city for everything else.",
       "title": "Castle Street",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:54:01.409Z",
+        "dest": {
+          "name": "Castle Street",
+          "address": "Castle St, Ballyragget, Co. Kilkenny",
+          "uri": "https://maps.google.com/?cid=16944592467488808207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.7879893,
+          "lng": -7.3328961,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Castle Street, Ballyragget, Co. Kilkenny"
+        },
+        "duration": 586,
+        "distance": 8688,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1571,
+          "distance": 8535
+        }
+      }
     },
     {
       "id": "city",
@@ -289,7 +534,34 @@
       ],
       "note": "Kilkenny city.",
       "title": "Kilkenny",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:54:01.409Z",
+        "dest": {
+          "name": "Kilkenny Castle",
+          "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
+          "uri": "https://maps.google.com/?cid=14479754400188434760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 15604,
+          "lat": 52.6504632,
+          "lng": -7.249297400000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLfhvRErf3GhLGGCceJalGb9iR8aEP-g0tPkLy4JgO9KueQlL0GGjZgoc2ToScR3WtW2gNKzt6PYJ2oNANqVWSw3WINP22D5NpTMA2WTklR_94HaWyrxwo3FJ_Yf02ukeLIT0U_AOWFJJqyVynonoquqpFVu_nwwC14fXjWf3OAF-mX9Pt368KEKo72MTtAQJCqBkkMZ4KZIFqXkQCRcHwZfI9Nf_IplZCs2j91hsVs4a_Kjey3FCWuSGNRzp3ooiezLXY1pbACZwQIvJkmv5X6DWNmRmBmHvrk8qQEvVPnmPA3nqEiOlqtXGfHw_WTfhlsppEgiMz47xGXpMzDJvinH1StZ4IjPuGdSNDAryyC-5oBU37hD3kddYsSWWdfDkDrEPB9cbadEzIoK3nEIoVaHBp8_/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "lahari anandur",
+            "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
+          },
+          "q": "Kilkenny Castle, Kilkenny"
+        },
+        "duration": 1418,
+        "distance": 16349,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2828,
+          "distance": 15947
+        }
+      }
     },
     {
       "id": "dublin",
@@ -303,7 +575,31 @@
       ],
       "note": "City centre by car. The train from Kilkenny is the other way in.",
       "title": "Dublin city centre",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:54:01.409Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLc2YYouvs21-OEOELCTkCH_MHl-0CxlydfJR2DL5MdLm_v5Lq0BHcsKd3E1pUqXVn2tOX44eLb_XpzUBZ1wrfB6jnVB4aR0XihUb4kFA4AwRYXXE5-9oa775LqiFnIUryWMKluM2eXIq13EX8g2PNe8wru9lptxJxq9MO6PYarYzrCo-iakpkUfJhZSlCk3nBJ42NlYBiN34yHCNIZC5YTqobvDrZUFQYQTkuBSWcuCXSxaThExc6eyyFAFbYorxaEF8Z64xPNvPjg2qOK2EQYKJhCE1cYRSIhVxOb9ejDTUjwidOo7QNx9AN3X3bFH66Kl0v80RE_aKhOTHV_M6H7PgoRQKH8jfUkeSP-ebVuj_xuZNrGzbYVKp-tXrHnkAts72mQzE_nrhyQuLMes-bzOgQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 6042,
+        "distance": 121841,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "cork",
@@ -317,7 +613,31 @@
       ],
       "note": "",
       "title": "Cork city centre",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:54:01.409Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLfIwZJq7A_uq97lVDM8qbZGD0eM_XZOdNQL2nyy01UWlYGJ-CaK0ypwTJBjwm8TNNVVmb2yKY9t2gA4rTLm92H-HfIrfMCE4hWGCtNDG-s6l_JRKpagrpn4mRv-QGhI4rkg1NsYzKnje1czHzps7IU7uNSFA9S-QF6LlnpAq87UCJ0TUMY0Kqu9GxMG5leDHLj0hE0MHe5nwTkhYOei2JTxoEnITh1b1EJGuXDa_W7FZMXJHFZFsPzBwcXQKB0jhX-o-1cTyJoWS2UZgarHS4bJtcaWXiF8S_horvouU1ehIwxnfYlpgxZj83xo_P-6Bw8o1PBdFAMIkSNClvCgSjdYPbaFg3RqLtn57gvApeKHlydrcoRiJ1vN3mIyVVNHG5S9TPWwqkNZgwRp8EiZX-15UQE/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 5993,
+        "distance": 145781,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -330,7 +650,34 @@
         "Kilkenny MacDonagh railway station"
       ],
       "note": "Waterford–Heuston line, about 1h30 to Dublin Heuston.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T00:54:01.409Z",
+        "dest": {
+          "name": "Kilkenny MacDonagh",
+          "address": "Highhays, Kilkenny, Co. Kilkenny, Ireland",
+          "uri": "https://maps.google.com/?cid=16655989423247548520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 69,
+          "lat": 52.654956999999996,
+          "lng": -7.24498,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ52tSXQo6XUgRaGBVGyL2Jec/photos/AV-0GLeDjRR3Z0Ca6LvYJEeQeXZ7ruImbHGmW4gOSRcQfryTXmieV3H5AdppJTaml35KVlcozGQTlpDZIX-zhkR3XVDVTUDqHph60iOT6RCtAs5OGrxm-xTAykGpgRTcvreSNt71NdiIGp9ksj7jjhCaeeYPVU80pZ9ciEXYpbY1G5UDPcndMotP8uAVTUXd7npIpAJ1KjjqS2ZKIHCdeDGU4X90G0gsX6WiNJQsY2Xrct9MPepaWIbBuI288a50EKEtIIc1NS9tqGood05OH3CgEcqzhbaJvncf31u1w2dCitmaut2qMC3MTK6ONsyaVnlatzKZ2z_MOlP5zvUci4-VFz5AB4z-AyTy1Y4YhSgi5fCPu3ljKaPJrGrATofdTkBbwUQRKrzVOiCNnz55GhqKpuZ2gN8/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "スタバカ（SUTABAKA）",
+            "uri": "https://maps.google.com/maps/contrib/107705833309561868785"
+          },
+          "q": "Kilkenny MacDonagh railway station"
+        },
+        "duration": 1117,
+        "distance": 15874,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2824,
+          "distance": 15911
+        }
+      }
     },
     {
       "id": "airport",
@@ -343,7 +690,31 @@
         "Dublin Airport"
       ],
       "note": "The trip you and your parents will make most.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T00:54:01.409Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42131,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLdvY0uTRSJkOuUIaWMtJjey2QZp-i76XWxL9ti-nWE71ds1B5JwNm3GlLlhemup1Pv0HbEBTF-WJJOclsDU1s7ABlt_T5pOIG0jj_7gB-ZcT1MHB5PIU9xS6f-ppIkGuDe1X0XQ7WFipBhFllFX00KrjGGKJCQT6aEitISdQLu4iizeJ8WVuGj1mcE5w3QAs67nXoAUVlY8M0_Ws0hd3KUG0tzgmXoEyvPK-Bv6cuQNypmNOGSMrKt7gwXIPSTeELpKLdKP4m1WmsvieNi9nJuy84cDlvaWIpyT6uvdEn9SzzqgEBZtaMVK6iK__8srWEcuuDfLBx1W6wZdJkwX2WGxZwHEro-8fPORhLrIqpJRIT4Cf34aCbhke9Kn0MDyMZJwdFApoyv7tGh3VMlDTmbJfOusi2A/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 5755,
+        "distance": 133079,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [

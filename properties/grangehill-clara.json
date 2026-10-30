@@ -206,6 +206,39 @@
           "level": "good",
           "note": "Quiet single-track lanes almost the whole way; a nice ride for kids with an adult."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:56:57.799Z",
+        "dest": {
+          "name": "St.Colmans National School",
+          "address": "Clarabricken, Co. Kilkenny",
+          "uri": "https://maps.google.com/?cid=11852804126001614843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.6578227,
+          "lng": -7.1542153,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "St Colman's National School, Clara, Co. Kilkenny R95 YW73"
+        },
+        "duration": 160,
+        "distance": 2066,
+        "alts": [
+          {
+            "name": "St.Colmans National School",
+            "duration": 160,
+            "distance": 2066
+          }
+        ],
+        "walk": {
+          "duration": 1560,
+          "distance": 2066
+        },
+        "bike": {
+          "duration": 297,
+          "distance": 2066
+        }
       }
     },
     {
@@ -224,6 +257,39 @@
       "rating": {
         "level": "Strong",
         "basis": "St Kieran's had 100% progression to third level in the 2023 feeder-school report (Kilkenny People/Irish Independent); Kilkenny College was reported at over 100% (KCLR, 2016 tables)."
+      },
+      "resolved": {
+        "at": "2026-10-30T00:56:57.799Z",
+        "dest": {
+          "name": "Kilkenny College",
+          "address": "Castlecomer Rd, Seixeslough, Kilkenny, R95 CF61",
+          "uri": "https://maps.google.com/?cid=5534155923292918925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.6665659,
+          "lng": -7.2507600000000005,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJgyHN9Os7XUgRjZR_s31FzUw/photos/AV-0GLecHguzpIRqccNh-4JYRHfxIvT4IzfPl755hL0qiPbKYOFgqXaMXdMfUnXhF8w1PhB6u7KZpKJ5jOx2ejmvXacgTjMamvApF1iLiND9LUIJbtq620XWnxfbfeTRvl6-pmVi_i6noAcIWK0m1JX55gqxxrGIUfn4Mg4PM7iNXcXhjGIkPAhZtI6E-AL4GWgEh5hGBoZC5ylK2oZ8g5SKlVZobQdaBCAAu9fUC1S21h834FiuPePlo4v23z6WdmxZ3M-ltzVyPemZOuqTSzsVThzZ2h4wK9vW_6pO7yZ2n1S5b33UasTRn9pyGXNZvBKzcpdSHWQZ_lK79MivF2RJ5Ihoat5pEwm5G34EEZE5Hy3-WUzTUWiRZsOPJo6lGyss6qEwLH1svV_HiQ7LLU4EGqP7M8I/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Murt Larkin",
+            "uri": "https://maps.google.com/maps/contrib/108182887592962117817"
+          },
+          "q": "Kilkenny College, Castlecomer Road, Kilkenny"
+        },
+        "duration": 1011,
+        "distance": 13864,
+        "alts": [
+          {
+            "name": "St. Kieran's College",
+            "duration": 1071,
+            "distance": 13791
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1833,
+          "distance": 10101
+        }
       }
     },
     {
@@ -248,6 +314,42 @@
           "level": "ok",
           "note": "Quiet lanes, a crossing of the R712, then about 1.5 km on the R702 with no shoulder into Gowran."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:56:57.799Z",
+        "dest": {
+          "name": "Circle K Express Gowran",
+          "address": "High St, Gowran, Co. Kilkenny, R95 D26E",
+          "uri": "https://maps.google.com/?cid=10183625813469199925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 70,
+          "lat": 52.63072,
+          "lng": -7.061857,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJCx6f7E9IXUgRNX5U4biBU40/photos/AV-0GLf3WTflmYKzZbGdI46VjGENyf2ECnaUpT2-BEMvpB6bBI6T69qGZbvHqxFrj4IY6FqXdLuPBgMTA9gqzMfqQZpNnP92DDNuZqvWDEMUTfMLt0cFd6OIqI80DEU4cBjfpnya4iSAI_BpcCg7kyrbOs_aDKrpEbP-aGxbcv9BucEDPUEHaAQfwlckmMIaIQmILAB9oH9YT8hRUMVaAWWNjNq0YtAej4rY0RbiY9qLzsdiYIJrjFTtQfc1QygwqsxDjqosJpa3_7PHTCGAke34TXzrWpH3A6u7__TVw_RZD-gbsGdNZt4em0bUQJPv0ytWiJtSzGv7JFX-9ubGMJcvnNIvL2lRKgrpqOIc5Xzi1-ZE--X1LTHwLwJ_Q-TPixcBJqaZpjucyP8B5RNq3fvIdKonRg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Emily R Majusiak",
+            "uri": "https://maps.google.com/maps/contrib/106422457178403351188"
+          },
+          "q": "Gowran, Co. Kilkenny filling station shop"
+        },
+        "duration": 636,
+        "distance": 7632,
+        "alts": [
+          {
+            "name": "Applegreen",
+            "duration": 667,
+            "distance": 9601
+          }
+        ],
+        "walk": {
+          "duration": 6060,
+          "distance": 7632
+        },
+        "bike": {
+          "duration": 1492,
+          "distance": 7881
+        }
       }
     },
     {
@@ -263,7 +365,45 @@
         "Aldi, Waterford Road, Kilkenny"
       ],
       "note": "Kilkenny city's supermarkets, about 10 km; the Dublin Road side is closest.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-10-30T00:56:57.799Z",
+        "dest": {
+          "name": "Dunnes Stores",
+          "address": "MacDonagh Junction Shopping Centre, Dublin Rd, Pennefatherslot, Kilkenny, R95 K3EC",
+          "uri": "https://maps.google.com/?cid=14809596354405080493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 915,
+          "lat": 52.6551828,
+          "lng": -7.242190700000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJYz2Ni3U6XUgRrR08c2tBhs0/photos/AV-0GLeMu6el4yS9iELUPy3UNo3Z7YtVIn6QrKVyqITpbzMnC4lhNu8fu_CXttqQvCp3k4VgHUq2naYhTZF82FrKjHPdEHCW9mjA58px-FXY8Ip2ZG_eVSHTUimmO-oH-o3AB4YGpAQHg5jHpz1wZGvtYK6yDSRem9mTemlbLRco-m6QH5YPUH06IV1Bha_YH8b3nUq4XnPnFuDEAhmgELc2LqKptroeep9REcFTcNFIOgmytKpwitY5_hFDwG-YSOWTwd4ws0U-zXhN7Hb56VNm2rpmgEEQPEJQHCFUPPdXJcH_OwM6V98W5vbiIUZBHpJCv-MBN8UM13sNutne76mlVytabI6trt4vagVvhLCzhIV__9yy-BMfGsZb-bIi0LCZzL7yeT6-T3tg5ke6xfLPOamTeQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "michael breathnach",
+            "uri": "https://maps.google.com/maps/contrib/104779712925747172382"
+          },
+          "q": "Dunnes Stores, MacDonagh Junction, Dublin Road, Kilkenny"
+        },
+        "duration": 870,
+        "distance": 11403,
+        "alts": [
+          {
+            "name": "ALDI",
+            "duration": 888,
+            "distance": 11929
+          },
+          {
+            "name": "Market Cross Shopping Centre",
+            "duration": 1040,
+            "distance": 12056
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1488,
+          "distance": 8596
+        }
+      }
     },
     {
       "id": "dinner",
@@ -277,7 +417,40 @@
         "Ristorante Rinuccini, Kilkenny"
       ],
       "note": "Kilkenny city: Campagne (Michelin star) or Rinuccini.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "resolved": {
+        "at": "2026-10-30T00:56:57.799Z",
+        "dest": {
+          "name": "Campagne",
+          "address": "The Arches, 5 Gas House Ln, Gardens, Kilkenny, R95 X092",
+          "uri": "https://maps.google.com/?cid=13932048128639812740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 530,
+          "lat": 52.655980799999995,
+          "lng": -7.2467033,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJnV_RGAs6XUgRhMQ4NfWTWME/photos/AV-0GLdz5qB2zpQGHxSpDDuGlhZJat-v-xYtI80-_b4illRr_1S5t4TiDzAs2PtW5qqOr3xDxH8WRgZnEunyU_ARVnZnMdXjEWRnbfzZd4O7jgDRIrjpW8DO0JG5eKyR1kqUTFrrgMAfynkKSF3NmFNJ8pldop0jrdLshg6aU5c7ZsbMlmwYHtT0vciPUNCssQ4qiqmmpDLf6Ga-aP2IToLdnrOj9xp9OHJRpeWpQUOcI2WhuyB7-w11_ePthtuYskaRQTMo4uK-BHRUCsnINw9fC5I_1Hdy3TlWqyNWc43CskUloM9MeqWeRIDGQbKa4JQLbvI5JHyzV_HYyYkYCDMcoq4HZCzgLGKRj7joJrlt6zgRn85qdGOa2AlRXj5UGb2MefjDzrKRph06wAjkjvoy_tIf5g/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Campagne",
+            "uri": "https://maps.google.com/maps/contrib/115779893953720811060"
+          },
+          "q": "Campagne, Kilkenny"
+        },
+        "duration": 814,
+        "distance": 10650,
+        "alts": [
+          {
+            "name": "Ristorante Rinuccini",
+            "duration": 820,
+            "distance": 11673
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1614,
+          "distance": 9006
+        }
+      }
     },
     {
       "id": "hospital",
@@ -291,7 +464,40 @@
         "University Hospital Waterford"
       ],
       "note": "St Luke's, Kilkenny: 24-hour ED that takes children, on the near side of the city.",
-      "category": "Health"
+      "category": "Health",
+      "resolved": {
+        "at": "2026-10-30T00:56:57.799Z",
+        "dest": {
+          "name": "St. Luke's General Hospital",
+          "address": "Freshford Rd, Jamespark, Kilkenny, R95 FY71",
+          "uri": "https://maps.google.com/?cid=12990297315117170149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.2,
+          "ratings": 236,
+          "lat": 52.6665445,
+          "lng": -7.2622519,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8zBZn286XUgR5f1EIpXORrQ/photos/AV-0GLdm1BqO5yqs7YpGw4zwGKSZFaN7hz9uYEUEoz4AZYFDycQaRFfUaSzKdiCHJ8caOJ2bBKyrfrxNOSrAANh26CWmSDmULCvjpU25iv46cqKhQOB7PfKYmUq8L-7yljKsqGRII6gg3CnuD9ggu5SxAuQE0yoVO3FB6-fmCvXgrpuIVOWRT_Y2fcKo35tEoyR3OvN0zP73JEqkmtKYMidYS5YDtwOtDtcZMz_mmrYc19uZzZzmPj5sIx_KpOJ7plMVEPmA0qkjiv904DfWKi2BBJE9ou0j-g62epJXULNpvVIEwmKRGF6XQ8-D092uCkSzlVMnz2C4ZDO8Cq9JGTJ329MWeyKuo6HXrHMJnHTgsqwpKVECvjVp3d8lhuXsqdsWBb9ufGsqa-drkDeSPxePm13eg3U/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Damo Collier",
+            "uri": "https://maps.google.com/maps/contrib/106838707088067428534"
+          },
+          "q": "St Luke's General Hospital, Kilkenny"
+        },
+        "duration": 1093,
+        "distance": 12543,
+        "alts": [
+          {
+            "name": "University Hospital Waterford",
+            "duration": 4209,
+            "distance": 65648
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 2058,
+          "distance": 10996
+        }
+      }
     },
     {
       "id": "town",
@@ -314,6 +520,33 @@
           "level": "ok",
           "note": "Mostly quiet lanes, then about 1.5 km on the R702 with no shoulder into Gowran; one lane frame dates from 2009."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:56:57.799Z",
+        "dest": {
+          "name": "Main Street",
+          "address": "Main St, Gowran, Co. Kilkenny",
+          "uri": "https://maps.google.com/?cid=13092190628849461566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.6292174,
+          "lng": -7.0661443,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Main Street, Gowran, Co. Kilkenny"
+        },
+        "duration": 589,
+        "distance": 7279,
+        "alts": [],
+        "walk": {
+          "duration": 5733,
+          "distance": 7279
+        },
+        "bike": {
+          "duration": 1360,
+          "distance": 7279
+        }
       }
     },
     {
@@ -328,7 +561,40 @@
         "Carlow town centre, Carlow"
       ],
       "note": "Kilkenny city, about 10 minutes per the listing; Carlow is the alternative.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:56:57.799Z",
+        "dest": {
+          "name": "Kilkenny Castle",
+          "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
+          "uri": "https://maps.google.com/?cid=14479754400188434760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 15604,
+          "lat": 52.6504632,
+          "lng": -7.249297400000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLcrNZ9GGcWtmoICTUuwtQ5yBor2bKxWS5sU3e1caaB67AX_odxJBXwuCsL2sHuS6f_xSsgyiqKuYJjznttQWe1HJoc_l96hLyycgTYoiQVRbIV2iW4J93ZV9iG6IexsrTjCd_QA2uRfih6IOksYVoYPanWlmLON19fTo33sNOTx8IcOkBerlXntT2EILiryNHyG07zgDCxvLLB1oh-EvjwCLQW1kr0Rj3PQUkfRTN-xXU7DeXRDXiXtbYyCj9wySCJoZmSG9Xd8frhyaLqylhrg6nXnavca0FMHrkvhGU4cPD8HowsxsX7I2_PFAQquyVPEF5Ld_96tPQlaKmchuaj6ZOcSx-ywoExJHCwN4hodu3m20mTKgfrH2BxpPmW0W3_OyXf6KooHeNZyGZOTIlrIYgY3/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "lahari anandur",
+            "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
+          },
+          "q": "Kilkenny Castle, Kilkenny"
+        },
+        "duration": 927,
+        "distance": 11714,
+        "alts": [
+          {
+            "name": "Carlow",
+            "duration": 1757,
+            "distance": 29514
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1742,
+          "distance": 9587
+        }
+      }
     },
     {
       "id": "dublin",

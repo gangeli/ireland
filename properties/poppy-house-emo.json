@@ -19,7 +19,7 @@
     "BuyerIQ flags radon as a critical finding for this Eircode: has a radon test been done or a sump fitted? And what is the building about 15 m to the north-west of the house?"
   ],
   "ai": {
-    "stars": 3.0,
+    "stars": 3,
     "why": "A charming, practically new stone house with a ground-floor bedroom, 10 minutes from Portarlington's trains and 15 from Portlaoise's ED, at €450k. But 117 m², three bedrooms and two bathrooms is small for six, and it sits on the R422 with a close neighbour."
   },
   "services": {
@@ -176,6 +176,39 @@
           "level": "ok",
           "note": "Straight R422 with good sightlines but no shoulder for 1.3 km."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:55:39.495Z",
+        "dest": {
+          "name": "Na Carraige National School",
+          "address": "Na Carraige, Kilmainham, Mountmellick, Co. Laois",
+          "uri": "https://maps.google.com/?cid=1991205623038577240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.115248199999996,
+          "lng": -7.2874551,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "The Rock National School, Rock, Mountmellick, Co. Laois"
+        },
+        "duration": 83,
+        "distance": 1267,
+        "alts": [
+          {
+            "name": "Na Carraige National School",
+            "duration": 83,
+            "distance": 1267
+          }
+        ],
+        "walk": {
+          "duration": 1004,
+          "distance": 1266
+        },
+        "bike": {
+          "duration": 215,
+          "distance": 1267
+        }
       }
     },
     {
@@ -203,6 +236,33 @@
           "level": "ok",
           "note": "First 1.2 km on the R422 with no shoulder, then a wider road into Mountmellick; the last 600 m has no Street View imagery."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:55:39.495Z",
+        "dest": {
+          "name": "Mountmellick Community School",
+          "address": "Market St, Townparks, Mountmellick, Co. Laois, R32 A099",
+          "uri": "https://maps.google.com/?cid=1202710218235915119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.117929399999994,
+          "lng": -7.3276962,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Mountmellick Community School, Mountmellick, Co. Laois"
+        },
+        "duration": 346,
+        "distance": 4260,
+        "alts": [],
+        "walk": {
+          "duration": 3441,
+          "distance": 4247
+        },
+        "bike": {
+          "duration": 794,
+          "distance": 4260
+        }
       }
     },
     {
@@ -220,6 +280,30 @@
       "rating": {
         "level": "Strong",
         "basis": "99% progression to third level in the 2017 Kildare feeder table (Leinster Leader); fee-paying."
+      },
+      "resolved": {
+        "at": "2026-10-30T00:55:39.495Z",
+        "dest": {
+          "name": "Newbridge College",
+          "address": "Common, Newbridge, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=13302548779081641272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.188451,
+          "lng": -6.7931835,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJcdae9vx_XUgROK13eKIlnLg/photos/AV-0GLdWcmll1K_ZvBB4pRPz2hzC8coxDpsRnxNUrAGNlDv727P68C3ekhrTeJHSkddUg-VC_HshrGaYGXJLoDXc9Q-Lkz4qvtX7JNCfxqGtP1609XXIXgNradZM7QCLFijIfkoKVF1KEgTWj1Zlb4QnjeIoMGzjH-lixIbSNaYy1sJu7Msag7MhUtZ394edcLh2dFmlTO_-MsV0ZvmZtUFZ3oy32IWVrzdvE_PIhscbGdc0aXX1WkRU3e7GwzPe1VBj9RME0zH6dzPgCjl-n4BqrZm3jEnhpixYPD_4J7_pqv7IKSvXmVVBwsNWiJzl0jpbmQp5LUkksEM9Za4eDmH1v8OrnbNhtmipoE7yISreXZHo8xGQ9rXo6xgxJncO280cPYXnny-tHADxj2-fki1ibDsm-TI/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "William Murphy",
+            "uri": "https://maps.google.com/maps/contrib/102794443405174775102"
+          },
+          "q": "Newbridge College, Newbridge, Co. Kildare"
+        },
+        "duration": 2105,
+        "distance": 38235,
+        "alts": [],
+        "walk": null,
+        "bike": null
       }
     },
     {
@@ -243,6 +327,42 @@
         "bike": {
           "level": "ok",
           "note": "First 1.2 km on the R422 with no shoulder, then town streets with some painted cycle markings in Mountmellick."
+        }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:55:39.495Z",
+        "dest": {
+          "name": "Watchorne's Bar & Londis",
+          "address": "O'Moore St, Townparks, Mountmellick, Co. Laois, R32 A6YV",
+          "uri": "https://maps.google.com/?cid=2482356560094269457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 39,
+          "lat": 53.1181918,
+          "lng": -7.333629299999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJJ8VuTtILXUgREZBHqiMacyI/photos/AV-0GLfRg665i7rgu9TpQLu-RQsry63mAExQzkY8oJKlpRUsI73dh92hifEmqjf8jijRPJgLhEVI0uyF5Lt2qnk06yNneJYidJghJEh0e3_U4oy69sXcXD5K2aEPTtl4rrwfw2kvVoAd9NihG0N15UtQlTO1K6ZcaU6eUpgcqy4v20u_uQUxfHyPxtqP-frdTpFdyDB6ajKbuMADPFRfKyE9erxiGyhMrm9P0xjJ10XfNzGlpwS6YnQTbk0AteC5G7F4GwMS7JGA9kqKAgl9SdM35oHQr8DpvJYBrkcCAhJBy0TMhkSHvkJHLuTKPmL9I-lVaV9p03PYz70mGr6GME7jEQa0dZqzMMmJbmcEB4-loKy6Gd7I-5y3f282BENSSwppGmdzAOqkAet-5-3VN-DDP96prJcoyr_j_wDaeL2jPCM-/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Michal",
+            "uri": "https://maps.google.com/maps/contrib/103193538165202423622"
+          },
+          "q": "Londis, O'Moore Street, Mountmellick, Co. Laois"
+        },
+        "duration": 472,
+        "distance": 4675,
+        "alts": [
+          {
+            "name": "Centra Mountmellick",
+            "duration": 1049,
+            "distance": 12868
+          }
+        ],
+        "walk": {
+          "duration": 3783,
+          "distance": 4661
+        },
+        "bike": {
+          "duration": 873,
+          "distance": 4675
         }
       }
     },
@@ -269,6 +389,47 @@
           "level": "ok",
           "note": "First 1.2 km on the R422 with no shoulder, then town streets in Mountmellick."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:55:39.495Z",
+        "dest": {
+          "name": "McConville's SuperValu Mountmellick",
+          "address": "Connolly St, Ballycullenbeg, Mountmellick, Co. Laois, R32 WY43",
+          "uri": "https://maps.google.com/?cid=14068292525953968599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.3,
+          "ratings": 350,
+          "lat": 53.1136055,
+          "lng": -7.3198134999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJbTaPzsgLXUgR1-nE7YOdPMM/photos/AV-0GLdQts_iFec20v18hlCRJOMJQJr4-scVh2fVWR5PG2ZWPVrv6NNYx9pErhZ0NIh5rIBiE9wwwmkBmJgwyyTEdVPvO4kP_I1eLs4Haj0a-DXGGUR49dZYyx4rjjC_CGDlRSPDeLQCtkRUnV66yxOLXTcRnXrMHYpB6_K4KBrey2lcLgk2LxJG1oMUY3B5toQZA8SDbePtGNqe-pwJkPdVDKwlUyBSF-_faatUpx6tc_Ityz5UyEzRXbZR_XNJRm6ZFRunUZZ57ENdHyYJ2lLYDFBtHEbvr9cSG2kVAkZCbPMfQ7WuYNVpLTqdIHDNmr_tVSRjw-kjJkHJXb0V9WNc9i4KXNomynJXqzUU7kllpWTKDH2AptCBpC13EWBRRSEsuOzFWVE90f8h05Pf7b_ow98xIkM/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Mark Sutcliffe",
+            "uri": "https://maps.google.com/maps/contrib/102829520309057456207"
+          },
+          "q": "SuperValu, Connolly Street, Mountmellick, Co. Laois"
+        },
+        "duration": 346,
+        "distance": 3959,
+        "alts": [
+          {
+            "name": "The max Mountmellick",
+            "duration": 427,
+            "distance": 4675
+          },
+          {
+            "name": "Tesco Extra",
+            "duration": 1051,
+            "distance": 11327
+          }
+        ],
+        "walk": {
+          "duration": 3100,
+          "distance": 3844
+        },
+        "bike": {
+          "duration": 720,
+          "distance": 3959
+        }
       }
     },
     {
@@ -293,6 +454,42 @@
           "level": "poor",
           "note": "A long, narrow stretch of the R422 with no shoulder, then a big junction; the last 1 km has no Street View imagery."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:55:39.495Z",
+        "dest": {
+          "name": "Batonis",
+          "address": "The Gatelodge, Morett, Emo, Co. Laois",
+          "uri": "https://maps.google.com/?cid=8201852309934698741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 497,
+          "lat": 53.09653300000001,
+          "lng": -7.2088354,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJd2ZOUKV0XUgR9fDfeTjV0nE/photos/AV-0GLehKDp9scVU-9V3OdZXVD4MDDGIJUavH4KhhmQEXVOQ-I7mLnXuyWMz_zNs0d_nvC1mBGcHJ_PnoZqhptKKyswE8osqcDmNBlgKXz5vPITUPF_RTfpt0B8BRRBowG5AeOy2LZtQBTG94xs_NKouf6-F_cR1pg_VQuiMKkRizwWdo4j0ucC6BP_Pme9vzWKjgIiiaby9pgOMNxuCfqN9nBNmzFKHAikVV_ioU9PkbuT6zmqLET6E1mHqnMopH7H6f4huZI-mBoHN5KBP10smjAXOpRd9B1l4JgIAzEv3SZ80w_TS2lyHyC6IR0jponjYWrRLuvBRAllAl2eUw5wxq4_BaCA9Gv1IETUCZWryTIs4jiFiZGzk9t1dGumUwpy-OzupkJrqTEOtSa5JZ3gGoL7WjRFS/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Michael Traies-Martin",
+            "uri": "https://maps.google.com/maps/contrib/107792097676424580233"
+          },
+          "q": "Batoni's Restaurant, Emo, Co. Laois"
+        },
+        "duration": 291,
+        "distance": 4780,
+        "alts": [
+          {
+            "name": "The Hare's Corner",
+            "duration": 398,
+            "distance": 4401
+          }
+        ],
+        "walk": {
+          "duration": 3902,
+          "distance": 4777
+        },
+        "bike": {
+          "duration": 945,
+          "distance": 4780
+        }
       }
     },
     {
@@ -306,7 +503,34 @@
         "Midland Regional Hospital Portlaoise, Dublin Road, Portlaoise"
       ],
       "note": "24-hour ED that takes children, about 9 km straight-line; its paediatric extension opened in May 2026. Tullamore is the next all-ages ED.",
-      "category": "Health"
+      "category": "Health",
+      "resolved": {
+        "at": "2026-10-30T00:55:39.495Z",
+        "dest": {
+          "name": "Midland Regional Hospital Portlaoise",
+          "address": "Block Rd, Kilminchy, Portlaoise, Co. Laois",
+          "uri": "https://maps.google.com/?cid=7142762024074450881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.7,
+          "ratings": 196,
+          "lat": 53.038208399999995,
+          "lng": -7.2760839,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJDzP436wNXUgRwZcbiDcwIGM/photos/AV-0GLckWu_q66s0CAx0s8iaqx6vwAOKKFKS4kt2Hkh3HsaXaOAADVKxhW8ZjRxLnAP07h83Jn150AjV9DCcez25ChMSK6t5ZyhqGvjKhi9OAJDBB-GKkrKekXWqpTljAuNKeTqwVfsTiMxAM-yJFTwB15Zsq38tLj4hK17ahbyYoGz9pO-yvAOJnBTsLFRB8KxEKxh90KR3Q459lsqSyfBFDdWvzjneJDBY8tmCtS6lyJUltyzZwYYVPfKR568gb8jwCZ5o8bqfEHCCO_MiHP3CW7pIKV1pJ1ltafP7QOqzohukU5LddizLfPUe49if78eHWPnqNVIwYJ0JN8q4lmFprgm_ZkuatNi6Of_ueCF83nZLfRO_ucSps3s2C5n_LBhZEXsRSc7CcE35eI8PUCJJjMUR9dCwcZbC7jbOW0RwOJfsNw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Nilesh Mishra",
+            "uri": "https://maps.google.com/maps/contrib/116976963245334691980"
+          },
+          "q": "Midland Regional Hospital Portlaoise, Dublin Road, Portlaoise"
+        },
+        "duration": 889,
+        "distance": 13563,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2167,
+          "distance": 11038
+        }
+      }
     },
     {
       "id": "town",
@@ -319,7 +543,34 @@
         "Market Square, Mountmellick, Co. Laois"
       ],
       "note": "Mountmellick, about 3.5 km: supermarket, GPs, pharmacies and the secondary school; Portlaoise (about 9 km) for more.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:55:39.495Z",
+        "dest": {
+          "name": "Market Square",
+          "address": "Market Square, Maryborough, Portlaoise, Co. Laois",
+          "uri": "https://maps.google.com/?cid=3883595538469608231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.0337038,
+          "lng": -7.3019637,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ-1AlT8wNXUgRJ9vF6ZBN5TU/photos/AV-0GLdVyCRrYtI_CXgUvbEGB7y14gRgkGOjQ2nlqCT1BAs9uk2o7N2jDEt3DGSLCqbCcuSb8HAjTUlBAoSG65QhO96Xt2ukHn-c2XBmMJFAuDhfRadm3bvZ-u6mXYxr5UPCqDqVgpw262yBqytMiIlvhYKP7blIpj_cszRWB1zm2s_unjt4g9BJC15WJY9NBd4cocibbasO7ZtNYWFX5MPuwlN051eRJ87lAbZd2aGeHNcp6QNST04t_wBlODrUPwIDvU_4BPSOZEcOHXAs2yJ9Kqso7rPUPOUr7sAHtTcr1TRkkd6qVkmVC7OlkwAQpM0uGRb25qNJGt_TMzvBNDpqb7ww3rSF-LXaPJyFpdYA5h9cEJs_4LFle30KU0GgULRkt25Vfo3O2Uv8AVd4gqbUpJXZsWw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Elaine G",
+            "uri": "https://maps.google.com/maps/contrib/104047547220591483181"
+          },
+          "q": "Market Square, Mountmellick, Co. Laois"
+        },
+        "duration": 963,
+        "distance": 11760,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2066,
+          "distance": 11112
+        }
+      }
     },
     {
       "id": "city",
@@ -332,7 +583,31 @@
         "Kilkenny Castle, Kilkenny"
       ],
       "note": "The nearest city outside Dublin, via Portlaoise and the M7/M9 or N77.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:55:39.495Z",
+        "dest": {
+          "name": "Kilkenny Castle",
+          "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
+          "uri": "https://maps.google.com/?cid=14479754400188434760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 15604,
+          "lat": 52.6504632,
+          "lng": -7.249297400000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLdfGfJLKQz35sboGYPwfyf8uH51-oofmnM9RP1bBj5DfyUu4z_5IxDx1-kcNk5JiRitlfSZLRgajoW6cFJv4IIrVrL6kU7D1yp_qWCHQi97hPk_83YSxSFtp3_R7LWbnJn50rZ4qUVv_72lOxNPlc3P7DneDxx4F3kMHQouHZfHADHYOteZ_-NvdbRw3Cpna12GHvYpN1j49cREB278mUDZlWNEHvLr4XCFVWwwyu2i4M20XG4FB0-vPJJTQEgExTH2nOFcGQZlo6b-C0nphYhTGEsp38YhE2QFHy2T9ZfRuN6xbxzf8TCCzHeOHFu9KnJ3lIsCvdWbzJL6SuzD-H5t1U3DSkG6bsAt7Ib3sr9XyOA4UxtUdJtgQGy1AMcaP8ufjby6aLxD85XV2nhVttnB9NHj/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "lahari anandur",
+            "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
+          },
+          "q": "Kilkenny Castle, Kilkenny"
+        },
+        "duration": 3889,
+        "distance": 67579,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "dublin",
@@ -346,7 +621,31 @@
         "St Stephen's Green, Dublin"
       ],
       "note": "City centre by car via the M7 (the listing says about an hour). The train from Portarlington is the other way in.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:55:39.495Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLdLqEr3o4YgUpNtS6TbbUxsFk5RG7LXOGqWpp-m5JsHpscgRm6zGWmS66g3Y3Lg_uX_w_ZaAPrswYtwqhHZbzxC03foVL3QkC9LAKlnBZGbXkmx6T9yqtt80YldHU-I1Cn77JlwEic7cXaseymKyk9BQSo_yf-888tNSn22KBw27kRYRtfNdido5dqNYAhrOIfN9MaYCLFsIZ5gGtcGm0eSOc1_7N1GX16Fm7kOk7JljpdAR4EZpHgYCWnpqTADGQU33Qak2yAgoJno6YtoFOLJzH3PZKZObxxEMNSN7tCZ-5k0dr-P18v5WaCiOpzyHdbrU5kHH1DPZpHT8sq8WFf0O0TQ71MUGH7f6E8k4mJTgQNMQBlqoW8rNtl9uH-66gHNOd-FItLd_VBgy512fBGlPQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 4051,
+        "distance": 80206,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "cork",
@@ -360,7 +659,31 @@
         "English Market, Cork"
       ],
       "note": "",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:55:39.495Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLfsMOUhfcWFRbOfU4QqI5pBCgPdz4eU3Z3S4H7otkip6lQh3OUJbFnHoP62tSm5DQPGnu9kdC4Z2YA85qELYIYemtUyyAhnshKBQkhEAe1dnP6b4yS35IeQMyhLNYoxr2_UAc4w1KyhKWWXLZAizKaOAwJbJJ_hdVgKOBZMoMZDTxvCGl2QzZeIPBdssW3xAEZMBfbCFKzlz4NzLTaYTXmgLHLH5SwA2ssoJeNUVvOt33cMAUH_o96Cwm1hEAR7iUIM9YMDxrjalIloH6_6IOB5-UyTXHLOaFTtv_nUQACJpyD32M0MgxaCZDeHlFRNj0QybSnA36lQpAD87rxzDCWwm7Fx4PYkSm2aAoAtOfnwnUycng382SavEcc61YqqnZNBBf5Qj6Wtt8QFxJOX_IuIsL8/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 7525,
+        "distance": 192281,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -375,7 +698,40 @@
         "Portlaoise railway station, Co. Laois"
       ],
       "note": "Dublin–Portlaoise commuter line: 19 weekday trains to Heuston (05:35 to 22:38, about 1h05), plus Galway, Westport and some Cork/Limerick InterCity stops (the listing says under 40 minutes). Portlaoise, about 9 km, is the alternative.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T00:55:39.495Z",
+        "dest": {
+          "name": "Portarlington",
+          "address": "Station Rd, Cooltederry, Portarlington, Co. Laois",
+          "uri": "https://maps.google.com/?cid=1512694160065864291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.3,
+          "ratings": 79,
+          "lat": 53.1461366,
+          "lng": -7.180933699999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJl5Ne3Ql1XUgRY6KI8FIr_hQ/photos/AV-0GLdV0yQSxQeP18k9xQkk22MFW0Ke9cKB_53fh8kdg58wjZeR-E3J0A-eHgnCLs-SDQ4kFKTdY5elT6HqX7o_MTmKr_i_L52B0wOwYHyZPr5r7_7V8bdM7Wp5wdNMXTU1St0s7dcoCQEjzV4KjzdqeY0Mz6j9qVJcMChG4YH7tpDQoGK8Gmopp5A1iynIs7q2qUdndx_5nVBW16fOaG67lyBZvYmzUtHUzNqgOKiqyW4ivHikICGQcaxOyTtKHm2X6UrDUFYQbRgORshE5legsmKZ03tbfKgfZSrDFS1SCVaSHoPkWQKd6vsknVJh_vMWCM02kr4yienr3boNTnveSn5s3GOX8GS5Ub6Yqw2CeFtjPlkYcwMAi3V1WqTmEzdI97Al31NdXQw-4Tsh5i-5QwW9aw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Elaine Rowe",
+            "uri": "https://maps.google.com/maps/contrib/115324669177008505631"
+          },
+          "q": "Portarlington railway station, Co. Laois"
+        },
+        "duration": 592,
+        "distance": 8446,
+        "alts": [
+          {
+            "name": "Portlaoise Train Station",
+            "duration": 876,
+            "distance": 11616
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1541,
+          "distance": 8446
+        }
+      }
     },
     {
       "id": "airport",
@@ -389,7 +745,31 @@
         "Dublin Airport"
       ],
       "note": "The trip you and your parents will make most.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T00:55:39.495Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42131,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLdlKfwrrwzyb_zKfvAhmDxchpkDTtor3Ch5JjJzfQlpZyMnG_FBIFIGPKNQpiElL_nF-Ta56HDRvVJSzK4G3o3EQ1Cs5BJKnXtyRtCJJgvzQfGdpDPP2TrvCrmqTFfwkWWpMHnZNuRp3tIkxr_xMY56rz-xa2aG3zm_yFubpe57ud6xHZX9SUZqlVvMSbPo9oToLpEXV3YsG5ExUtiC5w3cQTAFHb0Z9U7I3U6VPRguJNUTyXEGQ-hR76Vw7O7_AeHan5p_qC3cqRttIstXMRUO4G3YGdmBPW9cUqeBsP5vuyGNrK3B9TpgWMF1oAp3f2pPbOyry4PbNqhYkPUG_avOiasrY8GD5LobLiK1VolQnduLz4uKHRxKjLuOADhB3IIheCVE4W48kdQwuD8KsMbmtibwcoo/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 4031,
+        "distance": 91444,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [

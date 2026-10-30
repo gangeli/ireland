@@ -188,6 +188,42 @@
           "level": "good",
           "note": "Quiet narrow lanes the whole way; ideal for kids."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:55:59.512Z",
+        "dest": {
+          "name": "Tombrack National School",
+          "address": "Tombrack National School, Tombrack, Ferns, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=17550146670201368295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.600362999999994,
+          "lng": -6.5510847000000005,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJJZFKW67-Z0gR525bcWmljvM/photos/AV-0GLernbIJHn2lOCu8fQ0-SWOnl2CGHF1b9c6AhN9LdnC80RPuUcRibXFEuC3qGoTd0CwUl1MrKs92k7XfjeWuzdDA2tMyF7xc0j25bAUoMw5aSbH2exQ8EKnhwm2qFBRNmxj6ll0wgEHtdOxaeHwCeEsxm-dhcXo-Ip-kYn9f09txniApvB51g_QztvcFoAYnBFtMqIg_k4OWnt2B8lxT-Wq3KnLvI9iU4-_N7q-mvuujp3xNRzv44WDfJhIJtwDeFCyFMlGC0St7zDjXA6yFDmfOPEm5XH4k1MB3azTGqdvcMEZUE41gu0r7qKbpS3skfI-5hLdyBVccIs3VwuLfKNjhsCfUSanMQF_TcsRgqlyfrsPEQi8rFgbSQMc3c5aMjBe2UMqKn8ueQNbhr9gJ_nSFpbFy0Ko/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Hasan The boker",
+            "uri": "https://maps.google.com/maps/contrib/117365539361685212617"
+          },
+          "q": "Tombrack National School, Tombrack, Ferns, Co. Wexford"
+        },
+        "duration": 100,
+        "distance": 821,
+        "alts": [
+          {
+            "name": "Tombrack National School",
+            "duration": 100,
+            "distance": 821
+          }
+        ],
+        "walk": {
+          "duration": 722,
+          "distance": 821
+        },
+        "bike": {
+          "duration": 207,
+          "distance": 821
+        }
       }
     },
     {
@@ -215,6 +251,36 @@
           "level": "ok",
           "note": "Lanes, then about 2.5 km on a fairly quiet centre-lined country road and the R745 into Ferns; fine for adults, not young kids."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:55:59.512Z",
+        "dest": {
+          "name": "St. Edan's National School",
+          "address": "Clone Rd, Ferns Lower, Ferns, Co. Wexford, Y21 KF25",
+          "uri": "https://maps.google.com/?cid=17071213680893208791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.5844904,
+          "lng": -6.4939777,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJCfLBnmf8Z0gR16htRmUi6ew/photos/AV-0GLcxmdmUz1jnrFvGQW5pNZtUP2LfJyIVuSKpGCYqdY8XK6RcRbBgelqvH-nh3AbJC-DGt8Mm26NA_GYOBAjj33aLxIpc36SxUi36qG9yThM24DtkfpyJGjKK0Tfx-cwDR840-yC22BRFVlPK88J5upooJ_xRU0qAVE1kARBqtARjpEthExdG9tQ90-xSgeMbWqr_72PZhneYFUx-AgDbqlYODiv-LD2gv-2ZxdCBulaIlzcXwrRg16l1WXOkhvGlIF1MIn3kkeeRyOR7Iyx8eiYxvBUBQg79zXfwdFMatWwkdCf6gooiQYDPx9POKNSaqPP9XNM-MvCjVrgfoRpdnb0IXnhq3TQxQ2xAndq3NIbV3BzqGeyKR7VClZdy-u3xPVxJM_qKMmCS7nr_VMieF0JgHqI6lFo/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "St. Edan's National School",
+            "uri": "https://maps.google.com/maps/contrib/104465918470066589169"
+          },
+          "q": "St Edan's National School, Clone Road, Ferns, Co. Wexford"
+        },
+        "duration": 477,
+        "distance": 5594,
+        "alts": [],
+        "walk": {
+          "duration": 4580,
+          "distance": 5593
+        },
+        "bike": {
+          "duration": 1211,
+          "distance": 5594
+        }
       }
     },
     {
@@ -232,6 +298,30 @@
       "rating": {
         "level": "Good",
         "basis": "Large mixed school that South East Radio's roundup of the Irish Times feeder tables named among Wexford's well-performing schools; no progression figure retrieved."
+      },
+      "resolved": {
+        "at": "2026-10-30T00:55:59.512Z",
+        "dest": {
+          "name": "FCJ Secondary School",
+          "address": "Bunclody, Ballinapark, Enniscorthy, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=3842567264906849027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.6563179,
+          "lng": -6.6463493,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "FCJ Secondary School, Bunclody, Co. Wexford"
+        },
+        "duration": 776,
+        "distance": 11505,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2362,
+          "distance": 11505
+        }
       }
     },
     {
@@ -255,6 +345,36 @@
           "level": "ok",
           "note": "Quiet lanes, then the Ballycarney road and the R745 into Ferns, rural two-lane roads with no shoulder; OK for an adult."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:55:59.512Z",
+        "dest": {
+          "name": "Centra Ferns",
+          "address": "Main St, Castleland, Ferns, Co. Wexford, Y21 N8X7",
+          "uri": "https://maps.google.com/?cid=9476677699628178238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 146,
+          "lat": 52.5897,
+          "lng": -6.4963999999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ64LF4Gr9Z0gRPhs0gSjsg4M/photos/AV-0GLfDDypnpLdjOVlwVne1ROmVGq-OVJWS0fED3cVUSUZWUrYnv3somVB7bfT9tP2SFYUm9KE33TcyW0o5iaH4CKvMdzJx_E2nNjxiLAbmzmtW9cyViwsJb4vComMNlJfTTLs5hbxPlYMdZOjSx7TvqnajeNUcjRMTcHiuEkoinSV9nKsAbb5DWP80BMlvSshvjnqblQjFXmkdX1AzyOOjfTd1WsQ2Bv_wcCH_rwT3oIG6n_CAbUpLbz3X-7xTYXbxWut-6ZlasdBErGmBwbW4svtMKpHK5xdihUGCcSsk5_y03Hb4qtGlKLofSrqSHzyea_S1FvLehYAHcXQ94_SozxwHmBCnr7BjkNhOvlmkHUSRjBB3i8FStPmrF6A0gUdQbNQEjLo6V6k4OVLWT4TvAUOavqv_/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "julea mills",
+            "uri": "https://maps.google.com/maps/contrib/118441974376855479323"
+          },
+          "q": "Centra, Main Street, Ferns, Co. Wexford Y21 N8X7"
+        },
+        "duration": 415,
+        "distance": 4794,
+        "alts": [],
+        "walk": {
+          "duration": 3966,
+          "distance": 4782
+        },
+        "bike": {
+          "duration": 1044,
+          "distance": 4794
+        }
       }
     },
     {
@@ -270,7 +390,45 @@
         "Tesco Extra, Paul Funge Boulevard, Gorey, Co. Wexford"
       ],
       "note": "Enniscorthy (about 12 km) has SuperValu and Aldi; Gorey's Tesco Extra is further.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-10-30T00:55:59.512Z",
+        "dest": {
+          "name": "Pettitt's SuperValu Enniscorthy",
+          "address": "The, Duffry Gate, Enniscorthy, Co. Wexford, Y21 R702",
+          "uri": "https://maps.google.com/?cid=3908136182028007075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 480,
+          "lat": 52.502885199999994,
+          "lng": -6.5729725,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJiePlAosAaEgRo3ahvyZ9PDY/photos/AV-0GLe6z9iL3BrX0YUE4NHSFQfGpBrHGuSYlC1C3WoJMBOnZzM9hRaQY_jYAJA7QEj-79m1KUgrx5rUTiZLKIEOi_zrVwluRzPCyd-kKJoAqjTSRRu7C1YDuQxbtAQz5Kspq5h0VHP9i7-i2O6FGNb50yBTUGEPfDvD4yb_2MZOYv4mnVU2YXkBeFNtUZjggORFhrnW5zcXucIn6-XlXgQxlauzzYQJJJ7euARyPZAFfOP-xeRZohlYz5C4kXVLHoVRzsjt40IgroYtktrArvjSzAZODPzrjojeKqbxmvCdkAa5S_re2xHpQaO5C6X-dY4pQ38dlw80rW6heU1WukqPpojUzr4Q4-s-RB5YTVXL24rBJehIATFeUbUlYZACWBILoR0_3bzgrMhTvLi_bSIOjm-_Mgcw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Ohh_Pauline",
+            "uri": "https://maps.google.com/maps/contrib/111129946421546924239"
+          },
+          "q": "SuperValu, Abbey Street, Enniscorthy, Co. Wexford"
+        },
+        "duration": 909,
+        "distance": 13000,
+        "alts": [
+          {
+            "name": "ALDI",
+            "duration": 1001,
+            "distance": 15577
+          },
+          {
+            "name": "Tesco Extra",
+            "duration": 1424,
+            "distance": 22083
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 2406,
+          "distance": 11499
+        }
+      }
     },
     {
       "id": "dinner",
@@ -294,6 +452,42 @@
           "level": "ok",
           "note": "Quiet lanes, then fairly quiet two-lane country road and the R745 into Ferns; OK for an adult, not for young kids."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:55:59.512Z",
+        "dest": {
+          "name": "The Courtyard Bar & Restaurant",
+          "address": "Ferns Upper, Co. Wexford, Y21 WP90",
+          "uri": "https://maps.google.com/?cid=3856401299809276835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 933,
+          "lat": 52.5907997,
+          "lng": -6.496987,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJG2VV7Wf8Z0gRo5N80oywhDU/photos/AV-0GLeex6gM3gQsFGobLrGVZalN2Rhe6mQD-g2Em1_BnnMh0yuPNsD4WNX7bmlv_67lSyFTfipsCd_o6c0hEtTokINmpeSd4Ko6Dc9IzsCCZXguG3IjM5wvKHdG2bY2-T5J27ka6Drw1q4IlhC_SI8PViQwLEMeNbAmhxOvcmOXaOcCEWYHch1P0Gp3ZFPrpejE9AJzYSl2HrjmR8w89dHTmyiuodi1tgiA4YyOcqKAyz8Lupv75vTtN38xKLgbZSLzBzGgJG4-qJL_c7OCNGRR06jYwFY3QFME05V9SWpyrY9vKRM4-dyiJ8pHPKew4Lz5oIAv3yq4m3t_42Dt3kw1bJx-z6kpBDoCmDfd2AfUdDGOf2aSLbCpw4LJ-HwcIdYH5fANKRbeeXn1FcQQAWZwGx4bU2E/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Drew Heron",
+            "uri": "https://maps.google.com/maps/contrib/100726208959743563335"
+          },
+          "q": "The Courtyard, Ferns, Co. Wexford"
+        },
+        "duration": 373,
+        "distance": 4663,
+        "alts": [
+          {
+            "name": "Partridges Artisan Cafe & Fine Food Shop",
+            "duration": 1472,
+            "distance": 22167
+          }
+        ],
+        "walk": {
+          "duration": 3864,
+          "distance": 4663
+        },
+        "bike": {
+          "duration": 1010,
+          "distance": 4663
+        }
       }
     },
     {
@@ -307,7 +501,31 @@
         "Wexford General Hospital, Newtown Road, Wexford"
       ],
       "note": "Wexford General: HSE lists its ED as for all ages; roughly 40 km by road.",
-      "category": "Health"
+      "category": "Health",
+      "resolved": {
+        "at": "2026-10-30T00:55:59.512Z",
+        "dest": {
+          "name": "Wexford General Hospital",
+          "address": "Newtown Rd, Carricklawn, Wexford, Y35 Y17D",
+          "uri": "https://maps.google.com/?cid=2703091205570474847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.4,
+          "ratings": 210,
+          "lat": 52.3432648,
+          "lng": -6.4831242,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ1SE5gKgcaEgRX7OCPyFPgyU/photos/AV-0GLe_R-5piyIptuqQ2juTe4mEZAH-oc_6Bl9x5u5gpD88PKjYn4TZxMiOuPmEKnlw0Ps8APMCrz3zJ_gUq0Ae0ctYSh4NS7gARioGUa8Moz0aDwrmY9r5yD4cWWYT0CnjLuH4UWCLU5wN7e0eVOxYf_rR_aCZjuTYk9FhfM1sRIzKgqIHhBdPjssWfvFI3ihYU83SyI8spxgcrIM2SRTi6NcUX6czSlT0i-iTR8TVpK6H7ysGInmDLJFNJebYgGJFkFAynrDnnFK2-OLKcpewewrWynqPdQFlfjd4s-YO9qQ5ONRQ_3PTum3qNDBiZ5MYuI533AiEV0HrVtfQby_FWh5JqUHzBCJLVcFCtv4s3jrOrmPbV2YRdTtA24PmzWtQLSbN5je6h3yKj_Ago49IOBjPenvjFn8/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Keith Kennedy",
+            "uri": "https://maps.google.com/maps/contrib/116833290017099661719"
+          },
+          "q": "Wexford General Hospital, Newtown Road, Wexford"
+        },
+        "duration": 1760,
+        "distance": 35736,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "town",
@@ -321,7 +539,40 @@
         "Main Street, Bunclody"
       ],
       "note": "Enniscorthy for errands; Bunclody is about the same distance north-west.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:55:59.512Z",
+        "dest": {
+          "name": "Market Square",
+          "address": "Market Square, Enniscorthy, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=6198895411140678995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.5019662,
+          "lng": -6.5689938,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJy9MA-IoAaEgRU9XWhIjmBlY/photos/AV-0GLclWm83WDK9MyIMjK3uyRH03I6t5HSx2NrWnrTD0bHBUwxgL1C2l4tVAzFaBl2iODFwRa4ZF7__IGBlEIHjN450IvhhwtGx3Zq2jtudNIfOblRj6NHno6L1KIpzMTlKUS6aBaB6mmRqOBg7p8N65hW9bUw-oP8VcuhkQwty7Z2cz-GylYB7UVERf4gNW_rhhnT5F9-RONLyUIbQEn15dXyTG9R57_qYQArYh1qDTNqoj4Xa8F7jiCrqNzCAOlwZqSWu-FLN1l3JfyvYct_yKgrwUhQN47ArbyhvgXmOTPiPEweH1ior1jOgDqT5wavT_9UT77_G9w50kb1dr2jY-dC560BfO3D7X0DcjSXWUcD7_4YWH6-bH38VnE2wW23-yMtld-I8kJUGa1lm5vQWsDwgiaCQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Kevin Breen",
+            "uri": "https://maps.google.com/maps/contrib/110676205157200649499"
+          },
+          "q": "Market Square, Enniscorthy"
+        },
+        "duration": 1014,
+        "distance": 13296,
+        "alts": [
+          {
+            "name": "Main Street",
+            "duration": 1191,
+            "distance": 15921
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 2446,
+          "distance": 11484
+        }
+      }
     },
     {
       "id": "city",
@@ -335,7 +586,34 @@
         "Kilkenny Castle, Kilkenny"
       ],
       "note": "Wexford town is closest; Kilkenny is the nearest city.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:55:59.512Z",
+        "dest": {
+          "name": "North Main Street",
+          "address": "N Main St, Townparks, Wexford",
+          "uri": "https://maps.google.com/?cid=11522806528969873353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.3397664,
+          "lng": -6.4624939,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Main Street, Wexford"
+        },
+        "duration": 2178,
+        "distance": 37018,
+        "alts": [
+          {
+            "name": "Kilkenny Castle",
+            "duration": 3807,
+            "distance": 75839
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "dublin",
@@ -349,7 +627,31 @@
         "St Stephen's Green, Dublin"
       ],
       "note": "City centre by car, via the M11.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:55:59.512Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLeUb-MfNrDVFAnV_0-k73Jmlj-Hvs_aVUYkdFEVGUn-wX6qzPcszgs3_Yjh5MBXmc1FOPUHtg65UJwifG_v-wQUkukbEvQtZIi3qoLiXDVciSXm0YX6GYBExLRDx0GQGX9bOWP-SlddvQmyDy1M4HpO8QcV8G5REb-TvOlQnWz1V5D6B31HDhE7nbmEFirb-mKW253nidg-uTSID-UKqTUtX7fMfrKwJuu0AlwFyWmKRi3V20KtRWQHpVokMD4jmhvgFAFmlzWdFe1b1WFxUKDvFntLjcJz3FAuKCiFynMAijkG0ciG1r_2xnkCDOWCPXmod5Mfw7gcJ55ZYHtu46LoQRTfJJTM2TYi-NStn-NfRayfjZx5cMRxrB5WTp6udE86KfLq2CbhWDL6Gq-1CFvRpQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 5602,
+        "distance": 110452,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "cork",
@@ -363,7 +665,31 @@
         "English Market, Cork"
       ],
       "note": "",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:55:59.512Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLe2v1favIS6EkaH49KYP0GsxXON372Y3LOdbOZzJEMoudL_bmiJujf7Wz5sjEayMuAjmmpm0Jm34SL0nna-da0KMSFfv7viCB5WekqLKKqAfg6IO2xaT_VMBEvz3rlBg-kwxp1Tj595F6foJliKG7pA4FoW37-d76eWkPwTUZpZIDU4frAhSdjozy7xqA-ySxu8JEMFfp1A9T4Ql0cmEZs_-KX5IiqAPBNOb8hQbwKCgJfqAYIxved4UTNTTCkNx3Kq5YTaF98dBDKtvAppBkm1583qm3rc6md_lZ2N2oZr-_dx7U987pJcKIHpf1Dyk1laN2wg2FXYEenaJZUTIGGMtmyubA_r4iYaha-Edbz5Bv0IJnwrsarF_VbMI-aqjcOunSsXSpPOJ2pILfy5U_MppIc/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 9293,
+        "distance": 184193,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -378,7 +704,40 @@
         "Gorey railway station"
       ],
       "note": "Rosslare–Dublin line: 5 trains each weekday calling at Enniscorthy and Gorey, about 1h50–2h20 from Enniscorthy to Connolly.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T00:55:59.512Z",
+        "dest": {
+          "name": "Enniscorthy",
+          "address": "Templeshannon, Enniscorthy, Co. Wexford, Ireland",
+          "uri": "https://maps.google.com/?cid=18036724350518378643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.3,
+          "ratings": 23,
+          "lat": 52.5044428,
+          "lng": -6.5662642,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJnQGO5IsAaEgRk0BJ8DtRT_o/photos/AV-0GLdxpqQDedDfKlgSP2c9mltCocICmtGuqGaOrCmdgmhTAWCV-khgW7Dx89G63r9gyFWShe05JEZ2sc5NLqycgZNRcAAPXe4jlqs93VsVSfgIVXK7h3dSS7xyTHyhdQM-7DrrRe0xb4-7yztoLIJ_YUW7GGtOgYgvT9GL7-D0ujqKRnfJR4gQGQAqDJCvEfIzVntzxVcRh2EiHejDpWu192AYCSe1XY9AvbaaQ3UY06O5wWHdUGFfhsVB57MflbeI5VeomEtEA5fPfqmkv28HtM8Z0VhsZBQsowNeBh4kR-Nhz5FLjn_dJ5sUA6ZA29LKQkv2D_94kX7m2ib57YUVvRhbNiDmAvOZ0xsGzVt441E2V7M4b3vOIlF_GThLCXb_jtLy_xWMfl6_GOD50yvXbXdRcTFfW7c/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Jack Greagsbey",
+            "uri": "https://maps.google.com/maps/contrib/100504599613947561220"
+          },
+          "q": "Enniscorthy railway station"
+        },
+        "duration": 907,
+        "distance": 13382,
+        "alts": [
+          {
+            "name": "Gorey",
+            "duration": 1362,
+            "distance": 22341
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 2381,
+          "distance": 11881
+        }
+      }
     },
     {
       "id": "airport",
@@ -391,7 +750,31 @@
         "Dublin Airport"
       ],
       "note": "The trip you and your parents will make most.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T00:55:59.512Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42131,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLefXzRNOSb61vS4cRidwISMoryG1ucGmnWrATGbO3-nx_FxyaxkYsAn5iYysj7ijXO-IOfBgqbJlIi4g9q11xLLDu9ShLplpojKtY_cZUBfuyp3LToXM9i8V9fdfHnrCTaars9oXkjrBk0Eb7g2kva1Jq5kHUOdfiQt6fcc4vY0bveFNyX1PbwCqx-e5eLDIQh0GWoMcu-WINMZqQzhmxKXT7D0kkzI0-CAeB3jvF9u-GzbNw8FH5B1wEnXmt39uqhdXdRbNDb2ljwmRo35N9HQkmvoqaOUGgAYv3greztiXm9e8MlCJmm9sf4k2oxXCvtfBMgKTZjGTMv8a_JonyN6uEMP4B361N3gaRx5DRKRkgBJxuJXJ_QQRkEkxAi-mjryrKxxDUXbymZwzfRXUWRMCz2E-XI/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 5517,
+        "distance": 133747,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [
