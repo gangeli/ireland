@@ -1,0 +1,764 @@
+{
+  "id": "the-paddock-glenmore",
+  "name": "The Paddock",
+  "address": "The Paddock, Robinstown, Glenmore, Co. Kilkenny",
+  "eircode": "Y34 T188",
+  "lat": 52.350577,
+  "lng": -7.051967,
+  "listingUrl": "https://www.daft.ie/for-sale/the-paddock-robinstown-glenmore-co-kilkenny/6703176",
+  "status": "Considering",
+  "added": "2026-10-30",
+  "area": "Glenmore, Co. Kilkenny",
+  "agent": "Seamus Dollard, Property Partners Doherty Buggy, New Ross",
+  "agentPhone": "051 425 270 / 087 133 0715",
+  "questions": [
+    "The drone shot marks the lane as a right of way: who else uses it, who maintains it, and are the house's own rights over it on the folio?",
+    "How close are the neighbouring houses on each side (they are blurred in the aerials), and is the paddock boundary stock-proof all round for two dogs?",
+    "BuyerIQ shows three planning applications within 1 km of Y34 T188 and a 'critical finding' behind its paywall; do you know what those applications are for, and has a radon test been done?",
+    "When was the well water last tested and the septic tank last desludged or inspected? How old is the oil boiler, and what broadband is connected (NBI fibre?)",
+    "What was the 146 m² workshop and yard used for, and does the round structure beside the paddock form part of the sale?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "A 224 m² four-bed with a ground-floor double beside a wet-room shower, on 1.82 ac with a paddock at €465k, 20 minutes from Waterford city and its ED. Held back by only two bathrooms, a plain dormer design with a dated kitchen, and a ribbon of neighbouring houses along the lane."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but the house is lived in and the workshop has electric roller doors."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private well, stated in the listing. Ask for a recent water test."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Own septic tank, stated in the listing. Ask its age and when it was last desludged or inspected."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Probably NBI fibre: the listing and BuyerIQ's free view don't say, but NBI reports Kilkenny as the first county to finish its main fibre build (2026).",
+      "type": "Fibre",
+      "speed": "up to 1 Gb (if NBI)",
+      "provider": "NBI (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Bedroom Four (2.89 × 3.37 m plus a 0.75 × 1.43 m recess, a double) is on the ground floor off the entrance hall, beside a 2.05 × 2.08 m wet-room shower room/WC, as the V360 floor plan shows."
+  },
+  "price": 465000,
+  "type": "Detached dormer house",
+  "beds": 4,
+  "bedsNote": "Three doubles upstairs (two with walk-in wardrobes) and Bedroom Four, a double, on the ground floor",
+  "baths": 2,
+  "floorM2": 224,
+  "landHa": 0.74,
+  "landAcres": 1.82,
+  "ber": "C3",
+  "berKwh": 207.62,
+  "heating": "Oil-fired central heating, plus open fireplaces",
+  "listed": "2026-10-30",
+  "views": 245,
+  "stampDuty": 4650,
+  "tagline": "A 224 m² four-bed dormer house with a ground-floor bedroom on 1.82 acres with a paddock and a big workshop, down a private lane 3 minutes from Glenmore and 20 from Waterford.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/0/6/5036606/a2b701d7-0ea0-45ea-b907-654dda467279_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/0/6/5036606/5f448aba-b19b-439c-8306-c93dac190f66_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/0/6/5036606/861aedec-3e56-48d7-a551-5cbce40e641f_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/0/6/5036606/906b3a15-2121-4fe7-a272-ef88bc202fed_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/0/6/5036606/c5caa012-6edf-44f9-943c-fb548c6a85fd_x.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/0/6/5036606/ec33c967-09b1-4358-bdb2-049e75a0bbf8_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/0/6/5036606/c85dabb8-d2c3-4cf1-89b1-5d7c8b515e7c_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/0/6/5036606/27654f65-218f-4ca9-aa6f-241cef28592b_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/0/6/5036606/90b65a8d-4bca-40d2-b6c0-18de98498283_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/0/6/5036606/e412e5c5-c822-44bf-92ba-8492fe7b042b_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€465k, under the €500k line",
+      "weight": 3,
+      "detail": "€2,076/m² for 224 m²; stamp duty about €4,650."
+    },
+    {
+      "text": "Ground-floor double beside a wet-room shower",
+      "weight": 3,
+      "detail": "Bedroom Four (2.89 × 3.37 m) opens off the hall next to a 2.05 × 2.08 m wet-room shower room/WC with a Mira shower, per the floor plan."
+    },
+    {
+      "text": "224 m² with three living rooms",
+      "weight": 3,
+      "detail": "A 6.33 × 4.14 m L-shaped sitting room, a 3.64 × 4.25 m living room with a fireplace, a triple-aspect 3.0 × 3.0 m sunroom and a 5.07 × 3.64 m kitchen/dining room."
+    },
+    {
+      "text": "1.82 acres with a paddock",
+      "weight": 2,
+      "detail": "0.74 ha of lawns and a fenced paddock at the end of a private tree-lined lane, behind wrought-iron gates; fields on two sides."
+    },
+    {
+      "text": "Waterford city and its ED about 20 minutes",
+      "weight": 2,
+      "detail": "The listing gives 20 min to Waterford via the N25 (University Hospital Waterford is about 13 km straight-line); New Ross is 10 min and the N25 2 min."
+    },
+    {
+      "text": "146 m² workshop and yards",
+      "weight": 1,
+      "detail": "A four-span block garage/workshop with two electric roller doors, a second hardcore yard with outbuildings and a hurling wall; three vehicle entrances."
+    },
+    {
+      "text": "Ready to live in, BER C3",
+      "weight": 1,
+      "detail": "207.62 kWh/m²/yr; bright rooms with large windows, French doors and Velux roof lights; upstairs bathroom refitted with a bath and a double shower."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Only two bathrooms for six",
+      "weight": 2,
+      "detail": "One family bathroom (2.30 × 2.09 m) serves three upstairs bedrooms and there are no en suites; the other is the ground-floor shower room the parents would use."
+    },
+    {
+      "text": "Neighbouring houses along the lane",
+      "weight": 2,
+      "detail": "The aerials show a ribbon of four or five one-off houses on the lane, with houses close on both sides of the plot (blurred by the agent); fields lie beyond, and a farmyard is a few fields away, roughly 400–600 m."
+    },
+    {
+      "text": "Dublin trains are 2 hours from Waterford",
+      "weight": 2,
+      "detail": "Waterford Plunkett is about 20 minutes away with about 7–8 weekday trains to Heuston, about 2 h; the drive to Dublin is about 2 h per the listing."
+    },
+    {
+      "text": "Plain dormer design, dated kitchen",
+      "weight": 1,
+      "detail": "A 1990s-style dormer with pine kitchen units and stairs, carpets and Velux rooms upstairs; pleasant and bright but not much character."
+    },
+    {
+      "text": "Oil, a private well and a septic tank",
+      "weight": 1,
+      "detail": "All stated in the listing; the well water and the tank need checking, and oil will need replacing in time."
+    },
+    {
+      "text": "School quality unverified",
+      "weight": 1,
+      "detail": "The parish primary (Glenmore NS, roll 18158L, ~90–120 pupils) and Good Counsel College, New Ross (boys) couldn't be rated; Waterpark College, Waterford is the nearest school with confirmed strong progression."
+    },
+    {
+      "text": "Unknowns: lane right of way, planning, radon",
+      "weight": 1,
+      "detail": "The drone shot marks the lane as a right of way; BuyerIQ shows three planning applications within 1 km and a locked 'critical finding'."
+    },
+    {
+      "text": "Kilkenny city is 42 minutes",
+      "weight": 1,
+      "detail": "Per the listing; Waterford is the realistic city."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Glenmore National School (S N Séamus Naofa)",
+      "candidates": [
+        "Glenmore National School, Glenmore, Co. Kilkenny",
+        "Scoil Shéamuis Naofa National School, Glenmore, Co. Kilkenny"
+      ],
+      "note": "Parish primary in Robinstown (roll 18158L, Eircode Y34 C527), about 90–120 pupils; the listing says the parish has two primaries.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Small rural parish school; enrolment figures conflict (89 vs 118) and no inspection report could be read (gov.ie behind a verification check)."
+      },
+      "resolved": {
+        "at": "2026-10-30T13:49:03.643Z",
+        "dest": {
+          "name": "Glenmore National School",
+          "address": "Glenmore National School, Robinstown, Glenmore, Co. Kilkenny",
+          "uri": "https://maps.google.com/?cid=856741707110295545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.3523662,
+          "lng": -7.0336194999999995,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Glenmore National School, Glenmore, Co. Kilkenny"
+        },
+        "duration": 142,
+        "distance": 1573,
+        "alts": [],
+        "walk": {
+          "duration": 1127,
+          "distance": 1573
+        },
+        "bike": {
+          "duration": 197,
+          "distance": 1573
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "1.6 km of quiet single-track lanes between hedges to Glenmore NS; little traffic, fine for the kids with an adult."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet single-track lanes the whole way."
+        }
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Good Counsel College, New Ross",
+      "candidates": [
+        "Good Counsel College, New Ross, Co. Wexford"
+      ],
+      "note": "Boys' Catholic secondary (roll 63610I), the largest school in New Ross, about 10 km; the listing says a school bus stops at the end of the lane. Abbey Community College, Ferrybank (mixed, ~1,000 pupils) is a similar distance.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "No progression figure could be retrieved (the Irish Times feeder page returned errors) and no inspection report was read."
+      },
+      "resolved": {
+        "at": "2026-10-30T13:49:03.643Z",
+        "dest": {
+          "name": "Good Counsel College",
+          "address": "Bosheen St, Reddysland, New Ross, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=4462542878601911262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.3960173,
+          "lng": -6.9313993,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJC8xD1LS2QkgR3hsEwhoj7j0/photos/AV-0GLfKJ9R4g2Z3YZXudgI-4sv8Q0NjFxUVAriGVhqRuAsk3GJuYwetsIev3WOltmFzU-Sz_k_4oYFa6SPkhGo-K16bVxrEvZx3yXPQdcAfFyaWx98ziHdvCX2C0WmbA1I_BlpNi_hV1MqVtaUrZcVuCVgTu5DNspWQSWGtusKYo70_EIk-Uo5x8H4-Xru1I3v0AsCDulX-WXv0kYDBhFMVj-LIdukz75ZH_R9ojG43Rkv2lAJacDKc8AnUa_nPVVo05hHhgzlPO02CmCJqDRe67Q2stof2-9JvJOUNiERcRopF8WKErg88UQ_E84QxGHfnrYD0lVsDdrLPu9De8chPIaShO0UZBtBGVCq1q_0IGUs9EGvRoszEUbNSf0QtkK0ZSNswouIc_LvM8FfFOSLW-VVzElBBvs0/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "brian o leary",
+            "uri": "https://maps.google.com/maps/contrib/104390254816181563101"
+          },
+          "q": "Good Counsel College, New Ross, Co. Wexford"
+        },
+        "duration": 871,
+        "distance": 12124,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2287,
+          "distance": 11427
+        }
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Waterpark College, Waterford",
+      "candidates": [
+        "Waterpark College, Park Road, Waterford"
+      ],
+      "note": "Boys' secondary in Waterford city, about 20 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "WLR FM's report on the Irish Times 2023 feeder tables names Waterpark among Waterford schools with at least 100% progression to third level."
+      },
+      "resolved": {
+        "at": "2026-10-30T13:49:03.643Z",
+        "dest": {
+          "name": "Waterpark College",
+          "address": "Newtown Rd, Newtown, Waterford",
+          "uri": "https://maps.google.com/?cid=12425435683795424373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.2557785,
+          "lng": -7.1017331,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ648Ul5fGQkgRddQW8OsDcKw/photos/AV-0GLfYYYWSYpPSs_UkT9jtjaHxEP_Kawd88rA29y9KvzHNWgvvsRdT65-6Wxpr6kwGm3UHVfi6suYAOAslX-N-VV-7N6FMSXeB5EbwjdTKsqa6R8R7IYG66QBtO_PeNMdR-1enB-6P1xn05xJ3nI7DavM-iA83y3An26eNHwovHthyDWDVMbtqWN-7pu95lSIIYb9c3B_WVlpGwjW9Kf-w2MtyOiyT1odRjP-6rDqPr94U78s-RqCHjxCf6Wy_PyvDJOHD2fNRzy7Yuvnqa2i2dlgLXi169GgwQRYvZbXqJ_ePVyoyAN-yzgGGu8KcTW-H_Vue-fyVjmo-YLZtkMAC5ebQxgKCTAjpeIboezMWaQp38F713Gcwz5QGsH3bM6FAZIlHq1ULD7BhCxkHg_m7o2xax6Y/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Steven J.A",
+            "uri": "https://maps.google.com/maps/contrib/101892107661564970088"
+          },
+          "q": "Waterpark College, Park Road, Waterford"
+        },
+        "duration": 1550,
+        "distance": 14493,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2896,
+          "distance": 15057
+        }
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Centra Mullinavat",
+      "candidates": [
+        "Centra, Main Street, Mullinavat, Co. Kilkenny",
+        "SuperValu, The Quay, New Ross, Co. Wexford"
+      ],
+      "note": "Glenmore village has a pub and a Tirlán FarmLife agri store but no grocery found; Centra Mullinavat is about 8 km west and New Ross about 10 minutes east.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-10-30T13:49:03.643Z",
+        "dest": {
+          "name": "SuperValu New Ross",
+          "address": "The Quay, New Ross, Co. Wexford, Y34 Y195",
+          "uri": "https://maps.google.com/?cid=12936019528457051981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 539,
+          "lat": 52.3942966,
+          "lng": -6.9461284,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ2zqL4o-3QkgRTd8yITn5hbM/photos/AV-0GLdRncPQdP-bZmVKRGmaic4yQXzqYQ9FnAK5lRof7755z4-za-UwY2prWLBgDAMMeRPWFixFV0MN4twkU5odxfqbD6eELmFY4MKzsgab3G2lWAdP0F45GWRJpWE38IgFcAs_m4aJZmPZRaIIqm_YxWi5cUWZAEpeZSVVyXOqikvFDv2vr6dCTH2fHNH5qiuc_Q4fweRmqUbK-QH-xrS1nrm95dQfwvtK7_wTOs06xzv4XGWEgqV88SkiF5sukZbvNdKviDbIhHkImvt3T-Zv5ILE0tNAwM29Xf6PlNIf7rpz2sIJ6wbl2KXIbPJf9_hVIZze4WEmP-Ze3LwnH_6w1jp45Kv9cPNfI85lMe9NvShk6mZDrxFrBoT5fbhJYrGGw44xw3pw_yx-vT0ZNrlP2BaoLGM/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Tomasz Kaminski",
+            "uri": "https://maps.google.com/maps/contrib/102930279542898522828"
+          },
+          "q": "SuperValu, The Quay, New Ross, Co. Wexford"
+        },
+        "duration": 652,
+        "distance": 10822,
+        "alts": [
+          {
+            "name": "Centra Mullinavat",
+            "duration": 876,
+            "distance": 12052
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1802,
+          "distance": 10241
+        }
+      }
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu New Ross",
+      "candidates": [
+        "SuperValu, The Quay, New Ross, Co. Wexford",
+        "Lidl, Ring Road, New Ross, Co. Wexford"
+      ],
+      "note": "New Ross, about 10 minutes via the N25.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-10-30T13:49:03.643Z",
+        "dest": {
+          "name": "SuperValu New Ross",
+          "address": "The Quay, New Ross, Co. Wexford, Y34 Y195",
+          "uri": "https://maps.google.com/?cid=12936019528457051981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 539,
+          "lat": 52.3942966,
+          "lng": -6.9461284,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ2zqL4o-3QkgRTd8yITn5hbM/photos/AV-0GLf1lQ_JIb0SAXhSotqdnLBB7Ln1G1GGAGpe4cze-5_Zc5qzV7EsaFjFaYnuYVcvggeA0zDdyGewqtasOO6wzDz27nRoTV0eko3N1XL0mqpmWfkeYhGTcBClBA1ukWyVw1My7hAi_9j2isDQDhvbG-kz97fvTyZv0IniDKAqkfEHbreabCuADID1ZEFrOp6D0bbH_8i7E01mQWrko_AMsrlwkJILEOwpkmC_M59DyXHBwE5XAYzkQg-O9hJW8XruOok_QFKPrgBDsgou8AAmyQRNlktSs53pT9cNlsZj78q8gUKKTwbuPOcuyOpfnWuwVc-OmqFie2WwSHUwCeWO3xLjbeiBHB_WcoD9my2aCXjsA95mFwLG15ymeqHasX3Zw2BxUxXcuGUX75LFqswpBTmLV7s/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Tomasz Kaminski",
+            "uri": "https://maps.google.com/maps/contrib/102930279542898522828"
+          },
+          "q": "SuperValu, The Quay, New Ross, Co. Wexford"
+        },
+        "duration": 679,
+        "distance": 10822,
+        "alts": [
+          {
+            "name": "Lidl",
+            "duration": 718,
+            "distance": 11442
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1802,
+          "distance": 10241
+        }
+      }
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "The Rising Sun, Mullinavat",
+      "candidates": [
+        "The Rising Sun, Mullinavat, Co. Kilkenny"
+      ],
+      "note": "Old pub and restaurant with all-day food and an à la carte menu (4.5 on OpenTable from few reviews). The Glen Bar in Glenmore is the parish pub; food not confirmed.",
+      "category": "Eating out",
+      "resolved": {
+        "at": "2026-10-30T13:49:03.643Z",
+        "dest": {
+          "name": "The Rising Sun Mullinavat",
+          "address": "Main Street, Garrandarragh, Mullinavat, Co. Kilkenny, X91 W5CC",
+          "uri": "https://maps.google.com/?cid=15873736061246279433&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 332,
+          "lat": 52.3708391,
+          "lng": -7.1718785,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ412pI3jGQkgRCY_kVNjWStw/photos/AV-0GLcjW8rsBMURVTg-tcA-fss1u16zgjYqOYsCNrOD17Iya6AE1mgDuXe3oPrPV94a2Ml4a-tAblt58_-S0PTlDpzGtqAZT1AKTDdD9yTldzyTPQAUyY7WGpyr9v64qwmESpMrkyWGwWGQ43ejLPjprlA8-Ps6RphJ-SaQ9R-1Jpb046lTd8K_65K3TIGyyD98ppmdrMOLA4q8kp02QHX7SbN-PQZMELm75CvWpEBqLWDcLfwcmvXFzYxe8p33BM1irwTnz9Qj4U5SFhBauYCsi6xT3XPH2ZXsbTIsOS7tnVbDQSEoOl0f37KOjkJXub0g28y6WzB0ewpONdHykioHBECsjwRwo6cwFvVSQbmuOn7rdyyqxDxb7bY11P6XpyJ3DeZVBYbJ7PgEAIpJx2RqvMNxAQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Brian Eck",
+            "uri": "https://maps.google.com/maps/contrib/117634235340740856668"
+          },
+          "q": "The Rising Sun, Mullinavat, Co. Kilkenny"
+        },
+        "duration": 915,
+        "distance": 12301,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2739,
+          "distance": 12301
+        }
+      }
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "University Hospital Waterford",
+      "candidates": [
+        "University Hospital Waterford, Dunmore Road, Waterford",
+        "St Luke's General Hospital, Kilkenny"
+      ],
+      "note": "24-hour ED for all ages and the regional hospital for the south-east; about 13 km straight-line, roughly 20–25 minutes. New Ross has no ED.",
+      "category": "Health",
+      "resolved": {
+        "at": "2026-10-30T13:49:03.643Z",
+        "dest": {
+          "name": "University Hospital Waterford",
+          "address": "Dunmore Rd, Ballynakill, Waterford, X91 ER8E",
+          "uri": "https://maps.google.com/?cid=18366841158015417398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.6,
+          "ratings": 433,
+          "lat": 52.2485059,
+          "lng": -7.0784959,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJlWiCpMbGQkgRNnyItbgg5P4/photos/AV-0GLduYdGL35RVR8PE4tKkzwHSzVGw6asMVLe2cDhtiOlueVRq5W17DiyLIWiNg9HvybUEvXFX0UDShQ2Bioc8IojAUtYuxRuaNwUknQSzA2vGMOvjPzhYC46LuipB8F04dgvU_VDDYEKFZk7-jmmBNLwB0xuWv0EYeC-85ckdGXPJHWGqpJ7Guv3DruoOx_XRDFFv_opAtv0Sw5P-8DPrApRjoONMgNmbq_aYEsD1vSiZIW8xhVShAI9paS3BJtNhZP108TpYdyb-fcPZ6IU1wotK_tM2VmZLh3sRVh9KbL2GA40a2qf7olipFfuZ-GMrLaNgrmymiF5DpEEFnOECdaeizJDOFxrycmAsKtSykjWv-cdPjFkanS-c0OOFN8dtVAdRMGWOm3KwPI9a9ckjZ1Zg79I/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Arty Okkas",
+            "uri": "https://maps.google.com/maps/contrib/118243143724239708496"
+          },
+          "q": "University Hospital Waterford, Dunmore Road, Waterford"
+        },
+        "duration": 1255,
+        "distance": 16583,
+        "alts": [
+          {
+            "name": "St. Luke's General Hospital",
+            "duration": 2593,
+            "distance": 48678
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 3392,
+          "distance": 17103
+        }
+      }
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "New Ross",
+      "candidates": [
+        "The Quay, New Ross, Co. Wexford"
+      ],
+      "note": "About 10 minutes via the N25 per the listing: supermarkets, GPs, pharmacies, secondary schools.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T13:49:03.643Z",
+        "dest": {
+          "name": "The Quay",
+          "address": "New Ross, Co. Wexford, Ireland",
+          "uri": "https://maps.google.com/?cid=3512089560662048623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 33,
+          "lat": 52.395019999999995,
+          "lng": -6.9460999999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJjzFry7m2QkgRb3-e-thyvTA/photos/AV-0GLdmJ8BAS-WzvozaI_-zJgRPJTymOzKqxDakhbdVv-JcM9bZGnX8g0us5RLehSS2op9Xqf1ygbYXIsIr9Z5hESNKyAqLrGr3ZKwYK4fpsD86-EHvFQC_ft6ipXDsTeFPMHpXYAp7Gh1HyC8oz1gKUIav2m7Wl47-3fA_PDCV8pPk0GPv-hirKCe40wB0R8TZzvY-_rtGmGGTCD4JrMLgrhd9JspfOCVWhAziUeU2B0uasCIRKnj5kgZxX91thKJ3IfuVnw0G2wQWcukivZpvErhQ2C0DIkRq9azl-RT_MiLus06Y6Tkdv_EhILPz1WqTeZ-dYEz1iBqAqkFYkfb4oQwRYWasWyu8afnoTLH8DUVBwyZOx6JerHZNRB0l3-OWVfqx5RT8gUumB89uOxj3tnrBIrpwK8g/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Rattigan",
+            "uri": "https://maps.google.com/maps/contrib/107923057208033236035"
+          },
+          "q": "The Quay, New Ross, Co. Wexford"
+        },
+        "duration": 766,
+        "distance": 11830,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1884,
+          "distance": 10169
+        }
+      }
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Waterford",
+      "candidates": [
+        "The Quay, Waterford",
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Waterford about 20 minutes via the N25; Kilkenny about 42 minutes per the listing.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T13:49:03.643Z",
+        "dest": {
+          "name": "Centra The Quay, Waterford",
+          "address": "42, The Quay, Waterford, Co. Waterford, X91 HEC1",
+          "uri": "https://maps.google.com/?cid=17464473494724779975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.4,
+          "ratings": 74,
+          "lat": 52.26260550000001,
+          "lng": -7.1142945,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJjWiaHZ3GQkgRx59L2hxGXvI/photos/AV-0GLfP9fgaX-yrAQ1t_oH1cVNyiuUEeD7BhKJjY_IxZY5nP6W_B4DHUyhrXcfUPgphD77CYeMi30FlujVVj2q0rlWqq5XG8DOm5--VuXJBziPSKmM__d643W7igmukJinvupyc0yVm5T7QmMHyebzQtbsSDExLa8goc5TvpOCyXxMYgWt_nUPZwVKwKkFqHx2Twx5bQU2g0YH95uk87386WiO4d14aJdN9scm3v-TF_LXUJUVmeee-5NA0c7MhCo3hjnNgHxxMlvYzxmJ3GLonig2R67YqI7zxsjYN9cpsPBBpGoSL2OUVZOgmnmlKHYY0papJzJSvTO3BD_Z3rowaVt9YlGOsNuD4n-u-cdbTMeoauxmKXlXv2dEP5Y3Wgy9elVJFw5-7AS8PeBbjW9PPpThAZuaYnSw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Gavin",
+            "uri": "https://maps.google.com/maps/contrib/117683194599824480524"
+          },
+          "q": "The Quay, Waterford"
+        },
+        "duration": 1099,
+        "distance": 13304,
+        "alts": [
+          {
+            "name": "Kilkenny Castle",
+            "duration": 2480,
+            "distance": 46486
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 2671,
+          "distance": 13868
+        }
+      }
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "About 2 hours by car via the M9 per the listing.",
+      "category": "Towns and cities",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-10-30T13:49:03.643Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLf4Zesc94izPzlv_tZSIajnS916LKZrs_lj5gQH38tv8PFHBBo5vrnMBIeuFCdGUaC6kS-Pyw5QogZL2OrqAtrKxBT-FNwp6WWnziPJJFFJs9mcFNQKUkxsEpWVY-KJ1ggte9gaJ2Iqc3hAw9KsztwYh1sFm0Meo6a6YUGU_ictfOB6R_a6Rx8TlUDyvr1SDxeD7pNlxCW3gM76QB9_JVXk9h-jiDnvFbx5Q1hqUXgwNs5Sjl3XiFoEg8H9Lhn2R8PIqvwTp8m_7TMCJN_j2Ox5SSbcRb2OOFuFmIR0jGGM2FdVAEm5sf_GI--bqFAOUgbVRdjLd7l7Q9z9nH6U_FXgBkGf4FEIn-9Jv35jE6uDTct6td03E8qYyUrh6SfdHUpmYyxMfBHzkpcAA0si9DzRHg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 7037,
+        "distance": 160827,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-10-30T13:49:03.643Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLdy63MoPuWLZODkers5RTASU4hj0IS0wwTbrZohTEg_xofxyGGk_H439Z2LCPO6OBUyZe0UVKg_IVOeOTJpD7yHvL5U5iPbrMTz1SILHX70d7NBGpa6Wl7fgN7AYGFkKB9Sl859Cez0Md-xcVgqTjbXI2qSFQthgncqisD3BkovjvJ0OxGZm_J3W75fRb19n7DMiCRYcRHF794nGTevmcyNzkZJGh6e_QhmptCNAfir163xitV_xp4-W6YX8AcNcH6jAXqW3a1SYC_RlrJaSSGQm5dVuQM_wKCSUfrfOtxoel63GKGvNWBJU0AwGbuG2fMHkMuTjLBt8RtNyc6NEQfl5gPfElMmz64jKIFnyl9wtCzoEOPzGKI8deW-i8uhBrlNvpPm63HIbMUK6XBZ0ismdSw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 6763,
+        "distance": 133012,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Waterford (Plunkett)",
+      "candidates": [
+        "Waterford Plunkett railway station, Waterford",
+        "Thomastown railway station, Co. Kilkenny"
+      ],
+      "note": "Waterford–Heuston line: about 7–8 trains a weekday, roughly 2 h to Heuston; about 20 minutes' drive.",
+      "category": "Getting away",
+      "day": "weekday",
+      "resolved": {
+        "at": "2026-10-30T13:49:03.643Z",
+        "dest": {
+          "name": "Waterford (Plunkett)",
+          "address": "Terminus St, Mountmisery, Co. Waterford",
+          "uri": "https://maps.google.com/?cid=17385997846691673041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 128,
+          "lat": 52.266391999999996,
+          "lng": -7.118137,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJy1UBhYLGQkgR0XPDNe14R_E/photos/AV-0GLfQU-JzA25O7rUS009VdjzZvsXHA57lWfbUAe-eJ8k0TSh77iBRE3xVuw7QRE8fToIijPHgNg3V0Z7j4L0Tpo2qWyBsjwDp09WYMvXxYw0y-LFHHUeGi8ZUTl8Ju5n2o5H1vVFH4xg2k7eSxBb5SIQChyZlccp1GEBM5J1VW6t1rMhW9LmXLgXjlveCBO2OXcr8MxBhMuEnU5GBlcN9NVtS27vAX0t1Vjsxcbrc5fq8aLQnOTS9yzEheCZ0kH-iyV9m48L6w1yJuwhQmlP9_tQldh0egUdPQEOdpOOQwvrqnRRwjqyVrDOkF8URv5N9DyBwAgCBf8F3YkB4xne7hJ60hpxIBf1nlZEaJS8XkeHlghqWKLT3XGVFfKR57Myk8cIvCtx0ZI6T-bauFlcDe9Or7A/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Daniel Playfair",
+            "uri": "https://maps.google.com/maps/contrib/112429137519922787901"
+          },
+          "q": "Waterford Plunkett railway station, Waterford"
+        },
+        "duration": 971,
+        "distance": 12634,
+        "alts": [
+          {
+            "name": "Thomastown",
+            "duration": 1933,
+            "distance": 25750
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 2530,
+          "distance": 13197
+        }
+      }
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away",
+      "day": "friday",
+      "resolved": {
+        "at": "2026-10-30T13:49:03.643Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42143,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLf3CSrN5PicpeXF3UcITOiCu3m5RNtTOt1OS8MEJpkRi5oroKWcqaJYg1wqvbh5_4MN5JNYNt5MgH8CrLt9vaX-b6qmzrHnuRX1UPGeW4xY94P1v_u5i9U_fnAZnlVdp0HD2RWm0190yXlHM7hq1QR9qVV644qHm27diMv9jns7X7zeMKX3I377i1xvCfRFHhnMJFNSjXm0_1S-M_VMz6TkTL5CKKMInMYqT8DlvVDShktnOQNNGfFqpHKvshx7jKWYiIx7sOowppldTaDF6JX14ox7N9zMsaxvTn8nLUmk5sDqdENXKUXWRpTS_Fmjg2-mf3ak_hDjKegJLaTGtEYSj9u6aAYF5UOBIF-AeFMEYAfz972MlltNvvUF3lYD-QirPgDsh_g9wAoiur9sGPwt2IbludE/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 7052,
+        "distance": 172065,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "id": "merino-drive-stoneyford",
+  "name": "5 Merino Drive",
+  "address": "5 Merino Drive, Stoneyford, Co. Kilkenny",
+  "eircode": "R95 H6F9",
+  "lat": 52.537238,
+  "lng": -7.227895,
+  "listingUrl": "https://www.daft.ie/for-sale/5-merino-drive-stoneyford-co-kilkenny/6700968",
+  "status": "Considering",
+  "added": "2026-10-30",
+  "area": "Stoneyford, Co. Kilkenny",
+  "agent": "Ciarán Dunphy, DNG Ella Dunphy, Kilkenny",
+  "agentEmail": "ciaran@dngelladunphy.com",
+  "agentPhone": "056 778 6000",
+  "questions": [
+    "The 189 m² on Daft includes the 59 m² garage, utility and store building; the floor plan gives the house itself as 130.1 m². Is that right, and how big is the site (our rough read of your aerial is about 0.1 ha / 0.27 ac)?",
+    "BuyerIQ says the house sits beside a mapped river flood zone (the King's River runs just north of the village). Has the house, garden or Merino Drive ever flooded, and is buildings insurance in place without a flood exclusion?",
+    "What is the central heating fuel and the boiler's age? The listing gives BER D1 (227 kWh/m²/yr) but only mentions the Stanley stove and an electric fire.",
+    "Are water and drainage on the public mains, and is the rear boundary next to the field secure enough for two dogs?",
+    "What is the 7.34 × 3.36 m store with reduced headroom built from (the roof looks like corrugated or translucent sheeting), and does the garage have power?"
+  ],
+  "ai": {
+    "stars": 2.5,
+    "why": "A turnkey single-storey five-bed at €395k in a walkable village 15 minutes from Kilkenny, with a wet room beside the parents' end. But the house itself is 130 m² (the 189 m² counts the garage), the bedrooms and common rooms are small for six, there are only two bathrooms, and it's on about a quarter-acre in the village with a neighbour close on one side and a flood zone beside it."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but the house is lived in and turnkey."
+    },
+    "water": {
+      "status": "likely",
+      "detail": "Likely mains: not stated, but it's a village-centre address in Stoneyford. Confirm with the agent."
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Likely mains sewer: not stated, but it's in the village; confirm the connection on survey."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Full fibre at the address per BuyerIQ ('Fast broadband — 387 Mb full fibre'); the listing doesn't mention broadband. Provider not confirmed; NBI's Thomastown deployment area names Stoneyford.",
+      "type": "Fibre",
+      "speed": "~387 Mb (full fibre)",
+      "provider": "NBI / open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "All single storey: the east wing has a 3.42 × 3.31 m bedroom and a 3.45 × 3.74 m bedroom off a small hall beside the kitchen, sharing a 3.20 × 2.40 m wet room with dual shower heads (from the floor plan)."
+  },
+  "price": 395000,
+  "type": "Detached bungalow",
+  "beds": 5,
+  "bedsNote": "All on one level, from about 8.2 m² (2.87 × 2.86 m) to 12.9 m² (3.45 × 3.74 m)",
+  "baths": 2,
+  "floorM2": 130,
+  "ber": "D1",
+  "berKwh": 227.07,
+  "heating": "Not stated; radiators, a Stanley wood-burning stove in the sitting room and an electric fire in the living room",
+  "listed": "2026-10-30",
+  "views": 80,
+  "stampDuty": 3950,
+  "tagline": "A turnkey, extended five-bed bungalow of 130 m² on a quarter-acre plot in Stoneyford village, with a garage block and a long mature rear garden, 15 minutes from Kilkenny.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/0/9/5038907/3e0fe897-d4f6-4a41-97ed-6daceff0ee6b_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/0/9/5038907/f946eb63-6349-493c-ac74-b8c3d5cf1cf9_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/0/9/5038907/75d5318e-4171-4e81-95f2-b58ec1a6f8cf_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/0/9/5038907/c752bb39-3698-4ec4-9238-0e67d0cc8444_x.png",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/0/9/5038907/6fdd927d-10f7-407e-a2a6-ad2c74873b57_x.png",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/0/9/5038907/db0bed06-4f76-44ec-b7ac-39c14b63c1bd_x.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/0/9/5038907/35e7983c-595b-453b-b0aa-4ec0a2c285e3_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/0/9/5038907/2e09df5d-e722-448d-adf8-4d344410621f_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/0/9/5038907/9e575c73-1e6c-43b0-94dc-e443dac16400_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€395k, well under the €500k line",
+      "weight": 3,
+      "detail": "About €3,040/m² of house (130 m²), or €2,087/m² on Daft's 189 m²; stamp duty about €3,950."
+    },
+    {
+      "text": "Single storey with a wet room for the parents",
+      "weight": 3,
+      "detail": "No stairs at all; two doubles in the east wing share a 3.20 × 2.40 m wet room with dual shower heads and a towel warmer."
+    },
+    {
+      "text": "Kilkenny about 15 minutes; St Luke's ED close",
+      "weight": 3,
+      "detail": "The listing says 15 minutes to Kilkenny city and 5 to the M9; St Luke's 24-hour ED, which takes children, is about 14 km straight-line."
+    },
+    {
+      "text": "Walkable village",
+      "weight": 2,
+      "detail": "Stoneyford NS is 540 m, a bus stop (TFI Local Link 891 to Kilkenny) 160 m, and the Londis is on Main Street, a short walk."
+    },
+    {
+      "text": "Turnkey, with a new-looking wet room",
+      "weight": 1,
+      "detail": "Lived-in and well kept: timber floors, a kitchen with a roof lantern, a Stanley stove and a recently fitted wet room."
+    },
+    {
+      "text": "Garage block and mature rear garden",
+      "weight": 1,
+      "detail": "A 4.72 × 5.00 m garage, a 2.17 × 4.80 m utility and a 7.34 × 3.36 m store (59 m² in all), a patio, and a lawned garden backing onto a field."
+    },
+    {
+      "text": "Full fibre",
+      "weight": 1,
+      "detail": "BuyerIQ shows 387 Mb full fibre at the address."
+    }
+  ],
+  "cons": [
+    {
+      "text": "House is 130 m², not 189 m²",
+      "weight": 3,
+      "detail": "The floor plan gives 130.1 m² for the house; Daft's 189 m² adds the 59.1 m² garage block. Common rooms are a 4.59 × 4.16 m kitchen, a 7.31 × 2.46 m living room and a 3.42 × 3.53 m sitting room, about 49 m² for six."
+    },
+    {
+      "text": "Village plot of about a quarter-acre",
+      "weight": 2,
+      "detail": "Rough read of the agent's aerial: about 44 × 25 m (≈0.1 ha / 0.27 ac). A house sits about 5–10 m away on the north side, with a car park and a large shed-roofed building across the road; only the east side opens to a field."
+    },
+    {
+      "text": "Two bathrooms for six",
+      "weight": 2,
+      "detail": "A 1.93 × 1.63 m main bathroom for the west-wing bedrooms and the wet room in the east wing; no en suites."
+    },
+    {
+      "text": "Small bedrooms",
+      "weight": 1,
+      "detail": "Two of the five are about 2.9 × 2.86 m (8.2–8.3 m²); the largest is 3.45 × 3.74 m. The living room is a long, narrow 2.46 m wide."
+    },
+    {
+      "text": "Beside a mapped flood zone",
+      "weight": 2,
+      "detail": "BuyerIQ flags 'moderate river (fluvial) flood risk' next to a mapped zone; the King's River runs less than 500 m north of the village. BuyerIQ also shows one locked 'critical' finding."
+    },
+    {
+      "text": "BER D1, heating fuel not stated",
+      "weight": 1,
+      "detail": "227 kWh/m²/yr. An insulation and heat-pump upgrade is a rough €30–50k before SEAI grants."
+    },
+    {
+      "text": "Average secondary nearby",
+      "weight": 1,
+      "detail": "Grennan College, Thomastown (DEIS) is about 6 km; Scoil Aireagail, Ballyhale (good progression) is about 6.6 km, and St Kieran's and Kilkenny College are about 12–13 km."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Scoil Chiaráin Naofa, Stoneyford",
+      "candidates": [
+        "Scoil Chiaráin Naofa, Stoneyford, Co. Kilkenny",
+        "Stoneyford National School, Stoneyford, Co. Kilkenny"
+      ],
+      "note": "Catholic, mixed, about 124–137 pupils, not DEIS, roll 17589K; 540 m by Daft's list.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed village school, not DEIS, with a steady roll of about 125–140 and an extension in 2019; a curriculum evaluation exists on gov.ie but the page returned 403 and couldn't be read."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Grennan College",
+      "candidates": [
+        "Grennan College, Ladywell Street, Thomastown, Co. Kilkenny"
+      ],
+      "note": "Mixed, about 310 pupils, ETB, DEIS, non-fee-paying; about 5.9 km straight-line in Thomastown.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "Small DEIS ETB school; an Oct 2023 subject inspection rated teaching 'good, with some very good practice', but no published progression figure was found."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Scoil Aireagail, Ballyhale",
+      "candidates": [
+        "Scoil Aireagail, Ballyhale, Co. Kilkenny"
+      ],
+      "note": "Mixed, about 200 pupils, KCETB, non-fee-paying; about 6.6 km. St Kieran's (boys) and Kilkenny College (mixed) in Kilkenny city, about 12–13 km, are the Strong options.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Small ETB school with historically very high progression rates in KCLR's roundups of the feeder tables."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Londis Stoneyford",
+      "candidates": [
+        "Londis Walshe & Long, Main Street, Stoneyford, Co. Kilkenny",
+        "Londis, Stoneyford, Co. Kilkenny"
+      ],
+      "note": "The village's food store on Main Street, a short walk.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Thomastown",
+      "candidates": [
+        "SuperValu, Dublin Road, Thomastown, Co. Kilkenny",
+        "Lidl, Logan Street, Thomastown, Co. Kilkenny",
+        "Dunnes Stores, MacDonagh Junction, Kilkenny"
+      ],
+      "note": "SuperValu and Lidl in Thomastown, about 6 km, or Kilkenny city's supermarkets.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "The Hound, Mount Juliet",
+      "candidates": [
+        "The Hound, Mount Juliet Estate, Thomastown, Co. Kilkenny",
+        "Lady Helen, Mount Juliet Estate, Thomastown, Co. Kilkenny"
+      ],
+      "note": "Mount Juliet's casual restaurant, or Lady Helen (Michelin star) for occasions; Malzards in the village is a pub first.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "St Luke's General Hospital",
+      "candidates": [
+        "St Luke's General Hospital, Kilkenny",
+        "University Hospital Waterford"
+      ],
+      "note": "St Luke's, Kilkenny: 24-hour ED for all ages, about 14 km straight-line.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Thomastown",
+      "candidates": [
+        "Market Street, Thomastown, Co. Kilkenny"
+      ],
+      "note": "Thomastown, about 6 km: pharmacies, GP, cafés and the train station.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "The Quay, Waterford"
+      ],
+      "note": "Kilkenny city, about 15 minutes per the listing; Waterford is the alternative.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car via the M9, about 5 minutes to the motorway per the listing. The train from Thomastown or Kilkenny is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Thomastown",
+      "candidates": [
+        "Thomastown railway station",
+        "Kilkenny MacDonagh railway station"
+      ],
+      "note": "Waterford–Heuston line, 5.6 km away: about 7–8 trains a weekday, about 1h50 to Heuston.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

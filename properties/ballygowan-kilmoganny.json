@@ -165,7 +165,7 @@
         }
       },
       "resolved": {
-        "at": "2026-10-30T00:55:20.047Z",
+        "at": "2026-10-30T13:49:46.736Z",
         "dest": {
           "name": "Saint Eoghan's National School",
           "address": "Saint Eoghan's National School, Cottrellstown, Kilmoganny, Co. Kilkenny",
@@ -206,7 +206,7 @@
       "kind": "Secondary school",
       "title": "Edmund Rice Secondary School, Carrick-on-Suir",
       "candidates": [
-        "Edmund Rice Secondary School, Carrick-on-Suir, Co. Tipperary",
+        "Edmund Rice Secondary School, Pill Road, Carrick-on-Suir, Co. Tipperary",
         "Comeragh College, Carrick-on-Suir, Co. Tipperary"
       ],
       "note": "Edmund Rice is boys only (~316, roll 65270U, not DEIS), Daft gives 10.5 km; Comeragh College (mixed) is 10.7 km. Scoil Mhuire Carrick is girls only.",
@@ -216,22 +216,22 @@
         "basis": "No progression figure found for Edmund Rice; Comeragh College showed 45% of 55 in an undated Tipperary Live feeder table."
       },
       "resolved": {
-        "at": "2026-10-30T00:55:20.047Z",
+        "at": "2026-10-30T13:49:46.736Z",
         "dest": {
-          "name": "St Marys CBS National School",
-          "address": "John St, Townparks, Carrick On Suir, Co. Tipperary",
-          "uri": "https://maps.google.com/?cid=11979983783623411395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "name": "Comeragh College",
+          "address": "Tinvane, Carrick-on-Suir, Co. Tipperary",
+          "uri": "https://maps.google.com/?cid=17316640867786919815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
           "rating": null,
           "ratings": 0,
-          "lat": 52.3497694,
-          "lng": -7.4148648999999995,
+          "lat": 52.352165899999996,
+          "lng": -7.3880241999999985,
           "how": "named",
           "photo": null,
           "credit": null,
-          "q": "Edmund Rice Secondary School, Carrick-on-Suir, Co. Tipperary"
+          "q": "Edmund Rice Secondary School, Pill Road, Carrick-on-Suir, Co. Tipperary"
         },
-        "duration": 995,
-        "distance": 13228,
+        "duration": 1043,
+        "distance": 14090,
         "alts": [
           {
             "name": "Comeragh College",
@@ -241,8 +241,8 @@
         ],
         "walk": null,
         "bike": {
-          "duration": 2255,
-          "distance": 12526
+          "duration": 2376,
+          "distance": 13663
         }
       }
     },
@@ -263,7 +263,7 @@
         "basis": "100% progression to third level in the 2023 feeder-school report (Kilkenny People/Irish Independent); large, non-fee-paying, not DEIS."
       },
       "resolved": {
-        "at": "2026-10-30T00:55:20.047Z",
+        "at": "2026-10-30T13:49:46.736Z",
         "dest": {
           "name": "St. Kieran's College",
           "address": "College Green, College Rd, Walkinslough, Kilkenny",
@@ -273,15 +273,15 @@
           "lat": 52.64697950000001,
           "lng": -7.255331799999999,
           "how": "named",
-          "photo": "https://places.googleapis.com/v1/places/ChIJnRVndJswXUgROSEySIA6phA/photos/AV-0GLd_ntjDd8isd57CDkArBgUPZyevpb7Kc0gGsusGGN1Iv7zUz06BjN-rNWEUMcguJ5SwRX52PyS06AyD1uU0tStEamnvdHENUxsZPtWYMNLiRpXkNMgVMIGiV4oS5MHET1DOpjDJY5n-axD3ts5me4v3Wnw62nTlhJTboisn7fuK4wX8xkhPpN4Wj5zwxNfeSrHMP66c96RmWyAZvD2I5s8s-9kx6ECpwf486uYJtCkwwR5UkzBCFGYj_ZT_441U-eJJrhzfPTgZL20CexslWoyJ-d8t0-9pERMK8O4lXuG1Ak6Eg9LNOSKr-vOFCFxymTu653D1Zo2ADjBF8aLsVx36kDfAkJ7Q1z_2PRd2q6uxtwxHq9vlbYexZd8_zHcGMUcfidYtONlNZCZMmg4M7iVDYMRR/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "photo": "https://places.googleapis.com/v1/places/ChIJnRVndJswXUgROSEySIA6phA/photos/AV-0GLfYnWVlwDNBM5jhLhW126nZzh14OCQMm--bwp1WCPOD8OqyzX_JpaGVSo-HJcjUaNQyMF4YfWDm50RIu0qaOOMG7jpN1jpqBkQWCbgKu_zI4Y33cp6Lmo0YY5ApeMeHcFzd_B-V-1g6XiXRraKLOR7iwkuFkx2r0GGMlIgdvxa6JYcuSwFvhcEYtUxkX2ylEBBl-J1WLxpPdMb_fZi6zztsZMZVtcDdBqeB9d05TmLGNFKpQ-81X3_EPvUn5rXMlsc6OtNvshFApra-oBfCV_0GgMQGHoIsVzI-1cd2r3BR65T0kIFKGm4Ps-NKj1z9UMZ_EJYsqzY3bi0s176h9BjQayXmhnvxPEFNny-ogenJfIRW710YGheVrsS633jv9oiYlftbGvuU8YTDwRMeIHb_BNEh/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
           "credit": {
             "name": "Janosch B",
             "uri": "https://maps.google.com/maps/contrib/118371292697107220582"
           },
           "q": "St Kieran's College, College Road, Kilkenny"
         },
-        "duration": 1706,
-        "distance": 29470,
+        "duration": 1835,
+        "distance": 28333,
         "alts": [],
         "walk": null,
         "bike": null
@@ -311,7 +311,7 @@
         }
       },
       "resolved": {
-        "at": "2026-10-30T00:55:20.047Z",
+        "at": "2026-10-30T13:49:46.736Z",
         "dest": {
           "name": "Pete’s Shop",
           "address": "Kilmaganny, Kilmoganny, Co. Kilkenny, R95 D589",
@@ -321,7 +321,7 @@
           "lat": 52.461548799999996,
           "lng": -7.328418,
           "how": "named",
-          "photo": "https://places.googleapis.com/v1/places/ChIJz_4jw9vSQkgRbYN5tPghjhc/photos/AV-0GLeE7g6cecVqRR_7ed-jXqp-FLuca0edIqgwePS5s7vBm4sl40MqKY1NUisCxvnWJzH6doC7vPQSfLrStaxNopmRR0I4ZV75IteyRehPxymIIfoqfwOEAhGB7-SKREXkuvITonC2QRzz-bBH9e-aQZPw6ZwghpYWW0GA6vNuZVXyIOZJYK5d--sk03wzThOwxkzp-8MGkiNvr310sg1KoA6hN7E-n7lfy4d7nsoqLjLsGAm-sLCQ-Ozz2BQnfrPtW3KpM7-qoaXavC46Dg29r3Q5dYuqy7LijSitmURu4aKzWH8dWicHtDb9IfyGWOYKAW91T4tMcx7uDCpvwBQfCMPPnj6QAU_4fWHfylPR7BSnmnIhQtFXKXdA-CeBJwATvSdcPcXPxFgcI_4Bs08NE6XnNIs/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "photo": "https://places.googleapis.com/v1/places/ChIJz_4jw9vSQkgRbYN5tPghjhc/photos/AV-0GLcac10k_fZ_XAvEfMt7Apr3sZQwIhUADWNJL2stene4EE43PaQr3Dtt4YrAScyUuyfibGasnlSK0kcOyR09rbqP4iI48p8qB5nj8SGmKFwIiOsci1QVc4MBUx6QLh0EB6goUY2-nt7AVPeyotuHXjxxel94PwhM4mneygmj4iEaGxVqQs1el2HIezSkHaKd0XnhfqruCLDfOziWudyZvb6lvzZhext0amTAwLF56BmhpZpn2bXwkof8skFWqAX2u5pBNficF-WfsYcj7pqRuYBBC5lQD51EPAndr04jPvT24GqTTiAi4yX14QbMs3sPMBSCWNtSfVmMkwhcc1M96JBNZQyAJUAc75lGGwRZZ4o0vp-n0UY-SsOmQOY_bFQDcAydg2IdJ9_3sAQl7G73zUrv3mw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
           "credit": {
             "name": "Ashleigh Baxter-Loubser",
             "uri": "https://maps.google.com/maps/contrib/109746715266539055936"
@@ -362,7 +362,7 @@
       "note": "Carrick-on-Suir, about 11 km south-west, has SuperValu, Aldi and Lidl.",
       "category": "Groceries",
       "resolved": {
-        "at": "2026-10-30T00:55:20.047Z",
+        "at": "2026-10-30T13:49:46.736Z",
         "dest": {
           "name": "ALDI",
           "address": "Waterford Road, Tinvane, Carrick-on-Suir, Co. Tipperary, E32 ED70",
@@ -372,7 +372,7 @@
           "lat": 52.352,
           "lng": -7.39265,
           "how": "named",
-          "photo": "https://places.googleapis.com/v1/places/ChIJZwazdQLXQkgR7HVI2gR_vSE/photos/AV-0GLdAjEcM9CLGURjd8w9K0UNqnOkCnV3XNKZkuCwdvxDMdN2jOmL-oIa0f2TIEOreirEirW8v_k1i9YxzoG43W0oR_kQb2b_Wsld6Vrnz4wkDxbT8r06XLXy-7-Lzbn5xISGKodlNx6F9rOnWUGaqTE8seEoEwnEEPF1p6cQ-JwOtAmX-x4BjO9SE97exxjNQe7gXNiQvL1bHy1VgtO7lPjg6FZ79NExqzdzLJNe8AQmX-aG-W1-DCvTa9Gyrbv6GO8nVclrbsnhEYKyC3yzY3ujr-edb61JGP-7TYr4wPGq_rMIdV9OLMIYsUEzVMf7H491vrq1TJbKyiqUE6n7O8KzbPE7Q3DRWXu4mEWzLaT6IqhCw34pmoUAJTyQECVySvBleWz5UZwPJWjvQ3GQkEYylUts/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "photo": "https://places.googleapis.com/v1/places/ChIJZwazdQLXQkgR7HVI2gR_vSE/photos/AV-0GLc03Yoa3xtYZ7b3S3xwFoF4WxT7bWN4yt0i-paBG1DFYO69QqRjLxSZLLVHxvLzR6DFrxhQwin0HsbZwPTuz-1Cq-nqib4O7US7BNx5qAa3JIke-UqQkSq5tTfq_eDrpYi7H3iTyk6tDbhhIk9J6BoWs5cyYZoaccgDhppvb8hUNzZwbi7Nciy2XH2-WCRyQSREj2sh3t2ALkel0pbPDpqWEOSxAjR4VfDB7QomrM8SK43Zmb7chpmIuh7k3qn469rWBMBVak7bM57gkzBSE9lDIck03OCj35wrXygqE9h1Cc2CSqdxD-88_OhVppf-6oUl13maDOeKGQarrgokSPszxI7KfiqGCIuaaDy8Qol1jgsL3wLr4p3elwVsa2FDVJHLZaQYnhHzIwI5RUTv0jQV7Sk/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
           "credit": {
             "name": "Ella Power",
             "uri": "https://maps.google.com/maps/contrib/108718491893497879113"
@@ -425,7 +425,7 @@
         }
       },
       "resolved": {
-        "at": "2026-10-30T00:55:20.047Z",
+        "at": "2026-10-30T13:49:46.736Z",
         "dest": {
           "name": "Kilkieran Cottage",
           "address": "Skough (near Owning, Castletown, Piltown, Co. Kilkenny, E32 N832",
@@ -435,15 +435,15 @@
           "lat": 52.3983296,
           "lng": -7.3787182,
           "how": "named",
-          "photo": "https://places.googleapis.com/v1/places/ChIJ2YdR0wfUQkgRcbODe-ZF83w/photos/AV-0GLd5vLE_YkA97X9g9b3dkU354hLPVpKLSDb96bJH2tyhDbLo5PzsvDOKnGqp3NxUk0t73UbpnXOQaw1YQQYeOmtJM9VWKYcejUBd4uPyHG7OOnKR4qvz1gbi4P2-NLxz6bXHFc40nRN9QeOHtkBENZ_CikQpWDrO22L2zee0HRJtUtn_iZFnSLWYJEaFqrRpLUVwY7Hr9D7citI9LbuIz7STNVOjxjRSPb5Vdduka1qq2ow9P1Ib0qSoKiSIyKNhTrw16wH0ACS1iGL1uBb7NRyZPa60iFVc2z-A7rH_GSDNZPDFHdJY35sK36H_uDDpoJamFai20n7wdiDhqr_RQ53RtiK9CS6Irikl58b6MsVWOj7y7mEhlI1kHXyVyks5i6FqDpfQjuZ1Zv5r_tGVcmVPk6Q/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ2YdR0wfUQkgRcbODe-ZF83w/photos/AV-0GLcD3mfPERdwLtGa85AF7gS2878gTUs5lc4JwVfU78suE5FLN8Dn_CkAepS5uKNg4wTDSXDlWWWjdGgwJcRvnKbdlRvfjLu_hhFQcSl3hiQRlAZ5nFjsC8L-HgVLBebdVZY50LT5P9DMrdsegiRfASZmPR7VQuRFwikkfmI6yTFMjXEUDHvKfDzmbUuuhlDiNx1bdmx-KyNLpwaPIPI2NXiS5NHi2t4zjHrj_TT_eU5ZVDaZKa-abhAPjIsaLi-gnqbaJmgVZbaux7-asD8ElgwmVbbGAH_AiAdVWV36O8efhGKl-dNPciAX_DeUgEOskBgly0A_ATRB7TAl68IoO3EDEEd-gYRqYlx6xG-X5ucWKVhM2HmldjU6Cj6bOO-bHYcf3B1KctH7gBv68JguerZ5eTE/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
           "credit": {
             "name": "Kilkieran Cottage",
             "uri": "https://maps.google.com/maps/contrib/112786006456956091379"
           },
           "q": "Kilkieran Cottage Restaurant, Castletown, Carrick-on-Suir"
         },
-        "duration": 580,
-        "distance": 7127,
+        "duration": 557,
+        "distance": 6187,
         "alts": [
           {
             "name": "The Carraig Hotel",
@@ -476,7 +476,7 @@
       "note": "All three are all-ages 24-hour EDs about 25–27 km straight-line; the page keeps the fastest drive.",
       "category": "Health",
       "resolved": {
-        "at": "2026-10-30T00:55:20.047Z",
+        "at": "2026-10-30T13:49:46.736Z",
         "dest": {
           "name": "St. Luke's General Hospital",
           "address": "Freshford Rd, Jamespark, Kilkenny, R95 FY71",
@@ -486,7 +486,7 @@
           "lat": 52.6665445,
           "lng": -7.2622519,
           "how": "named",
-          "photo": "https://places.googleapis.com/v1/places/ChIJ8zBZn286XUgR5f1EIpXORrQ/photos/AV-0GLfz4fIQ4Holna9LhAotdQTZfIcyaD6zJwUIPArGg32ZcB4S6mG9RwZ8TiVxkWHcK_8AewcEfi7i61_zQvRTwPs-o2aNj0MbPmBtTTbF-ZKTQm3Vli4RMh-Jpgc4NpUFgTWX1ONCdIdzecRQZMQb-vs4PvKQNkH4CAMwPe_tT_YUuu2CPbh49I_i29yVzH94yZY7jqkj1y3VMORg2HdrW5ptWf_LW5bdyfxtiqcq3eT-cCWZ5Ow0q6QDY95K07PycMCpMB-zHZBwsCLIjEQSzTgh7h8163Kj8zNDh0kjC5lXfVc8C7ITWQTOypmJxueBlCSe63Y1PUhpDYc71qY3BjzrFdBPYA9LU8T1tRHD9c8FhovRF4Ocln68ZRPLityfe3i2Vzm3dwQI5UwtTPMUmShzNPA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8zBZn286XUgR5f1EIpXORrQ/photos/AV-0GLdjvTzdin4jB7htpQsmgcNuBs3Xon6bAp6A6hLhweubus098YKgYB8zXXa8ls-8rKKBUv9IRoxlz-8bEtP26XpcfyXeWk3spCykXuRqG6fGPP2mh4a7eXnE8sblX-MvBd3AUUgoT0TaMBPZwoPHTU0xDF-gH4d4OoD9M5yXQ_B4Bi8_-BrFF2BW5BRQnE3_oCSCP_aEDScb1SM_JB5oO7th2cqxbuGsSWloZlAkkkYA9dhFnbwHHj8Ahk3Kdrglz2-67OLiH2J91pdGOlxattgM3rFrdEux_ODfbGmX_5mQvgZkxK8LD_1RjXB8ZQZdtbwILTDLpWAZDrOu1D9anxWgoSyRHZ9pIN4BHB86vZ-yW-s-hpke_y5Zpl_8xO4qfcFk-xZ9ssiTzORUWdIDWAXbzeI/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
           "credit": {
             "name": "Damo Collier",
             "uri": "https://maps.google.com/maps/contrib/106838707088067428534"
@@ -524,7 +524,7 @@
       "note": "Carrick-on-Suir (~11 km): supermarkets, pharmacies, secondaries. Callan (~13 km) is the Kilkenny-side alternative.",
       "category": "Towns and cities",
       "resolved": {
-        "at": "2026-10-30T00:55:20.047Z",
+        "at": "2026-10-30T13:49:46.736Z",
         "dest": {
           "name": "Main Street",
           "address": "Main St, Townparks, Carrick-on-Suir, Co. Tipperary",
@@ -562,7 +562,7 @@
       "note": "The listing gives Kilkenny about 24 km and Waterford about 26 km from Kilmoganny.",
       "category": "Towns and cities",
       "resolved": {
-        "at": "2026-10-30T00:55:20.047Z",
+        "at": "2026-10-30T13:49:46.736Z",
         "dest": {
           "name": "Kilkenny Castle",
           "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
@@ -572,7 +572,7 @@
           "lat": 52.6504632,
           "lng": -7.249297400000001,
           "how": "named",
-          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLdW3TMlxAAC0eJ9RCkpq5ksPToSQ0cqqu5A62WL0hphXc41xU1jgPY9hOzObpzH4CZ6fjuSGhYuPUSjdQeqFsvjdnmyYG1jNKiU5Z4MQ4dccng_iOfiK7K8K2wcvs6ahdUu0wg-D2k5R4HgQ0fIZQIg3038osIBAw7o3v3P9As9Nl1J8JtC50wNY3x0fJqCmPeCoNms2fbKyEVWDBNU2y3ZIRe8E0RYqcULTtUlheH3MUZO_aVAatfnfkrdtDcyATy5izX6eBrL-kUGdEH3nRjCMfWeswmcmIojTx9P_Tc0VUb7a-Lkl00SSlvWepUdbnYWI00a66fu4yP4DlZXu1B35OQ-zlM86rQ2CTLXkKJ-827FzwnOKi04I5n4ggyWlMxEi_E58sYhbKNNyOnvGFLp_8L5/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLdSHkfMo9Vg2wAgYyKlCmPNCa38ok1cqY-4-5aovf3Aqezqv4nqB7TzPDstC_mhquGytrEaVHiWlQsplbfwmPR605T4HQrrewKWlNibbTMBvi6d-IXIJlC_-E20ezDp2X9qvhUMjhUdtmuUFvhTkrptZAl4hzL0W9Eo50J6cDRQxiwUL78Q9DK1TP8eBRxHiLE2y0aUpMUH9xqhr5sVY03Q8nsvmPdqJu43WFu-RTeacLkVWOGlh1yqfFbG2v_OIBVdIgs5kV61PN_tBr02P0ni2Cw5V_g1LOS3o6tAJwGVJObhNV_tGtsKgZaQjf3-cgbci3dfTloCWPvGAX6gQ8YjsT76ZiSkwLJ2sQ66nxmko1YQyOmlssnR7WBGOpH3FtVTfg3fDx0C7GRf4xrUo8nO65gA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
           "credit": {
             "name": "lahari anandur",
             "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
@@ -583,9 +583,9 @@
         "distance": 29291,
         "alts": [
           {
-            "name": "The Quay",
-            "duration": 3389,
-            "distance": 43995
+            "name": "Centra The Quay, Waterford",
+            "duration": 2030,
+            "distance": 39729
           }
         ],
         "walk": null,
@@ -606,7 +606,7 @@
       "note": "City centre by car via the M9 (about 10 minutes away per the listing). The train from Thomastown is the other way in.",
       "category": "Towns and cities",
       "resolved": {
-        "at": "2026-10-30T00:55:20.047Z",
+        "at": "2026-10-30T13:49:46.736Z",
         "dest": {
           "name": "Saint Stephen's Green",
           "address": "St Stephen's Green, Dublin",
@@ -616,7 +616,7 @@
           "lat": 53.3369532,
           "lng": -6.259999,
           "how": "named",
-          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLfoxEN4jqZsWPIOdGk8M4Pw3Shx13YH34MYXULG7ph62A4c8e-GF4cVRzT95y_aedXS8oUTn6TnxnN66OQaI4cGwKDT_uYv-Ng7lhcPzLJCuuQC76PJeNKJBhT-CVX9NVILIlHFxMgxrupOEiFWFXoxQS4lIHh-N5Ma88N_ykV-mUyZGlL5VtihCc3HtCdacDfmWyZmt6MT5gScE64MZXaHEsrl-b9DQD4kBoxHHTruG3gn7paNHpBVqEwUgXEONnk6DSk4ABATHJUI34kOD5dJaYyxcmRyrF1uTE4NUBy2mKMx7PSFIlr1CVz_11ciSvgr3fSnBXiHbeMhRN8psjNMxRCAwwDCjLGKYFb8_lSjr7Pg_bLI_QJCXi7LqI3OsSX1_lapy2mp7KCDJSiIAbGORA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLeq4hUuJg8RQmwwDxYMglD20aLLCegfLqOoPQpfB44_QI58n-IWM2nNUU0ZGzXLMTxvOm_mzhUDfSg-bbTZ4CJBswWoj7oU7PE0ea4fsGTXXDHu06KDsmkHogGoWwEiLFwce5B1iNdT_ft-wwD3i6zGSvnsH0Is_Uw1i4O-kAH-C2Qli9jXqTOXQjAB21FdXU2ZCOCwLLegBWOvqbvy0pTmvd2b6Pwk-mPEcp0HzwS_x-02whupnx74gBRFD2xGJW9SM84TMD9Zk9M0GvVLC6tbBU9xq9btMHeFaWLJaD1XJfqeQsV216s_VGwbnSAbXqUegGlRAAbRBrx8LlqYhuRtnoKEIRse_CPff58GKMUtEG5DXL937ZDkPO-iz7f_7NtbAT1myEKKwWrhiSIk68449Q/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
           "credit": {
             "name": "gary xing",
             "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
@@ -644,7 +644,7 @@
       "note": "",
       "category": "Towns and cities",
       "resolved": {
-        "at": "2026-10-30T00:55:20.047Z",
+        "at": "2026-10-30T13:49:46.736Z",
         "dest": {
           "name": "The English Market",
           "address": "Grand Parade, Centre, Cork",
@@ -654,7 +654,7 @@
           "lat": 51.8976635,
           "lng": -8.4750684,
           "how": "named",
-          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLf-c2c-8Vugq9fVuGfieC5MN_kacwzi5hdvy0XdeQALSNz_YhBGGSvOTqI6jF0ArrvXd_hKyw35CXJnPUdIzf-j0lhrI9ghCIto3M6ln-CfDyBQ8zpiLocEnayAh5QOR1rKZzWRo6u8LXdhNgL4vEyh3l1A3K53ntyQpWY_jH7D1Lz91Zl_1ov191M3lSaYhxtErIIUHw1EfmEMBDi_hHPdrxOI5lsl_3wAMQr6AaFI0x89O9vH51IiXYlU9R5KIikO4cnrfyQLbeaHPueLLbY-IoG8Ph16wskZi5RyGPwz3HsqCmucAcRIN1tMcO2HH562sBOXNJs_YObH5Mo7Cob8qjXIdDpWOoaOG1jS1HzMg2tHVYOB3eXMf5bNWluSb_eMd3Pg0FZcj5oa5TabgQ7BT5o/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLeG0w0ynQitdQ1wRhUWQa9AnGaCAJMzWoeUCnv66kqV8aI9h6mwkOkuOOia0YDy_onIhETlNpzCi66OY0YGWRypLzJ2YT5Wsg1aAu7R26r5frGTAilvgOf0-2-QzpNmvcT5dbQDUw260th38dYKxAqnWFZ215DwWGMUF0-x3dhe1J9S7xTc3OYVGS1S3OX-38Y4SqISbiv0xIEMnYZDw4Za0WBZjOoYDJfs6lnLHIiC2JtBX42rbnDZ2A2krfouNIOkNah-PscOvUwYVdm0rq3wEwEa2cVvF1tjuMlUQzNd4b8eg-kxpzDVyqJYU8LCoTubQpmZaQXz4Oh6ldIWPm4_H0PJ4coKCFUmUtW1BV1DvI-ydHhXsWdA00-IpTsRhu_IjENMzjUYTGY10vH4eeiZd04/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
           "credit": {
             "name": "Abdallah Abu Ghalyoun",
             "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
@@ -683,7 +683,7 @@
       "note": "Waterford–Heuston line: about 7 trains a weekday from Thomastown (06:16 and 08:11 among them), roughly 1h50–1h55 to Heuston; Kilkenny is on the same line.",
       "category": "Getting away",
       "resolved": {
-        "at": "2026-10-30T00:55:20.047Z",
+        "at": "2026-10-30T13:49:46.736Z",
         "dest": {
           "name": "Thomastown",
           "address": "Newtown, Kilkenny",
@@ -693,7 +693,7 @@
           "lat": 52.523140299999994,
           "lng": -7.1490187999999995,
           "how": "named",
-          "photo": "https://places.googleapis.com/v1/places/ChIJQTSha_E0XUgRLvnut8qLlFs/photos/AV-0GLc4VSdNMrikxBwDGpnSPuIhXt_lhW3yqzITprToXz96K5lNN2-p2mufomYnn_tMcdO2lwVa9EiU-ModV0cT-AomAGMfEMrF1A914c60NnFiDnfaaoVf5vUdx_d43VU8bbww6ZGA_fxGeJu1QLhKXVilhLEb51EcTSB1e3YDF706b4DjqUT1rWGODMHn13KXSBZN60Gi2p4KRP5eUcO2U27xgTmfKkrAPrnwNdIYAnEh3-HY3rLhGTZd6PiEKHemCpeEZVvUkiyRuSf4e6Yh_g87MOFhs9qxfHkhxkjHnOL0wob7T3__RshEf8Hqc5r6rpntIKYHnALrOCXCjulgZDQlOzYtFYTLZwMc8ljs-gFDyn1DpDRAe_sCDBJPIfOjlxrqBlOjC8xRxs2PFc728_Z8LK3GE_tDhL9xP0FBadY0/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "photo": "https://places.googleapis.com/v1/places/ChIJQTSha_E0XUgRLvnut8qLlFs/photos/AV-0GLdNJAzIzz43ZCgpkEu_3XEAG_u9iyfXti4BKi-3XqzlF2egwitOanE8vkJwnM3YM5oAnXHIjMoxa7zsj69_hIw7p90BHkRMigOp8NhCueQpWpQzJ7TWJnPXSXYHRGc94JvSVza8fVX2KF2cjLCzg_ZOSI1LPbs9_URubP3zPr0j6dFDEXJ2OaeYh-Cdr_BBMOvJRwuF-ua2jvV85UKXR6LPmpIwOMkZ8mwo1uojbws9bPZAbACYzXpXQR1iWq65Wvd-cfgBWqhIwTD_G-uOdpBw7THz9yRAvMmOAk9C1byyvUUuIYYALOICv5cmofpEv1wpDRkYNoKHYUSccaSXBRqpniM9KExcl5kdd1TlfmWZblxk6STpLXi0rCNX8bwFvDXcrNXIos2lFJwi8SV6AbAK7qp88x0Dc9vyXokxzGko/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
           "credit": {
             "name": "Reg Cooper",
             "uri": "https://maps.google.com/maps/contrib/112328272046854410660"
@@ -727,17 +727,17 @@
       "note": "The trip you and your parents will make most.",
       "category": "Getting away",
       "resolved": {
-        "at": "2026-10-30T00:55:20.047Z",
+        "at": "2026-10-30T13:49:46.736Z",
         "dest": {
           "name": "Dublin Airport",
           "address": "Dublin",
           "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
           "rating": 4.1,
-          "ratings": 42131,
+          "ratings": 42143,
           "lat": 53.425632,
           "lng": -6.257375499999999,
           "how": "named",
-          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLdrNFHIvQaPADSNhTb6fspKQ5Ti1uiF5vqZACYyb4JSoGfBmCUh4L-Gyi4WiiLAgiDmt8r69KDsHKCGGvlZ7d21sjsjjkXa8QG4AzbX7AW9-7W4cK1HTwKoBmOxvWa-UdJrXjSj_dwFHB5C5UTAh-lGTdAExzjoTYvImGPQFzVr9-UlGH9xS8QesUVOKltBjEpu57bqTL7NSymLRSS0LXJx16206bzBFujlyI5Ji09YpUervtSnjshp_0rX-lRdiyRQRKY8B1Di2VUECzFogWP8ImW2ZuXJzPdZcBLzBQnXUBWCDyhoQ7sI7384vE7AYbALH2P-p65UJcjzWc5rZMDK9AdB6RrGoFkxUYmj90cpv9BHQrCj5VD0pMtuVzI2qxIyiaYzzmrMO4Kqs4zEpVNpvdMRDSw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLeUK8jhlOIIh3Xyt4x8cc7vOepZhAKQbiyPtK9pMrEk574SjN6vp8AIEZkzycw_xWw4AlGt-owsWGvY_oO0xSoXmjPGZpOEULTQZS6aMGBz2V2zk6bbf0Cvd4CBEhmlISS7E_wfn_DvTC0oiJM_XDkJVYp05RKEZezb09lH2dWMHMrZVkyca-XbrtKxgY0RKZHrfSrtJWMl-MOixlojS12FjjkYS6jnQRO9GHIUfMMd6TKR-ig_CE6ng8G7rgsArXzYOTodYgMCesrWHiF2se1w42OUsJdfdvLRtXO7Nrjl2q0RqGGOCieaSgGmytygX05OtpYjPFxdNhBrR4VVhiA2cvMhipu0WlG9ZT1mNikk95UBOT37TKs0ou6xrnFyqJdMkYHB7VZiWKqmuvFGSUFZ4wgsfuw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
           "credit": {
             "name": "Stephen Cassidy",
             "uri": "https://maps.google.com/maps/contrib/114013528308167523915"

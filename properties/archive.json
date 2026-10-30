@@ -321,6 +321,34 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/bungalow-monagee-camus-cashel-co-tipperary/6706734",
       "recheck": false
+    },
+    {
+      "id": "garryhundon-milford",
+      "name": "Garryhundon",
+      "left": "2026-10-30",
+      "reason": "tied at 3.0 with new finds (The Paddock 3.5 beat it; Loughminane Green 3.0 tied); new wins ties, rated incumbents first",
+      "lastPrice": 450000,
+      "aiStars": 3,
+      "human": {
+        "n": 1,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/garryhundon-milford-tinryland-co-carlow/6615103",
+      "recheck": false
+    },
+    {
+      "id": "tankardstown-ballylynan",
+      "name": "Tankardstown",
+      "left": "2026-10-30",
+      "reason": "tied at 3.0 with new finds (The Paddock 3.5 beat it; Loughminane Green 3.0 tied); new wins ties, rated incumbents first",
+      "lastPrice": 450000,
+      "aiStars": 3,
+      "human": {
+        "n": 1,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/tankardstown-ballylynan-co-laois/6706728",
+      "recheck": false
     }
   ]
 }

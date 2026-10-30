@@ -1,0 +1,831 @@
+{
+  "id": "loughminane-green-kildare",
+  "name": "73 Loughminane Green",
+  "address": "73 Loughminane Green, Kildare Town, Co. Kildare",
+  "eircode": "R51 TW52",
+  "lat": 53.161768,
+  "lng": -6.924879,
+  "listingUrl": "https://www.daft.ie/for-sale/73-loughminane-green-kildare-kildare-co-kildare/6709088",
+  "status": "Considering",
+  "added": "2026-10-30",
+  "area": "Kildare Town, Co. Kildare",
+  "agent": "Conway Auctioneers, Kildare",
+  "agentEmail": "info@conwaya.ie",
+  "agentPhone": "045 522 622",
+  "questions": [
+    "What is the site area, and how deep is the rear garden? From the drone photo we make the plot roughly 0.07–0.08 ha with a modest back garden; can you send the folio map, and is the rear fully fenced and secure for two dogs?",
+    "Is there a floor plan? What is the main heating system (the listing names only the two solid-fuel stoves), what is the BER's kWh/m²/yr figure, and are the roof solar panels PV, owned outright, and what size?",
+    "The house looks extended to the rear. When was that done, and is there planning permission or a certificate of compliance for it?",
+    "BuyerIQ shows a 64-home scheme with permission about 140 m away, and Keshmore's 64-home plan for the field between the estate and the railway was refused on appeal in Feb 2025. What is planned or under way next to the estate now?",
+    "What makes it wheelchair-friendly (level thresholds, door widths, the en suite's walk-in shower)? Has a radon test been done, and is there a management company fee or has the estate been taken in charge?"
+  ],
+  "ai": {
+    "stars": 3,
+    "why": "A turnkey 193 m² bungalow with all four bedrooms and three bathrooms on one level, a walk from Kildare's town centre and its 30-odd Heuston trains a day, at exactly €500k. Held back by a tight estate plot with little garden for the dogs, close neighbours, and Portlaoise's ED about 30 minutes away."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "Connected; lived-in town house, with solar panels visible on the roof in the drone photo (not mentioned in the listing)."
+    },
+    "water": {
+      "status": "likely",
+      "detail": "Likely mains; not stated, but it's in a 2000s town estate in Kildare."
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Likely mains sewer; not stated, but it's in a 2000s town estate in Kildare."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Likely fibre; not stated in the listing and BuyerIQ's broadband reading is paywalled, but Kildare town has open eir FTTH.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb (unconfirmed)",
+      "provider": "open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Single storey: every bedroom is on the ground floor, including the 4.33 × 4.88 m master with a walk-in wardrobe and a 3.45 × 3.60 m en suite with a walk-in shower; the listing calls the house wheelchair-friendly."
+  },
+  "price": 500000,
+  "type": "Detached bungalow",
+  "beds": 4,
+  "bedsNote": "Master 4.33 × 4.88 m (en suite), Bedroom 1 3.63 × 3.51 m, and two narrow rooms of 3.51 × 2.46 m and 3.50 × 2.46 m (one listed as a single)",
+  "baths": 3,
+  "floorM2": 193,
+  "ber": "B3",
+  "heating": "Not stated; two solid-fuel stoves (sitting room and kitchen) and roof solar panels",
+  "listed": "2026-10-30",
+  "views": 229,
+  "stampDuty": 5000,
+  "tagline": "A turnkey 193 m² four-bed bungalow, all on one level, in a 2000s estate about 1 km west of Kildare's town centre and station.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIzXC8yXC8zMmQyYzFkZC1hOGVkLTQ2ZWItODZiNS0wOGIwNGQ3YjIyYzEuSlBFRyJ9?signature=a52e4bc4c677873993fa2ba13bdaffd08312c6b907138777bfb9ebd747da4d01",
+      "role": "facade"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjZcL2ZcLzZmZDc2Mjc2LThiMTMtNGNiOS04ZTQyLTc2ZjZiMGJkMDJkZC5KUEVHIn0=?signature=82d15073ffc73ed15fa46da1cd4585338e0d35bd423bebd112e8443abadef05f",
+      "role": "interior"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImVcLzdcL2U3MDg3NDM5LWI3MmYtNGM5ZS1hZTVkLTE1NGRmZGU3ZGVjOC5KUEVHIn0=?signature=b984ed122e3281fbe0f05eeb2236f1b930006977eefa2881110b66751ff7ba07"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjFcLzNcLzEzZDU2NzE3LWY2ODQtNGVhMi1hOGU4LTZiNDg3NmY1N2EyYS5KUEVHIn0=?signature=182a5d112753f2173693762e26aefa3eaec4d8c3acbe3c9823ae2520ff40afb1"
+    }
+  ],
+  "pros": [
+    {
+      "text": "All four bedrooms on one level",
+      "weight": 3,
+      "detail": "Single storey and listed as wheelchair-friendly; the 4.33 × 4.88 m master has a walk-in wardrobe and a 3.45 × 3.60 m en suite with a walk-in shower, which suits Gabor's parents."
+    },
+    {
+      "text": "Walk to Kildare station",
+      "weight": 3,
+      "detail": "About 1.5–2 km by road (~1 km straight line); 19 Portlaoise commuter trains a weekday to Heuston (~50 min, 05:51–22:53) plus InterCity stops (~30–35 min)."
+    },
+    {
+      "text": "Room for six: 193 m², three living rooms",
+      "weight": 2,
+      "detail": "Sitting room 7.27 × 3.95 m with bay and stove, a 2.63 × 5.19 m vaulted lounge with skylights, and a 10.32 × 3.88 m kitchen/dining/living room opening to the garden."
+    },
+    {
+      "text": "Three bathrooms",
+      "weight": 2,
+      "detail": "Large en suite (jacuzzi bath and walk-in shower), a 1.85 × 1.65 m shower room and a 1.90 × 2.36 m family bathroom, plus a 2.40 × 2.02 m utility."
+    },
+    {
+      "text": "Schools and town on foot",
+      "weight": 2,
+      "detail": "Per Daft: Gaelscoil Mhic Aodha 820 m, St Brigid's NS 1.1 km, Educate Together 1.4 km, Kildare Town Community School 1.2 km; the town square is about 1 km and Lidl, Aldi and Tesco are in town."
+    },
+    {
+      "text": "€500k, on the budget line",
+      "weight": 2,
+      "detail": "€2,591/m²; stamp duty €5,000. No works needed."
+    },
+    {
+      "text": "Turnkey, B3, with solar panels",
+      "weight": 1,
+      "detail": "Described as in excellent condition; B3 (kWh figure not given), and the drone photo shows a row of solar panels on the roof."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Little garden for the dogs",
+      "weight": 3,
+      "detail": "Site size isn't stated; from the drone photo the plot is roughly 17 m wide, the house fills most of it, and the front is a large stamped-concrete drive. Rough estimate 0.07–0.08 ha (~0.2 ac) with a modest rear garden."
+    },
+    {
+      "text": "Estate setting, neighbours close",
+      "weight": 2,
+      "detail": "Fenced boundaries a few metres from the next houses on each side, with two-storey semis behind and alongside that look over the garden."
+    },
+    {
+      "text": "Children's ED about 30 minutes away",
+      "weight": 2,
+      "detail": "Naas General is closer but takes 16+ only; the boys go to Midland Regional Portlaoise (~40 km on the M7) or CHI Tallaght (~45 km)."
+    },
+    {
+      "text": "More housing planned next door",
+      "weight": 2,
+      "detail": "BuyerIQ flags a 64-unit scheme with permission ~140 m away and 5 large residential applications within ~150 m; Keshmore's 64 homes between the estate and the railway were refused on appeal (Feb 2025) but the land is zoned."
+    },
+    {
+      "text": "Two narrow bedrooms",
+      "weight": 1,
+      "detail": "Bedrooms 2 and 3 are 3.51 × 2.46 m and 3.50 × 2.46 m (one listed as a single); fine for the boys, tight as a guest double."
+    },
+    {
+      "text": "Local secondary is middling",
+      "weight": 1,
+      "detail": "Kildare Town Community School's older figures were 39–66% progression; the stronger options (Patrician, Newbridge; Ardscoil Rath Iomgháin, Rathangan) are 10–15 km away."
+    },
+    {
+      "text": "Gaps: heating, kWh, no floor plan",
+      "weight": 1,
+      "detail": "The listing names only two solid-fuel stoves, gives no BER kWh figure and shows no floor plan."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "category": "Schools",
+      "kind": "Primary school",
+      "title": "St Brigid's Kildare Town Primary School",
+      "label": "School run",
+      "candidates": [
+        "St Brigid's Primary School, Grey Abbey Road, Kildare Town, Co. Kildare",
+        "St Brigid's Kildare Town Primary School, Kildare"
+      ],
+      "note": "Mixed Catholic school, roll 20427B, about 990 pupils, DEIS, 1.1 km (Daft). Gaelscoil Mhic Aodha (all-Irish, roll 20428D) is nearer at 820 m; Kildare Town Educate Together is 1.4 km.",
+      "when": "08:20",
+      "group": "weekday",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Large co-ed DEIS school (gov.ie: 488 boys, 504 girls, Aug 2024); no inspection report could be read (gov.ie behind verification), so no quality verdict."
+      },
+      "resolved": {
+        "at": "2026-10-30T13:45:54.031Z",
+        "dest": {
+          "name": "St. Brigid's Primary School - Presentation Building",
+          "address": "Grey Abbey Rd, Kildare",
+          "uri": "https://maps.google.com/?cid=6177142276491785013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.154601,
+          "lng": -6.913473,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJnYXWe9p4XUgRNTNXLSyeuVU/photos/AV-0GLc0DS1cHBc_6Y7yPokeGm4BXk_dJc5BYrpf-74mEuDfLP9Tisxv2a9AL3SH-g8DNsXUQIjlY-jkOyigkakUokU8T696bli9BubPfPpWmQe6lhKRR8ikZEJ0NZQzO2xbfMo6iztheH0lWv2mDlWVDafbyGLdomqTJdHAS41N16_w2Uc3lCExCVr8OQlrpNSEntN4fKPlPHdfJ1o4YdLFOz-TLOPKI3OO9JYXD_-I2a8g3ZO4Yv8OD8eHPrBNJC3Hyvd8-GxW5agI6A6jSaFYYjO5GoS_G35Uj2SsJTSf9ac_MJ3lgy6rFhx0QFSQZ290mJCKL-fKLXSF6Ohl0CH42VbGADwQpzmjx7KUyJdAOrs-IHYdyjGg9sfUghPrgap_A68mEvhr6IHP3NrrkmYH4n4kPkU/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Ciaran Connolly",
+            "uri": "https://maps.google.com/maps/contrib/112319770317255529522"
+          },
+          "q": "St Brigid's Primary School, Grey Abbey Road, Kildare Town, Co. Kildare"
+        },
+        "duration": 320,
+        "distance": 1687,
+        "alts": [
+          {
+            "name": "St. Brigid's Primary School - Presentation Building",
+            "duration": 320,
+            "distance": 1687
+          }
+        ],
+        "walk": {
+          "duration": 1196,
+          "distance": 1473
+        },
+        "bike": {
+          "duration": 383,
+          "distance": 1670
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths the whole way through the estate and into Kildare town; fine for the kids."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Town roads with traffic and no cycle lane for most of the way."
+        }
+      }
+    },
+    {
+      "id": "secondary",
+      "category": "Schools",
+      "kind": "Secondary school",
+      "title": "Kildare Town Community School",
+      "label": "School run",
+      "candidates": [
+        "Kildare Town Community School, Kildare, Co. Kildare"
+      ],
+      "note": "Mixed community school, roll 91530S, about 1.2 km (Daft).",
+      "when": "08:05",
+      "group": "weekday",
+      "rating": {
+        "level": "Average",
+        "basis": "Older league tables put its predecessor at 54% (2017) and 66% (2018) progression, and one Leinster Leader list at 39%; no recent Irish Times figure could be read."
+      },
+      "resolved": {
+        "at": "2026-10-30T13:45:54.031Z",
+        "dest": {
+          "name": "Kildare Town Community School",
+          "address": "Dunmurry Rd, Crockanure Glebe, Co. Kildare, R51 D288",
+          "uri": "https://maps.google.com/?cid=2694742926245203322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.169971000000004,
+          "lng": -6.9140787999999995,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Kildare Town Community School, Kildare, Co. Kildare"
+        },
+        "duration": 402,
+        "distance": 2529,
+        "alts": [],
+        "walk": {
+          "duration": 1392,
+          "distance": 1696
+        },
+        "bike": {
+          "duration": 371,
+          "distance": 1779
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths the whole way through the estate and into Kildare town."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Town roads with traffic and no cycle lane."
+        }
+      }
+    },
+    {
+      "id": "secondary-good",
+      "category": "Schools",
+      "kind": "Good secondary school",
+      "title": "Patrician Secondary School, Newbridge",
+      "label": "School run",
+      "candidates": [
+        "Patrician Secondary School, Newbridge, Co. Kildare",
+        "Ardscoil Rath Iomgháin, Rathangan, Co. Kildare"
+      ],
+      "note": "Boys' school about 10 km away; Ardscoil Rath Iomgháin, Rathangan (mixed, 81%) is the mixed alternative.",
+      "when": "08:05",
+      "group": "weekday",
+      "rating": {
+        "level": "Good",
+        "basis": "77% progression to third level in the Irish Times 2025 feeder table (134 LC sits), as recorded on this site for Hillview."
+      },
+      "resolved": {
+        "at": "2026-10-30T13:45:54.031Z",
+        "dest": {
+          "name": "Ardscoil Rath Iomgháin",
+          "address": "Ardscoil Rath Iomgháin, Rathangan Demesne, Rathangan, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=11494752356620489580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.2180761,
+          "lng": -6.994434,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Ardscoil Rath Iomgháin, Rathangan, Co. Kildare"
+        },
+        "duration": 873,
+        "distance": 10440,
+        "alts": [
+          {
+            "name": "Patrician Catholic Secondary School",
+            "duration": 1207,
+            "distance": 11715
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1817,
+          "distance": 9357
+        }
+      }
+    },
+    {
+      "id": "shop",
+      "category": "Groceries",
+      "kind": "Village shop",
+      "title": "Centra, Kildare Town",
+      "label": "Milk and the paper",
+      "candidates": [
+        "Centra, Kildare Town, Co. Kildare",
+        "Londis, Kildare Town, Co. Kildare"
+      ],
+      "note": "Kildare town centre is about 1 km east.",
+      "when": "09:15",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-10-30T13:45:54.031Z",
+        "dest": {
+          "name": "Centra Bretts Kildare Town",
+          "address": "Melitta Road, Kildare, R51 CX25",
+          "uri": "https://maps.google.com/?cid=9908422028597278035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.7,
+          "ratings": 65,
+          "lat": 53.160292999999996,
+          "lng": -6.904133,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJd5TOK814XUgRUzUyg1bJgYk/photos/AV-0GLcR3CmXKOEm1sVHJZMfzs4htR6wStUbTimyiiJPhlsLdynNtjcdc0UYYKeietMfvvvuv0CmmopYPjhbx1iZn-CiLUeQSC1gRAFRT4VnDgbWKbZK14ZjBblG1o71flaSErD3kF4yYOjLdhry2yDYpaAjxyHfhlX6AmRuB_RHuUzp64YSPkOZyNlWu1rtEC6WCtAM833yLpBrlkq_Q9oRHRv88805uGC5AhoCpLUvPJRvJtJEETutqyVuGfK03LT_Qul2A76CatJU0tY6IwbbxpV_vFegi57QmVG5NS_-XAWdsSLLhN1EHzG4nXwEer4g4EHW9TifAirBzd_RQ9tLPHRUmddrgQe1L3UEMwX6_-IvGZ1JgynhPW7zfEdepZ8pNFFuiKJl4wyqaVUvnbRVTX10SmA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "John Ryan",
+            "uri": "https://maps.google.com/maps/contrib/100733264095383499676"
+          },
+          "q": "Centra, Kildare Town, Co. Kildare"
+        },
+        "duration": 429,
+        "distance": 2053,
+        "alts": [
+          {
+            "name": "Centra Bretts Kildare Town",
+            "duration": 429,
+            "distance": 2053
+          }
+        ],
+        "walk": {
+          "duration": 1541,
+          "distance": 1854
+        },
+        "bike": {
+          "duration": 423,
+          "distance": 1916
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths the whole way through the estate and into Kildare town to the Centra."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Town-centre streets with traffic."
+        }
+      }
+    },
+    {
+      "id": "bigshop",
+      "category": "Groceries",
+      "kind": "Supermarket",
+      "title": "Lidl Kildare",
+      "label": "The big shop",
+      "candidates": [
+        "Lidl Dublin Street Kildare Town Co. Kildare",
+        "ALDI Grey Abbey Road Kildare Town Co. Kildare",
+        "Tesco Superstore Monasterevin Road Kildare Town Co. Kildare"
+      ],
+      "note": "Lidl, Aldi and Tesco are all in Kildare town; Newbridge's Dunnes and Tesco are about 10 km.",
+      "when": "10:30",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-10-30T13:45:54.031Z",
+        "dest": {
+          "name": "Tesco Superstore",
+          "address": "Monasterevin Rd, Kildare, R51 H271",
+          "uri": "https://maps.google.com/?cid=8328966295151748673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.8,
+          "ratings": 322,
+          "lat": 53.156803399999994,
+          "lng": -6.917563800000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJBYk_L9t4XUgRQaa4eLdulnM/photos/AV-0GLdbetmX7Bkqiza7aES-pYvoynnEGP4DNTapPEWp_ycDABd_ZX-jrZX3irTqdbn4pUCsglCzsFo1xjhbX4-Z3TAdPhbcc9QHFxQ4NNbP9SwsGfd6ubdrlTk6HDNhOXxbPHkpF3jpK-bWYkoD8FnJeaxm4DHb_tk2LQtzfnmfeUoVkkKayVgYjnA2Si6FxdDO9WorJuHkXsevFrlSZ_bROlGliBiLIBqlpnutlgNE-a6A8bfbojnrPJgtuJPGfXItmalFoKkI-M177BhSw0YU1xLW6RjMwCqriZsKZMkDb-NRsETpPH_Bb9Bl0ThE3LIKf2sCg1gVGi_AQvqK8dOcBhCNIuWXnxcGv1bR5ISAnfn-Fa3Vc_iYdzmvmv0E9twwib9ExH-e6c9YDDjsOptvWQ35qMIGYlo/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "SUZANNE MC GRATH",
+            "uri": "https://maps.google.com/maps/contrib/100584103990883464979"
+          },
+          "q": "Tesco Superstore Monasterevin Road Kildare Town Co. Kildare"
+        },
+        "duration": 212,
+        "distance": 1240,
+        "alts": [
+          {
+            "name": "Lidl",
+            "duration": 331,
+            "distance": 1933
+          },
+          {
+            "name": "ALDI",
+            "duration": 373,
+            "distance": 1963
+          }
+        ],
+        "walk": {
+          "duration": 996,
+          "distance": 1224
+        },
+        "bike": {
+          "duration": 291,
+          "distance": 1224
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths the whole way through the estate and into Kildare town to Tesco."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Town roads with traffic and roundabouts."
+        }
+      }
+    },
+    {
+      "id": "dinner",
+      "category": "Eating out",
+      "kind": "Restaurant",
+      "title": "The Silken Thomas, Kildare",
+      "label": "Dinner out",
+      "candidates": [
+        "Silken Thomas, Kildare",
+        "Orby by Lucy, Newbridge"
+      ],
+      "note": "The Silken Thomas on Kildare's square, about 1 km; Orby by Lucy near the Curragh for a change.",
+      "when": "19:00",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-10-30T13:45:54.031Z",
+        "dest": {
+          "name": "Silken Thomas & Accommodation",
+          "address": "16 Market Square, Kildare, R51 HK54",
+          "uri": "https://maps.google.com/?cid=16362210964527825503&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 3708,
+          "lat": 53.1567637,
+          "lng": -6.9094466,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJPX5gMQVxZ0gRX8KueC5AEuM/photos/AV-0GLfg0qoXUfOXl0WbzrczfmoFRRGhHeat38vPTF4aELrLUN2ud2oP3AXetCX-w7XGX4gh7NS6RP9OwREVSGtZ3FQyIxuAUKSAR3xU6hC-iYP7iYwHkVq65rwX7y1IqVaHk5SFG7YOqZ1FQiSClSM0Te6Hz2UdFREEGTD9wHQpmgWr6fHjSOZs_eaQH4-TP3nRf3NJ7LjmBWB-bgRKCBtP6Z4AYWP_02abbU1zwXMtP2Tu81JYWXfDAqy4QOOT0FIbpfvURHOrQ0XE3nLcimd4gOC26BVO4CTqZ5jXNmWXoIoT84j1nMHGqKzW-IrQp16FpygLDY_D24fsDE11s54jj00712w8Ua499zdNl4KGVEI5oBQpL006GPPOiNLJOaczn8kW7t9tjlEV1AKynFsVOiwR483tlObWWL_Tms0G5Fxu/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Silken Thomas & Accommodation",
+            "uri": "https://maps.google.com/maps/contrib/117918299295064382006"
+          },
+          "q": "Silken Thomas, Kildare"
+        },
+        "duration": 271,
+        "distance": 1487,
+        "alts": [
+          {
+            "name": "Orby’s by Lucy",
+            "duration": 727,
+            "distance": 6494
+          }
+        ],
+        "walk": {
+          "duration": 1231,
+          "distance": 1470
+        },
+        "bike": {
+          "duration": 346,
+          "distance": 1470
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths the whole way through the estate and into Kildare town to the Square."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Town-centre streets with traffic."
+        }
+      }
+    },
+    {
+      "id": "hospital",
+      "category": "Health",
+      "kind": "Emergency department",
+      "title": "Midland Regional Hospital Portlaoise",
+      "label": "The 3 a.m. trip",
+      "candidates": [
+        "Midland Regional Hospital Portlaoise",
+        "Children's Health Ireland at Tallaght, Dublin"
+      ],
+      "note": "All-ages 24-hour ED (extension opened May 2026); CHI Tallaght is the Dublin alternative. Naas General is nearer but 16+ only.",
+      "when": "03:00",
+      "group": "night",
+      "resolved": {
+        "at": "2026-10-30T13:45:54.031Z",
+        "dest": {
+          "name": "Midland Regional Hospital Portlaoise",
+          "address": "Block Rd, Kilminchy, Portlaoise, Co. Laois",
+          "uri": "https://maps.google.com/?cid=7142762024074450881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.7,
+          "ratings": 196,
+          "lat": 53.038208399999995,
+          "lng": -7.2760839,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJDzP436wNXUgRwZcbiDcwIGM/photos/AV-0GLfXH0HauWAex8ThSs_0B-lQnR2co2Ozw1ZpRHoag9dkWZ3O5403dW_Ti-kFe7qJh7YxVQO97GyAkFcgyTjCAB42wZJREBt8V_zk_djVAnFzLd7rYu-K_RxF0G_AgRd5pUtkVhXLYJfWYyaBYbk9-EGXwgqXWxvcxe_merKCw6g6v8AKYGsrkd04iaEEgj89pAu76PK_85YoFv2oOn6CbaXjxRqR8LlyzjcQArse5zpQUg0H7BQv-1N0PuoeKPks2CPa2lYD12cOcuGkIVhv6cWxmsAhwFzTJlWdaBzot3E5EWON0lj3udLuSN4SAmEoCAp5DIrQSjt8CRVJw-FPudy9C1gyjikqmLcEVueWFKfsskvWnMLFgmZ4nbCOn4krAyPGX8JcmvShserqAMFThMbIAuFEPfJwCKEPadhRqw_fog/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Nilesh Mishra",
+            "uri": "https://maps.google.com/maps/contrib/116976963245334691980"
+          },
+          "q": "Midland Regional Hospital Portlaoise"
+        },
+        "duration": 1641,
+        "distance": 31948,
+        "alts": [
+          {
+            "name": "CHI at Tallaght Children's Outpatient and Emergency Care Unit",
+            "duration": 2045,
+            "distance": 46867
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "town",
+      "category": "Towns and cities",
+      "kind": "Small town",
+      "title": "Kildare",
+      "label": "Errands in town",
+      "candidates": [
+        "Market Square, Kildare"
+      ],
+      "note": "The house is on the west side of Kildare town: GP, pharmacies, supermarkets, Kildare Village outlet.",
+      "when": "12:30",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-10-30T13:45:54.031Z",
+        "dest": {
+          "name": "Market Square",
+          "address": "Market Square, Kildare",
+          "uri": "https://maps.google.com/?cid=4274276824602715153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.1575823,
+          "lng": -6.9111427,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJucTsJNB4XUgRESQhOiBIUTs/photos/AV-0GLdJzf6z9xBe3oWCwl_iwlBUAN1NuE4mTw7uJs2_w2wzRILcvcon7yMO50Bs167R_0zxurEqQOh2eZlYN2OXM1ycv0G5gdXXTbx7ej3eE4npuPM9IPRgH0THj47xXw62Y_MBDGwCTL7YO17De5Zh72HjGLwqim52hS0Y7rJjQwnHzgO57anJ4PkQptSZvM9vq-QcEy22Tqe3yES7edDqg0cbsl44xTK4aLpzFHpwbSBktB01daceWN1vu9hP_VF9x8LagHGT1CYXU3PnsspSQSlruZbAuJoZOEVvufoDXGO8CFleZ9EvoEqofERgh1RbXgxHL2skKlgC80K0V3nnyZrwbfwtkK4ffH5jIis3mW2pxKF9-kILVQQ7hjXocmVhYzutc2emtdxqZmflbeZIK8E1Mff0/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "David Walsh Tower",
+            "uri": "https://maps.google.com/maps/contrib/115179803206853994945"
+          },
+          "q": "Market Square, Kildare"
+        },
+        "duration": 253,
+        "distance": 1313,
+        "alts": [],
+        "walk": {
+          "duration": 1079,
+          "distance": 1297
+        },
+        "bike": {
+          "duration": 246,
+          "distance": 1297
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths the whole way through the estate and into Kildare town to Market Square."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Town-centre streets with traffic."
+        }
+      }
+    },
+    {
+      "id": "city",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "Carlow",
+      "label": "Into the city",
+      "candidates": [
+        "Carlow town centre",
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Dublin is the real city here; Carlow or Kilkenny for a change.",
+      "when": "15:00",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-10-30T13:45:54.031Z",
+        "dest": {
+          "name": "Carlow",
+          "address": "Carlow",
+          "uri": "https://maps.google.com/?cid=270857047093713158&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.8359963,
+          "lng": -6.924607399999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJEWEVYFFdXUgRBpnunAxHwgM/photos/AV-0GLc3LO6RNhxv9l2YcCe4TpL_uFmMypBd1NNCmdMMLA1nbUe5Gx83ice7fEwVg1J1KxLi2k4oV29SZth-sg8h1oY58fQpl_8c1o4UI6Pp11FNOBBoP4uS4cJqKCkELqga1-rCv_3p3Pk_wT1CKXrdARbNDa3XkiEp6OBNrIJmkZUBeCGwVT-SVV1VjYrDkHz2b1L9yHqtW24PmJvbKISD9DlHgb9t2nxfX1QSYtJ4AMvV1-aoi5jMp4CZXlaS_6aBBxwLgEux2G_Xts6p9tzwhy6yy8pPPNKL_oKAkclnNwU36vGER_sC_HN76tru3vXfVnOe3htR0w0jYxoXXfEYpi6a1awwpgGGsE9UruBVwTt5GcnEOzJQuFrluF_IeQ-_TN6I8UVrw81WVcEjetztEkEDa5EbWPmeBXsajYunPtNJyg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Angie Miller",
+            "uri": "https://maps.google.com/maps/contrib/110831594698965634703"
+          },
+          "q": "Carlow town centre"
+        },
+        "duration": 2729,
+        "distance": 50328,
+        "alts": [
+          {
+            "name": "Kilkenny Castle",
+            "duration": 4067,
+            "distance": 91038
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "dublin",
+      "category": "Towns and cities",
+      "kind": "Capital",
+      "title": "St Stephen's Green, Dublin",
+      "label": "Day in Dublin",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "The train from Kildare is often quicker than driving.",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-10-30T13:45:54.031Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLfC4bbGK92SngcBeqemLQtNa4PTIv2AtK2fecikTqQ_UyT9Xvyb94EGGAo8RcaWkq1NrwdiOWYs7ZCDrePUR2emF2Oh1iPIBUHi0gjknC14Q4QlIfzHS-4ToodmgZW-twgKlBIZs-qQ7iFopYTKy27BRSkhDOeoiGCfdsEIpwpMKdE55W5egBiB6NVDajWyPYukk8rZxRHK8DkbTGiFYSSaG7-rb3YjxGO4b9hOcFFmS3QUdZQL84Z0a4AYeoO1eRAsh6VbwZZwhAactcz2jw3Yiou7C_j9ljWHWieh0hvCI2X-w2R9ZMnJAFHpV0qCsGUmcq8xvRc6d7MRKVELvMvjcYQ4390h4iaKPWavXn9KLHLoQuTAa1PtQTndy7Q9z86LYVJywOW07f1VhIoJH8H4Nw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 3204,
+        "distance": 54220,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "cork",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "English Market, Cork",
+      "label": "Weekend in Cork",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "Direct InterCity trains from Kildare too.",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-10-30T13:45:54.031Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLeHwu3SAFApFP8Vig5N_tDykT5Ab4lQUo9DRzZ9lT8M5ffNRieqDvKiRYA6qt69cmiuCJigrAnLw6nyb68OsTu32CxEgSukTcQ_FiUzIjP0tqZI-GO8eq6UcBnFGAsEVoMteamalxs7hi_K7JWj-o5CtL0Z1QMOFqFjL10FPVMJv95lv6uSfezY8ttZyhye9-Nyfu3ANuV43oLiHP3UqF7bxwG1Ihjp8mVTIuuUNdCHfD8MW5x2vcYfv_oca6tb5SAtyK2fIc5BJI-D4otsfLtQY-i5q-ZFGNprVzl8DP4e6ywycz-8Ep3N-Hsj_ZESPu8QXbxoDj2suoaQOTHhn-eEB7fauyJB0VrNOU6aGb0sp2JvNpX6WmFkelYI8Jk3-gPQGTH4q3B_Vng1YZwNNMsSOes/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 8091,
+        "distance": 210217,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "train",
+      "category": "Getting away",
+      "kind": "Station",
+      "title": "Kildare station",
+      "label": "Train to Dublin",
+      "candidates": [
+        "Kildare railway station",
+        "Newbridge railway station"
+      ],
+      "note": "Heuston line: 19 Portlaoise commuter trains a weekday (~50 min, first 05:51) plus InterCity stops (~30–35 min); 30+ in all.",
+      "when": "07:15",
+      "group": "further",
+      "day": "weekday",
+      "resolved": {
+        "at": "2026-10-30T13:45:54.031Z",
+        "dest": {
+          "name": "Kildare",
+          "address": "Kildare",
+          "uri": "https://maps.google.com/?cid=521513696039184659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 203,
+          "lat": 53.162819000000006,
+          "lng": -6.908169999999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJG-BSpM54XUgRE6nqhfHJPAc/photos/AV-0GLfVbj0hdR35mnSZOd1pIVn8VlUOJ1vmV0PP0a2IJFc9kDgK_xnMFA5rnh5BqDlJQW6GYZMlvHV9r75WQzQ0hSe8xdrIxikzLYhascP0GyiEx8g8IvusrMIAsGs4Mxz4Y5TWTyV28ZgxcG2dycboajw3TA3wQckqjmVZEupS3LM9irEMQj-v3rE9plMa25r8kL7-M5da2Q16meW0S0Go-kzPzK0S4SArpmzDSgCBzfs_BnwATRFECDP8FTFcnSd0Yb-rol2GPMUMWooLT7tWwIY8jlQB4IRecHQ-uOl5QzU-s7wB8JSTMIvcwULoUqczZWentIwVEVmwWQ35GAMHWOkMolYEAjl_wNf8t-TxAw7Iof9W-V7UAHS1lc6V6wQQwdAxAGs0dJCyCdGgM9jeCmzOLXQ-gx1MUX1WjVWYOoy_Ew/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Robert McGowan",
+            "uri": "https://maps.google.com/maps/contrib/113623228601229330444"
+          },
+          "q": "Kildare railway station"
+        },
+        "duration": 323,
+        "distance": 1959,
+        "alts": [
+          {
+            "name": "Newbridge",
+            "duration": 924,
+            "distance": 11919
+          }
+        ],
+        "walk": {
+          "duration": 1502,
+          "distance": 1810
+        },
+        "bike": {
+          "duration": 413,
+          "distance": 1943
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths all the way to the station, partly along new estate roads."
+        },
+        "bike": {
+          "level": "good",
+          "note": "New estate roads and a marked cycle lane for much of the way to the station."
+        }
+      }
+    },
+    {
+      "id": "airport",
+      "category": "Getting away",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "label": "Flights",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "",
+      "when": "06:00",
+      "group": "further",
+      "day": "friday",
+      "resolved": {
+        "at": "2026-10-30T13:45:54.031Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42143,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLexi4hj-Dp8Tt3CQ8KdYO8zEgx81mvSP3yqnEKX-XGUCGJreAXLNovRCyPcgkEbLyNv6-KEeoyNkif4QRFc0F0OfTsbWiR_tYTPDK4QXAU0mO_Nhpu6n1NaLyz65BTTuNvSbuEfRjwSG2xPQKtRJ6IokhQhfT5ISFdypYhTqST9l1B_sDISFkWyIdRL64UCYiNQ6qNCfGuAKfUadA1MlcOOeTx4UPD2jz_zdqTUUPYVwQeJzNNR1qUVp0hNWo3plEMCh0qmFO0YE_59MDU3kEirJNXyo7faEXpoP2EiDE2ABS2427uTti4rI4vjYYUo579M9FyHhNzxkrvm5uz16A_hcml6xaywzmZUjrL5tYMJn_-MDBMuJldXq5rs1Yhl9mk-6C6Hn_pyjoa-A6DzaYbXYFvZPqo/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 3051,
+        "distance": 65458,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
