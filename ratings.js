@@ -81,6 +81,8 @@ window.HDRatings = (function () {
     const rs = forProperty(id);
     return { n: rs.length, avg: rs.length ? rs.reduce((a, r) => a + r.stars, 0) / rs.length : null };
   }
+  // Other people's votes stay hidden until you've cast your own, so nobody anchors on them.
+  function canSee(id) { return !!mine(id); }
   function people() { return [...new Set(Object.values(byKey).map((r) => r.person))].sort(); }
 
   // Start from this browser's copy so the first paint already has ratings; refresh() merges the shared ones.
@@ -90,7 +92,7 @@ window.HDRatings = (function () {
   setInterval(() => { if (!document.hidden) refresh(); }, 60000);
 
   return {
-    refresh, rate, clear, me, setMe, forProperty, mine, summary, people,
+    refresh, rate, clear, me, setMe, forProperty, mine, summary, people, canSee,
     onChange: (f) => listeners.push(f),
     isShared: () => shared,
     configured: () => !!URL_,
@@ -222,7 +224,9 @@ window.HDRateDialog = async function (opts) {
     others.append(li);
   };
   if (opts.ai) row("🤖 AI", opts.ai.stars, opts.ai.why, "ro-ai");
-  for (const r of R.forProperty(opts.id)) if (r.person !== who) row(r.person, r.stars, r.note);
+  const theirs = R.forProperty(opts.id).filter((r) => r.person !== who);
+  if (mine) for (const r of theirs) row(r.person, r.stars, r.note);
+  else if (theirs.length) { const li = document.createElement("li"); li.className = "ro-hidden"; li.textContent = `${theirs.length} other ${theirs.length === 1 ? "rating" : "ratings"} hidden until you save yours.`; others.append(li); }
   const close = () => { dlg.close(); dlg.remove(); };
   dlg.querySelector(".namedlg-cancel").addEventListener("click", close);
   dlg.addEventListener("cancel", (e) => { e.preventDefault(); close(); });
@@ -250,26 +254,27 @@ window.HDBar = function (value, cls, range) {
 window.HDScores = function (p) {
   const R = window.HDRatings;
   const mk = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
-  const rs = R.forProperty(p.id), sum = R.summary(p.id), mine = R.mine(p.id);
+  const all = R.forProperty(p.id), mine = R.mine(p.id), hidden = !mine && all.length > 0;
+  const rs = hidden ? [] : all, sum = hidden ? { n: 0, avg: null } : R.summary(p.id);
   const sd = rs.length > 1 ? Math.sqrt(rs.reduce((a, r) => a + (r.stars - sum.avg) ** 2, 0) / rs.length) : null;
   const lo = rs.length > 1 ? Math.min(...rs.map((r) => r.stars)) : null, hi = rs.length > 1 ? Math.max(...rs.map((r) => r.stars)) : null;
   const aiS = p.ai ? p.ai.stars : null;
   const pop = mk("div", "spop"); pop.setAttribute("role", "tooltip");
   const h1 = mk("p", "spop-h"); h1.append(mk("b", "", "🤖 AI"), aiS != null ? ` ${aiS.toFixed(1)} ` : " not scored ", mk("span", "spop-stars ai", aiS != null ? window.HDStarText(aiS) : "")); pop.append(h1);
   if (p.ai && p.ai.why) pop.append(mk("p", "spop-why", p.ai.why));
-  const h2 = mk("p", "spop-h"); h2.append(mk("b", "", "👥 People"), sum.n ? ` ${sum.avg.toFixed(1)}${sd != null ? ` ± ${sd.toFixed(1)}` : ""} from ${sum.n}` : " no ratings yet"); pop.append(h2);
+  const h2 = mk("p", "spop-h"); h2.append(mk("b", "", "👥 People"), hidden ? ` ${all.length} rated; rate it to see theirs` : sum.n ? ` ${sum.avg.toFixed(1)}${sd != null ? ` ± ${sd.toFixed(1)}` : ""} from ${sum.n}` : " no ratings yet"); pop.append(h2);
   if (rs.length) {
     const ul = mk("ul", "spop-list");
     for (const r of rs) { const li = mk("li"); li.append(mk("span", "spop-name", r.person), mk("span", "spop-stars", window.HDStarText(r.stars))); if (r.note) li.append(mk("span", "spop-note", r.note)); ul.append(li); }
     pop.append(ul);
   }
   const box = mk("div", "scores"); box.tabIndex = 0;
-  box.dataset.sig = JSON.stringify([mine && mine.stars, rs.map((r) => [r.person, r.stars, r.note])]);
-  box.setAttribute("aria-label", `AI ${aiS ?? "not scored"}, people ${sum.n ? sum.avg.toFixed(1) : "not rated"}`);
+  box.dataset.sig = JSON.stringify([mine && mine.stars, hidden ? all.length : rs.map((r) => [r.person, r.stars, r.note])]);
+  box.setAttribute("aria-label", `AI ${aiS ?? "not scored"}, people ${hidden ? "hidden until you rate" : sum.n ? sum.avg.toFixed(1) : "not rated"}`);
   const r1 = mk("span", "srow"); r1.title = "AI"; r1.append(mk("span", "slab", "🤖"), window.HDBar(aiS, "ai"), mk("span", "sval", aiS != null ? aiS.toFixed(1) : "–"));
-  const r2 = mk("span", "srow"); r2.title = "People"; r2.append(mk("span", "slab", "👥"), window.HDBar(sum.avg, "us", lo != null && hi > lo ? [lo, hi] : null), mk("span", "sval", sum.n ? sum.avg.toFixed(1) : "–"));
+  const r2 = mk("span", "srow" + (hidden ? " srow-hidden" : "")); r2.title = hidden ? "Hidden until you rate it" : "People"; r2.append(mk("span", "slab", "👥"), window.HDBar(sum.avg, "us", lo != null && hi > lo ? [lo, hi] : null), mk("span", "sval", hidden ? "?" : sum.n ? sum.avg.toFixed(1) : "–"));
   if (sd != null && sd > 0) r2.append(mk("span", "ssd", "±" + sd.toFixed(1)));
-  const r3 = mk("span", "srow srow-you"); r3.append(mk("span", "slab slab-you", "You"), window.HDStars(mine ? mine.stars : 0, async (n) => {
+  const r3 = mk("span", "srow srow-you" + (mine ? "" : " needs-vote")); r3.append(mk("span", "slab slab-you", "You"), window.HDStars(mine ? mine.stars : 0, async (n) => {
     const who = await window.HDAskName(); if (!who) return;
     const cur = R.mine(p.id); await R.rate(p.id, n, cur ? cur.note : "");
   }, { small: true, label: `Your rating for ${p.name}` }));

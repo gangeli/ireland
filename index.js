@@ -73,7 +73,9 @@
       labels[p.id] = b == null ? "Considering" : (i === 0 && b >= 4) ? "Front-runner" : b >= 3.5 ? "Strong contender" : b >= 2.75 ? "Considering" : "Long shot";
     });
   }
-  const label = (p) => labels[p.id] || p.status || "Considering";
+  // Until you've rated a live house its label would give away everyone else's votes, so it asks for yours instead.
+  const out = (p) => /sale agreed|sold|passed/i.test(p.status || "");
+  const label = (p) => (!out(p) && !R.mine(p.id) && R.forProperty(p.id).length ? "Your vote?" : labels[p.id] || p.status || "Considering");
   const statusClass = (s) => "st-" + String(s || "considering").toLowerCase().replace(/[^a-z]+/g, "-");
 
   function renderList() {
@@ -96,7 +98,7 @@
       if (rate) price.append(el("small", { text: " ≈ $" + Math.round(p.price * rate).toLocaleString("en-US") }));
       const age = onMarket(p.listed);
       const facts = [p.beds ? `${p.beds} bed` : null, p.floorM2 ? `${p.floorM2} m²` : null, p.landAcres ? `${p.landAcres} ac` : null, p.ber ? `BER ${p.ber}` : null, age].filter(Boolean).join(" · ");
-      const li = el("li", { class: "ic" + (fresh.has(p.id) ? " is-new" : ""), id: "ic-" + p.id,
+      const li = el("li", { class: "ic" + (fresh.has(p.id) ? " is-new" : "") + (!R.mine(p.id) && !out(p) ? " needs-vote" : ""), id: "ic-" + p.id,
         onmouseenter: () => highlight(p.id, true), onmouseleave: () => highlight(p.id, false),
         onclick: (e) => {
           // the whole card opens the house, except the ratings badge and real links
@@ -111,7 +113,7 @@
               el("a", { class: "ic-name", href, text: p.name }),
               fresh.has(p.id) ? el("span", { class: "new-chip", text: "New", title: `Added ${p.added}; shows at the top for ${NEW_DAYS} days or until you rate it` }) : null,
               el("span", { class: "ic-area", title: p.area || p.address || "", text: (p.area || p.address || "").split(",").map((x) => x.trim()).filter((x) => x && x.toLowerCase() !== p.name.toLowerCase()).join(", ") }),
-              el("span", { class: "status " + statusClass(lb), text: lb, title: blend(p) != null ? `All ratings ${blend(p).toFixed(2)}` : "" })),
+              el("span", { class: "status " + statusClass(lb), text: lb, title: R.canSee(p.id) && blend(p) != null ? `All ratings ${blend(p).toFixed(2)}` : !R.mine(p.id) ? "Rate it to see how everyone else rated it" : "" })),
             el("p", { class: "ic-line" }, price, facts ? el("span", { class: "ic-facts", text: facts }) : null),
             p.tagline ? el("p", { class: "ic-tag", text: p.tagline }) : null),
           scoresBadge(p)));
@@ -142,7 +144,7 @@
         el("div", { class: "pp-area", text: (p.area || "").split(",").map((x) => x.trim()).filter((x) => x && x.toLowerCase() !== p.name.toLowerCase()).join(", ") }),
         el("div", { class: "pp-price", text: euro(p.price) + (rate ? `  ≈ $${Math.round(p.price * rate).toLocaleString("en-US")}` : "") }),
         row("🤖", aiS, "ai"),
-        row("👥", sum.avg, "us", sum.n ? `${sum.n} ${sum.n === 1 ? "rating" : "ratings"}` : "not rated")));
+        R.canSee(p.id) || !sum.n ? row("👥", sum.avg, "us", sum.n ? `${sum.n} ${sum.n === 1 ? "rating" : "ratings"}` : "not rated") : row("👥", null, "us", "rate it to see")));
   }
   // Pin colour = your own rating: red (1) → green (5); slate blue if you haven't rated it.
   const MINE_COLORS = { 1: "#c2271d", 2: "#e0701c", 3: "#cfa915", 4: "#6fa83a", 5: "#1a8a3a" };
