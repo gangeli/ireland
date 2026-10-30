@@ -20,7 +20,7 @@
     "How much traffic noise reaches the house from Newtown Road? Has a radon test been done? BuyerIQ flags moderate radon risk in the area."
   ],
   "ai": {
-    "stars": 3.0,
+    "stars": 3,
     "why": "Right size and all on one level: 235 m², four big doubles, three bathrooms, walk to Wexford General's ED and the town. Held back by the €575k asking price, over the €500k line, a modest walled site on a main town road with estates growing around it, and a slow train (about 4 a day, 2 h 40 min)."
   },
   "services": {
@@ -191,6 +191,39 @@
           "level": "good",
           "note": "Short stretch of R769, then quiet suburban Carriglawn and Coolcotts Lane; OK for kids with an adult."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:09.439Z",
+        "dest": {
+          "name": "Scoil Mhuire, Coolcotts",
+          "address": "Coolcott's Ln, Townparks, Wexford, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=3674009002064691286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.336256,
+          "lng": -6.48429,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Scoil Mhuire Coolcotts, Coolcotts, Wexford"
+        },
+        "duration": 212,
+        "distance": 1862,
+        "alts": [
+          {
+            "name": "Scoil Mhuire, Coolcotts",
+            "duration": 212,
+            "distance": 1862
+          }
+        ],
+        "walk": {
+          "duration": 1034,
+          "distance": 1160
+        },
+        "bike": {
+          "duration": 555,
+          "distance": 1862
+        }
       }
     },
     {
@@ -218,6 +251,36 @@
           "level": "ok",
           "note": "Newtown Rd and Belvedere Rd with a roundabout and no cycle lanes; moderate urban traffic."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:09.439Z",
+        "dest": {
+          "name": "St. Peter's College Secondary School",
+          "address": "Summerhill Heights, Townparks, Wexford, Y35 P8WT",
+          "uri": "https://maps.google.com/?cid=15928080058911983556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.3352216,
+          "lng": -6.473201899999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJrbzUybEPZ0gRxIduSWzoC90/photos/AV-0GLd1V_6Gv5pIFAP7mhMsTb19eFM01xRQuKXbQQoFdnDbx8qwGXfp71nZauFEIMFDE2twHg7FMBPtu3mjfvrjv4jr5wOEfBjVgrhjAzrkesVTT9agjQwgGxau0ZaPevHDONW3hP0fvBDGDLEcJfa4bCThb5ZXRzNA8F6trYonhn-4tLjHXOFDBrG0x4riafdreW7PNfT9jqKJAyI0e9lUjU3Khfro-UuNuccDdpsvcuy3gnJxbHlRAYSgvWwAYHNjG9T5GTq1JuFbkH2JgNAIYkaL9FGxNAaXnPP4F4p97s7-dv3TfhlbOMYiDrB8KF-BqeMLH6mG6D9HNUfjhOzQ9zHCXGBM3RUA_KPqQrPiB9P999Dw6Wxy675P4HB0D0VhA5FmqIq-ekfr6BlroCbaRE_De0s/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Mairead Coleman",
+            "uri": "https://maps.google.com/maps/contrib/117150877286568789860"
+          },
+          "q": "St Peter's College, Summerhill, Wexford"
+        },
+        "duration": 194,
+        "distance": 1503,
+        "alts": [],
+        "walk": {
+          "duration": 1317,
+          "distance": 1502
+        },
+        "bike": {
+          "duration": 444,
+          "distance": 1579
+        }
       }
     },
     {
@@ -240,6 +303,36 @@
         "bike": {
           "level": "ok",
           "note": "Wide, fast-looking multi-lane R769 with no cycle lane until a red cycle track in the last few hundred metres."
+        }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:09.439Z",
+        "dest": {
+          "name": "ALDI",
+          "address": "Newtown Rd, Carricklawn, Wexford, Y35 P5FW",
+          "uri": "https://maps.google.com/?cid=663382016147153261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 968,
+          "lat": 52.3421842,
+          "lng": -6.4913864,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJk_eqO6UcaEgRbWHVzm3ONAk/photos/AV-0GLcsvJdZojSOq8cQP25pGfnQW1Fnnh4nHDsbGl-45EmmKiU1bB-anGjneZkWa7Vw1qh8Uu5WWG2WIJaxLwiKlgN8o5DNHJliHmCAc2J_OwKIPiG-JIp4FGX2TuSas99pm5YJG9AlHbvCWZVA1oigsAqaEV-bwYIoc9pz1-soluMnRBz3OuU6tmBvP13d2Lb579AlsvvgozYfVSYWghYGYZzoVBtAgLylF4ApVwtTRf28CN8LWBOJDde6j_YLXYhxTRvBlo8ETKppMeC2zH9I1OM77RVmt09d7nLQ1JyZWNbuOXbWzU8i2bl6Dit3F5Xl9qc4m7ExvtKZJ9VhsD-Pknr5DUhXVzFE16oC4nuKkP_KZKdynm7EOv9zDBRst-ExTJ9xsUvkmiCjWTGjIDlJQR8iOZ31/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "adam a",
+            "uri": "https://maps.google.com/maps/contrib/104601303061045360743"
+          },
+          "q": "Aldi, Newtown Road, Wexford"
+        },
+        "duration": 357,
+        "distance": 2730,
+        "alts": [],
+        "walk": {
+          "duration": 807,
+          "distance": 892
+        },
+        "bike": {
+          "duration": 780,
+          "distance": 2730
         }
       }
     },
@@ -266,6 +359,47 @@
           "level": "ok",
           "note": "Urban R769 and R730 with no cycle lanes and a roundabout; OK for adults, not for young kids."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:09.439Z",
+        "dest": {
+          "name": "Dunnes Stores Redmond Square",
+          "address": "Redmond Rd, Townparks, Wexford, Y35 FC79",
+          "uri": "https://maps.google.com/?cid=5348981923066883635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 1970,
+          "lat": 52.342527399999994,
+          "lng": -6.4656531,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJM3sOLkUbaEgRMy5jCrhmO0o/photos/AV-0GLd5yQhnl2rNOuzpHxPKXHDNbYHuuma6E1UyC6XGcwXmCrV3IRrodoDA9o0v_ywPBJpiwhlfDWdM27h2U_tO8YBxAtlUHoPk2sHWkgYXTgoU7C0SeSfx0oO_Q8Dn3u_lOwMQYrdUbljtYaLqaW3lGDiRO3MuMvClCA98I_MlFbtcKmwnCYUAxXbqhS_ESqbXz7AR_svpWDp8RuQm_qRPNQJfXhNAkqEU8DgiHtY3puRMIuNLpLow1Z9UBZG9TZa7VeKoPfaPUOjY63o9BRREU6KG_hst9mKtBJqmxMAvipzjT9AhrwK1HhdeIP4-7tvcmEjvtyDYC85_zjeTINKPjxbpAP2VjovVaJlxQbOzr8oQEd7mWOCQN85Q6hsJPWDkt8nhTY9ZpjKy8BJTxzOD2TOoEqVD2DM/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Dunnes Stores Redmond Square",
+            "uri": "https://maps.google.com/maps/contrib/103149368032573180652"
+          },
+          "q": "Dunnes Stores, Redmond Square, Wexford"
+        },
+        "duration": 274,
+        "distance": 1447,
+        "alts": [
+          {
+            "name": "Pettitt's SuperValu",
+            "duration": 304,
+            "distance": 1760
+          },
+          {
+            "name": "Tesco Extra",
+            "duration": 427,
+            "distance": 2238
+          }
+        ],
+        "walk": {
+          "duration": 1003,
+          "distance": 1277
+        },
+        "bike": {
+          "duration": 304,
+          "distance": 1447
+        }
       }
     },
     {
@@ -289,6 +423,36 @@
           "level": "ok",
           "note": "Busy R889 John St, then narrow town-centre streets with parked cars and the R730 quay."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:09.439Z",
+        "dest": {
+          "name": "La Côte Seafood Restaurant",
+          "address": "Church Ln, Townparks, Wexford",
+          "uri": "https://maps.google.com/?cid=1505038874505819357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 514,
+          "lat": 52.3388515,
+          "lng": -6.4597218,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ9arzjUMbaEgR3bQS4OH44hQ/photos/AV-0GLdmHHI7RJ_D0Yz3tk-HuXIOPQYUbjOiogooPw1hlKxSPzNDophubrTbFQDYVcJsKOoO8PdsZBM-qiggWh3ewPasoZq1TDB9_AS11gy30RolwV_NA2wxvPHMo2sIMJUiSryhRZLhffrFh2J89jf-4EaySXpEXz7C8_3Nqzm5s3tYSzTwkc83MRk6fRXvuRW962TuB4I1-upRLIlrFGJsVwGIIoFougtjjo-BMez5eGN8j4AHThqEMvd0ZcJtCOsq0oUBT0czVoxPPJL1Z7aDdwkfF4N_zpSsv4ZBVA-SVr2j0XIHA-U7cgvrQN-lLa9UF3QzEs8C-DC6l1dlcrsJ-m7tWM8nYC_iwrryS_LmVOOND8nWU9zMqgTVutZ5IdCoEr5c0D7KTVgMQVO4a3TFvkaMIkJFTFc/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "La Côte Seafood Restaurant",
+            "uri": "https://maps.google.com/maps/contrib/115880974753039579345"
+          },
+          "q": "La Cote Seafood Restaurant, Custom House Quay, Wexford"
+        },
+        "duration": 329,
+        "distance": 2012,
+        "alts": [],
+        "walk": {
+          "duration": 1320,
+          "distance": 1650
+        },
+        "bike": {
+          "duration": 367,
+          "distance": 1849
+        }
       }
     },
     {
@@ -311,6 +475,36 @@
         "bike": {
           "level": "good",
           "note": "Short ride on quiet residential streets; the final 300 m has no Street View."
+        }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:09.439Z",
+        "dest": {
+          "name": "Wexford General Hospital",
+          "address": "Newtown Rd, Carricklawn, Wexford, Y35 Y17D",
+          "uri": "https://maps.google.com/?cid=2703091205570474847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.4,
+          "ratings": 210,
+          "lat": 52.3432648,
+          "lng": -6.4831242,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ1SE5gKgcaEgRX7OCPyFPgyU/photos/AV-0GLeNOTq4TN9mYCt3zwDPHuNlSLqqJQQAZA12NQhHegOPVIW-5MfcjnG5HbjsFKjtpwLqsGWTG0EXkq5adDML6eYUVp2QPe0iQBdSF6PCnaFScGYqz4VDySAFzj8S3aa5n4iJDqgrv1BUtx59wdo0tjxppacv5ZG1-uph7VAFQliHzNEPX90SgqpmpaySxSGxi00P5AxewDHj-RutfBDCzqlb2DTjxUlAfO0BTKb5VT4nfOTMaFboDa_3cq2EOYuq-n4nazTmN8J7zoXf-DfRtTNZ7gd0snqPPXLljNdsfCnnqLlwDvV6-ZwYEGlHQvc4ye2qgvTnHYRpDOTXXeG2-JOOzlqyrZk5UItFdSlMP85Vw2vY3pGHltRDDklH_ZlBa6npokupmzoB9m34Nnbxa3SPMainP6g/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Keith Kennedy",
+            "uri": "https://maps.google.com/maps/contrib/116833290017099661719"
+          },
+          "q": "Wexford General Hospital, Newtown Road, Wexford"
+        },
+        "duration": 292,
+        "distance": 2511,
+        "alts": [],
+        "walk": {
+          "duration": 502,
+          "distance": 591
+        },
+        "bike": {
+          "duration": 619,
+          "distance": 2252
         }
       }
     },
@@ -336,6 +530,42 @@
           "level": "ok",
           "note": "Busy R769 Newtown Rd and R889 John St with no cycle lanes, then narrow town-centre streets lined with parked cars."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:09.439Z",
+        "dest": {
+          "name": "The Bullring Market",
+          "address": "The Bullring, Townparks, Wexford",
+          "uri": "https://maps.google.com/?cid=3421839085302747084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 16,
+          "lat": 52.3399223,
+          "lng": -6.462106299999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJJar7eAwbaEgRzI8EtoTQfC8/photos/AV-0GLepkvzNAfb7nXmU3Eld4Vv2GWjE4V8EfxOkroEDgBWFEGJauh6LBXw0iYJwG7Hym4QVzrj2vJnPKBhWaaMQ_jWU-wLGzCqkmjFhG5V1redKEew2ZIc_XoNXL9Gonev4NJmro4P_NdOMneyTZ4kCbEGaiYgV4KFDNzy0L62vxDLqvJszcv3wyldOHJWPpmpiHO-uRQ4xea6YbwJFxmHa12Ne6Omf84Y-x6T3rY3Kd2F5tfLj4Uau_t4CV-b2T90EObdirxOhINSr_QkY1GH-Gfz3ZAwWX17B5Efr3jtDNmFMFCC4qxVLihmTGQqCiylHmLg9jvenk7i7kSZHnhtllkwUBFrpw3Q4fD6nNma2JFTvNFZZC1qmXJ9h0cnRgznWHU3Sf1HgnVpJJQtebo3uBLCCRw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "p bour",
+            "uri": "https://maps.google.com/maps/contrib/110428016759024374688"
+          },
+          "q": "The Bullring, Wexford"
+        },
+        "duration": 435,
+        "distance": 1935,
+        "alts": [
+          {
+            "name": "North Main Street",
+            "duration": 445,
+            "distance": 1968
+          }
+        ],
+        "walk": {
+          "duration": 1132,
+          "distance": 1426
+        },
+        "bike": {
+          "duration": 368,
+          "distance": 1735
+        }
       }
     },
     {
@@ -350,7 +580,37 @@
       ],
       "note": "Nearest city, roughly an hour west via the N25.",
       "when": "15:00",
-      "group": "weekday"
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-10-30T01:06:09.439Z",
+        "dest": {
+          "name": "University Hospital Waterford",
+          "address": "Dunmore Rd, Ballynakill, Waterford, X91 ER8E",
+          "uri": "https://maps.google.com/?cid=18366841158015417398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.6,
+          "ratings": 433,
+          "lat": 52.2485059,
+          "lng": -7.0784959,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJlWiCpMbGQkgRNnyItbgg5P4/photos/AV-0GLfDgpmTKewpw3jai-xlOkhelkuMcTsO8u9A-hFvVh01EwImkHnZoFnLtVoHoCLhuhC6KVwsOweDy4BRoJ9PIl0rlTeOJ2LqnDB-H2r3XRpq0V-eDovOPSEY6YHvo_5AjoSSXBn6OBcnRE5I0kNlTnw8o_Ln_KcwtjxjkvA_BOA4evhVtJKfqxL48m3l9IjQBfnko6i-sHxRurh014B5kJ2Ix9KbyE-xVdZFMqLha0--1TlKkeLhogqD4ORjzVQvXn71EFVMQUknTCEsnVgd_bXj21W3m0QDrkHhSCQLweQs0cHkzr_GfM2uvHzQoOVVg74730-cLRvFJMXsLL55vzPWTpAVQ0aDuwBhZPbR7BKShsmPoDIf_VjBx3BkjW5_cXMvul6nN66U4OMEGw8ga4KqxX4/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Arty Okkas",
+            "uri": "https://maps.google.com/maps/contrib/118243143724239708496"
+          },
+          "q": "University Hospital Waterford, Waterford"
+        },
+        "duration": 3797,
+        "distance": 59429,
+        "alts": [
+          {
+            "name": "The Quay",
+            "duration": 4140,
+            "distance": 39802
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "dublin",
@@ -364,7 +624,31 @@
       "note": "",
       "when": "09:30",
       "group": "further",
-      "day": "saturday"
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-10-30T01:06:09.439Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLcKqvINI5SAM2NwZtxg12iCisnJVbWTiKb17eoeGj0tvYeQVA9KKFeuGXdoNI-JUa5qWOhsnYmAf2WzkhVJZFu02vo7yn3ny3paGB4LIlZpbrdpYYEtvE_Y5ESpJiMcHX2zM_sQWROAupoOp7dDbJM6SPA7F1UP9Xs_T_OKad2IwY9BmLiu7avPsLc-dxen84iIJdH9dumDnH9lP2hQ3whz6h3N4wSwB20vAb6oWH09aoUnA1ADaU4yCwD4Bo_vR1EXqlK8qKK-ix6-bIIRbNQ8yJCMApZHTQrEhJ0b63vJwK9KjwFvYQDamno7_TQlY9lM24f4cFjMmCEiAwhiBTXm406Kv5MITDJTCjAon1Ityg0PWn2TAZdMm4qY-t2byefkjFoYM9HNT8uEIdqfdSMFOw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 6559,
+        "distance": 138204,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "cork",
@@ -378,7 +662,31 @@
       "note": "",
       "when": "09:30",
       "group": "further",
-      "day": "saturday"
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-10-30T01:06:09.439Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLcQsSwetf0yUKSj81k67aQr2Pzq6_uAzWSqUpXgHeULlbdstorMI3Qlua28f1uHOu0uI0dryC2JE64zDr8BQgZlfcjWWaupN7DIx1k7SuOJbQLmxZPYCPF38zxctSpt3CSv4SnRB7LvlYNfFbzlSKAzWAiSgKxUOplphE2v27OxL-qbBQXS-V7xpBTmOcf4pKbhLR7BKWPhhswSDb3hMJ-6hVYoU9wUV68TYa6AcsIxp4Gow_49ew7u7y3br8eJ_KAqUfN3CrUeQdyuro1bf0GUbGomyJtQQJuTv3k6qbsPri0vQ90_swAGMVHvc3ldxjxwobDnoS_KVvN7lHM_0rOL0qxH45oCxZ7U5Ht9OX_PUDXTu94WxZBGmuXHmHQ3ZcZ7BczuO6glbsqIUS18ooA4id8/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 8915,
+        "distance": 175858,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -402,6 +710,42 @@
           "level": "ok",
           "note": "R769 and R730 urban roads with no cycle lanes, plus the Spawell Rd roundabout; fine for confident adults."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:09.439Z",
+        "dest": {
+          "name": "Wexford (O Hanrahan)",
+          "address": "Wexford Railway Station Redmond Sqaure, Townparks, Wexford, Co. Wexford, Y35 FC62",
+          "uri": "https://maps.google.com/?cid=4263746221154084344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 69,
+          "lat": 52.3433383,
+          "lng": -6.4643597999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJDVnuREUbaEgR-KVNDJneKzs/photos/AV-0GLep0wwwF0QZCM-Vr63fsixGLE1SCws1wZEIEan3ZzLNpW7gCWaAHQU2zq4u_i7XJoT1X2E0WjFd8x1HkZ7OU9L_n3lbrzBa9w4LNDbfw8rP9SVwpxadJJXfvtgVDFHoYcbD7miD-cqCQzmtOGXgkITVNv3QnF3Ka_T0YpnUWxAHaxourzAhRKaRH5vjHz6Xab9_EbJhhQ7EdH2yFDtivrcA1tPeQ1lXxPA_yr7zMXMuMAw4aaQjDwHCdY50CVS4X4kWeLw7qkl21R2owMjik5Ctd4182kdY0-qXDlqcJ-oFneEEmYyzM01DCG4HEdbZvl5IEx94k60Q492Mucs3R_Ewqrz_v735_fJVn8FWNTSFnf_cuyhV3ys8rDY8pZIRetypaNZAD2icToFNPkpXmV_XttA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "スタバカ（SUTABAKA）",
+            "uri": "https://maps.google.com/maps/contrib/107705833309561868785"
+          },
+          "q": "Wexford O'Hanrahan Railway Station, Redmond Place, Wexford"
+        },
+        "duration": 175,
+        "distance": 1416,
+        "alts": [
+          {
+            "name": "Wexford (O Hanrahan)",
+            "duration": 175,
+            "distance": 1416
+          }
+        ],
+        "walk": {
+          "duration": 1109,
+          "distance": 1401
+        },
+        "bike": {
+          "duration": 301,
+          "distance": 1416
+        }
       }
     },
     {
@@ -416,7 +760,31 @@
       "note": "",
       "when": "06:00",
       "group": "further",
-      "day": "friday"
+      "day": "friday",
+      "resolved": {
+        "at": "2026-10-30T01:06:09.439Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42131,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLf_1QS_Jof8-9tT0U8BD8uOsAzjMpwti6zYDUf7_xvK7r8LnjJbeKORO81ZzXXri0pVJZrJhoHeVEUcsc6qWiNCHyzj_u7RD5lBotvrr5fR1t8J4aPLApj9fVlHaeY60nHf5DiH9zAFejal_kYLsj1Vda6N8nrGv6baG5AJYqWjT7F5kQ6Yo-7-cxymPLHi_KfnADuplZtOP43gK8jzh7vz3W2fje-TYVBagJZHFcU6OCV4oY_FOOkHIY8k2WwWVKtZlzCMSfJIzLnZG-ox3qXxu9R5kRo2cr-im1Pf9x-viUzBnW8j8B0-yd8zEYLGznV-kAnwf5zP10VH45Tw_sbjeq4mIReLDRUYaMxJLUF0W5sXHgE_dy3e10WPSizxF-Mz_xV0FBCwzUUPE2A6fY_4okofev4/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 6478,
+        "distance": 161499,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [

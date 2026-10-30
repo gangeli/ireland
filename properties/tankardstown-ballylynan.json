@@ -19,7 +19,7 @@
     "BuyerIQ shows three planning applications within 1 km, one an active build. Do you know what they are, and is anything planned for the fields beside the house?"
   ],
   "ai": {
-    "stars": 3.0,
+    "stars": 3,
     "why": "A sound, well-kept single-storey bungalow with all four bedrooms on the ground floor, 10 minutes from Athy's Dublin trains, at €450k with a C3 BER. But at 150 m² with one living room and two bathrooms it is compact for six, it is plain and dated inside, and a truck and caravan yard sits about 100 m across the road."
   },
   "services": {
@@ -187,6 +187,39 @@
           "level": "ok",
           "note": "Quiet, straight local roads for the visible 2 km; the last 1.4 km has no Street View imagery."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:30.336Z",
+        "dest": {
+          "name": "Shanganaghmore Catholic National School",
+          "address": "Barrowhouse, Athy, Co. Laois, R14 K695",
+          "uri": "https://maps.google.com/?cid=10540657976436682973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.953353799999995,
+          "lng": -6.9926729,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Shanganamore National School, Barrowhouse, Athy, Co. Laois"
+        },
+        "duration": 206,
+        "distance": 3355,
+        "alts": [
+          {
+            "name": "Shanganaghmore Catholic National School",
+            "duration": 206,
+            "distance": 3355
+          }
+        ],
+        "walk": {
+          "duration": 2715,
+          "distance": 3355
+        },
+        "bike": {
+          "duration": 610,
+          "distance": 3355
+        }
       }
     },
     {
@@ -204,6 +237,33 @@
       "rating": {
         "level": "Average",
         "basis": "41–46% progression to third level in older Kildare feeder-school tables reported by the Leinster Leader, at the bottom of the county list."
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:30.336Z",
+        "dest": {
+          "name": "Athy College",
+          "address": "Tomard, Athy, Co. Kildare, R14 KT50",
+          "uri": "https://maps.google.com/?cid=4088337136266322418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.001559,
+          "lng": -6.986398299999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJyzZcJYxvXUgR8iEx6fawvDg/photos/AV-0GLdNvtfYzgLGcZ8xUrv3N5oXmHQMj9zTXK58QweDbfgB1Xpk_okQsiKXFKCeVMojm_lOtiDc3lXxe3TYdJvH0Bo_7DWOEeLt03oMBlptJYwcRXcTkrmIT0hzVbkRrVAXzzAlHLBiwp8Ce5ohdwj3shCDm5doFqkBxYzLopYvxnTPkydCybhzuPUP7NgJ5QN6dM_8y8LKF9txECXxwdM9s55FMNX9cjVPybJah0ErsWPY7IeQ2Jh6eXi62CeZ0y1yloRrK-a1UQNZamOBsHFXErPkNh4RYVHsZQuJU-W2-p_WHAr0q8CYBX1JJ4n4fvugCzrWWW5KF0IesfF9p1YNdmmafYjOgUUpUaraCb9LvDHV8hhlQQbdX5t8qvC1AJCA4hRgOl1LC0gF6CVxIS3OL_AaV2APCik/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Athy College",
+            "uri": "https://maps.google.com/maps/contrib/111220911465331920954"
+          },
+          "q": "Athy Community College, Athy, Co. Kildare"
+        },
+        "duration": 830,
+        "distance": 9072,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1707,
+          "distance": 8835
+        }
       }
     },
     {
@@ -221,6 +281,33 @@
       "rating": {
         "level": "Good",
         "basis": "74% progression to third level in an older Irish Times feeder table quoted by the Leinster Leader; large and popular, but no recent figure found."
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:30.336Z",
+        "dest": {
+          "name": "Ardscoil na Trionoide",
+          "address": "Rathstewart, Athy, Co. Kildare, R14 DK12",
+          "uri": "https://maps.google.com/?cid=8772016288564232822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.9959722,
+          "lng": -6.9840314,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJCWRtZ_JvXUgRdsLPm1Z2vHk/photos/AV-0GLeslF_34C0o8GKevOQeog1imIhwSgaSiq5rgWJJg4pgl_OQRy1AkvwVqhP7n2d_ndNEJxpyjN2Le3KL2nVDJH5hjziTNg54dCh0Czt-P4fZ2FiQLpRzCzauBrH8BaxIKhupJT-c1sZhfip2uy2h_nvY-P1QPeP1aBC2Hz-LhRtyvOYNhjghXJYsW3JaO61lon-UgtQXa1TpSlBC2_adXiyFHodIYslHcrY52s2_qnSfbnN4AzpNIAUR6Hath2L2xd0D9-a1IAvod57h-wIFHkdxhS4Dluwcue3_d72ZcKUOQ0cVZpkgQdbKtxzzpZiIWhsoQw-KAyjRbF20WNSptdIsDl7vcdMGmtwOPlKlh63X-OH7zwGDbfeQKIJs-btXk8DQZ4Qi6kgOPPpcOr_cALCDyxglDm0/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Wojciech Matuszewski",
+            "uri": "https://maps.google.com/maps/contrib/114360452243278917406"
+          },
+          "q": "Ardscoil na Tríonóide, Rathstewart, Athy, Co. Kildare"
+        },
+        "duration": 759,
+        "distance": 8315,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1557,
+          "distance": 8078
+        }
       }
     },
     {
@@ -245,6 +332,42 @@
           "level": "ok",
           "note": "Quiet local roads for 4.7 km; the final stretch on the N78 into Ballylinan has no Street View imagery."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:30.336Z",
+        "dest": {
+          "name": "Centra Ballylinan",
+          "address": "Unit 1 Gracefield Neighbourhood Centre, Ballylynan, Co. Laois, R14 HT28",
+          "uri": "https://maps.google.com/?cid=6037686416501316163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.8,
+          "ratings": 37,
+          "lat": 52.944205999999994,
+          "lng": -7.041817,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJcZrUOsBuXUgRQxrDiM4rylM/photos/AV-0GLcaf_Km1n77Nqcia1SOKY44LM2kWRGtafqMKVLlZhDtrUsa6GFNzIszRqKS0b5EVyrZeVoyK39XUfPA69Hwh0yEzN3ObkByrblOVtnhx1PSGbxR87T6FN3DzFwb53muNLWYlyrCcEYrwME2Y3Kkr2HJT3VvrGwrtNrrDXpNa9bsv7wwS2QuptxzILCZdaz1unk0g7EuLwRpe2t1aoGxRrcZj9xkU1bVfhV6fcCS_FNObUNf8ap6VG7ylEWAZaVj-NOEgGZEyVmViq7iAFHD9em2ev2Tvh0YKCTYtGZD6gU45IfdFASVnN-Jh_tdTV-uj_yqerAAEWAffyugvSPQe2bM_pW1xILlS6nHkPnLJqbLJppAC7CH4FQxTHjF_5UqiWYITc6aYi0E5pR5bnEdL1cWdEgI-mE/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Centra Ballylinan",
+            "uri": "https://maps.google.com/maps/contrib/111202110136890453761"
+          },
+          "q": "Centra, Ballylinan, Co. Laois"
+        },
+        "duration": 412,
+        "distance": 6079,
+        "alts": [
+          {
+            "name": "Inver Spar Athy",
+            "duration": 637,
+            "distance": 7771
+          }
+        ],
+        "walk": {
+          "duration": 4971,
+          "distance": 6069
+        },
+        "bike": {
+          "duration": 1143,
+          "distance": 6079
+        }
       }
     },
     {
@@ -260,7 +383,45 @@
         "Lidl, Athy, Co. Kildare"
       ],
       "note": "Athy's supermarkets are about 6.5–8 km north; Carlow's are a similar run south.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-10-30T01:06:30.336Z",
+        "dest": {
+          "name": "Lidl",
+          "address": "Leinster St, Athy, Co. Kildare, R14 VN24",
+          "uri": "https://maps.google.com/?cid=9482404763411622794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 853,
+          "lat": 52.99301,
+          "lng": -6.9778899999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJhUxQX_NvXUgRiiufc-REmIM/photos/AV-0GLekfbYXAk4jPkaDgb76X7FNp2X8RbdQ6Vuxj1Bcc3m-XAvIWaZjpDyb7muLE8eB6Wk6iA-X4Dm2pzT4895hQFvw_UqFzHhJMMeB_S4p6baGTYdTwWrVo2qhcDDogtsRLEMOrQxOY1XAN3bE_izRM9UrAKdjCUd66PNNBpdm3pQRME7cT720EjM72_ssc1wu4j0UwpygrCXurCj1GCDdOfiLwFFarBz9QZk5xBSEsmlp30VuXrEmJfJZkDP037JND0DQ4HKh_pdbXKft4ILbOaio-yjWhHlhRXoqoZkD0zqZMNpR8j4r0sDKjfCs9ybquhvZexD4kO5S7nkApUirUaVxGP_DN_G-s_96KUWHcDIP5ZADm1QoU-1Qo8pWJ2HjSqPSZjulWgEn68_W-gkrqlo995k/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Oliver Murray",
+            "uri": "https://maps.google.com/maps/contrib/112753830060456234947"
+          },
+          "q": "Lidl, Athy, Co. Kildare"
+        },
+        "duration": 628,
+        "distance": 8454,
+        "alts": [
+          {
+            "name": "ALDI",
+            "duration": 663,
+            "distance": 8390
+          },
+          {
+            "name": "Tesco Superstore",
+            "duration": 1997,
+            "distance": 31565
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1572,
+          "distance": 8190
+        }
+      }
     },
     {
       "id": "dinner",
@@ -274,7 +435,40 @@
         "The Green Barn, Burtown House, Athy, Co. Kildare"
       ],
       "note": "Both won 2026 Restaurant Association awards for Kildare: Clanard Court for customer service, the Green Barn at Burtown House for contemporary Irish cuisine.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "resolved": {
+        "at": "2026-10-30T01:06:30.336Z",
+        "dest": {
+          "name": "Clanard Court Hotel",
+          "address": "Dublin Rd, Gallowshill, Athy, Co. Kildare, R14 FY90",
+          "uri": "https://maps.google.com/?cid=5071510625003051463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 2158,
+          "lat": 52.998681399999995,
+          "lng": -6.9597121,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJnUZdv1xlXUgRxxntHQugYUY/photos/AV-0GLdM3X5qqvcPChJ2w36dFZMwD_uiJtH5lJibRKVEdJDHTihW63No6fTS9lW51l0ZbqgmZohnQgWM3sS8QVtZeFGTjipkBNIsnnE9GME5QWhKprki0qy7tFoAL08yDymq1PBrvuT5e6HnSkP9x9MlWTgmgRntrcM3kLZbzEVmhgCiiQNsdNfODxEd5y5YMTK5sFrez-VD5zW2wVjxKf29wl3EH1NduicqT97y1o9EgHPURvhlhYCod14NPPZtDQpo8aXVLvZwEL5hjsYSfhzMXaJcKs_onp-TY690Vav8LkV0F2moXSx39-emkhvVDQcGhVhp73yx0WoOU1dDjVlQ094a3fdjxC_XoWkuyBb0HSf7tz0AcOaPSjY7D35wOfanDAZTkL0zzPvpBNafVChxQaGBe6I/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Clanard Court Hotel",
+            "uri": "https://maps.google.com/maps/contrib/115534361262572435133"
+          },
+          "q": "Clanard Court Hotel, Dublin Road, Athy, Co. Kildare"
+        },
+        "duration": 685,
+        "distance": 9696,
+        "alts": [
+          {
+            "name": "The Green Barn",
+            "duration": 934,
+            "distance": 15810
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1815,
+          "distance": 9439
+        }
+      }
     },
     {
       "id": "hospital",
@@ -288,7 +482,37 @@
         "St Luke's General Hospital, Kilkenny"
       ],
       "note": "Portlaoise: 24-hour ED that takes children (paediatric extension since May 2026), about 35 km. Naas is 16+ only, and Athy and Carlow have no ED.",
-      "category": "Health"
+      "category": "Health",
+      "resolved": {
+        "at": "2026-10-30T01:06:30.336Z",
+        "dest": {
+          "name": "Midland Regional Hospital Portlaoise",
+          "address": "Block Rd, Kilminchy, Portlaoise, Co. Laois",
+          "uri": "https://maps.google.com/?cid=7142762024074450881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.7,
+          "ratings": 196,
+          "lat": 53.038208399999995,
+          "lng": -7.2760839,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJDzP436wNXUgRwZcbiDcwIGM/photos/AV-0GLeDRZbNN4aV-QGMMNKr0oZFG7pZOgmsZfwSmoJxA_GsOve5ov9Zgo8kS_xMtKMNZAkN-z0NDlxVWXizha5HzDXf28ddOsvD1nKLcP7O6FBTuXP9-kNsA45dGTtjhIPQIc96nrUHdSC9HGHegmnaFmWZfX3yCZsW2ubYIJaH-qG51Pr4AZqubANbK8-Ul_g_BcBMPAJBMC6l5jNhLpAEP19v5vclSGWkDIeq0BqpeRqz3JQ79U4h2JmSPhU3h2Dm3Ia8KOiKMkMU9czB6miXYS48FId81jb4pIunYbs6rWswe2tiA0USrBfz7I79rvHARW6IAFmxduit9KlLmU60PfCqJF8xZbdofVUJ9Y3UxLoWvhUMBVVki33Yhc_zIOw4xMBfsqDipuL-kAvM7jB2AwOANC1gpM8VUu9zRwxKyCGOxg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Nilesh Mishra",
+            "uri": "https://maps.google.com/maps/contrib/116976963245334691980"
+          },
+          "q": "Midland Regional Hospital Portlaoise, Dublin Road, Portlaoise"
+        },
+        "duration": 1704,
+        "distance": 29601,
+        "alts": [
+          {
+            "name": "St. Luke's General Hospital",
+            "duration": 2671,
+            "distance": 46045
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "town",
@@ -311,6 +535,36 @@
           "level": "ok",
           "note": "Quiet local roads for 4.5 km; the last 3 km via the N78 Athy Distributor Road has no Street View imagery."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:30.336Z",
+        "dest": {
+          "name": "Emily Square",
+          "address": "Emily Square, Athy, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=14729119468568973137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.9918546,
+          "lng": -6.9830641,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ0TvmN41vXUgRUQ9YUh5YaMw/photos/AV-0GLcsz3F7vGyYQAehVL26_ZPR6BByxgWbaf-6miNzGr_4Gdbw5VQfI9A_hxUcvWL9zD9RcwJ8kE45kyeGi7WHdNAaRC8GDfsrFVnRiBTHWXzOMuwZ7mIPdZM4FCixP2910J4T-zOL964X14NIda_5exC7STn8wq_LPEDKSDBZnvP7iIk-s0ijvUm0bw5rfPUO4-70Ny38sHMdMwp_c5ax0ElMjFy9FeGzeOJXY7G32s0tAURFg1JxHawHGK-ERiivh2fvPWkV5c1ZGWMwweDzKLsNqNqcFNxzz62UJICPoUn_0FRDUBCX957vTSHRWdwynxvxdA1i6khZwKtidobfMzOTaSTQkbvNg40bOtMzqrrr7wNfMAxAiYjPda4I8vXosdrjl6XoKc5T8syLFwyPYPnxe4SM3lo/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "James Mahon",
+            "uri": "https://maps.google.com/maps/contrib/104251311114361409463"
+          },
+          "q": "Emily Square, Athy, Co. Kildare"
+        },
+        "duration": 552,
+        "distance": 7819,
+        "alts": [],
+        "walk": {
+          "duration": 6125,
+          "distance": 7582
+        },
+        "bike": {
+          "duration": 1392,
+          "distance": 7582
+        }
       }
     },
     {
@@ -324,7 +578,31 @@
         "Kilkenny Castle, Kilkenny"
       ],
       "note": "The nearest city outside Dublin, via Carlow and the M9.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T01:06:30.336Z",
+        "dest": {
+          "name": "Kilkenny Castle",
+          "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
+          "uri": "https://maps.google.com/?cid=14479754400188434760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 15604,
+          "lat": 52.6504632,
+          "lng": -7.249297400000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLfHTDyc4PytZdEUtKSl0Ehkylm8-2XwpDEmmkb5hVcFGD1jI0jOHom_0N9WDWK1QuXzBhZGz18-FRMa89NXUIUWuBw4EukI5SaRe8odc660urKUFp6kVE2vqMhRDddTLRU4dgqV2gdqM8yX3wvR2ozXYWxwo0bNh6CF0NKoWVbA4qFHCKdgQvZLhwZ5z9ZRBqPGLZIBBoDirKAI3_oI7V_yMFb5OTwUfbAFwoTB7qG49FbEcfSRXElCBeTf-UOLO7xE1CcYyU2maNjMMuSBo808xEIYewrzid6kMozuR37VWweCQcrgrFYBOwQDPTPX3jcgoRO0FNUGekC74ugZo-NtLVukgN54724u1twWB0EKRiAKAL1l5qkse3v0kZl5GGd6vqNBy50W6HvdWD9JWy6C8FdT/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "lahari anandur",
+            "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
+          },
+          "q": "Kilkenny Castle, Kilkenny"
+        },
+        "duration": 2909,
+        "distance": 51552,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "dublin",
@@ -338,7 +616,31 @@
         "St Stephen's Green, Dublin"
       ],
       "note": "By car via the M9/M7; the train from Athy is the other way in.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T01:06:30.336Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLcicS7cxXylhVaH_YlAyJf-8T3D4k7pxN5Iy4a9fpdA07uTSwfhjBhAlKuHqBl7j8Xnw6RE04QAEq4XU0YOo89sf9rH0tZvWR8zjLRToBNxhMzzRpDO6rdRK06IlWuYCxaPV8CI4cyCl1p02P35EQ2EdD5LI7SczQ_Sb3j2FWqPzZIFYHNU0r0-p6CiYouS4xAD1-wtNsr0sjbqzxqcgnHfYwZvzPVvkG_4AS3sm9mV1kvpZSRk6gPQa9cCPM-Fp7sG-8wVwQa29CpA1nIPPP2taJsddgmqSCnPDX7QTyYpbAd0VAESpX_WIDNRtCW1TgVLFV5TyopYEqlAR78L4PaNI0m2dzLrm5ZB3x_E_fOydUykEn9_41RWSG_GDav1XiqdPvztmInmruoASmNNH9f8Xg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 4160,
+        "distance": 79866,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "cork",
@@ -352,7 +654,31 @@
         "English Market, Cork"
       ],
       "note": "",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T01:06:30.336Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLcx1YPEXMA0pKOOC_wbqbOEVOD7_lW7q760ze8uZzVvv5scVIDEj9ExO2HJ96EckLyqUAmXDLSLScrzlxuYV7OVG6reVBhvnN2k9N4jb06xjMbF96lErq0ZoFrsO4pAyO1yrDXEFPtXFYoIXvCEf2M_I8wG5K-YtYtOxGR33-BKrZS4heTy4bpg4Cjwdmur99oOsfrMdmO_NQXD59yDne9i3j78d5lSXxTbakNoLclPjIwgp5I-4RmUbcPZD1_bwE4LMPErcGjpoUnSEaU62S_iuJxYhWM7T8rp-9Djz5TRlu1lEJigpYdhIeX0BzexwRZ3G1LQxOmnMkeQY8-j4HWa5bvMnT9UEIZ3-kaZ0shKfb528dU0ulXM67Zrem3p2rjp6AMdoB_3rKlBPFnJbZzKa_A/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 8412,
+        "distance": 188933,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -367,7 +693,40 @@
         "Carlow railway station"
       ],
       "note": "Waterford–Heuston line (not a Kildare commuter town): about 10 trains to Heuston each weekday, roughly 55–65 min; peak trains are reported full. Carlow (about 10 a day) is the alternative.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T01:06:30.336Z",
+        "dest": {
+          "name": "Athy",
+          "address": "Church Rd, Athy, Co. Kildare, R14 XH64",
+          "uri": "https://maps.google.com/?cid=11457568055888639980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 32,
+          "lat": 52.992483899999996,
+          "lng": -6.9768387,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJpxP7x_RvXUgR7PcaKXF1AZ8/photos/AV-0GLdWPZoGbAhaqZnF8bB0l4H2oWSRQBYbLqdz57tcXJm5pISm1FOzHrUobXE-qosyr4OyRdgc-hEIuifoCNTutyD45H18fxbf29BsA7Ob-g0dF9cHPWnkIk76Ibqa8RrlMfaq-TA4_tgyxILMpWmBDlC1lMBhr0bE2OiUY_pY0EGvk8DBHriywWQzx8hV96hgzN-KcQ8o2FzSacCAaYARZhm5-Hd-2YoJqsXefUOCnkGtG6riUagMeDpmmtPyQtpbWeqtbOPl75i9A0RWtB9rEfh_DkHh91SPrRQ7DgvnITu9Ei1ts6_YXO48w0x_Z9WUosPe_T9PaAcgL4wR4pHAHd9s3mGPkIdrrGoe0gTsB6l5ebhgw1phNbmcAJSzuqD3ksmu1lQB17eBoAZHiDliSHkNPf734Hk/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "James Mahon",
+            "uri": "https://maps.google.com/maps/contrib/104251311114361409463"
+          },
+          "q": "Athy railway station, Athy, Co. Kildare"
+        },
+        "duration": 523,
+        "distance": 8115,
+        "alts": [
+          {
+            "name": "Carlow",
+            "duration": 781,
+            "distance": 12233
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1473,
+          "distance": 7850
+        }
+      }
     },
     {
       "id": "airport",
@@ -381,7 +740,31 @@
         "Dublin Airport"
       ],
       "note": "The trip you and your parents will make most.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T01:06:30.336Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42131,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLco8H-UNC1szboloPYbc96t2A013r43sBNoFUg7yrPfElnQswsrgTHW-OJ8CQycmn7u63omgvfSQPTsrI07QMyOw1c5B-V_IeHYCr6YEOK5B9ttXyLM9-EGt9QRXbK2fe8D8NWSGauTTmlj-e3J4Z4d4a7qsNOy1-gSrZ6H7lNwQxfntc954N22eTrydkSxzzalDkygitPH-G787v-cGud1KbG59aZ-LeWrbpyt7BEfTZBMnh4daDcY8kSxohOVTQw_4b5BpV_g_sB0R30cBZ6Vh8fnlUQzAK0K4GD-xnear33lejgZyEXRzKiU_jT2D_7obao1Y4PihZlt8GZg8w37DIdEx4yJ5iws2EHRCQvX9j6bXcWUn0oMuSZtMYWeAFejMQvJbmlWt-cLPBtSDt36f6hqr5s/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 4142,
+        "distance": 91105,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [

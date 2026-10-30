@@ -167,6 +167,33 @@
           "level": "ok",
           "note": "2.3 km on the R505 with no shoulder, then town streets with footpaths."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "St John The Baptist Boys National School",
+          "address": "Old Rd, Waller's-Lot, Cashel, Co. Tipperary",
+          "uri": "https://maps.google.com/?cid=14827377262816040309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.5099416,
+          "lng": -7.8852951,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "St John the Baptist Boys National School, Cashel, Co. Tipperary"
+        },
+        "duration": 344,
+        "distance": 3957,
+        "alts": [],
+        "walk": {
+          "duration": 3289,
+          "distance": 3831
+        },
+        "bike": {
+          "duration": 908,
+          "distance": 3866
+        }
       }
     },
     {
@@ -185,6 +212,36 @@
       "rating": {
         "level": "Unknown",
         "basis": "A Whole School Evaluation for Golden NS was published in 2015 but gov.ie blocked reading it; listed as the nearest mixed alternative, not a verified Good school."
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "Scoil San Isadoir",
+          "address": "Boherlahan, Nodstown South, Cashel, Co. Tipperary",
+          "uri": "https://maps.google.com/?cid=8599061969570381965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 5,
+          "ratings": 1,
+          "lat": 52.5722306,
+          "lng": -7.8932312,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Boherlahan National School, Boherlahan, Co. Tipperary"
+        },
+        "duration": 499,
+        "distance": 8498,
+        "alts": [
+          {
+            "name": "Golden National School",
+            "duration": 531,
+            "distance": 8997
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1654,
+          "distance": 8616
+        }
       }
     },
     {
@@ -212,6 +269,33 @@
           "level": "ok",
           "note": "2.3 km on the R505 with no shoulder, then town streets and a roundabout on the R691."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "Cashel Community School",
+          "address": "3a Bishop's Ave, Hughes'-Lot East, Co. Tipperary",
+          "uri": "https://maps.google.com/?cid=13507797532130771558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.519024200000004,
+          "lng": -7.880995700000001,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Cashel Community School, Dualla Road, Cashel, Co. Tipperary"
+        },
+        "duration": 339,
+        "distance": 3861,
+        "alts": [],
+        "walk": {
+          "duration": 3303,
+          "distance": 3837
+        },
+        "bike": {
+          "duration": 932,
+          "distance": 3861
+        }
       }
     },
     {
@@ -229,6 +313,33 @@
       "rating": {
         "level": "Strong",
         "basis": "Tops the South Tipperary feeder table; an Irish Independent fee-paying list reported 88 Leaving Cert students and 100% progression to third level."
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "Rockwell College",
+          "address": "Rockwell, Newinn, Co. Tipperary, E25 ED60",
+          "uri": "https://maps.google.com/?cid=4947387179279650746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.4580716,
+          "lng": -7.8921594,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ6YYqP7HLXEgRug9JW22mqEQ/photos/AV-0GLecNRYzmFoFePC0pnfv4eHvOfbYiM1UwaefkOFqp8ya7ckZrzuZ-s3wOh8W_OkrzrL0O7vWV9ptpftD-LRNwVMN6uQsaGM__DqAzgElifl2qr6oMqc7dhhmjrW03MSIzi7mmP_bbtYXm4pnTYj2DZqZTSmycPlQmi1SO8Rp3EoEy0L-0S88D7F-Gj1jnpQWE1iHFBvaVqU3UX32bipDthI-FUr7kVbmrbKfZyf-EAt0UURi0CUKQjgnj7WUtAKVp30syQgQAkSJ72Ymr7iYuvog5WFHd0bKpXF5ZtYRS-sGl9ExaX9aQ2sIsDtfHLi_a2fwXTHrvcR--VlJtH2qh8kRRhOKlUlT7PIimXe_WIraW1iOfOFJv3fOuuxjcKaB1UmMrltHRwSLuWYBWLUW9YGcFlo6QgQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Rockwell College",
+            "uri": "https://maps.google.com/maps/contrib/112143608988544628559"
+          },
+          "q": "Rockwell College, New Inn, Cashel, Co. Tipperary"
+        },
+        "duration": 704,
+        "distance": 10003,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2157,
+          "distance": 10831
+        }
       }
     },
     {
@@ -253,6 +364,47 @@
         "bike": {
           "level": "ok",
           "note": "2.3 km on the two-lane R505 with no shoulder, then Cashel town streets."
+        }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "Centra Cashel",
+          "address": "The Green, Green, Cashel, Co. Tipperary, E25 V832",
+          "uri": "https://maps.google.com/?cid=16183408760591741530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 29,
+          "lat": 52.513701,
+          "lng": -7.887296999999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJNdgl2sLLXEgRWvIDPoYEl-A/photos/AV-0GLcEr0AXTN5UQqfpJZcRv0G2o9Hz_wmCrouvRx5D8saoEDnqpSCSDy_p5RP-EzLu_kzfQ992HbRvMTtjA4yBN64oyXtVdqO3mlpjPuATG7R1X8TfXjd6UDA8oP4en6AzabNCnMIeXlx3stOzXjRL98UH2ReCuzU4aACosFLFQgW_QpGYdEO-mTSEqYuYT7xBObCjtIEZke-KZnBwuSVRQzDBsOMA2pyHHYaBPkDjRkEcL48zMPQj8Bll0y26ztkjMl-Pn16nx93bs7vGSV5qqrJXRHvaywAXneruX9JuReYS2K9WLWRFIaEI75IU4RtpffH2-gunEB7_4IPW9Q7Kn8Sq24NpjyDPEgDj2DegDwRnF6Zzl1tn_i_peo3N4FiTcvs4yMtyFIBnhhHs8bJ1Zoc2Zbk/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "PASANG TENJEE SHERPA",
+            "uri": "https://maps.google.com/maps/contrib/105638534849713681043"
+          },
+          "q": "Centra, Main Street, Cashel, Co. Tipperary"
+        },
+        "duration": 279,
+        "distance": 3350,
+        "alts": [
+          {
+            "name": "Cashel Retail Park",
+            "duration": 340,
+            "distance": 3606
+          },
+          {
+            "name": "Circle K Cashel",
+            "duration": 460,
+            "distance": 4545
+          }
+        ],
+        "walk": {
+          "duration": 2827,
+          "distance": 3315
+        },
+        "bike": {
+          "duration": 757,
+          "distance": 3350
         }
       }
     },
@@ -279,6 +431,47 @@
           "level": "ok",
           "note": "2.3 km on the two-lane R505 with no shoulder, then town streets."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "SuperValu Cashel",
+          "address": "Main St, Cashel, Co. Tipperary, E25 WP89",
+          "uri": "https://maps.google.com/?cid=13442194606370368043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 301,
+          "lat": 52.5161139,
+          "lng": -7.8889553999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ7bZH5NzLXEgRK6pgUsZEjLo/photos/AV-0GLcWKx3s_i6YatF4k-o57LF6vf1f9XXWz74hNntgumTF9YAf45avqhVBW6aa4aeZOKyeHZLN4dSynwFWrnaupTfQqEFJCTxIeTlR75ELMk5JTrwwUIXgDR2ox4ujltWvDyPy3cG87A364G1OMqMMS2VfynSw6IzrG8VO4spl8FbZJqMpcMQbiJRc_33gqA0ycCHrvKlxkkFoQkgP0sEjnm6FcnbTyLotw3XP2qlOnVMogEX5duiNK1tklsBciagJ9w_PwUu5o_3zA0xy9iV_Ji_cZDr1BrBAVzYnbsRnRE7-5wuFL1a37j5loJS-aMXL463o2ywN2hbUUp9IErPrd3BmAPa_yaN1n9tJ6SvcfA1UtMMdb3mKP0f4BlWDroCm1yIAAnV30O9GarIDhw2ROTfGnew/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "ijam. 80",
+            "uri": "https://maps.google.com/maps/contrib/102490747069633872570"
+          },
+          "q": "SuperValu, Cashel, Co. Tipperary"
+        },
+        "duration": 274,
+        "distance": 2937,
+        "alts": [
+          {
+            "name": "Tesco Superstore",
+            "duration": 295,
+            "distance": 3433
+          },
+          {
+            "name": "Lidl",
+            "duration": 325,
+            "distance": 3593
+          }
+        ],
+        "walk": {
+          "duration": 2506,
+          "distance": 2932
+        },
+        "bike": {
+          "duration": 710,
+          "distance": 2937
+        }
       }
     },
     {
@@ -303,6 +496,42 @@
           "level": "ok",
           "note": "2.3 km on the R505 with no shoulder, then town streets."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "Mikey Ryan's Bar & Kitchen",
+          "address": "76 Main St, Cashel, Co. Tipperary, E25 NY58",
+          "uri": "https://maps.google.com/?cid=14424074266759455468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 993,
+          "lat": 52.5168361,
+          "lng": -7.8881263,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJZRC28dzLXEgR7OIMpB-bLMg/photos/AV-0GLeKVcjco61nPhNQ-7weI0A6bBcKI4wMaoHhrhaekzmsYuj5IEG0cSIxwaPOh6tZzsb9q7eVb9gsyXY2HAvXIGWo3zAJmKpUJzPsb3UtywbzAW3wp6V-dHrQSogbaMc_u9KjTZzQbwhvgAXnKeZBIUs4QF7U_ht_Tee46B63u1a_VjBv_VGBH-h0rBC5catzjAk_Ubdsi6wSH-J30Z47S0hKHjjGvu3oCqzK75IJTa-UG_Zk6dw4v0Bqcm1L6ptyF3iwdQsEDAVWKbUMmCGFQAU69y5DsNyck71Qnu-InFOuaq77pK9-m-gHDs13YOZiG58TO7mHDORIsdtGv1Eb63Cu7041nYGmhkswxJJn6MsN1OxI3NC6KZYZ7aEUeBO37rcrRQMqrhlGFLE216_aD3q7Izc/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Mikey Ryan's Bar & Kitchen",
+            "uri": "https://maps.google.com/maps/contrib/103141634975008191393"
+          },
+          "q": "Mikey Ryan's Bar & Kitchen, Main Street, Cashel, Co. Tipperary"
+        },
+        "duration": 234,
+        "distance": 3023,
+        "alts": [
+          {
+            "name": "Chez Hans",
+            "duration": 258,
+            "distance": 3325
+          }
+        ],
+        "walk": {
+          "duration": 2590,
+          "distance": 3039
+        },
+        "bike": {
+          "duration": 692,
+          "distance": 3039
+        }
       }
     },
     {
@@ -317,7 +546,37 @@
         "University Hospital Limerick, Dooradoyle"
       ],
       "note": "24-hour ED for all ages, roughly 30 km; Our Lady's Hospital in Cashel has no ED.",
-      "category": "Health"
+      "category": "Health",
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "South Tipperary General Hospital",
+          "address": "South Tipperary General Hospital, Clonmel, Co. Tipperary",
+          "uri": "https://maps.google.com/?cid=8849419159255485903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.3552895,
+          "lng": -7.7145723,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJl9YS3-8xQ0gRz431z9Zzz3o/photos/AV-0GLf4g6jU6CZHIdyNoPPPDVjgx537wNoRZBvv5Rz46jjxOKfE94kGP2eI1E-PJ9REusXQjuDlaHQV2cc-YTEUcZJdRRLemQnUwOJZ5kFcl3VlrrCjWW1Xe6q797meFRXtm-FQoxFzhF2BXwGdgyk1YX5iUKZH7W1EnX057jKl0PmurPnWrtvF-c2MbOAMrYZCX-EC_TCPkr_OKkkeTCL9F6VAmwI4DuKBUGPcx6OpFxH37t15F0AfFhE4WhIvIpxkKutBA2TBj3-YVGAzj_M895oqTG6J64bTaaJBWVDy7GmXaDaBG3r1l1HeRaPQu9NUlT1DvhfWja4tqEdv4dGrg5rfSLIBF2rlWisY1gHVxuSNtxuVULqEZIzx6arvrJzMMLhN3sVbOAcYBFjJySvDFXs_iNyQY4g/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Dr Mosaab Abdalla",
+            "uri": "https://maps.google.com/maps/contrib/114771299533147342019"
+          },
+          "q": "Tipperary University Hospital, Western Road, Clonmel, Co. Tipperary"
+        },
+        "duration": 1669,
+        "distance": 27908,
+        "alts": [
+          {
+            "name": "University Hospital Limerick",
+            "duration": 3467,
+            "distance": 59078
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "town",
@@ -340,6 +599,36 @@
           "level": "ok",
           "note": "2.3 km on the two-lane R505 with no shoulder, then quiet town streets."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "Main Street",
+          "address": "Main St, Cashel, Co. Tipperary",
+          "uri": "https://maps.google.com/?cid=11581385536360457618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.5164452,
+          "lng": -7.8885329,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJRatok9zLXEgRkqWc1chYuaA/photos/AV-0GLeRY2PC1X5ancTsBAW3K5C3nqxe7OEBmJAaPXH9NtDSHEhVK3VsRkSBTFniLzrzbDP7d5EMRd5CGL0jJ-HTWcdwRzMyeNUrdeyYmVeDK8UWoicL3DsiSs3YMOC6Smd_xOKqf6C2PWa3cwdJ4M0I2bWVSXnPBywDVy3OwRUK2hOoG80ki_jWJDBB6WA9JJs4bBHCagT5phzW_J1KSXnYYyubiS5ZIYgcH5GzhYRve6oQbJF8_GGtnGriWRx44Pv8ko2_cYDplfYQiWsGND03kX-XksI0Pt5omkVLvT6mZnK-HwYRy9lMarJJIka82xoofFfBmEjTiggynpFe4cEPxJX93NsMRNloevzOIn-qUwuD5DUbHljYZDJWbvhEQtmJ5l2Uz8mPDt3d1j0Jf2hC9hFjS9cEVlc/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Cathal Harte",
+            "uri": "https://maps.google.com/maps/contrib/112192589442889432595"
+          },
+          "q": "Main Street, Cashel, Co. Tipperary"
+        },
+        "duration": 255,
+        "distance": 2976,
+        "alts": [],
+        "walk": {
+          "duration": 2533,
+          "distance": 2976
+        },
+        "bike": {
+          "duration": 678,
+          "distance": 2976
+        }
       }
     },
     {
@@ -354,7 +643,37 @@
         "Kilkenny Castle, Kilkenny"
       ],
       "note": "Limerick, roughly an hour west; Kilkenny is a similar drive east.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "Kilkenny Castle",
+          "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
+          "uri": "https://maps.google.com/?cid=14479754400188434760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 15604,
+          "lat": 52.6504632,
+          "lng": -7.249297400000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLeWrDE_8_lGBXwjm7eZWDUBZMxk8a_EIcS-hsYUWS9l7XZuvi0-bG8-Pw_TvRkAxXFsK73z6fa-6BeelWZVI3983GTiccVbBJ_g_XPOX_hcUm14Gn-qurQujWWBr83Dy-x-G8CbOu9qQKZn_2aMHi9Q1owzWiJ7TR84sri1wi9-NHQ959ZdQxeG0c0DtFVNdaYYQh3vgKeEzoKKWsNqf_-r-Z1qL5vwd6eO6ig3FiRdAaJC35yEih_gwiayNoSkcq1dmCB0e594NVPDgAnSQwAQARMjnAD2GRC_yf6jWQ8QkWmw2PExd2bplwhvX6lz6mhPf3TLC2O5far7VeDxXBpGbO6qPm6WroHtMy1TMYMV9kwo9YgxVSiDY4Uk47ZvwfIvo28g2yVGe3F1z4ZlQnXq4Qqq/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "lahari anandur",
+            "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
+          },
+          "q": "Kilkenny Castle, Kilkenny"
+        },
+        "duration": 3629,
+        "distance": 65288,
+        "alts": [
+          {
+            "name": "O'Connell Street",
+            "duration": 3914,
+            "distance": 55478
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "dublin",
@@ -368,7 +687,31 @@
         "St Stephen's Green, Dublin"
       ],
       "note": "City centre by car via the M8. The train from Thurles is the other way in.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLcJo3hU9FSMKiyksFsIAKkrCsoFRVNa8DQc03r9wgrf-U3V9azDBuhexleJPElM1sr_wwd6sppZ48C3jS-NQrzKT6vBnaZFizah1WiGcyc0ihY5vQ8wb5yHZoIkumyGrX1S_Gk4VmKBaUmKiLk2LkmijGPesATx6Be7Yo_IEDavFQonHqH260WzI1uNzN5szzkO0wPZPGgdleZ3uFRVPRz03JR-wYSFGdz6FJDblwodkBUUN7P5LymZoE8Msuqq88KqYStDjTeIy4Ow-b5N0GzTdXWxUKne-atW7e_fnsaX_hdOV6QAMrvmGXGYaJKF4SzqISS_lyTXMhmdlS3Pkx0dXq6EghHCEHm-U1R5uvC-Alq_U8vgj2MHkgLgEoDcKCv0rC-ah3j5T7g1-aHnIWA3jA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 6785,
+        "distance": 162719,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "cork",
@@ -382,7 +725,31 @@
         "English Market, Cork"
       ],
       "note": "Straight down the M8.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLeHTUOjDF1jJaL6e-D_LD_rVidOn_uOCR_2chFaoBwJ3dfVKayFiiL5f_KUGNb65ZKah_QqmlsUalvO2b4B7Yvd6DKJ29soZtBqlnhofAc4pzpajn8Cs4s5UaIbJ97gUOpX40bt2TadUlK0FgLanh6O_dOHCU_QwQFP7dOdMS6yO6c4Xl69Y9CU3zGkEen_lIr5sCipDTCUZdtJfSoDh6SbzAk5HJUt24-ZTaSTtb5dNahRto-3ObrODNfwsWSN3Ml6d7U_io4aOhuw_Q4mq_kFlYQPJ0WbYJH7IlRHVvr0mm1KNhoPpF7sBPLtOzhzLPzBMjFvLSEkKeDm3eD7gLh2xAFfXT_8u-Sfr88vBC_Xs60BBq-vpWOfhIZ4PRrcWXy3goxhZgDyVX98Fo0AxrdMH6k/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 4088,
+        "distance": 100874,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -397,7 +764,37 @@
         "Limerick Junction railway station, Co. Tipperary"
       ],
       "note": "Cork–Dublin line: roughly hourly, about 1h15 to Heuston (aggregator data; weekday count not checked against the timetable); about 22 km north. Limerick Junction, on the same line, is a similar drive west.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "Thurles Train Station",
+          "address": "Garryvicleheen, Thurles, Co. Tipperary, Ireland",
+          "uri": "https://maps.google.com/?cid=18367095206220031239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 76,
+          "lat": 52.6767768,
+          "lng": -7.822069600000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJOywi7OvEXEgRB2WG6sYH5f4/photos/AV-0GLdx6wRVqX2XzL3mMLX0cimqp5sO_0nPqIyrCWJBst6qJUniYApuWRpI1FVNDmLBmrHDQ1u2Beo390EybIqx-kueJ0zWVx2o2uY8RlaTQbMhfW0tK9ZX1JCb59arT-TzjfjxqSsquvEr3507ZCarwl_Zm2CfMKsDwzj0LUKPf9TJYeCNmo5DwBbVwDL83lqThtmkEa_VyknbrbCq-C3IdYh3DP9Ul8nrSaTwQcenJ-2ciF_q1zYhEtCDpFwC32vG8IyyDy8DR5wa5mK2akonqYUAeNoY0Y6oWepAVAE0PA65BX1XA2AvCluLYsI0FsXk1dDQqO8iwRksEG5oBnNgo5QRsaJHgTNmZ_CmVAY3Lq3QzflKfwg2j8R9Hnmddd5Kn6_BpbGyoUW72gj72OgvGzSj3h58EVo/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Mohamed Eltigani",
+            "uri": "https://maps.google.com/maps/contrib/110684257701175088277"
+          },
+          "q": "Thurles railway station, Co. Tipperary"
+        },
+        "duration": 1364,
+        "distance": 22253,
+        "alts": [
+          {
+            "name": "Limerick Junction",
+            "duration": 1658,
+            "distance": 26480
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "airport",
@@ -411,7 +808,31 @@
         "Dublin Airport"
       ],
       "note": "The trip you and your parents will make most. Shannon is the closer alternative.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T01:06:51.576Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42131,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLcAfBu6IIukXLnewnt9g4wfEk_baTtBS3yOTK1ev06ZbHDNhiRHgXwUEXfEyI4RPLkvz-48CvJaZbtKwAzGA4innV34SKXwNxcf2k9eSRgeDCMGVoPtoJe3IIQD4xlcLCzIk0KNPD5FOQ_oPGE71oJPjlTpqDV-rSvgYy27CID7EV4eBcA0WGQwv-FLMIVPDpl-3fMJ4PSONVe6htOOrmzU1yrfz4f6ftOaKN7xffR4a_WyI5PU9ZiuCo85VmqQPpxu2XanP0l6Hq2jAGND6Dkcfy9-1KibYkaPsFjpCpdBmsKDXXfCAWKpyZ9CPGLZf9C_AHzoAM-d24AjuJMaUm4o_zknAuHRlH9UHLWAGMeTPW_ibxhyxYCd-pi19OODar-muQcwmPUeKxKBt9nm7WpnTtGT4Cs/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 6860,
+        "distance": 173957,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [

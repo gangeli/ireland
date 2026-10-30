@@ -20,7 +20,7 @@
     "Are the 10 solar panels PV (electricity) or thermal (hot water), and how old are the oil boiler and the panels? Are the boundaries stock-proof all round (we have two dogs)?"
   ],
   "ai": {
-    "stars": 3.0,
+    "stars": 3,
     "why": "A tidy B3 bungalow, all on one level with two en-suite bedrooms, 10 minutes from Carlow town and its station, at €450k. Held back by 154 m² with only three real bedrooms (the fourth is 3.43 × 1.63 m), plain looks, a 0.67 ac site and about 30 minutes to a children's ED."
   },
   "services": {
@@ -181,6 +181,39 @@
           "level": "good",
           "note": "Quiet local roads with one short stretch on the R448 bridge."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:05:51.118Z",
+        "dest": {
+          "name": "Ballinabranna National School",
+          "address": "Ballinabranna, Milford, Ballinabrannagh, Co. Carlow, R93 T9N4",
+          "uri": "https://maps.google.com/?cid=17739315094989481544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.785768600000004,
+          "lng": -6.9824467,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Ballinabranna National School, Milford, Co. Carlow"
+        },
+        "duration": 528,
+        "distance": 6459,
+        "alts": [
+          {
+            "name": "Ballinabranna National School",
+            "duration": 528,
+            "distance": 6459
+          }
+        ],
+        "walk": {
+          "duration": 5320,
+          "distance": 6459
+        },
+        "bike": {
+          "duration": 1398,
+          "distance": 6459
+        }
       }
     },
     {
@@ -209,6 +242,42 @@
           "level": "ok",
           "note": "Quiet lanes, then about 2.5 km on the R448 with a hard shoulder into Carlow."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:05:51.118Z",
+        "dest": {
+          "name": "Tyndall College Carlow",
+          "address": "Kilkenny Rd, Mortarstown Upper, Carlow",
+          "uri": "https://maps.google.com/?cid=11424372225325667409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.8185997,
+          "lng": -6.94421,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ5cu4AcdCXUgRURRgkAKGi54/photos/AV-0GLfnFBjwxyeQrqZalS2l4wdve9tzwAj6SghHae_yzsCkvbF5n8GKtOq1pGNpJC4bkzfoCj8veqgi-Cqlx9RXwzR7Yl3cFioTYQBnxYfe_DieYfyaN7wPQif11RsK6_i5MhO9IHnHD2_-qqV5oY_-CceV9mmGS-jnOu6Ehqz-FutDE9omQt9Q3gDBhRVu6mFnq6Dgz4dEFgVKxOsq_fT3enemIs9mZRjBOG5LvT0kB1jjQlLzMHRvGs5Vag8hrSTURmnjf6i-ptuGnpAuu73v9J0AltqL46g1lNv8Vz0SEhqmOTf1Cx1SKqVu_oqRBZxgINVS_PvV4OaUoGJpTDxkE66stxpxIKgVubfWhhUMpwwPtLUMxMsUccECVVVBKP7ml7xfgYQxjzJWheE-Do2DFrstWTI/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Ewan Hutchinson",
+            "uri": "https://maps.google.com/maps/contrib/112895099553430172265"
+          },
+          "q": "Tyndall College, Kilkenny Road, Carlow"
+        },
+        "duration": 500,
+        "distance": 7802,
+        "alts": [
+          {
+            "name": "Tyndall College Carlow",
+            "duration": 500,
+            "distance": 7802
+          }
+        ],
+        "walk": {
+          "duration": 6224,
+          "distance": 7737
+        },
+        "bike": {
+          "duration": 1430,
+          "distance": 7802
+        }
       }
     },
     {
@@ -234,6 +303,47 @@
           "level": "ok",
           "note": "Quiet lanes, then the R448 with a wide hard shoulder; the final 1.5 km has no imagery."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:05:51.118Z",
+        "dest": {
+          "name": "Drive service station Leighlinbridge",
+          "address": "14 Seskin Rd, Coneykeare, Leighlinbridge, Co. Carlow, R93 W594",
+          "uri": "https://maps.google.com/?cid=13391351411588981125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.9,
+          "ratings": 24,
+          "lat": 52.7385264,
+          "lng": -6.985589999999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ1wq-dWxEXUgRheEvjiij17k/photos/AV-0GLdAWO0P1eSgOuVLdTe9BEurY83bkIFgT7UnmeY1d_l3DgIT4PaxCfb9IQAtmFYOqahSuMcf7g080Ayp7PEYQt7o_4jAIt1aX0NyuuZyqb5_y-2GMQJuZ_zEoKY6XDHfvNMGPe1rT_gy1G1pxmP65Z-FQlz2WD_90AOaNddoCXTHa9jDshutBEKVlGpI22W6U5jP3Unt1AHxW4FqXSo3UVa4WWDqFH3g3BWmBsUomigkKc8qmXYvQf8HHru3A5vZW6eZBikNDFmkbD33nF8whzuqEURHUc2hcN_PEyCk7q3OsO0OG_YvCptkH1UuyDuIRovFroUJmaTD8Xx3clOGPrZFVPO94SJMsur5VuhYi_YUvv5_tDllanObSgF7BtmDzOgfPsAEjktzcHwpH1V3g-lvut5OA60/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Emily R Majusiak",
+            "uri": "https://maps.google.com/maps/contrib/106422457178403351188"
+          },
+          "q": "Drive Service Station, Seskin Road, Leighlinbridge, Co. Carlow"
+        },
+        "duration": 376,
+        "distance": 5738,
+        "alts": [
+          {
+            "name": "Centra",
+            "duration": 376,
+            "distance": 5738
+          },
+          {
+            "name": "Centra Carlow",
+            "duration": 1033,
+            "distance": 11121
+          }
+        ],
+        "walk": {
+          "duration": 4623,
+          "distance": 5738
+        },
+        "bike": {
+          "duration": 1074,
+          "distance": 5738
+        }
       }
     },
     {
@@ -249,7 +359,45 @@
         "Lidl, Kilkenny Road, Carlow"
       ],
       "note": "Carlow town, under 10 minutes: Tesco, Aldi, Lidl, Dunnes and SuperValu.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-10-30T01:05:51.118Z",
+        "dest": {
+          "name": "ALDI",
+          "address": "Hanover Rd, Carlow, R93 YX52",
+          "uri": "https://maps.google.com/?cid=13785070444302409633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 1328,
+          "lat": 52.8328267,
+          "lng": -6.9264342999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJrQJRgk1dXUgRoZ9hXIhoTr8/photos/AV-0GLf1pePlAV0qpnQRWJXNFCJyQ9h6T_ruQDqBYwUtYFY4xfKoqsewtLjkZe_siUaVRyFAkIsWRZDAS-6csGeLsW6tSQKZHAdOF7CMswFgOPS4XKkZLt9jxxYTs-y3fuEW0b40OIjJweOhHrknRA5LolVKZYteutNf76DwKmpYR8-LLjWe7eZ7knT8kdSZi0m7uIZaswiOK1ACnEZYCgdv1Rp6i7EvsgNR10rfzMmvgOeGG_HaQ4vC-0MAq7rLiudNnIDJjneD4pFoJ7v_ch0nuY2KDmbNWsamKRkn9JZ2Rxn6SinBsQQjftSoTgypYMACD9ULqaTWdAyvyVKSNBkwXrD5AeZdHFC-ZwMc_DrHm3Yh6n_uLM1UGy2NiI9pUtksizG56h4XCcx0msSNsRtBmcVy_A/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "kranthi reddy",
+            "uri": "https://maps.google.com/maps/contrib/110470487137976643916"
+          },
+          "q": "Aldi, Hanover Road, Carlow"
+        },
+        "duration": 664,
+        "distance": 8750,
+        "alts": [
+          {
+            "name": "Tesco Superstore",
+            "duration": 822,
+            "distance": 9337
+          },
+          {
+            "name": "Lidl",
+            "duration": 982,
+            "distance": 10668
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1618,
+          "distance": 8750
+        }
+      }
     },
     {
       "id": "dinner",
@@ -273,6 +421,42 @@
           "level": "good",
           "note": "Quiet local roads (L3044/L3046) nearly the whole way into Bagenalstown."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:05:51.118Z",
+        "dest": {
+          "name": "Lord Bagenal Inn",
+          "address": "Main St, Leighlinbridge, Co. Carlow, R93 E189",
+          "uri": "https://maps.google.com/?cid=2853382309083390608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 1823,
+          "lat": 52.736697,
+          "lng": -6.9764282,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJrVO2iWhEXUgRkKJMnRdAmSc/photos/AV-0GLcqR_7BSNYmaHQwmsmh7eahDQIPCNd8rRUURtwxKZJ9t4LEJ8BJJuvcsI-SNVruUDnPeZu0-pgnoq5yYx6GVAaBe7PHo8XsCcRWCvyvwWySCeqKx1vruSEXfOlsKFSUofGuXHo71JYeYpxvWPkKm8p_poal_wSpTXrRTOhysZsehkCeMHxFr47tMdjBecQ7u8mNYJTMwFV8GEQxgEnoP8KwBDyJsgk7TS1hxTIfq7e6yBFwtHsB6nN_iXJm1MTXfUuP8ANw1B9LuE4kolmlh94JBu4zwf-zwQL-EVK5gSJLZCwffqHEmPtBPzTu6APNy-AZDJODPwRGhNKe1fFwzYTEWeX2pGjc5QZg5FqE0jwRIkzHkgr7j9-QmNAN7SHm1KUlpSRefvklNl_SaFnmo3L5iBNcRWA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Lord Bagenal Inn",
+            "uri": "https://maps.google.com/maps/contrib/108728826861027019479"
+          },
+          "q": "The Lord Bagenal Inn, Leighlinbridge, Co. Carlow"
+        },
+        "duration": 357,
+        "distance": 4745,
+        "alts": [
+          {
+            "name": "Teach Dolmain",
+            "duration": 791,
+            "distance": 9084
+          }
+        ],
+        "walk": {
+          "duration": 3800,
+          "distance": 4745
+        },
+        "bike": {
+          "duration": 922,
+          "distance": 4745
+        }
       }
     },
     {
@@ -287,7 +471,37 @@
         "Midland Regional Hospital Portlaoise"
       ],
       "note": "24-hour ED for all ages, about 35 km. Portlaoise (all ages, extended paediatric ED opened May 2026) is about 45 km; Carlow has no ED, and Naas takes 16+ only.",
-      "category": "Health"
+      "category": "Health",
+      "resolved": {
+        "at": "2026-10-30T01:05:51.118Z",
+        "dest": {
+          "name": "St. Luke's General Hospital",
+          "address": "Freshford Rd, Jamespark, Kilkenny, R95 FY71",
+          "uri": "https://maps.google.com/?cid=12990297315117170149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.2,
+          "ratings": 236,
+          "lat": 52.6665445,
+          "lng": -7.2622519,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8zBZn286XUgR5f1EIpXORrQ/photos/AV-0GLeSqjWxoxhH-6FvXtUksYcgNtYNX7oEBK8YeqYYuE8vPwwmFr1vL86n4O5AywEv-OIK3-7ODvIZ03ClbgptShlz9birGmGtB807GjQHwCB3eQpuxPT1AgZl4qiGH06fYdrZOEed4VWb5JfxUqn8h0wFoKtZMlohcnpCgKw-NLM2DqDZmtAYL_0ypWbDpI3gVoIOZtilDoXTchtOrK7lLX8OI2dBg3DrpFQD_z7Zw1rzrw1N71s2eYgJmjtWEeIZPsbntTjh9572u0EvQGGv5jXrUPc8PvbZ6gAbzEPl-t5Z6hcP-sBEAP0kvdQW6OdpjRcbDD-R0QYIThKBMVsfsqpKkG9KChfpxQV7PlO0dWzfFuRT7rhZJZrL5YeL6davUvQR4_g-G902KYKuArKrALjWWuI/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Damo Collier",
+            "uri": "https://maps.google.com/maps/contrib/106838707088067428534"
+          },
+          "q": "St Luke's General Hospital, Kilkenny"
+        },
+        "duration": 1813,
+        "distance": 34748,
+        "alts": [
+          {
+            "name": "Midland Regional Hospital Portlaoise",
+            "duration": 2729,
+            "distance": 45619
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "town",
@@ -311,6 +525,39 @@
           "level": "good",
           "note": "Quiet local roads nearly the whole way, then the R705 into Bagenalstown."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:05:51.118Z",
+        "dest": {
+          "name": "Main Street",
+          "address": "Main St, Leighlinbridge, Co. Carlow",
+          "uri": "https://maps.google.com/?cid=345596692554424488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.73621,
+          "lng": -6.97769,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Main Street, Leighlinbridge, Co. Carlow"
+        },
+        "duration": 368,
+        "distance": 4822,
+        "alts": [
+          {
+            "name": "Tullow Street",
+            "duration": 813,
+            "distance": 9149
+          }
+        ],
+        "walk": {
+          "duration": 3862,
+          "distance": 4822
+        },
+        "bike": {
+          "duration": 897,
+          "distance": 4822
+        }
       }
     },
     {
@@ -324,7 +571,31 @@
         "Kilkenny Castle, Kilkenny"
       ],
       "note": "Kilkenny city via the M9 and N10.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T01:05:51.118Z",
+        "dest": {
+          "name": "Kilkenny Castle",
+          "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
+          "uri": "https://maps.google.com/?cid=14479754400188434760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 15604,
+          "lat": 52.6504632,
+          "lng": -7.249297400000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLeYBkopleJeHepZDAslOPXfPC4-zk_chr9Ca2sUOraIf0NCi8HVNLwc8LqWNXMPr8FDwIPoGsMfvJ3xLPf3fn3l_J8-_Qt53hgWw8lMyGa1hWlVvTnLZhF4Mo3hmwecvgeiLiV6K1tG1HiE8wpFd5DqdrBoRIZ4dsJapFWWXf1M-hJEDkHrOKwEdB38ndqaCN2HVx_Qrd4Dv36aRYlzkyW7OWTlIi-X03fv5kJ2AvUg5Mh7GJGQjUfjGGoEeJGcddKUEQcMsqTP-2c-TX74XWCHPiLHXFkJ4Cmp7-KzrjhzhJqjQg-mTxaVQam2EYNeIwLnvgO-jBad20IpuY1laSmOudH8OZYPS1J8wVej4iF5GebdmHmuE3R96CaNPjrRlUS-mnAdTEYSYMsiKBfQQ3QRLzW5/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "lahari anandur",
+            "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
+          },
+          "q": "Kilkenny Castle, Kilkenny"
+        },
+        "duration": 1649,
+        "distance": 34285,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "dublin",
@@ -338,7 +609,31 @@
         "St Stephen's Green, Dublin"
       ],
       "note": "By car on the M9 from Junction 6, about 4 minutes away; the train from Carlow is the other way in.",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T01:05:51.118Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLeZ9PWS9HL5jlRiMWiGrlp-yIDddWHImb9uwPTPb5S76jTLGQ-W-ZBTuETE9eIZ2buLWRzGDmd0apf6Q91nLx-BVLz7Aox13vEjxYtOMvZ7POPEv_u8JjZ-Xbj_0TBZzhHznXMHWySPMPRPRmLrgpcWLLG1qz8vV15RPbJPiWEUPMXHr6O-nbRwblN2x7tJnEIDgKeVcR3d1fpIc8-ugXFeCiWQcTcl7FLzYGRyO8ShRD4RkO0Vsc7Q7pVn0In-YwzAGJRf7twHHzK5Wy2NYNxnFskmljxCQrWN4Zimn_jWdoR1jThU34coq6SpVodAKwE68d5wjxup-70s2ztsagaON9mTye7CuOYznItnGuvl-JrVJGyA3XK_ssqtViolDStQwLFz9ssGTLjBLLPavuRUsA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 4534,
+        "distance": 96482,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "cork",
@@ -352,7 +647,31 @@
         "English Market, Cork"
       ],
       "note": "",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T01:05:51.118Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLcI87YSEC1N_w39bVrVLGTL-ISJwX61y4TppGjVgDKHwBPfPBDfI_VVOdfWK5u5etD3EqZrsgi6EvoRqSt0xLkwAws4hZ_l5w7-noPzAiAXeZlb3P1mqPWLjlU9Ro5e1FO-VTGOMt35f3w-wys_A6IELeK5RPfvcrJpDcbHZOZcWIStxioqZ66ssBDwstZg92FVjbcQjSC1x5Xg0NPkatTEZaJRcDNzveesrZ217zxMgn7Mr-BTQtcKTxo6qzbmVUqAL4R6JpQ3wmlKhddOohbQEWtK6ck4llRnR0ezAkBxBzKSEPjT38BNphNjvH6whWjMUzW-XGXQCISQBdmPnecik9JaZ3LFQJkgnTtqf1-kv07g1fphyDCiAYN52GyfZwpRaCsf3N2JyT3T2-naVWjNfkM/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 8097,
+        "distance": 182622,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -377,6 +696,42 @@
           "level": "good",
           "note": "Quiet local roads for 5.5 km, then Bagenalstown streets to the station."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:05:51.118Z",
+        "dest": {
+          "name": "Muine Bheag Train Station",
+          "address": "Muine Bheag Train Station, Stationhouse Rd, Muine Bheag, Co. Carlow",
+          "uri": "https://maps.google.com/?cid=12267158297789205995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.6990881,
+          "lng": -6.9525502999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJT7SRY6dFXUgR6w02R3qzPao/photos/AV-0GLdRgp5AzltRiKk47cYEXAzokqGqDwaB0YhMDnZkYiqHmt5cYflD-JJh-9gItzAO0DeXsauuN2m5IWXoa7__v3lOO27h4CHk202MS6pAe8ile-umNEgqctoalYJggl4EaoAAZMYoW3Y287O4VFqoQmqdj9JX7DmY8_yPL1fK564zR6tDRwJ8U73OzYyEA8gO-MmK6p1Y4Q8usMWDh-VwqhFmBGs-GLy-gtdAOS-hosZvbw1lbIKMztDYEl9J0Oxqi-Q71nFrX9AXTtAXufRe-FrObxd-C6V7Y-c2ouyFv0_H6LUooWHcJ5FWnUItLR7XfPaR5fzi38ltHMR8PA_e-a_RRplwI1FJQuVe8Z0Ns3N1qdbdb0B38D8ssxkhUGUvhSSu-0wapbj8x5CoCUESUNZkzw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Baldy",
+            "uri": "https://maps.google.com/maps/contrib/104040930381743786634"
+          },
+          "q": "Muine Bheag railway station, Bagenalstown, Co. Carlow"
+        },
+        "duration": 571,
+        "distance": 7804,
+        "alts": [
+          {
+            "name": "Carlow",
+            "duration": 813,
+            "distance": 9681
+          }
+        ],
+        "walk": {
+          "duration": 6313,
+          "distance": 7804
+        },
+        "bike": {
+          "duration": 1452,
+          "distance": 7804
+        }
       }
     },
     {
@@ -391,7 +746,31 @@
         "Dublin Airport"
       ],
       "note": "The trip you and your parents will make most.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T01:05:51.118Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42131,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLf9A9MIWQRmCIken2_wOsOvdzIMFcjtc38SE8Bwa4cTfkIhRQzNwW2PXYO6M2TbYZ3IzeDojJYfCIn54K2mY02bFQJ-czRRJb1huqGNRW2WI0yKkLf1gJQ8_Ak9ApAdjeBvQIjZoS_qZcB26aXpfUzZr60fYXTDJ_Po3LdM0-rElb6X7RXupEWMGR0h-X4OYwsByHdYD2d59ws-wTqmQbXD8nYEzfBdNZQW-Sz8MP2irKE6fJ_wRLmZ4O_OpMdq36-GQyIOm5UaJCjk0bMah7qmsMhN-31yljmoMgQwDrNgVNF2ILzXRnkKy1UFL4rIK4vXJHO1WdmuVGHsGNBO7MR0RfyEIMtzFnxsTi5WmPMPGBhqUNQQzM2gESuQniWOE7Qo-f5KgyW3dbzGCKM_bFrWJk4N6XA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 4478,
+        "distance": 107720,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [

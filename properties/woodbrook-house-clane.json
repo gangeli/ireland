@@ -162,6 +162,39 @@
           "level": "good",
           "note": "Quiet narrow lanes all the way to Staplestown; suits kids with an adult."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:04:50.602Z",
+        "dest": {
+          "name": "Scoil Naomh Mhuire",
+          "address": "Donadea, 1543, Staplestown, Donadea, Co. Kildare, W91 R97F",
+          "uri": "https://maps.google.com/?cid=12161476213279618474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3298853,
+          "lng": -6.7667385,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Scoil Naomh Mhuire Staplestown, Co. Kildare"
+        },
+        "duration": 103,
+        "distance": 1244,
+        "alts": [
+          {
+            "name": "Staplestown National School",
+            "duration": 104,
+            "distance": 1253
+          }
+        ],
+        "walk": {
+          "duration": 1008,
+          "distance": 1244
+        },
+        "bike": {
+          "duration": 231,
+          "distance": 1244
+        }
       }
     },
     {
@@ -188,6 +221,33 @@
         "bike": {
           "level": "good",
           "note": "Quiet lanes all the way, then Prosperous village streets."
+        }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:04:50.602Z",
+        "dest": {
+          "name": "St Farnan's Post Primary School",
+          "address": "Curryhills, Prosperous, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=14215637312737327416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.286884199999996,
+          "lng": -6.7513255999999995,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "St Farnan's Post Primary School, Prosperous, Co. Kildare"
+        },
+        "duration": 455,
+        "distance": 5313,
+        "alts": [],
+        "walk": {
+          "duration": 4326,
+          "distance": 5313
+        },
+        "bike": {
+          "duration": 1017,
+          "distance": 5313
         }
       }
     },
@@ -216,6 +276,36 @@
           "level": "ok",
           "note": "Quiet lanes, then about 1 km on a regional road with no shoulder; 800 m has no imagery."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:04:50.602Z",
+        "dest": {
+          "name": "Clongowes Wood College SJ",
+          "address": "Kilcock Road, Castlebrown Or Clongowes, Clane, Co. Kildare, W91 DN40",
+          "uri": "https://maps.google.com/?cid=1072262370890830244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3114357,
+          "lng": -6.6841631,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJgSsqWRh5Z0gRpFH3-vFw4Q4/photos/AV-0GLfhmd7jkx_m1StbQVuG86RldHhn5hDf9dO-XoTIb2RUf4kMshzyUkoBInExLvd9CPgPG84Lj2aMwU20lQTjCMslU5JVPojTAqktkP9hUpAgCOoEvH4nMtGNPo6V98Z_7a5kmYHfVk4uM_SdtLGQjbLXIQqHiOj9y7VGBGfrkgTSNzoA5sATvvA9HqCN91E2YxW7B_LB0Cjz-z_wiLqxXJiUnG5MRTH0-ArsQkA-MfBQMTQhbho2xPl3L7VVueYnmCNIRRs97sz1M3ePCdjS4aaAl0NPmR0bwZ_16rkfVuTp6FLZzx6R-m2iRAD7IjAMdpS_f3jVLCCFMxq5ZCyzvD9Cq2np5s4n25_jl41_7ag3ZjaeBhZcVLhARo9OIgU_VniAQbgTgTCr5WudX5ortZDR0lRx/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Clongowes Wood College SJ",
+            "uri": "https://maps.google.com/maps/contrib/115873819374382228415"
+          },
+          "q": "Clongowes Wood College, Clane, Co. Kildare"
+        },
+        "duration": 532,
+        "distance": 7062,
+        "alts": [],
+        "walk": {
+          "duration": 5089,
+          "distance": 6340
+        },
+        "bike": {
+          "duration": 1167,
+          "distance": 6340
+        }
       }
     },
     {
@@ -239,6 +329,42 @@
         "bike": {
           "level": "good",
           "note": "Quiet bog lanes all the way to Prosperous."
+        }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:04:50.602Z",
+        "dest": {
+          "name": "Londis Prosperous",
+          "address": "2 Emerson Way, Curryhills, Prosperous, Co. Kildare, W91 NA43",
+          "uri": "https://maps.google.com/?cid=8615170973876546004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 183,
+          "lat": 53.2918118,
+          "lng": -6.7546273,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJSWrjyS58Z0gR1OkqCVs8j3c/photos/AV-0GLedf0gvEfs5MOSQAYT32M7YuBWlfpuUY4G_SS4jVyQDCbux840DD5KgpDVXVF67OV94QduLs3Op6Mo33umzOEqu1UoRUjaZBLlUPzv-MlWuApXUQGJNx_omZ90FoSPQ4frxBIxV8ifx9-FfDdOI3I8ATTeHDU_D6Wdm4TBdj98J9OphuFlLOqylzOAnL8Anu9x--64mXUZUI_OR8iPkOvvkBXNzC5o5sLZJwxdUxuRM5LeszwQy-amiA9ngaYj_dPXFmzj8TBgB6xpazWXMhSDJ45LAWkPUiBZTZGD_reQmcxDZ3euU2wRW7zu6-s-pkTmKp0oBucIkX9Dzpj8E65qul6K_xgp83CQ3_FRsKZS37oIu0DLU895daElRYs0thsthCU0w3UnHUnQtHjIfvKR7sJE/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Londis Prosperous",
+            "uri": "https://maps.google.com/maps/contrib/104550797003830461130"
+          },
+          "q": "Londis Prosperous, Co. Kildare"
+        },
+        "duration": 314,
+        "distance": 4722,
+        "alts": [
+          {
+            "name": "Spar Prosperous",
+            "duration": 577,
+            "distance": 5385
+          }
+        ],
+        "walk": {
+          "duration": 3822,
+          "distance": 4722
+        },
+        "bike": {
+          "duration": 838,
+          "distance": 4722
         }
       }
     },
@@ -265,6 +391,47 @@
           "level": "ok",
           "note": "Quiet lanes for 5 km, then the busier R403/R407 into Clane."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:04:50.602Z",
+        "dest": {
+          "name": "ALDI",
+          "address": "Prosperous Rd, Clane, Co. Kildare, W91 P785",
+          "uri": "https://maps.google.com/?cid=15286353928041755391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 929,
+          "lat": 53.290122499999995,
+          "lng": -6.686994899999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJiZALFP57Z0gR_3LTL-gJJNQ/photos/AV-0GLeuYG8PciWlIHjkSQHkk6OjeippkQxrAkrtFGJCRHQ0geDbs3zzjaFD8IpbHQ8Y3_grrlpsHaGhoRL3Wg4x3gG2PcFgNeqPaBr-BrxNDLFivcbowk-Mq0YVQgP5V0wNesXsb23x1aNvMt2e-f8AvqpsdYSgmC-cOlUnJd8pkNSUFwTwgNlUmhJmI8znccI6qVG05mE7esKv9g7zCJABQWK9SCCZdttHaRwtwe77XFAybQdM_1RCeRiQPZmwZMUhZzswQ1LYCXLhEQ2ZTK6YC0tps5vZLpPblmP4QTXfByKIWNKflIaIngzh1oKUwsk3SBbUvscPVNfoPtPhdy8nU4tn7XuoASgsjPfTWiBZG89qSC0zc_PdNYt9xwRcTxI67cHNrNt6DMfjEJzCSLgX-Zh-wnLu4YU/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Ray Greene",
+            "uri": "https://maps.google.com/maps/contrib/106123164798392821687"
+          },
+          "q": "Aldi Clane, Co. Kildare"
+        },
+        "duration": 713,
+        "distance": 6894,
+        "alts": [
+          {
+            "name": "Lidl",
+            "duration": 748,
+            "distance": 7326
+          },
+          {
+            "name": "Tesco Express",
+            "duration": 953,
+            "distance": 13206
+          }
+        ],
+        "walk": {
+          "duration": 5522,
+          "distance": 6854
+        },
+        "bike": {
+          "duration": 1319,
+          "distance": 6894
+        }
       }
     },
     {
@@ -290,6 +457,47 @@
           "level": "good",
           "note": "Quiet lanes and local roads throughout, with a short village stretch in Prosperous."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:04:50.602Z",
+        "dest": {
+          "name": "Lonesome Boatman",
+          "address": "Sallins Harbour, Canal View, Landenstown, Sallins, Co. Kildare, W91 KV8X",
+          "uri": "https://maps.google.com/?cid=9355297989538486268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.2692756,
+          "lng": -6.7322267,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJOXOiA3QRfo8R_BdeevSx1IE/photos/AV-0GLeVy04tTmxwobRXMDlBRmrmRDQSe6K1uLCi52FPD6Q5JuFdmcnx6vAESPperKEsfST1wcYiJqdpR94WbrA9_2Mg7WNwNTVE3SAuhBnl5BS6VHYxt4OK565nPtzKhq9YK8rA-_-UHzxarR7on38uvvs0zPLjAT2U61bzQykbCseJ6HzmoFTGzCLa2ssBDOWJ9xvI2Sn8ZJJqfglVHOMRnfYR7Nuhkii3T2lxTSkHuo2hv5rOIGBMda9sg0YVjD2lKl_cOH1YimPoKyOtxS34JxYn60zeE_fM5WULUbHnNxgML21dZwPtMO7Ne4J9IpQbq29_zLXn-i3wSD8KM_yH9Oagea6gjRp3gp42I2rlIT9o9Fs9lje43SdA740JzhNCJRu-rRKgqTB_jiXze-fq_IDAG24/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Lonesome Boatman",
+            "uri": "https://maps.google.com/maps/contrib/100124941406130117159"
+          },
+          "q": "The Lonesome Boatman, Clane, Co. Kildare"
+        },
+        "duration": 621,
+        "distance": 7748,
+        "alts": [
+          {
+            "name": "Mode Tapas & Grill",
+            "duration": 665,
+            "distance": 6641
+          },
+          {
+            "name": "Cooke's of Caragh",
+            "duration": 955,
+            "distance": 12654
+          }
+        ],
+        "walk": {
+          "duration": 6274,
+          "distance": 7748
+        },
+        "bike": {
+          "duration": 1409,
+          "distance": 7748
+        }
       }
     },
     {
@@ -305,7 +513,42 @@
       ],
       "note": "Tallaght and Crumlin have children's 24-hour EDs; Naas (14 km) and Connolly take 16+ only. Tallaght's paediatric ED closed for four days in Sept 2026 ahead of the move to the new children's hospital, which has no opening date yet.",
       "when": "03:00",
-      "group": "night"
+      "group": "night",
+      "resolved": {
+        "at": "2026-10-30T01:04:50.602Z",
+        "dest": {
+          "name": "Children's Health Ireland (CHI) at Crumlin",
+          "address": "Cooley Rd, Drimnagh, Dublin, D12 N512",
+          "uri": "https://maps.google.com/?cid=2330578895347819053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.8,
+          "ratings": 383,
+          "lat": 53.3262016,
+          "lng": -6.3179544,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJe2PK8ooMZ0gRLaI6SijhVyA/photos/AV-0GLd-LI4cdV2PSarYUvaxfqa4uGIBNYzPCm-fhfXbv9RqTPt0kvFZV63qB0Mc7he9mz3Em-FI066fM_-ZU1ummyKFIXsSNBUp5Jhs8y-ZDboNFKu3NHvcGoJEilifLCJTby_1je27u9E79IJDDRvcwHUXhTORxKR3L3CSUd8JCOuyi2QCcDJ6OJJXotB-G4Vjc-79bIY6qFQDpVw0AgJ702ozM4FwmFtih6z45KLmGFzEDEkL1-mnH-Qqg4_wthMpqgcJV6Us2LNUfU1Z9e79wbxsEsPhwXfFkWa9US1MQIKON2qo2JQrzljUo7n2G_4mMMKsGkaxRcPfjr63pSkisRKk1vy-CfKH7O7jV62swPuNWRld2ks52H_waaBE0LRmmJdw8hXKNPpgpdiqSkuBZSaI-MA-/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Anthony Foran (ChoppersX)",
+            "uri": "https://maps.google.com/maps/contrib/101724662350283612896"
+          },
+          "q": "Children's Health Ireland at Crumlin"
+        },
+        "duration": 1992,
+        "distance": 36828,
+        "alts": [
+          {
+            "name": "Tallaght University Hospital",
+            "duration": 2175,
+            "distance": 38781
+          },
+          {
+            "name": "CHI at Temple Street",
+            "duration": 2235,
+            "distance": 39140
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "town",
@@ -330,6 +573,44 @@
           "level": "ok",
           "note": "Quiet lanes for 5 km, then the busier R403/R407 into Clane."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T01:04:50.602Z",
+        "dest": {
+          "name": "Main Street",
+          "address": "Main St, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=8516658248755965859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.287119,
+          "lng": -6.6826865,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Main Street, Clane, Co. Kildare"
+        },
+        "duration": 728,
+        "distance": 7182,
+        "alts": [
+          {
+            "name": "Main Street",
+            "duration": 1009,
+            "distance": 13416
+          },
+          {
+            "name": "South Main Street",
+            "duration": 1670,
+            "distance": 15438
+          }
+        ],
+        "walk": {
+          "duration": 5793,
+          "distance": 7182
+        },
+        "bike": {
+          "duration": 1364,
+          "distance": 7182
+        }
       }
     },
     {
@@ -343,7 +624,31 @@
       ],
       "note": "Dublin is the city here.",
       "when": "15:00",
-      "group": "weekday"
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-10-30T01:04:50.602Z",
+        "dest": {
+          "name": "Grafton Street",
+          "address": "Grafton Street, Dublin",
+          "uri": "https://maps.google.com/?cid=10425747079380786397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3416362,
+          "lng": -6.2601859,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8duOjJsOZ0gR3dyOELuxr5A/photos/AV-0GLcya6sTm_rbjveAxKINlVFDgiUt6PRTR7woAeCS1CDAsur0HinNBkhkYSwaiQ2UgMX9-ofeVstdz9FErTbo6dZVP_Nl3K7d0WbZEBg2c_xZ9Id98VPnaZmhgzjxVn0Ik-nFNl4KYakGUNPSNWlzuqZ3KyAqNqL3UxoqqmdXJlOKInvjJ0a-7HpP8134CxcGM--vrj_VEUaMTNrlnodG04pI24rLmqeqEdjfGSMeMAJsJAjx7zq2QqEQ9gvWaPajP6SxzEbI09hdnHipc14XDuLC_RY13XtJR7APm9gg4roVwyK6JhKtquloAgvbt3V3BU32ov9J0eG8efbBLleV5gfHdeX38Uu1G1B63Al8gGEwnW2WsR2vYLqjHjPe7CN5mW6b5IMukM4KLyMDTvH7dk7lPUSwR8oZWwqItsvL-4VdPg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Colby Lindsay",
+            "uri": "https://maps.google.com/maps/contrib/108013996015143080472"
+          },
+          "q": "Grafton Street, Dublin"
+        },
+        "duration": 3039,
+        "distance": 37989,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "dublin",
@@ -357,7 +662,31 @@
       "note": "By car via the M4 or N7, or the train from Kilcock or Maynooth.",
       "when": "09:30",
       "group": "further",
-      "day": "saturday"
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-10-30T01:04:50.602Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLcLLsgmU1-2pKpIc-LzLU1fJySu7DCGksHN0hknzVvQgyxGNoJOvfB3KhlDkbAZpDFVY0AQXAXBMaSUpTPvtEmOtrvM40TDRV_VFfTNqLfxIQ4p2LBzcLxWGqm6OfId3kRLZlehcrnZ3lUoz9YnK_3ivpY_mRNwoJDzv5FNLR-dWZvD318KncTP1ZUFWaTXWzX5DD3-XYXC-RykcRomFCNKhXkDv9pM4Ehl37H3wVlp9N58ZfDVpeey0qEPU8LHousXqRnQDgSnQ4osU4XX0gCiB0-nciN61ehb-EXMEcbRojwY1Yu0HcfR8O1wNJ_iOv-jckA_j9y9UhHGNTt5JRYasjZq-NeKjlLC9bsoFKZxWmLbqbkssH5jvoWKokfC4lGs33fQ7crdQ07PA13ib91BgQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 2756,
+        "distance": 38028,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "cork",
@@ -371,7 +700,31 @@
       "note": "",
       "when": "09:30",
       "group": "further",
-      "day": "saturday"
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-10-30T01:04:50.602Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLcPdtBc0EgtSZChwgsgkw9NNLhqASw4uTLUfDh7_bSqIWvQo3okfm9c6oRyH3RdobboJ8_GWdlaLd1dYHeE0r6fOBvPvLYW0wKz1_jVNK4x6_V1iLaCd0_ojpEQZk9UEqmQqoJGG_TOlkbhP_ydzW8JpKb4Aj7L3Buy4Q1lWUdMvoMLd0rnJZkDVZ_n9TBV0etQHiT0JwDUhS6x-YI2OzwJr1kB-WdiX0blvzx57TBexq3yBmhoOByo30T3KIB7y4oHJG081FUwLkhbNWfUnNUbsKflIxxMSaD-foyMv11ePUZbsg6J1wB3s2W2cMihp8RsW6cp8katKDbZRCN45-b7Rn0ZNKgLxpXpx_k5sC_VFJk9tGLFVfVYhRfDjEUwp82KRj4uZT9D2sETg_nS8cm2ymE/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 9609,
+        "distance": 242432,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -385,7 +738,40 @@
       ],
       "note": "Maynooth/Sligo line: 10 weekday trains to Connolly from Kilcock (06:42–21:27, 43–62 min; timetable from 21 Sep 2026); Maynooth, 12 km away, runs every 15–30 min.",
       "when": "07:15",
-      "group": "further"
+      "group": "further",
+      "resolved": {
+        "at": "2026-10-30T01:04:50.602Z",
+        "dest": {
+          "name": "Kilcock",
+          "address": "Fair Green, Kilcock, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=6613821023741089450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.9,
+          "ratings": 30,
+          "lat": 53.399006899999996,
+          "lng": -6.6688415999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJw0G-WR9lZ0gRqhYZ-C0DyVs/photos/AV-0GLekj4JfsT-1u2Gsh_X6x38emtImdmrgZzwv0hkzIKvDb14dfVol_b8E54UHSvDjPutVfLY2L47Uuro0FRUC4Uc3DuEaGVZ32SeFZkTt9mRmucUblqcXXSa-7m6MXm19eckDbvEbz8B5l1e-5imKhmgYPW0nvHKQ6fUrM4jIdMELJi7sH4U0uqJNi4RwzQha9AEyiT94NVtzyJgd60a3FOr1-9xPIEmM1T4NfvWBskb3hiRn1J1E0CkhA4HT1MZArQJmGFDPVb6Dfqb4bmS8WYviHFbkp2AcPAv-D2VjRM3L3wO7jdYxZIp2_ITJpjBYUayeBooAH5FQ9dQ38vjntfiJAwe9nKM2xCOi4sSZCovW1kB2JW52CqCZgrFWuzEzcAhNgsQl-BqDIIb4TcwqWXz6kJvB/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Vinayram Kumar",
+            "uri": "https://maps.google.com/maps/contrib/105970624159826802177"
+          },
+          "q": "Kilcock railway station, Co. Kildare"
+        },
+        "duration": 802,
+        "distance": 12795,
+        "alts": [
+          {
+            "name": "Maynooth",
+            "duration": 1090,
+            "distance": 13960
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 2179,
+          "distance": 11755
+        }
+      }
     },
     {
       "id": "airport",
@@ -399,7 +785,31 @@
       "note": "The trip you and your parents will make most.",
       "when": "06:00",
       "group": "further",
-      "day": "friday"
+      "day": "friday",
+      "resolved": {
+        "at": "2026-10-30T01:04:50.602Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42131,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLd2rCWeiAhAPQNGwZgM8FYXjaOjiDVWr47Z_tSojt8jLYGrsyJjbJWEWI9nk4uBJCDPS0MmUklZ81ai8tNOW_71YjKgYRCLrrxHXY5eeI7PH_zCSLN6NE7ohsD_I4BbSJAe7Z-u208dvDyzGv14OhfQ6TwFX3cR_zzKNZhKB7b_alLqhKR2nnJ3S_LsZLMQbwaJjz071KQlQHDu-LjEi-QN9oLYFzzci0kRJgTLwPoiv7Ad_CvrvfC7YLbrsdnf29P7mMCCPO4u3rC6-cF2N4jh6O6DiL1T18eri_IFBUzUmnLX9v-g9Kx3jXGDj_kBEpN1i38pnC6CR_TFWFy3-8W_MTmvKZD0jWdSJdQa4R3sotpNYa_97zjL6aHw3Tya2_6W018WLahB_2ufJVsmj3eYQrg2dOU/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 2339,
+        "distance": 42937,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [

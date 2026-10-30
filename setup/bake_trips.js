@@ -14,6 +14,9 @@ const TYPES = { '.js': 'text/javascript', '.css': 'text/css', '.html': 'text/htm
     if (fs.existsSync(f) && fs.statSync(f).isFile()) return route.fulfill({ status: 200, body: fs.readFileSync(f), headers: { 'content-type': TYPES[path.extname(f)] || 'application/octet-stream' } });
     return route.continue();
   });
+  // Start from an empty trip cache so a full localStorage can't silently drop results.
+  { const pg = await ctx.newPage(); await pg.goto('https://gangeli.github.io/ireland/config.js').catch(() => {});
+    await pg.evaluate(() => { for (const k of Object.keys(localStorage)) if (/^hd:v\d+:/.test(k)) localStorage.removeItem(k); }).catch(() => {}); await pg.close(); }
   for (const id of ids) {
     const file = path.join(ROOT, 'properties', id + '.json');
     const P = JSON.parse(fs.readFileSync(file, 'utf8'));
@@ -22,6 +25,8 @@ const TYPES = { '.js': 'text/javascript', '.css': 'text/css', '.html': 'text/htm
     await pg.waitForFunction(() => [...document.querySelectorAll('.mins')].every((e) => e.textContent !== '–'), null, { timeout: 180000 }).catch(() => {});
     await pg.waitForTimeout(8000); // walk and bike times arrive just after each drive time
     const ls = await pg.evaluate(() => Object.fromEntries(Object.keys(localStorage).map((k) => [k, localStorage.getItem(k)])));
+    // Free this house's cache entries: localStorage holds ~5 MB, and once full the page can't cache (or bake) anything.
+    await pg.evaluate((id) => { for (const k of Object.keys(localStorage)) if (k.includes(`:${id}:`)) localStorage.removeItem(k); }, id);
     await pg.close();
     const at = new Date().toISOString();
     let n = 0;

@@ -43,7 +43,18 @@
     return Math.floor(m / 60) + " h " + String(m % 60).padStart(2, "0");
   };
   const fmtKm = (m) => (m < 10000 ? (m / 1000).toFixed(1) : Math.round(m / 1000)) + " km";
-  function store(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* full or blocked */ } }
+  // localStorage holds ~5 MB. Old cache versions are dropped on load; if it still fills up, other houses' trip
+  // entries make way, since a cache that can't save means paying for the same lookups again.
+  function tripKeys(pred) { try { return Object.keys(localStorage).filter((k) => /^hd:v\d+:/.test(k) && pred(k)); } catch (e) { return []; } }
+  for (const k of tripKeys((k) => !k.startsWith(`hd:${CACHE_VER}:`))) forget(k);
+  function store(k, v) {
+    const s = JSON.stringify(v);
+    try { localStorage.setItem(k, s); }
+    catch (e) {
+      for (const o of tripKeys((o) => !o.includes(`:${PID}:`))) forget(o);
+      try { localStorage.setItem(k, s); } catch (e2) { /* blocked */ }
+    }
+  }
   function load(k) { try { return JSON.parse(localStorage.getItem(k) || "null"); } catch (e) { return null; } }
   function forget(k) { try { localStorage.removeItem(k); } catch (e) { /* ignore */ } }
 
