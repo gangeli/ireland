@@ -307,6 +307,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/ballinkillen-muine-bheag-co-carlow/6676559",
       "recheck": false
+    },
+    {
+      "id": "monagee-cashel",
+      "name": "Monagee",
+      "left": "2026-10-30",
+      "reason": "bumped by Laurel Close, Wexford (AI 3.5) at a four-way tie on 3.0; lost the tie-break: ground-floor bedroom unconfirmed (no floor plan) and inside the OPW 1-in-100 flood extent",
+      "lastPrice": 350000,
+      "aiStars": 3,
+      "human": {
+        "n": 1,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/bungalow-monagee-camus-cashel-co-tipperary/6706734",
+      "recheck": false
     }
   ]
 }

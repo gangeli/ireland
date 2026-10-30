@@ -1,0 +1,783 @@
+{
+  "id": "laurel-close-wexford",
+  "name": "Laurel Close",
+  "address": "Laurel Close, Coolcotts, Wexford Town, Co. Wexford",
+  "eircode": "Y35 P6F8",
+  "lat": 52.336875,
+  "lng": -6.486731,
+  "listingUrl": "https://www.daft.ie/for-sale/laurel-close-coolcotts-wexford-town-co-wexford/6708807",
+  "status": "Considering",
+  "added": "2026-10-30",
+  "area": "Wexford town, Co. Wexford",
+  "agent": "Catriona Murphy, Kehoe & Associates, Commercial Quay, Wexford",
+  "agentEmail": "catriona@kehoeproperty.com",
+  "agentPhone": "087 242 7525 / 053 914 4393",
+  "questions": [
+    "The brochure calls the Bedroom 4 en suite (1.81 × 1.89 m) an adapted bathroom. What was adapted: a level-access shower, grab rails, wider doors? Is the route from the front door to that suite step-free?",
+    "The same Eircode was listed earlier at €555,000 and then €495,000. When were those listings, why was it withdrawn, and have there been any offers?",
+    "The BER is D2 (270 kWh/m²/yr). How old are the windows and the oil combi boiler, how much attic and wall insulation is there, and is the BER advisory report available?",
+    "Is the 0.27-acre boundary fully fenced or hedged for two dogs? BuyerIQ shows eight large residential schemes lodged about 200 m away: do you know what's planned on the land around Coolcotts and the racecourse?",
+    "Are the two first-floor ancillary rooms (4.43 × 3.98 m and 4.00 × 3.50 m) built with planning and to habitable standard (head height, fire-escape windows)? Has a radon test been done? BuyerIQ flags moderate radon risk."
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "215 m², four bathrooms and a ground-floor parents' suite with its own sitting room and en suite, in a quiet cul-de-sac a walk from Wexford General's ED, a primary school and the town, for €450k. Held back by a dated D2 interior that needs upgrade money, a 0.27 ac garden in an estate area, and Wexford's slow, sparse Dublin trains."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but it's a lived-in town house with OFCH and a Seomra 'with electrics'."
+    },
+    "water": {
+      "status": "ok",
+      "detail": "Mains water, stated in the brochure's Services list."
+    },
+    "sewer": {
+      "status": "ok",
+      "detail": "Mains drainage, stated in the brochure's Services list."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Fibre broadband, stated in the brochure's Services list; BuyerIQ shows 387 Mb full fibre at this address. Provider not named; Wexford town has open eir FTTH and SIRO.",
+      "type": "Fibre",
+      "speed": "~387 Mb (BuyerIQ)",
+      "provider": "open eir / SIRO (check)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Bedroom 4 (3.75 × 3.02 m) is a ground-floor suite with its own shower en suite, described as adapted, and a private sitting room (the 3.05 × 3.88 m 'Bedroom 5') reached only through it; all four main bedrooms are on the ground floor, per the floor plan."
+  },
+  "price": 450000,
+  "type": "Detached dormer bungalow",
+  "beds": 4,
+  "bedsNote": "Four bedrooms on the ground floor, plus a fifth room used as Bedroom 4's sitting room, and two first-floor ancillary rooms (4.43 × 3.98 m, 4.00 × 3.50 m)",
+  "baths": 4,
+  "floorM2": 215,
+  "landHa": 0.11,
+  "landAcres": 0.27,
+  "ber": "D2",
+  "berKwh": 270.45,
+  "heating": "Oil-fired central heating (combi boiler), open fire in the sitting room and a solid-fuel stove in the snug",
+  "listed": "2026-10-29",
+  "views": 250,
+  "stampDuty": 4500,
+  "tagline": "A 1975 detached dormer bungalow, extended in 1996 and 2003, on a 0.27-acre south-facing site in a quiet cul-de-sac in Coolcotts, on the western edge of Wexford town.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/6/7/5038768/096224c4-1e82-4204-8a3d-90139775749d_x.png",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/6/7/5038768/01953adc-4979-4a5d-b9f4-d07da39f332c_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/6/7/5038768/ae387f78-dc8d-4807-8381-4ee172618082_x.png",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/6/7/5038768/bfc40f8e-d5ad-4199-a5c0-e981c7ce2793_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Ground-floor suite for Gabor's parents",
+      "weight": 3,
+      "detail": "Bedroom 4 (3.75 × 3.02 m) has its own 1.81 × 1.89 m shower en suite, called adapted, and a 3.05 × 3.88 m sitting room reached only through it, apart from the family's bedrooms."
+    },
+    {
+      "text": "215 m² for €450k",
+      "weight": 3,
+      "detail": "€2,093/m², about €50k under the €500k line; four ground-floor bedrooms plus two first-floor rooms (4.43 × 3.98 m and 4.00 × 3.50 m) for a playroom and an office. Stamp duty about €4,500."
+    },
+    {
+      "text": "Four bathrooms",
+      "weight": 2,
+      "detail": "Two en suites, a 3.89 × 2.54 m ground-floor family bathroom with a corner bath and a separate shower, and a first-floor shower room."
+    },
+    {
+      "text": "Walk to the ED, schools and town",
+      "weight": 3,
+      "detail": "Scoil Mhuire primary 190 m, St Peter's College 1.0 km, Wexford General's all-ages ED about 1 km, the town centre about 1.7 km and the station about 1.8 km; town buses WX1/WX2 stop 270 m away."
+    },
+    {
+      "text": "Quiet cul-de-sac, private south garden",
+      "weight": 2,
+      "detail": "A 0.27-acre site at the head of a small cul-de-sac, with a mature hedged lawn to the south, a Seomra garden room with power and a detached 6.9 × 4.8 m concrete garage."
+    },
+    {
+      "text": "Asking price has come down",
+      "weight": 1,
+      "detail": "The same Eircode was listed on Daft earlier at €555,000 and then €495,000; now €450,000, which may leave room to negotiate (dates of the earlier listings not confirmed)."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Dated, D2 and on oil",
+      "weight": 2,
+      "detail": "270 kWh/m²/yr, 1975 build with 1996 and 2003 extensions; the photos show a 1990s pine kitchen, patterned carpets, electric showers, a Perspex-roofed sunroom and a single-glazed porch door. Rough upgrade budget €40–80k (rough estimate)."
+    },
+    {
+      "text": "Small garden for two dogs",
+      "weight": 2,
+      "detail": "0.27 acres (about 1,090 m²) in all, including the house, a large tarmac drive and the garage; the back lawn looks roughly 0.1 acre (rough estimate from the photos). Fencing for dogs isn't stated."
+    },
+    {
+      "text": "Estate setting, neighbours close",
+      "weight": 2,
+      "detail": "From above, the cul-de-sac of detached houses sits inside Coolcotts' estates, with semis and terraces to the west and south and neighbours about 15–30 m away; BuyerIQ shows eight large residential schemes lodged about 200 m away."
+    },
+    {
+      "text": "Slow, sparse Dublin trains",
+      "weight": 2,
+      "detail": "Wexford O'Hanrahan has about 4 direct Connolly trains a weekday, taking about 2 h 40 min; Dublin by car is about 2 h."
+    },
+    {
+      "text": "Modest kitchen for six",
+      "weight": 1,
+      "detail": "The kitchen/dining room is 4.15 × 3.99 m; the stairs rise from the 3.74 × 3.02 m central room, which is the hub between the living rooms and the bedroom corridor, and the sunroom is 2.96 × 2.56 m."
+    },
+    {
+      "text": "Nearest primary unrated, DEIS Band 1",
+      "weight": 1,
+      "detail": "Scoil Mhuire, Coolcotts (mixed, about 612 pupils) is 190 m away, but no inspection report could be read for it or for the alternatives such as Wexford Educate Together (940 m)."
+    },
+    {
+      "text": "Radon and race-day traffic",
+      "weight": 1,
+      "detail": "BuyerIQ flags moderate radon risk in the area, and Wexford Racecourse's track lies roughly 100–150 m north-west of the cul-de-sac; it adds open space but brings traffic on race days."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "category": "Schools",
+      "kind": "Primary school",
+      "title": "Scoil Mhuire, Coolcotts",
+      "label": "School run",
+      "candidates": [
+        "Scoil Mhuire Coolcotts, Coolcotts, Wexford",
+        "Scoil Mhuire National School, Coolcotts Lane, Wexford"
+      ],
+      "note": "190 m away per the listing; mixed Catholic school, Junior Infants to 6th class, about 612 pupils (317 boys), DEIS Band 1, roll 19739N.",
+      "when": "08:20",
+      "group": "weekday",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Large co-ed school with autism and early-intervention classes; DEIS Band 1 per 2026 job adverts. No inspection report could be read (gov.ie is behind a verification check)."
+      },
+      "resolved": {
+        "at": "2026-10-30T01:16:52.699Z",
+        "dest": {
+          "name": "Scoil Mhuire, Coolcotts",
+          "address": "Coolcott's Ln, Townparks, Wexford, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=3674009002064691286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.336256,
+          "lng": -6.48429,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Scoil Mhuire Coolcotts, Coolcotts, Wexford"
+        },
+        "duration": 49,
+        "distance": 188,
+        "alts": [
+          {
+            "name": "Scoil Mhuire, Coolcotts",
+            "duration": 49,
+            "distance": 188
+          }
+        ],
+        "walk": {
+          "duration": 146,
+          "distance": 188
+        },
+        "bike": {
+          "duration": 30,
+          "distance": 188
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Scoil Mhuire is 190 m away on estate footpaths; fine for the kids."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet estate roads the whole way."
+        }
+      }
+    },
+    {
+      "id": "secondary",
+      "category": "Schools",
+      "kind": "Secondary school",
+      "title": "St Peter's College",
+      "label": "School run",
+      "candidates": [
+        "St Peter's College, Summerhill, Wexford"
+      ],
+      "note": "Boys' diocesan secondary, about 785 pupils, 1.0 km away per the listing.",
+      "when": "08:05",
+      "group": "weekday",
+      "rating": {
+        "level": "Good",
+        "basis": "Named among Wexford's well-placed schools in the Irish Times feeder tables (South East Radio, Dec 2019) and on an older Sunday Independent best-performers list; no recent percentage found."
+      },
+      "resolved": {
+        "at": "2026-10-30T01:16:52.699Z",
+        "dest": {
+          "name": "St. Peter's College Secondary School",
+          "address": "Summerhill Heights, Townparks, Wexford, Y35 P8WT",
+          "uri": "https://maps.google.com/?cid=15928080058911983556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.3352216,
+          "lng": -6.473201899999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJrbzUybEPZ0gRxIduSWzoC90/photos/AV-0GLdLb0J-_6sXb-Zwud4bDRpgEd_Eg36L_iX1t-sRsSasl_NTcykdvKGBIoO2RNBdylKmcscRc1Ek8pMWsxbVhmVKH7dq4zlkMJHWi8NmwrmcQYRde0tNzpN9ONKPbevSzFdBJ5xaobjAn3qNH-Vo9EsVTM6xZpJfl5L963DLRbD_rgY5wS1IHZ16d81B9HVrJ04LXO2411oREgbWkTxr4-dL7EkMKdusD8YrXCVohkX5AOPV9dJmrOPvP0IWSaF2k6KDUY-hKZqJR5teMIixuiB9W9yciftSBevYIn5rLskZTvU31PhCywwaTQBYXISLeYzkvsC_8QfoiEurr3n4JVA7sr3G87nyUqvyRKS5Pj6XZEB9avYUETtEaME75G7OovBc0efcf8-pSPw5FHEnXrsqB4A/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Mairead Coleman",
+            "uri": "https://maps.google.com/maps/contrib/117150877286568789860"
+          },
+          "q": "St Peter's College, Summerhill, Wexford"
+        },
+        "duration": 229,
+        "distance": 1662,
+        "alts": [],
+        "walk": {
+          "duration": 1057,
+          "distance": 1287
+        },
+        "bike": {
+          "duration": 270,
+          "distance": 1286
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths all the way through the Coolcotts estates and residential streets; suits the kids."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet estate roads to St Peter's."
+        }
+      }
+    },
+    {
+      "id": "shop",
+      "category": "Groceries",
+      "kind": "Village shop",
+      "title": "Aldi Newtown Road",
+      "label": "Milk and the paper",
+      "candidates": [
+        "Aldi, Newtown Road, Wexford"
+      ],
+      "note": "No Centra, Spar, Londis or Mace turned up in Coolcotts; Aldi on Newtown Road, past the hospital, is the nearest food shop found.",
+      "when": "09:15",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-10-30T01:16:52.699Z",
+        "dest": {
+          "name": "ALDI",
+          "address": "Newtown Rd, Carricklawn, Wexford, Y35 P5FW",
+          "uri": "https://maps.google.com/?cid=663382016147153261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 968,
+          "lat": 52.3421842,
+          "lng": -6.4913864,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJk_eqO6UcaEgRbWHVzm3ONAk/photos/AV-0GLfPo9CjzUyHIpSODbYiZYpYb5ZXpQE9wWcTdCfe5YuSHiKsX_0a40hOPN3EFuZNxQ6UhCdTwvwkx32b4X3B3xSREwtUyvUsd9SPfe-nUc9kdI_GeHE8b-hAdeIPDjDE04mvtXxxiBXcwuDKpTa6V54JXE3TDU3hf2yJ_qGbXoeQ8QSYPvHU0nRDI_5oNZbWlSpKuYA16PDnmh1FIucn-log77GR7X-oAkLTVrFvyHHe9LiDjJg54KetXZ2WXwe-_-3L-Ydjyg7YCclYAUFO51kWcaRWDQA69krCBgB5BhMN62sHl6CwJVMJkQbFqgSST5DZCt0hZ3x-81WCFZlvSABK6eAcL4eD2ObDbsR5N1IdcAqr94n_waultnmGbyKTg4f7SW5bdxLo5lXMciZENFqb8fuC/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "adam a",
+            "uri": "https://maps.google.com/maps/contrib/104601303061045360743"
+          },
+          "q": "Aldi, Newtown Road, Wexford"
+        },
+        "duration": 243,
+        "distance": 1541,
+        "alts": [],
+        "walk": {
+          "duration": 1259,
+          "distance": 1536
+        },
+        "bike": {
+          "duration": 470,
+          "distance": 2033
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths all the way through the Coolcotts estates and residential streets to Aldi."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Ends on the busy Newtown Road with no cycle lane."
+        }
+      }
+    },
+    {
+      "id": "bigshop",
+      "category": "Groceries",
+      "kind": "Supermarket",
+      "title": "Tesco Wexford",
+      "label": "The big shop",
+      "candidates": [
+        "Tesco Extra, Clonard, Wexford",
+        "Dunnes Stores, Redmond Square, Wexford",
+        "SuperValu, Wexford, Co. Wexford"
+      ],
+      "note": "Wexford town's full supermarkets are all within a few km.",
+      "when": "10:30",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-10-30T01:16:52.699Z",
+        "dest": {
+          "name": "Pettitt's SuperValu",
+          "address": "Saint Aidan's Shopping Centre, Slipperygreen, Wexford, Y35 XC42",
+          "uri": "https://maps.google.com/?cid=1188023394813046393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 923,
+          "lat": 52.332220799999995,
+          "lng": -6.4678036,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJYx-eFGcbaEgReW6vsPu0fBA/photos/AV-0GLdozda57i7LLpS52VmqhexhlHAGlpccRvQyEOCfyBwbWXIEDkVKYNye3jzmktvbjCkQJUL7qJtcyI5ocrK2RlJuP-5cmRzEaMS7nJUDBd3bk7VhrDq2y-xVHMyynRcvcobobZxAWiKtR496sHAlNdyQkiBACrMWiKHXqJQup2GocmmIVFQAKV8vpvHgVujfaAyf0u6A52i1rDffc0wgMvz3bnBEBnQd-XFp-4P-6rnksOpWd167Gn3AwWGcH3FRXQlllUjpePoLlQe1Wdl3eFyHeUqe0U42kZjLdZzqI09E2R2IjSTcNGMikiJixe55P-QZ59RcgXs-MB2AbrjavdGMVxeyB01J0zejAk5hr2iXsFHjqYHnuueKwhYDWY36WsuYkf3TtqZBHoJvbQTtiO6l508/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "R Meyler (London Living)",
+            "uri": "https://maps.google.com/maps/contrib/113142897839469215255"
+          },
+          "q": "SuperValu, Wexford, Co. Wexford"
+        },
+        "duration": 343,
+        "distance": 2272,
+        "alts": [
+          {
+            "name": "Dunnes Stores Redmond Square",
+            "duration": 382,
+            "distance": 2042
+          },
+          {
+            "name": "Tesco Extra",
+            "duration": 439,
+            "distance": 2892
+          }
+        ],
+        "walk": {
+          "duration": 1479,
+          "distance": 1871
+        },
+        "bike": {
+          "duration": 421,
+          "distance": 2039
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths all the way through the Coolcotts estates and residential streets to the supermarket."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Busy town roads with no cycle lanes for part of the way."
+        }
+      }
+    },
+    {
+      "id": "dinner",
+      "category": "Eating out",
+      "kind": "Restaurant",
+      "title": "La Côte Seafood Restaurant",
+      "label": "Dinner out",
+      "candidates": [
+        "La Cote Seafood Restaurant, Custom House Quay, Wexford"
+      ],
+      "note": "Best restaurant in Co. Wexford at the 2026 Restaurant Association Awards; on the quay in town.",
+      "when": "19:00",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-10-30T01:16:52.699Z",
+        "dest": {
+          "name": "La Côte Seafood Restaurant",
+          "address": "Church Ln, Townparks, Wexford",
+          "uri": "https://maps.google.com/?cid=1505038874505819357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 514,
+          "lat": 52.3388515,
+          "lng": -6.4597218,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ9arzjUMbaEgR3bQS4OH44hQ/photos/AV-0GLfoqqPabqOd2PwJtEKXFYJHAQel0QLAPoGtRgnxhYp_yIVAY0MLwKZt5NMxzaURDjrqI-KEHzpz3PC7A6WpYThHzKvZqxgfmFsrn0OKF0tsjdc-udaHrJmkVT6faP7kdk-4HY4Qq6eui2Gl1iOjbRtjU2UokYNaZsX7syXNZtcarsR9mujiOmkGneMBdV9xDvqJTG59cK8mXf57C1pIrhhCaDVqhdcpFMzWssiDFuGZg2yU9YkeNcicd6rKHpNDKqOG6L2LI6Lm9_YQ0tZxEtzjyftQoM7exTC5jIvOIGVC-_M7Uhzx9g1SS_gP6xxosSU7FH6Yhvza0YzcjuZQnIUCF7wal_xYaMGKw7ajeLoks2nmKeFppw8LxVLob1ouN1YMappdjSvN-tu_cNhDDgOmXcnPAgw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "La Côte Seafood Restaurant",
+            "uri": "https://maps.google.com/maps/contrib/115880974753039579345"
+          },
+          "q": "La Cote Seafood Restaurant, Custom House Quay, Wexford"
+        },
+        "duration": 439,
+        "distance": 2607,
+        "alts": [],
+        "walk": {
+          "duration": 1750,
+          "distance": 2226
+        },
+        "bike": {
+          "duration": 443,
+          "distance": 2343
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths all the way through the Coolcotts estates and residential streets into town, about 29 minutes."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Town-centre streets with traffic and parked cars."
+        }
+      }
+    },
+    {
+      "id": "hospital",
+      "category": "Health",
+      "kind": "Emergency department",
+      "title": "Wexford General Hospital",
+      "label": "The 3 a.m. trip",
+      "candidates": [
+        "Wexford General Hospital, Newtown Road, Wexford"
+      ],
+      "note": "All-ages 24-hour ED about 1 km away on Newtown Road; the listing says it's a short walk.",
+      "when": "03:00",
+      "group": "night",
+      "resolved": {
+        "at": "2026-10-30T01:16:52.699Z",
+        "dest": {
+          "name": "Wexford General Hospital",
+          "address": "Newtown Rd, Carricklawn, Wexford, Y35 Y17D",
+          "uri": "https://maps.google.com/?cid=2703091205570474847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.4,
+          "ratings": 210,
+          "lat": 52.3432648,
+          "lng": -6.4831242,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ1SE5gKgcaEgRX7OCPyFPgyU/photos/AV-0GLc11VBDjT7nt7NXd8GAMJHYHZCOPoBlcZyZHSooAsXzvBTgbUA87VS8xpA_9G-oTuxr_qJtti6xVkk636kGtEbi9gycqEQ4ZGSjzqjuxY9XV299EOT9hOpnBhPNqNQiH0pCIPgRaQZDMHIrLogFgrHnotCLyVvXRXDfsZhRThBMjMBZUkWUmFUJ0ncLtx2ktKXYQBD-l7V1B6wUfQeQYj3chXJ9xuivwg-YIP6j0Aftm4N74P1B7yaSPIHv3XzZ76WiqyOxvQOdMR1M-J-ho6koedeLEhOxSd4iLDwYrfwxPCBOhPbdOuHrKl2He1VYDvdXnqm6VosPOoXMupNwbJE2Idj1zTH1SQwL29NuaN83e7vkMxUFeMe1mJTk6Lr8Mao0Ki_Ic1xqn1fqPU0MQgfjdMlX4S0/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Keith Kennedy",
+            "uri": "https://maps.google.com/maps/contrib/116833290017099661719"
+          },
+          "q": "Wexford General Hospital, Newtown Road, Wexford"
+        },
+        "duration": 190,
+        "distance": 1322,
+        "alts": [],
+        "walk": {
+          "duration": 1046,
+          "distance": 1317
+        },
+        "bike": {
+          "duration": 271,
+          "distance": 1317
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpath along the Newtown Road verge to Wexford General, about 17 minutes."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "About 1 km on the busy Newtown Road with no cycle lane and a roundabout at the hospital."
+        }
+      }
+    },
+    {
+      "id": "town",
+      "category": "Towns and cities",
+      "kind": "Small town",
+      "title": "Wexford town centre",
+      "label": "Errands in town",
+      "candidates": [
+        "The Bullring, Wexford",
+        "Main Street, Wexford"
+      ],
+      "note": "Wexford (county town, about 21,000 people); the centre is about 1.7 km away.",
+      "when": "12:30",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-10-30T01:16:52.699Z",
+        "dest": {
+          "name": "The Bullring Market",
+          "address": "The Bullring, Townparks, Wexford",
+          "uri": "https://maps.google.com/?cid=3421839085302747084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 16,
+          "lat": 52.3399223,
+          "lng": -6.462106299999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJJar7eAwbaEgRzI8EtoTQfC8/photos/AV-0GLf4D_mxrySVgEC1v1N_xJzUys--rR4ZVnGiPiYoiDxAwtojmQKpeA__1xlV7PVQTFSpoLBFfAMqXwOrAnOwbd3so00LGS3dn9gQDuo3ye9V-8AdCLlJFpue8jupFu01xqUr3LOXa8I2CUBh01iO-CdSLXMl9MuRXl-uOdYLZexV4RQrOiw4VucKzoSEMnICEvSNRasgOHl0OsCvKSuzyTuPaShQvvNfY-UAk5ZEZ-whsiQ9jSYkMg8HEpHCKOMfQVaHJ4RhMay8ePudMOVUFyj8FfZKYG00RnwsyfFFsgJKjz4eNoB_JRmKY3qzdxJUOiLnlYYWgf0v8DlAl3Mxnu2FxfegodBRVD4tneVFJYE02OF059MgmxbZUP1L-cuNaZbpIPoIF8S23GrkpPsXkh4mJA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "p bour",
+            "uri": "https://maps.google.com/maps/contrib/110428016759024374688"
+          },
+          "q": "The Bullring, Wexford"
+        },
+        "duration": 562,
+        "distance": 2530,
+        "alts": [
+          {
+            "name": "North Main Street",
+            "duration": 572,
+            "distance": 2563
+          }
+        ],
+        "walk": {
+          "duration": 1562,
+          "distance": 2003
+        },
+        "bike": {
+          "duration": 466,
+          "distance": 2315
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths all the way through the Coolcotts estates and residential streets into the town centre, about 26 minutes."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Residential streets into town; narrow one-way streets near the centre."
+        }
+      }
+    },
+    {
+      "id": "city",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "Waterford",
+      "label": "Day in the city",
+      "candidates": [
+        "The Quay, Waterford",
+        "University Hospital Waterford, Waterford"
+      ],
+      "note": "Nearest city, roughly an hour west via the N25.",
+      "when": "15:00",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-10-30T01:16:52.699Z",
+        "dest": {
+          "name": "University Hospital Waterford",
+          "address": "Dunmore Rd, Ballynakill, Waterford, X91 ER8E",
+          "uri": "https://maps.google.com/?cid=18366841158015417398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.6,
+          "ratings": 433,
+          "lat": 52.2485059,
+          "lng": -7.0784959,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJlWiCpMbGQkgRNnyItbgg5P4/photos/AV-0GLcPlJ3bM5mby9vr_JT_VxPTOUjbrjzyD61a4MWRJfuI6MUKB7fqLr0Hn_fLRYD4GQSN3rTB8UspMie0qMi9oOfvtTqdtWiv-t2CFJsvvV0NV505pt8D252SjGaSBxnu4Ll7e3vnFBY4L5JEogxDPNafZHJ4X_XD-OeR-_AaEKenKOfeDj-SxTsL9_IBirUCptRX1Dbsuuqzc6AOJHrHfNZVcQxDEIg_Fb_TN_aiJRDI8_R_I2uAiWMPwvp_daS6caD9w5-i3fj4foEc6IE1OZmsD9y1Al0f_XWmkGReLt6EwaARoY1WpjCv0uJW156AbHQFE2DuS7Iiz-qEGHVK6knIvTlZyG6uDETBKYnXSixrNGOMfoi6t-7IMB_C8qoX5zLTqqjSLbzrj9P3iY3B49skM3I/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Arty Okkas",
+            "uri": "https://maps.google.com/maps/contrib/118243143724239708496"
+          },
+          "q": "University Hospital Waterford, Waterford"
+        },
+        "duration": 3627,
+        "distance": 57792,
+        "alts": [
+          {
+            "name": "The Quay",
+            "duration": 4050,
+            "distance": 38936
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "dublin",
+      "category": "Towns and cities",
+      "kind": "Capital",
+      "title": "St Stephen's Green, Dublin",
+      "label": "Day in Dublin",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-10-30T01:16:52.699Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLe4ReLuI-hGKI8xwgkEOiUl4sf4xFul0cRhN2uQgrr5WY0xmTMqeicoNig6gAZisapv8yz9WpLJuXq-4eKlAOoG7h-i9GY3Mnz0ERhlrEa4JUX3QsdJSpDY5XJj7qF7g_LK6IPCfrh32MX0gX9ujTvu8avF-3R0VNQt13vo8LrSyemmuxN1bVAZrKLyzh8PC5wM_PnMwGL_N0DL5j9g7IxGw15_q0ouu9lisC4ZP9BS_M8v43DonT9bKRqhnLu0WXV7gwsOiyg4YxK_q7_qARugvn7lRnnj580p6uKJJda4vYzkcbssh8gQYPRfJ2woIjT9QrHO3yeqcWDtLzWQNa3bG2vFT8OsPUG3f025UZ1-qh4A_XPQGlqkzLj_DeTuWFaUuXgNU_CsEqg7mvTvQS67Bw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 6431,
+        "distance": 136567,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "cork",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "English Market, Cork",
+      "label": "Day in Cork",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-10-30T01:16:52.699Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLdUbKX9I3UyYIFV5ajs1e4CIC3lb7gtQOLhRSVrKskguss7GGO1DFp-hxo2CANPSCTA9rRqG70OdwGEMZJ6J-Hhb6j_Lmv9r_v7-DgkkWtnt5SRpehHPU1DsVEu5qK-LcZYBSBuLwJFGkS8mDRIaFyGu8JgviJEw1WI2AJvRbqx5YfnUAvlHkzNCymK_SABhemvRzvKWxHNJrcgYgaSQwL6FXS7QIRC3E5lR04LsNt3uw4CdamA20I4RiisQYXIOeHDkoUDxTrXVCCipR9KGrV0k-RIzR8oQ2d2KK0uGP_B5ZV1ERN98vVigPtWIllwk5WD3_GI-4KpKUAyaPcmZBW-9bIzoJ6mwec8Orjo8GSepPCSCi9hkopludc40Kk-Vf4kXtGHlE8MTck190AV26VL0vk/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 8767,
+        "distance": 174222,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "train",
+      "category": "Getting away",
+      "kind": "Station",
+      "title": "Wexford O'Hanrahan station",
+      "label": "Train to Dublin",
+      "candidates": [
+        "Wexford O'Hanrahan Railway Station, Redmond Place, Wexford",
+        "Wexford Train Station, Wexford"
+      ],
+      "note": "Rosslare–Dublin Connolly line: about 4 direct trains a weekday, about 2 h 40 min; the WX1/WX2 town buses (stop 270 m away) run to the station.",
+      "when": "07:15",
+      "group": "further",
+      "resolved": {
+        "at": "2026-10-30T01:16:52.699Z",
+        "dest": {
+          "name": "Wexford (O Hanrahan)",
+          "address": "Wexford Railway Station Redmond Sqaure, Townparks, Wexford, Co. Wexford, Y35 FC62",
+          "uri": "https://maps.google.com/?cid=4263746221154084344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 69,
+          "lat": 52.3433383,
+          "lng": -6.4643597999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJDVnuREUbaEgR-KVNDJneKzs/photos/AV-0GLeprgim0fCiTB4u3sGFWHesSSP53oMArbvIFy6tZIVHpONlB1hTjjN0GjGK7ye1jujz5CA_lZisr5JjjPptUZpmD1BY6PiI1Qdr4uyYPyBV9GGDIwFEl_-pJX2L2YiyU-7xrehQUa6USSBIfkqabX03OGXfugH0vywhNjGjCBmQUAAYt1O4KBjkPd0IOwSCXfT-m-wyOaFJLO2rUZvafc_p2XU4PFFGcx2rnjhQkrwFuKCgfvxBqoVRownuVjPvmFkYBy-mmWE1WrGtqSM8oAsFHA88ubsl52ZxA0r9JueOdYKlwmahy6Ggw5Ux12pIlRdyfqXqPnxGaEfoG6hIfgLYXbNcCGcbS6b9P69mLtpLc_dbFrLvrU3feDTJWFp6w9htBNNBLoGKs7wOnTxyPmf-Fug/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "スタバカ（SUTABAKA）",
+            "uri": "https://maps.google.com/maps/contrib/107705833309561868785"
+          },
+          "q": "Wexford O'Hanrahan Railway Station, Redmond Place, Wexford"
+        },
+        "duration": 263,
+        "distance": 2011,
+        "alts": [
+          {
+            "name": "Wexford (O Hanrahan)",
+            "duration": 263,
+            "distance": 2011
+          }
+        ],
+        "walk": {
+          "duration": 1564,
+          "distance": 1990
+        },
+        "bike": {
+          "duration": 504,
+          "distance": 2011
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "good",
+          "note": "Footpaths all the way through the Coolcotts estates and residential streets to the station, about 26 minutes."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Town-centre streets and the quays road with traffic."
+        }
+      }
+    },
+    {
+      "id": "airport",
+      "category": "Getting away",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "label": "Flights",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "",
+      "when": "06:00",
+      "group": "further",
+      "day": "friday",
+      "resolved": {
+        "at": "2026-10-30T01:16:52.699Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42131,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLeC80zgrQioJsajnZjnTwiwzjCjga3L6i4fl5B4LfQ35ZG35m4RGQDdZoe2ehmDyXHOwyVhdRAkG3SJN-jPW-cd3nlN4TwcYF0ZXvT7f6vU6gDDX79gInzoX0z2ZXbaPXWZMfVK88PtvrUV5VI43_vMiAbTnWew0pdkO0JxfQ-zo94tFgKOgR-YeTd_TvKK9tr93M1uJ1amDkYzF0go6hmp7bYHw0iioKncqsAK-iVJsi0stIiEN8dimMjF4ealPZd3lRCknaUHMeMxuGzZyMbgaAxhKt3rE-z8IKbPThOfxHVuucIDf30NBATRlcLVhm27Me0HVEl528-Ui4memfwn1Oj8Z1f1xytuEZ-ni7tv-0Z0yYwVG-2ZfIRKimMskosoWSSpjrKuFQUQLRgFs_DaSBit06Q/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 6380,
+        "distance": 159862,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
