@@ -207,6 +207,21 @@ json.load(open('properties/index.json')); print('ok')
 EOF
 ```
 
+## 6b. Bake the trips (saves Google API spend)
+
+After writing the file, and before publishing, run `node setup/bake_trips.js <id>`. Then rate walk and bike on the stored trips (section 4b, `setup/sv_sheets.js`).
+
+The bake resolves each trip once and stores it as `trip.resolved` in the data file:
+- the Places search
+- the traffic-aware drive route
+- the walk and bike times
+
+Without it, every visitor's browser makes about 35 Routes calls and 18 Places searches per house, which is roughly €1 per house per browser per week. With it, a visit makes none, and a ride-along fetches only its one route when someone presses play.
+
+Stored trips count as fresh for 30 days, and the daily sweep re-bakes any older than 25 days. Rules:
+- Never bump `CACHE_VER` in app.js casually: it makes every visitor pay again.
+- Never test the page in throwaway browser profiles. Both scripts reuse a persistent profile (`$BAKE_PROFILE`).
+
 ## 7. Publish
 
 ```bash

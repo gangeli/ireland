@@ -208,7 +208,7 @@
       for (const t of ts) {
         list.append(el("li", { class: "trip" },
           el("button", { type: "button", class: "trip-card", id: "card-" + t.id, onclick: () => openTrip(t) },
-            el("img", { class: "trip-photo", alt: "", id: "ph-" + t.id }),
+            el("img", { class: "trip-photo", alt: "", id: "ph-" + t.id, loading: "lazy" }),
             el("div", { class: "trip-main" },
               el("span", { class: "trip-label" }, document.createTextNode(t.kind),
                 t.rating && t.rating.level ? el("span", { class: "school-q q-" + t.rating.level.toLowerCase().replace(/[^a-z]+/g, "-"), text: t.rating.level, title: t.rating.basis || "" }) : null),
@@ -529,7 +529,18 @@
   }
   const slim = (route) => ({ ...route, steps: route.steps.map((s) => ({ ...s, pts: s.pts.map(([a, b]) => [+a.toFixed(5), +b.toFixed(5)]) })) });
 
+  // Trips are resolved once per house and stored in the data (trip.resolved, written by setup/bake_trips.js),
+  // so viewers don't pay for Places searches and Routes calls on every visit. ?live=1 ignores the stored copy.
+  const LIVE = new URLSearchParams(location.search).has("live");
+  const BAKED_DAYS = 30;
+  function bakedTrip(t) {
+    const b = t.resolved;
+    if (LIVE || !b || !b.dest || Date.now() - Date.parse(b.at) > BAKED_DAYS * 86400000) return null;
+    return { ts: Date.parse(b.at), depMs: departureFor(t), dest: b.dest, route: { duration: b.duration, distance: b.distance, steps: null }, alts: b.alts || [], baked: true };
+  }
   async function resolveTrip(t) {
+    const baked = bakedTrip(t);
+    if (baked) return baked;
     const ck = `hd:${CACHE_VER}:${PID}:${t.id}:${hashStr(JSON.stringify(t.candidates))}`;
     const hit = load(ck);
     if (hit && Date.now() - hit.ts < CACHE_DAYS * 86400000) return hit;
@@ -593,6 +604,7 @@
     }
   }
   async function activeFor(t, r) {
+    if (r.baked) return { WALK: t.resolved.walk || null, BICYCLE: t.resolved.bike || null };
     const ck = `hd:${CACHE_VER}:${PID}:${t.id}:act:${r.dest.lat.toFixed(4)},${r.dest.lng.toFixed(4)}`;
     const hit = load(ck);
     if (hit && Date.now() - hit.ts < CACHE_DAYS * 86400000) return hit;
@@ -647,6 +659,8 @@
   }
 
   /* ---------- frames ---------- */
+  // Each frame is a billed Street View image, so a ride is capped (was 900: about €6 for a long trip, now about €1).
+  const MAX_FRAMES = 150;
   function buildFrames(route) {
     const sumDur = route.steps.reduce((a, s) => a + s.dur, 0) || route.duration;
     const scale = route.duration / sumDur;
@@ -692,8 +706,8 @@
         frames.push({ lat: p[0], lng: p[1], d, t: p[3] });
         d += spacing(d, p[4]) * budget;
       }
-      if (frames.length <= 900) break;
-      budget *= frames.length / 900;
+      if (frames.length <= MAX_FRAMES) break;
+      budget *= frames.length / MAX_FRAMES;
     }
     const endP = pts[pts.length - 1];
     frames.push({ lat: endP[0], lng: endP[1], d: total, t: route.duration });
@@ -867,6 +881,17 @@
     let r = trips[t.id];
     try { if (!r) { r = await resolveTrip(t); trips[t.id] = r; } }
     catch (e) { $("pl-loading").textContent = "Couldn't plot this trip. The browser console has details."; return; }
+    if (!r.route.steps) {
+      // Stored trips carry only times; fetch the path itself once, when someone actually rides along.
+      const rk = `hd:${CACHE_VER}:${PID}:${t.id}:ride:${r.dest.lat.toFixed(4)},${r.dest.lng.toFixed(4)}`;
+      const hit = load(rk);
+      try {
+        const route = hit && Date.now() - hit.ts < CACHE_DAYS * 86400000 ? hit.route : slim(await routeTo(r.dest, r.depMs));
+        if (!hit) store(rk, { ts: Date.now(), route });
+        r = { ...r, route: { ...route, duration: r.route.duration, distance: r.route.distance } };
+        trips[t.id] = r;
+      } catch (e) { $("pl-loading").textContent = "Couldn't plot this trip. The browser console has details."; return; }
+    }
 
     const { frames, total, pts } = buildFrames(r.route);
     Object.assign(PL, { t, r, frames, dist: total, total: r.route.duration, simT: 0, shown: -1, wanted: -1, playing: false, last: 0, contig: -1 });

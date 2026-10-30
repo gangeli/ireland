@@ -157,6 +157,33 @@
           "level": "good",
           "note": "Quiet single-track lanes for about 1 km, then a short stretch of quiet local road to the school."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:53:42.804Z",
+        "dest": {
+          "name": "Ballyduff National School",
+          "address": "Ballyduff National School, Ballyduff, Camolin, Co. Wexford, Y21 XY30",
+          "uri": "https://maps.google.com/?cid=8548473608329216129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.6369556,
+          "lng": -6.4683174,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Ballyduff National School, Ballyduff, Camolin, Co. Wexford"
+        },
+        "duration": 109,
+        "distance": 1133,
+        "alts": [],
+        "walk": {
+          "duration": 862,
+          "distance": 1133
+        },
+        "bike": {
+          "duration": 220,
+          "distance": 1133
+        }
       }
     },
     {
@@ -174,6 +201,33 @@
       "rating": {
         "level": "Good",
         "basis": "Ireland's largest school (~1,540, mixed, free) with wide subject choice and a long good reputation; no recent progression % retrieved, so moderate confidence."
+      },
+      "resolved": {
+        "at": "2026-10-30T00:53:42.804Z",
+        "dest": {
+          "name": "Gorey Community School",
+          "address": "Gorey Community School, Esmonde St, Gorey corporation lands, Gorey, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=12692651617978932863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.6734235,
+          "lng": -6.2878704999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJZWo_otznZ0gRf95r42VbJbA/photos/AV-0GLeJX8JfRI_cF6qSJvm6gDPm2wJ0XhUvmMyMAr4FjaVapS0IBGvvDeh9Qh6uziwW4OzZb9GHy-QHWCS4lS5m-uV67QvfnVy6nKsm0vt1sX4Q_MAD3ayo5Bn6KZRk5U75B_wrdnxQ28QWlzcX2hrpSyklFYcwJmWl-tEpR4EljIT5BWX79Oo9K9kpfDHGyR3mlcnygjl4UXo8OiwWKyrG7298nO0Mjent2btiEp07oCdpC_CrzQDRoCsVSukbDK_qKDADl-0cIO2AQcrsWs2sMY98YEXfLBmdrx1AV3GpHNnm0tUeXjeJT13Cr4fMc94565o3Bl_JW0CIRQiSb8N-c0H9upOPJMIEoMUE4Az3Qx8m8Tqqaz4C8SpyyUJAzQovYlz5KS34gUE2WMoeX16XCUIGfxCI/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Gavin",
+            "uri": "https://maps.google.com/maps/contrib/117683194599824480524"
+          },
+          "q": "Gorey Community School, Esmonde Street, Gorey, Co. Wexford"
+        },
+        "duration": 1481,
+        "distance": 16285,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 3297,
+          "distance": 16563
+        }
       }
     },
     {
@@ -198,6 +252,42 @@
           "level": "ok",
           "note": "Quiet lanes and the L5072 look easy riding, but about 1.6 km (2.8–4.4 km) has no Street View to check."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:53:42.804Z",
+        "dest": {
+          "name": "Lamberts londis",
+          "address": "Camolin, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=5835819353177517944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 99,
+          "lat": 52.6178894,
+          "lng": -6.4219031,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJrb9pkqjkZ0gReO9-P8j-_FA/photos/AV-0GLdv_vK1pfPVKi0Ve3aLKPlWGDH7xnxR3M5bMuBhvHGiOqiTuLry1RlRI-rXmX327PWUlSod-KFPEm2Tt16ZIuiE9U8cmktwBxRQO15N2Wh22-jqMwogSVHGSUa0z93tuy2YwgSR5jQXKIc_uY8IfyVarzLSrbMD_NZsHH7bj42FNmr4lQJTuGKZQfE5iVxu5qbIn5Bodsr0G40Xg0tCR6iFwOMRmy5fF2ieeP2Pc5VAJG-QBlf9cU9oMpZYGzbV4_GuwkKu9_420slbDc2O4Y66a0hlRf8XEgCKQS19IuMTMTl1yeIjlMZ_n0ysYtUSD3al4c5hBxdFWW6yDLncU05ddtEHllGrDozPd85bAytKk0QbNYdnQacXiccGTpFcZsVbQwyJRRJHjcS9/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Gavin",
+            "uri": "https://maps.google.com/maps/contrib/117683194599824480524"
+          },
+          "q": "Lambert's Londis Service Station, Camolin, Co. Wexford"
+        },
+        "duration": 520,
+        "distance": 6028,
+        "alts": [
+          {
+            "name": "Centra Ferns",
+            "duration": 663,
+            "distance": 8329
+          }
+        ],
+        "walk": {
+          "duration": 4752,
+          "distance": 6114
+        },
+        "bike": {
+          "duration": 1110,
+          "distance": 6130
+        }
       }
     },
     {
@@ -213,7 +303,45 @@
       ],
       "note": "Gorey, about 12 km east, has Tesco Extra, Pettitt's SuperValu, Lidl and Aldi; O'Reilly's SuperValu in Bunclody is a similar distance west.",
       "title": "Tesco Extra Gorey",
-      "category": "Groceries"
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-10-30T00:53:42.804Z",
+        "dest": {
+          "name": "Tesco Extra",
+          "address": "Ramstown Lower, Gorey, Co. Wexford, Y25 K5P1",
+          "uri": "https://maps.google.com/?cid=8766460353661092276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 468,
+          "lat": 52.672649299999996,
+          "lng": -6.3004783,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJXV0m5k_mZ0gRtMGDtT65qHk/photos/AV-0GLckflS2xe5Nqux0rxnVeGAHPhR0DC7JGaWEIhBzBuo9jA2xGBYiL_hPe89UKA8B-eYKB9n3tcyBPJSb9qPuXeC-1QjRqA5Korl9YPZfc1LFpTCgcryp6VjNBLIHid2Q9nq_ITyr7kk4ZYRxuTISkDCeP5M_PgSdcGZqUzVtbpRI2QDmFYh5nwzZ-Gvdi7L65y_VwwYUZe_S2VXj4UGqqIuDd8a8ICwePFsPSvgEj6iKE1CjMyDn5r3d0yRYJgMJamOai-iaDbt08iYOWlJrUYrPb6wFECF2x3jAeBo2dda0tRqlNETVSS8uiyUgEujUrNkJtD1LVDHlk8m_bNblnu_ITC9sCW0LYp2VtjZHYzyKWkwJj2xtzlMDxYAlk5pDFTAypLhjcoKA2lWO1Rj8HPZ0PWX3/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "martin",
+            "uri": "https://maps.google.com/maps/contrib/110625441763517394949"
+          },
+          "q": "Tesco Extra, Paul Funge Boulevard, Gorey, Co. Wexford"
+        },
+        "duration": 1137,
+        "distance": 17304,
+        "alts": [
+          {
+            "name": "Pettitt's SuperValu Gorey",
+            "duration": 1286,
+            "distance": 15527
+          },
+          {
+            "name": "O'Reilly's SuperValu Bunclody",
+            "duration": 1413,
+            "distance": 17105
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 3116,
+          "distance": 17066
+        }
+      }
     },
     {
       "id": "dinner",
@@ -226,7 +354,40 @@
         "Jacks Tavern, Main Street, Camolin"
       ],
       "note": "Jacks Tavern in Camolin for pub food; Partridge's Bistro in Gorey is the better-reviewed dinner.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "resolved": {
+        "at": "2026-10-30T00:53:42.804Z",
+        "dest": {
+          "name": "Jacks Tavern",
+          "address": "Main Street, Camolin, Enniscorthy, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=12086634901915018516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 324,
+          "lat": 52.6168632,
+          "lng": -6.4237432,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJvVenjankZ0gRFKV70mdavKc/photos/AV-0GLfdjp6eWgDf4hsX_WQjZqz7thVGIxFoNeouebvWeZpal2bFf7nZ6Du2bubwP0nrmxGHzq_L8tVKRre_xGhXg0rrnLuaVM6BRAVL_HMi7lRul8KKf9Ph54R6G4OZjsuY6m4uGDzMcSKiac6v2c8SSiMsykYN9-htQS6s4VUP7_aiqf2sc_M7xxYPeuX1GxKx7rHKs7QhxTrIe1OGUev07IoJloq1m_Yb6Bw-vLoL-on8ZFcICrDlup9pF-omW432YSt0NLeEmxrcrclwQaRslT985gckfQYllPL63jedajSLZ4IwGOEzNRN1fAfl2K7mtesss1Eo0X9pNt2G-mwnX-FxpwSofZr4frULTAUbhmvkZo9f8ynBTdkmIoOE7I8B2ZsAp79K3iHyZns1ThYIZ3Ibujk/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Gavin",
+            "uri": "https://maps.google.com/maps/contrib/117683194599824480524"
+          },
+          "q": "Jacks Tavern, Main Street, Camolin"
+        },
+        "duration": 650,
+        "distance": 8708,
+        "alts": [
+          {
+            "name": "Partridges Artisan Cafe & Fine Food Shop",
+            "duration": 1222,
+            "distance": 15541
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1189,
+          "distance": 6330
+        }
+      }
     },
     {
       "id": "hospital",
@@ -239,7 +400,31 @@
       ],
       "note": "Wexford General is the nearest 24-hour ED, about 35–40 minutes.",
       "title": "Wexford General Hospital",
-      "category": "Health"
+      "category": "Health",
+      "resolved": {
+        "at": "2026-10-30T00:53:42.804Z",
+        "dest": {
+          "name": "Wexford General Hospital",
+          "address": "Newtown Rd, Carricklawn, Wexford, Y35 Y17D",
+          "uri": "https://maps.google.com/?cid=2703091205570474847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.4,
+          "ratings": 210,
+          "lat": 52.3432648,
+          "lng": -6.4831242,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ1SE5gKgcaEgRX7OCPyFPgyU/photos/AV-0GLdHhKJa035cJN4P1584rdMfH3PCIZ4gsQn-bNLeg1R8e356oC3fK62IXrcrKvs7jKPYdpYip3hnEdfPQFxJmH8G_wtH2bkEN7DjtAYV8EMuuPDu2JVe7Xe0PVzOMQ9pamAZp1YmXB_xTx5OdHgQNxsCxirwCJogz7k3rcbavEw7s8uTCJsDMba_Z7ILoYKA55T5TED1trf8ixDENv8o5NGdLm9nZ6lX__ccVQoJD0JtNJndYkQjNqP0FOeUhwGdwyMUbu8YFM-AkEjl2L2pUypeZHP7mEBe5LlNAovXmDuMwACQerLKahCfnn9IIsYLv8wZ9YSagKvWXU3fdSxOt-Bjs0fnu-XhLXt2Phh7VT4DAjf21M86J7JAqZmWaYBVJwSHLHotWhQJV1bUzT4UMAU2TVzig3Q/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Keith Kennedy",
+            "uri": "https://maps.google.com/maps/contrib/116833290017099661719"
+          },
+          "q": "Wexford General Hospital"
+        },
+        "duration": 2207,
+        "distance": 42223,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "town",
@@ -253,7 +438,40 @@
       ],
       "note": "Gorey for errands, Enniscorthy the alternative.",
       "title": "Gorey",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:53:42.804Z",
+        "dest": {
+          "name": "Main Street",
+          "address": "Main St, Gorey corporation lands, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=3439426443444120561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.6757509,
+          "lng": -6.2943009,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJgUob5k_mZ0gR8WuSoCBMuy8/photos/AV-0GLfC2nQ_uIWOa-grY-t5Sz_fn9qBf1ncS98jfgwkvsI6oKyXhhuSTRoUSdLX6RxY6hPpf331gGxYqMGI4jauFnaeJzyfsXT9Wdbt9Pc-enEOxbvDmdYqcLdM05mJ0FV-XaO9EEfp4xmwCZEM-Vx4VyiNvniI3R4FrmH_UYNcbfle8NKH7JLqsq28_bgF-ko739WihXvRMfKdn89aGpzNABR9D21uP11NGblCGVcY-4EyhxEL72hp_O5DdqvZEzoGMPZM8u0cqzcC0i0ouCR5oZThOhbbK3v0uQzNsot0xshLEBUV6Xelh8ACSZpmZFLqxLK0_yLhirnlN9cZse0TggNPduggPIZ6hXUr6-K_L-qQXYEsPfqwOqN4eUYInl5qwkhyErVH6VoNsXdoOCLDtuxRnVQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Merrin Joseph Sunny",
+            "uri": "https://maps.google.com/maps/contrib/110316594559904309794"
+          },
+          "q": "Main Street, Gorey"
+        },
+        "duration": 1243,
+        "distance": 15362,
+        "alts": [
+          {
+            "name": "Market Square",
+            "duration": 1492,
+            "distance": 20153
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 3106,
+          "distance": 15639
+        }
+      }
     },
     {
       "id": "city",
@@ -267,7 +485,34 @@
       ],
       "note": "Wexford town is closest; Kilkenny is the nearest city.",
       "title": "Wexford",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:53:42.804Z",
+        "dest": {
+          "name": "North Main Street",
+          "address": "N Main St, Townparks, Wexford",
+          "uri": "https://maps.google.com/?cid=11522806528969873353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.3397664,
+          "lng": -6.4624939,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Main Street, Wexford"
+        },
+        "duration": 2617,
+        "distance": 43504,
+        "alts": [
+          {
+            "name": "Kilkenny Castle",
+            "duration": 4243,
+            "distance": 79410
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "dublin",
@@ -281,7 +526,31 @@
       ],
       "note": "City centre by car.",
       "title": "Dublin city centre",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:53:42.804Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLdN1QKT2ijRtnLp1M-KrwONwsMa53krG7gNeqEcwQdsv4vvU2xE-6P3gCQAYEnM-ukZJFpBNw5nvvVCUCwJ9x2NEFHRTJCJSIZd9YAWePGOyVwpmEta1Whpo-ZyWZsI8rk_Vu85j22kmjjR8b0U_JYlY1dlVvhoAKRLNZP3SZ0e3EpVa7fMDx5EmgjH0ViWit5DhoXfrmWvft_ndaN4QU7fAbufds8HjkW03Oate3cEkph7lW110Dc_vwMe-SEm0ijRJmvMeLXtcXPJSguqo8HVcQx1Nwa9l3ARji20IBa7Ip04q_CwQgPoOO4wQz1sMvbP836guQWpS8canS1mvL-iWYHNcZBQ0E5-nWYXwUIS0fSm3qqSaVAoteijqSsRIjYGiVemQeMMfdCCfhO3Tmbxag/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 5324,
+        "distance": 105673,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "cork",
@@ -295,7 +564,31 @@
       ],
       "note": "",
       "title": "Cork city centre",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:53:42.804Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLeWy3floCcvOkkpQcXebdmmJn4mFIhs0v6EqfNMsf7fT9if5dOnbHlES4mpnj-UFq9uIvVFha29VreDWjQI8Hf1-JFdbuih1a5iyG4dH3p52aK9oEXXoWyUSevikX2N_PDdFKYa1UQ4-n7XT2DSO7yYrDJBxGKnRw_TQn7nUAn7yDG66FmRB1UAqZvvEcahVjPLdLg6jt4nDMUFUKAdcZDLZlXU7meEUtrlJGHhA9dLtDrsyUukTWJiUXmMFSiJ-dwvGlDGL08XefdoweGM2ZZ3TXEOKEU3RaIXcIYtv55x9d9H2vvPAvbxeGXHexr85WEFOtBL_-Zf3wQtxMO-0q_zr8rZSVAc-79Bm2Dn74_-oaUex9Zfwn8bQTAPohGK5J9qUNRWOl6bMLGeoIL2iSJN-C4/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 9771,
+        "distance": 190679,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -309,7 +602,40 @@
         "Enniscorthy railway station"
       ],
       "note": "Rosslare–Dublin line. Drive here, then about 1h45 to Dublin Connolly; roughly 6 trains a day.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T00:53:42.804Z",
+        "dest": {
+          "name": "Gorey",
+          "address": "Gorey corporation lands, Co. Wexford, Ireland",
+          "uri": "https://maps.google.com/?cid=13129161548610283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 54,
+          "lat": 52.6712219,
+          "lng": -6.292245899999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJiymD51DmZ0gR67pNIuekLgA/photos/AV-0GLdp1dGF3-G1OChPA4NHn8PwBrfvKb9_njHsI7epQu0rvL5d9-UgZjJs-TQQd7kp0adAuQvb8zRsechFIZmFM5obo0jEYx9QlGvHCQsnRGaSk_qPvdIttmU9FhlkGo8u-5H7JEXa9aWA6ljIH_41crok9hvZQRKSNoyazxHkZuIj3BzBhOprF4kgPuv3QoHzlxHMFxRvbIpZoJK_xLZenEOCYm64_Lp3DGFJC7nTXy5SHItBVNQBCW9vOZzwa57NNY-0KMeIK1MO5ZB5NrYG_2aI1aSSbr4dcTwP2JY59RID8IAhD2JMoBWbkJGrEIFBI9xwccN4LxGpP-5ksgdrGMfgod__Mt8PqN-_HGSH-BqhJImDKdos0ezCbdnpomDYOsbvOejbmlthc2K6zWJNutoM2A/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Merrin Joseph Sunny",
+            "uri": "https://maps.google.com/maps/contrib/110316594559904309794"
+          },
+          "q": "Gorey railway station"
+        },
+        "duration": 1132,
+        "distance": 17562,
+        "alts": [
+          {
+            "name": "Enniscorthy",
+            "duration": 1361,
+            "distance": 19868
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 3190,
+          "distance": 16103
+        }
+      }
     },
     {
       "id": "airport",
@@ -322,7 +648,31 @@
         "Dublin Airport"
       ],
       "note": "The trip you and your parents will make most.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T00:53:42.804Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42131,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLe1BWNuDKRyHEegScd1iIQNFnGYm-MReFZFFnEyT6cZhznCfkGVBwhJhXTEvwR5gtr89j6FiG1nIZmn8fc2JqExE8tQV3rh-k1f9EMc4a1CpAzKhlpI0eZexEHJPjK0KYXC8NJKZd6-IWdJAkvarkWyvLcdXCPgaEIGXA72W6UdbrkUdr-33OPCsbV_BhXI1Jy0v8ZVmWYajM67Pr7vjaLzrlNCF7wXHVVEGdRXDtTxGIK-qyXHdy0oQrOp3B8nF29t7GslsA8rREStxigMJ_hhXdZ6aq0lxjlfI-R5VG7rlYiMOvSgsdTEGptP5kGYvOXdpxFsxTkeyMtYDArgaYbBtOmzyLimLss-rXtbmHf6-qDzl5WhpsDsTf1CF_OK-Gp_jULyOjaePpEo2KfUPTnL-qeUZaE/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 5314,
+        "distance": 128968,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [
@@ -337,7 +687,7 @@
     "Has the house been tested for radon?"
   ],
   "ai": {
-    "stars": 3.0,
+    "stars": 3,
     "why": "Rural, dog-ready, cheap, with a downstairs suite. Compact at 115 m² with a tiny kitchen and a landing bedroom."
   },
   "services": {

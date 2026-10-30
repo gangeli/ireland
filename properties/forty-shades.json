@@ -167,6 +167,39 @@
           "level": "good",
           "note": "Quiet single-track lanes then Inistioge village streets; suitable for kids with an adult."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:53:23.353Z",
+        "dest": {
+          "name": "St Col National School",
+          "address": "Inistioge, Co. Kilkenny",
+          "uri": "https://maps.google.com/?cid=16609948830570480644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.4905571,
+          "lng": -7.0648542999999995,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "St Colmcille's National School, Inistioge, Co. Kilkenny"
+        },
+        "duration": 197,
+        "distance": 2324,
+        "alts": [
+          {
+            "name": "St Col National School",
+            "duration": 197,
+            "distance": 2324
+          }
+        ],
+        "walk": {
+          "duration": 1687,
+          "distance": 2094
+        },
+        "bike": {
+          "duration": 392,
+          "distance": 2324
+        }
       }
     },
     {
@@ -184,6 +217,30 @@
       "rating": {
         "level": "Average",
         "basis": "Small DEIS ETB school; Oct 2023 subject inspection rated teaching 'good, with some very good practice' but no published progression figure found; Irish Times shows ~310 pupils."
+      },
+      "resolved": {
+        "at": "2026-10-30T00:53:23.353Z",
+        "dest": {
+          "name": "KCETB Grennan College Thomastown Kilkenny",
+          "address": "Lady's Well St, Newtown, Thomastown, Co. Kilkenny",
+          "uri": "https://maps.google.com/?cid=15793087182769727339&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.5283191,
+          "lng": -7.142133299999999,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Grennan College, Ladywell Street, Thomastown, Co. Kilkenny"
+        },
+        "duration": 791,
+        "distance": 10857,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2041,
+          "distance": 10857
+        }
       }
     },
     {
@@ -201,6 +258,30 @@
       "rating": {
         "level": "Good",
         "basis": "Small ETB school with historically very high CAO/progression rates (over 100% in 2016 KCLR report; +12 pts in 2023 report). For a Strong option, St Kieran's (boys) or Kilkenny College (mixed) are ~25 km in Kilkenny city."
+      },
+      "resolved": {
+        "at": "2026-10-30T00:53:23.353Z",
+        "dest": {
+          "name": "KCETB Scoil Aireagail",
+          "address": "Ballyhale, Barrettstown, Ballyhale, Co. Kilkenny",
+          "uri": "https://maps.google.com/?cid=966141040719899256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.4790267,
+          "lng": -7.212810900000001,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Scoil Aireagail, Ballyhale, Co. Kilkenny"
+        },
+        "duration": 1265,
+        "distance": 18929,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 3513,
+          "distance": 18968
+        }
       }
     },
     {
@@ -225,6 +306,42 @@
           "level": "good",
           "note": "Quiet lanes and the narrow village bridge; low traffic the whole way."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:53:23.353Z",
+        "dest": {
+          "name": "EveryDay Shop",
+          "address": "Church St, Inistioge, Co. Kilkenny, R95 ANC2",
+          "uri": "https://maps.google.com/?cid=6511621370837667141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 63,
+          "lat": 52.4888718,
+          "lng": -7.0651667,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJA3UPcarKQkgRRQ2fACPtXVo/photos/AV-0GLcNlCCQ3w36DNlgWTcSuUg_JpRMKjdd4oHyY981JQG28ucZrwS83u9Q2SdO_eccpQjFxEAfXahmwY_WdCTrS4SXqj4VhIqd5ovbaiwJR2wxW-cugUecZtjOQp8O-8cVLGF7Hg-BE2AO1bXJ-knGQyDhaH4Er127GCZ3gcS9axq9sBfodJ2SLWs81F9iqzS3e0QnjIda4oqtcQcgta86TBcTBJPukuMw19gc8I0eRbKNdISgvJ1bCQwxIpcdzhBtb96ADDQctYI9SP5f7_N4swAnff7_f4JxDCyw3euiu7mSlyAURtjTNQzrQZA3pczOgpL8Gt-MDeQlFXQDePiM9VxRAKFcSEikDq2NnuuSIv8nxEb2RuHXQ25m4w3jy5RklR4k524csA50Y9OmSq2MorBQ03_a-Rg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Pardeep Hooda",
+            "uri": "https://maps.google.com/maps/contrib/108230893805785466572"
+          },
+          "q": "Everyday Inistioge, Church Street, Inistioge, Co. Kilkenny"
+        },
+        "duration": 174,
+        "distance": 2139,
+        "alts": [
+          {
+            "name": "Inistioge Post Office",
+            "duration": 215,
+            "distance": 2135
+          }
+        ],
+        "walk": {
+          "duration": 1531,
+          "distance": 1909
+        },
+        "bike": {
+          "duration": 363,
+          "distance": 2139
+        }
       }
     },
     {
@@ -240,7 +357,45 @@
       ],
       "note": "SuperValu and Lidl in Thomastown, about 8 km; Graiguenamanagh's SuperValu is a similar distance over the hill.",
       "category": "Groceries",
-      "title": "SuperValu Thomastown"
+      "title": "SuperValu Thomastown",
+      "resolved": {
+        "at": "2026-10-30T00:53:23.353Z",
+        "dest": {
+          "name": "Doran's SuperValu Graiguenamagh",
+          "address": "Main St, Graiguenamanagh, Graiguenamanagh-Tinnahinch, Co. Kilkenny, R95 Y9FA",
+          "uri": "https://maps.google.com/?cid=3282481462965203570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 229,
+          "lat": 52.5402165,
+          "lng": -6.955001500000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJcWFJl1RNXUgRcnLYzX-3jS0/photos/AV-0GLeUeG0wDDs_nA-11yOYayNAtFb9hAetpDXNSjN6EC1HEPrCfI0aN4_c5ejzUpbSGCHkfeLUv4l3N0gCdfC2w40XzSd5J2W0vKyWG7I00V_79hsVY1_pZkitiKApYo8e-2tzGr1xY_F2CL_5Q_Gc4HrEr8f_DE2WTsl-EXIwniO6Z-gm-4_heP7huLecgfbEuVxkHYeNuco88BhjkTmv8DsHqIJG7MdRXgQUPcvT70MAPhBFFizo98UadOUfyuVJUPYZ7A7jQzAzw76JUEOwwzU-DKFrJAWMSAuDOQv_LTvS9eJMSh-Gb8VtBLQI2IJh-UuhyA8W4LWgyx3JcO_7aINmXMy2QbMZIFOkhaswz-4t3G0eBHqeApSj-QZ-KdmNB5x7xGGFJRuhwGp9rBIz68N-UGM/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Willem Buiter",
+            "uri": "https://maps.google.com/maps/contrib/108331122633917281743"
+          },
+          "q": "SuperValu Doran's, Main Street, Graiguenamanagh, Co. Kilkenny"
+        },
+        "duration": 920,
+        "distance": 12178,
+        "alts": [
+          {
+            "name": "SuperValu Thomastown",
+            "duration": 998,
+            "distance": 11356
+          },
+          {
+            "name": "Lidl",
+            "duration": 1019,
+            "distance": 11597
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 2730,
+          "distance": 11951
+        }
+      }
     },
     {
       "id": "dinner",
@@ -263,6 +418,42 @@
           "level": "good",
           "note": "Quiet lanes then the village bridge and square; pleasant ride."
         }
+      },
+      "resolved": {
+        "at": "2026-10-30T00:53:23.353Z",
+        "dest": {
+          "name": "The Otter Bar",
+          "address": "Inistioge, Co. Kilkenny, R95 NX02",
+          "uri": "https://maps.google.com/?cid=12014354183841793714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 96,
+          "lat": 52.4885496,
+          "lng": -7.0660153,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ0ZIrCKrKQkgRskaetXmPu6Y/photos/AV-0GLeQUEL8fNx_Ni-qe5XFydqrJi1tCKVeFuGwzIi1Fo4lk7rUYZ497MEdlrKXn4EVHMFk4nKAC0V0eFKmOkocgVGsTsV0Vk_gQb2Vwp-7iZrcHTrYOcH9YQgKGpNOIJ5oSZF1PnZMAY_DNP1V1BglXC1cOy_Pu3qksxGOJVHFR2OEHCDjFks2enq5GA7AkCu_DDBa7OZkHQ8lxpX4XhiVhyeicmkLlJPtMFAgVXylxpd9J1JnFWz2M9hYZIOBwN45q-VuTB3Fu4hv2LggGj9i9W5tSVqbBAIn_4Jr4c_-YIsaltiCby9XS9UMUNGhReUsGPm1EGCzwUvbBuhdc4elcKEqyPbllioSPkKFdYLZEHClpBkh-z58tJsYVEvh5eIn6hqtnUSHKW8XyZzXmm35jNA5V5kP/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "T B",
+            "uri": "https://maps.google.com/maps/contrib/106611789739503976429"
+          },
+          "q": "The Otter Pub, Inistioge"
+        },
+        "duration": 204,
+        "distance": 2119,
+        "alts": [
+          {
+            "name": "Woodstock Arms Bed & Breakfast and Pub",
+            "duration": 244,
+            "distance": 2123
+          }
+        ],
+        "walk": {
+          "duration": 1533,
+          "distance": 1890
+        },
+        "bike": {
+          "duration": 375,
+          "distance": 2119
+        }
       }
     },
     {
@@ -277,7 +468,37 @@
       ],
       "note": "Nearest 24-hour emergency department by drive time.",
       "title": "St Luke's General Hospital",
-      "category": "Health"
+      "category": "Health",
+      "resolved": {
+        "at": "2026-10-30T00:53:23.353Z",
+        "dest": {
+          "name": "St. Luke's General Hospital",
+          "address": "Freshford Rd, Jamespark, Kilkenny, R95 FY71",
+          "uri": "https://maps.google.com/?cid=12990297315117170149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.2,
+          "ratings": 236,
+          "lat": 52.6665445,
+          "lng": -7.2622519,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8zBZn286XUgR5f1EIpXORrQ/photos/AV-0GLdQv0Ifx4ACOCMtR278jl5Uf-cAKMFXqYMcFi5-v09OphVMUG1_Q-263jkJS2Yir5-b4J4uURj-BP8ICWn7jKSY7YpmoR1Z7uCEBN1QV8cm2u82Gm1HZJQmwVywKUTUJz0ChmCPq7k7ijMAmH3XP5r4v53Xa8O05ZnEmTrLtaVML20PiCa1PBSJ3bb30Oclr0CVCa7TNn-9a9qlTPnOzFK9YLxoYMFnFqeYyZlxweU_KGqgHJuQAesQjXUQRU4kar_eDkpIDVKfSfXdPB7S1wUzX-MpUEfOno2uc_M5XJ-9vwlOXX7HChuEhYeXHoEEkPprfF799xa_etCXbOIWyoUrPI25WhYD75BlOt9hfFEz__4GL7jFL81InimWFAa0JXnj_KSD6e_Ab1o12fTjIS42UsU/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Damo Collier",
+            "uri": "https://maps.google.com/maps/contrib/106838707088067428534"
+          },
+          "q": "St Luke's General Hospital, Kilkenny"
+        },
+        "duration": 2234,
+        "distance": 30059,
+        "alts": [
+          {
+            "name": "University Hospital Waterford",
+            "duration": 2434,
+            "distance": 37727
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "town",
@@ -290,7 +511,31 @@
       ],
       "note": "Thomastown: pharmacies, GP, cafés and the train station.",
       "title": "Thomastown",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:53:23.353Z",
+        "dest": {
+          "name": "Market Street",
+          "address": "Market St, Thomastown, Co. Kilkenny",
+          "uri": "https://maps.google.com/?cid=1427274155483198938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.5250786,
+          "lng": -7.1382713,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Market Street, Thomastown, Co. Kilkenny"
+        },
+        "duration": 787,
+        "distance": 10344,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1854,
+          "distance": 10344
+        }
+      }
     },
     {
       "id": "city",
@@ -304,7 +549,37 @@
       ],
       "note": "Kilkenny city, with Waterford as the alternative.",
       "title": "Kilkenny",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:53:23.353Z",
+        "dest": {
+          "name": "Kilkenny Castle",
+          "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
+          "uri": "https://maps.google.com/?cid=14479754400188434760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 15604,
+          "lat": 52.6504632,
+          "lng": -7.249297400000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLd16Aa2MMHo6suG8xKtGgGW2rakOKLP78ymOjYEhYulLXMXSzjxoH4S2bk2gyiE5BcPlFZH47w857KP_La-Qazc1JwDr8XJB7LCPicao4fpPh4aG0Hhit4tjxPvu1rZ6uGlr4CqssZ33L6r1_cU8Z-XB_sckx9NxeV9bwCcrAp1cA89X7g9fPPpini4h3GDNBtfQngfiPVncyzGutRBkEh-IC0p-lULgpkRJv4hPaWx5ovRGIl8NPNRz_aWZGglpJRkY-2-lvGgzLj90VHbk_dLw7gW38KjCrowSY5gi4l9sN9KxyBDbfGEVlKMtHGXqL44uW9r-l8Mw5H9bH8XnvBn5tQP8WFiulkL_zz34mHGwc78ZRhccNGsKSSFBVBLlIdCmfywN_dsshdVatUBXE2AEFb3/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "lahari anandur",
+            "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
+          },
+          "q": "Kilkenny Castle, Kilkenny"
+        },
+        "duration": 2066,
+        "distance": 27407,
+        "alts": [
+          {
+            "name": "The Quay",
+            "duration": 3550,
+            "distance": 46398
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "dublin",
@@ -318,7 +593,31 @@
       ],
       "note": "City centre by car. The train from Thomastown is the other way in.",
       "title": "Dublin city centre",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:53:23.353Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLdsY56HcTMWL5K0_GkGytVwuzzZNJyDrrjF6c-gN4Fus0SWTzfV89WTsQQl5oqcrhQsWRm35MDpu8lNBmrey5eC-uMDvqjTVCkdiHj46wLOTNwASAhyCJKzaEDnPqNLwYXE0h8aVLQO9hWhkXWddIw3a3ReW_9Re4O7e_xA2EJmu-nszv0y8t62vRRjRxB5NljoVinZHcK7gPfxrL56TKRwtDIZe2OLI65wiBSzqyci0Zs6k5E2gSF_NnhmlHlIl18yvFHjb_2xq7h470bdLyj6_sER1kCNRxU7sPF_WpZyYdw9nENp7L7KoHgmSEYt4dBeDdBT2s59MxaPSTJIvhpMHW3NhZEVfgkXSjXw_7298E6mJz9qdeBCm5YdjelnXzN8ouEDie4r_gTr4NPLD9xXzA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 6555,
+        "distance": 136453,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "cork",
@@ -332,7 +631,31 @@
       ],
       "note": "",
       "title": "Cork city centre",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-30T00:53:23.353Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11760,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLeKLZREwqKLMbctI_mAJa4zvRs7nOsLicMiM4kMoFJJ9WwGw9qhgTv8j6DeisuzUgTF8LcHR0ccGVJ1wnJEPUi3pgF4WoDNRxsmg9EGhkUqrw5vAE9XwQ7v6I5OYYioqTtIj_Iw_ck350187VMcO3rBlS3l16ibEAJEdedQb9_1fTzf3iKBdnH6nmvzqkXFjDr5Q1gbsEVKEdrpF8It8tVDcXYiMue-sx73oBMAtAqVUc5klxoMKmy0fuWxg6WAuRnBfgoRbiSR6q_WTqGisO6W3CkID6xnPAn8AVAyBzpPS7EC0tIYDKaOF019a4SP5n4eUWiQLEqDIw-myYKkJx3URPaxJkobVK1Mzif9n5sK-eLNLVDDxmxkKWZhYX7_VQbStAuUzlXY7uxKE29DnQFNBT0/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 7936,
+        "distance": 158756,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -345,7 +668,34 @@
         "Thomastown railway station"
       ],
       "note": "Waterford–Heuston line. Drive here, then about 1h45 to Dublin Heuston.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T00:53:23.353Z",
+        "dest": {
+          "name": "Thomastown",
+          "address": "Newtown, Kilkenny",
+          "uri": "https://maps.google.com/?cid=6599053056790165806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.3,
+          "ratings": 4,
+          "lat": 52.523140299999994,
+          "lng": -7.1490187999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJQTSha_E0XUgRLvnut8qLlFs/photos/AV-0GLfkqQDediR3XxpM-pO0yqZk4m0OQCrYEqUbHMn4Pyjr-j4gc_0hFJZkZeMUn9XEE39l_8N_1blGrpeIorNMzWtmiaSGdzt8vGp-dj6OCpSiS-KWkesDbDnjAw6fY25RJJQ1cnjMokv9VX6UVP5TzAbEyHJ8lhC1cKF6f1r6OA2NiZ4jm0MKJ0eLl8oH_zu1RxCvk2AgtUGa4gRSHQoeBr_tap7VCGmuDSRjt-MHQmqqycnsHB730cGjIub5ZZt4lRgdTKJKjVwWDrlEPZ4tb6rxB9V1s_pP0STcCTg06JJchsvUCP_Cwbar2YN46Uy5qKG-q-6GbbkWB3gPBhz5RHjaRCdt4QYZ4gXQ5tF-dIo5MvwKf2HItVLs0Q7FXdlIJKiDP3H3OtcDBnN1bAxFXnxIpWUrYLTfY3Yf3jFQM0a2/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Reg Cooper",
+            "uri": "https://maps.google.com/maps/contrib/112328272046854410660"
+          },
+          "q": "Thomastown railway station"
+        },
+        "duration": 846,
+        "distance": 11555,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2191,
+          "distance": 11555
+        }
+      }
     },
     {
       "id": "airport",
@@ -358,7 +708,31 @@
         "Dublin Airport"
       ],
       "note": "The trip you and your parents will make most.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-30T00:53:23.353Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42131,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLeqOrRZQ2LXWsRdn7FF9ybIAr7Dj9rc0K8XI1vwv-Hr2qGndAWA9Igg0w2_yq0urs9RiZF2PK07AZmNT0czgUCAfMMcz1Xu1E0yv8pOX-GlqYXXfrmyV3Ys634pA6H6USoiyKqzspe87zE5wIS8-2t39cZHPRrLm9p8QT_sLPEVPLwKYTkCGbV44XPMlZwbELXaHJxWOmIUhxvI0n_iwZafkkW_vhg19sGNA9GmTrEPYPQct1wL7wGfx_Ao_Z5QYB6hqblQpgJzhZutadk7fa6K2rdG_VfeZk1EZ4CGGWavQ2Uwxftn0JusodoSvQNhYgRvUi7VeX9zvkjThH2FQNTbCpkwOAkDpI3Krfr-gW5_Bs7-4LRnej7AVrqLmw18UwvvMvhe1fZUaEASrmP_p727ZuOErrA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 6392,
+        "distance": 147691,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [

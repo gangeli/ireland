@@ -5,7 +5,7 @@ const { chromium } = require('playwright'); const fs=require('fs'); const path=r
 const ROOT=path.resolve(__dirname, ".."); const [id, out] = process.argv.slice(2);
 fs.mkdirSync(out,{recursive:true});
 (async () => {
-  const b = await chromium.launch(); const ctx = await b.newContext({viewport:{width:1400,height:1000}});
+  const ctx = await chromium.launchPersistentContext(process.env.BAKE_PROFILE || '/tmp/house-days-bake', {viewport:{width:1400,height:1000}}); const b = { close: () => ctx.close() };
   await ctx.route('https://gangeli.github.io/ireland/**', async (route) => {
     const u = new URL(route.request().url()); const p = u.pathname.replace('/ireland/','') || 'index.html'; const f = path.join(ROOT,p);
     if (fs.existsSync(f) && fs.statSync(f).isFile()) return route.fulfill({status:200, body: fs.readFileSync(f), headers:{'content-type':({'.js':'text/javascript','.css':'text/css','.html':'text/html','.json':'application/json'})[path.extname(f)]||'application/octet-stream'}});
@@ -18,6 +18,9 @@ fs.mkdirSync(out,{recursive:true});
   const trips = await pg.evaluate(async (id) => {
     const P = await (await fetch(`properties/${id}.json`)).json();
     const res = [];
+    // Prefer the stored results (trip.resolved) so this tool doesn't pay for fresh Places/Routes lookups.
+    for (const t of P.trips) if (t.resolved && t.resolved.distance <= 8000) res.push({ tid: t.id, dest: t.resolved.dest, driveKm: t.resolved.distance / 1000 });
+    if (res.length) return { P: { lat: P.lat, lng: P.lng }, res };
     for (let i = 0; i < localStorage.length; i++) {
       const k = localStorage.key(i);
       if (!k.includes(`:${id}:`) || k.includes(':act:')) continue;
