@@ -47,3 +47,13 @@ Judge it on:
 - **The finished house.** Score it against the rest of this rubric.
 
 Penalise condition only by how far it eats into the budget, plus a small deduction (about −0.25 to −0.5) for the hassle and risk. Use the full "lots of work" penalty only when there is little to show for the work: a plain house, a poor location or structural doubts.
+
+## Town-edge bungalows (Gabor, 30 Oct: "Slaney Vista is nice … even near Dublin")
+Slaney Vista, Wexford is a model for a second kind of good fit, alongside the rural Forty Shades type. Its traits:
+- a big single-storey house, about 235 m², with four doubles and three full bathrooms, all on one level;
+- on the edge of a real town, with footpaths to the hospital, schools and shops;
+- a private walled site;
+- turnkey;
+- about €575k.
+
+Surface houses like this anywhere in the search area, including the Dublin commuter belt and county towns with an ED (Naas, Navan, Drogheda, Mullingar, Portlaoise, Kilkenny, Carlow, Wexford, Clonmel). Go up to about €650k for them. Score them on the rubric. Walkable town access with footpaths is a real plus. A town-edge road counts against only if it is genuinely busy at the gate.
