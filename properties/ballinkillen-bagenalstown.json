@@ -19,7 +19,7 @@
   "landHa": 0.6,
   "landAcres": 1.48,
   "ber": "C",
-  "berKwh": 188.0,
+  "berKwh": 188,
   "heating": "Oil-fired central heating, plus a solid-fuel stove",
   "listed": "2026-09-21",
   "views": 1982,
@@ -139,6 +139,49 @@
       "rating": {
         "level": "Unknown",
         "basis": "A gov.ie inspection report exists but couldn't be fetched (403). Proxies are fine: not DEIS, roll up about 5% since 2019/20, pupil-teacher ratio 21:1."
+      },
+      "resolved": {
+        "at": "2026-10-31T13:12:34.124Z",
+        "dest": {
+          "name": "Ballinkillen National School",
+          "address": "Ballinkillen National School, Muine Bheag, Co. Carlow",
+          "uri": "https://maps.google.com/?cid=17777163596565090231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.6489038,
+          "lng": -6.9299018,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Ballinkillen National School, Ballinkillen, Co. Carlow"
+        },
+        "duration": 135,
+        "distance": 1261,
+        "alts": [
+          {
+            "name": "Balinkillen National School",
+            "duration": 135,
+            "distance": 1261
+          }
+        ],
+        "walk": {
+          "duration": 1087,
+          "distance": 1261
+        },
+        "bike": {
+          "duration": 338,
+          "distance": 1261
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "1.3 km of quiet lanes with no footpath until Ballinkillen village; fine with an adult."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet lanes the whole way to the school."
+        }
       }
     },
     {
@@ -157,6 +200,36 @@
       "rating": {
         "level": "Good",
         "basis": "Over 80% progression to third level in the 2016 feeder tables (KCLR), enrolment growing (558) with a new ETB-funded extension; recent Irish Times figures could not be read."
+      },
+      "resolved": {
+        "at": "2026-10-31T13:12:34.124Z",
+        "dest": {
+          "name": "Borris Vocational School",
+          "address": "Borris Vocational School, Knocknagundarragh Or Scortreen, Borris, Co. Carlow",
+          "uri": "https://maps.google.com/?cid=16908587200090825691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.597198299999995,
+          "lng": -6.9177857,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Borris Vocational School, Borris, Co. Carlow"
+        },
+        "duration": 576,
+        "distance": 8119,
+        "alts": [
+          {
+            "name": "Borris House",
+            "duration": 584,
+            "distance": 7516
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1273,
+          "distance": 7141
+        }
       }
     },
     {
@@ -172,7 +245,58 @@
       ],
       "note": "The Mace at the Factory Cross filling station in Borris, about 5 km; no shop in Ballinkillen could be confirmed as trading.",
       "title": "Mace Borris",
-      "category": "Groceries"
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-10-31T13:12:34.124Z",
+        "dest": {
+          "name": "MACE Carlow",
+          "address": "Borris Service Station, Borris, Co. Carlow",
+          "uri": "https://maps.google.com/?cid=8516793716373721156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 102,
+          "lat": 52.604364,
+          "lng": -6.9371599999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJYQ0G9YxOXUgRRBC82cK6MXY/photos/AV-0GLeSahrvX9XI3iBd0oVGxyzgDoJXJVjKxQJZbB4Qvx8mBTpLLaPwgylSuXAO-HpWpkxgQwYGfHB893u2NGkp-QeH3EoMqD4jcw3iGMlf2vRhPAdDwg1SdmTDm1eDqNNx-6ep1eBeRGvn95wkEelA3YjYZk1LsZxTtXlGYC0cDA5JII6kf_3f_CRBIRNMdUXN1eyPEvSFZbu2L8vYPVMoh2uWi7JhayIB7Hdc-zLOORqN5zlfoOD8ckylakojDzTPfpNreiiNlXzqQhMCuaBfiqvMf3mPEy60SYyDHq7MVy_XBKDaD2conNGRVHFgnoNpBZ5EmtQmserz-RkbNoNawbdyED_IRj0DZ2pkN5XHn3-TCfdWQzHoEooS3mZeEuBvQ9fuDQ7ZR7-FCcHg_06I8oXjLK44JUk/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Alfonso Silverio",
+            "uri": "https://maps.google.com/maps/contrib/117020275445334759569"
+          },
+          "q": "Mace, Borris Service Station, Factory Cross, Borris, Co. Carlow"
+        },
+        "duration": 433,
+        "distance": 6457,
+        "alts": [
+          {
+            "name": "Centra Borris",
+            "duration": 503,
+            "distance": 7413
+          },
+          {
+            "name": "Inver Muine Bheag",
+            "duration": 594,
+            "distance": 9328
+          }
+        ],
+        "walk": {
+          "duration": 5000,
+          "distance": 6126
+        },
+        "bike": {
+          "duration": 1305,
+          "distance": 6126
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "About 3.5 km on a regional road with no shoulder or footpath after the lanes."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Lanes, then about 3.5 km of regional road with no shoulder; fine for a confident adult, not for kids."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -187,7 +311,45 @@
       ],
       "note": "Bagenalstown has a Lidl, an Aldi and a SuperValu, all about 6 to 7 km.",
       "category": "Groceries",
-      "title": "Lidl Bagenalstown"
+      "title": "Lidl Bagenalstown",
+      "resolved": {
+        "at": "2026-10-31T13:12:34.124Z",
+        "dest": {
+          "name": "Lidl",
+          "address": "Royal Oak Rd, Moneybeg, Muine Bheag, Co. Carlow, R21 Y292",
+          "uri": "https://maps.google.com/?cid=16135752140000399436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 199,
+          "lat": 52.70044,
+          "lng": -6.965020000000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJRbhpQupFXUgRTBB5mBS17d8/photos/AV-0GLefUJbzzuAjIlh4CbZ5IiwbRUu1SXnyphZFxzdIvCrGhz8rP34ouJ7pJxktcwXYqHajCLV0AE-keJm2YQdcrow2GaV3U8U9VchClo-W5RBazHICUw-p8jcftfge-i2nvN1mUj7_qecqWhUWxVLpbcZirErLGhhdbJOKnXt5x0UkrB-OBEaNR-JJqvDfNMmDYxODlsB5wAa9U3QIYhEVfHzJxgWg24MMqXGgEEVMNLZxk-bQ23Bkm-rdHGKB8bppk4fxthJrKhx53vDlVhiX6QmmF4jOjp_ysXjLtFt7If8Zx6DVExaK6_RT1gnszMP2GKSlAtPXc7f3yFROTdJmQOzgiXD8w0NzVadVMmUBA91gue11I7L3QATsHDj-5kX0zUyN-RQfkfF31d0bhQTcyMQT5YYTUL5DbnvkFA7aJ46tlw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Lidl",
+            "uri": "https://maps.google.com/maps/contrib/101222297743106410612"
+          },
+          "q": "Lidl, Royal Oak Road, Bagenalstown, Co. Carlow"
+        },
+        "duration": 660,
+        "distance": 9776,
+        "alts": [
+          {
+            "name": "ALDI",
+            "duration": 663,
+            "distance": 9607
+          },
+          {
+            "name": "SuperValu",
+            "duration": 679,
+            "distance": 9635
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1516,
+          "distance": 8727
+        }
+      }
     },
     {
       "id": "dinner",
@@ -200,7 +362,53 @@
         "The Lord Bagenal Inn, Leighlinbridge"
       ],
       "note": "The Step House in Borris is about 5 km; the Lord Bagenal sits on the Barrow at Leighlinbridge.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "resolved": {
+        "at": "2026-10-31T13:12:34.124Z",
+        "dest": {
+          "name": "Step House Hotel",
+          "address": "Borris, Co. Carlow, R95 V2CR",
+          "uri": "https://maps.google.com/?cid=5223345423157614926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 777,
+          "lat": 52.6012093,
+          "lng": -6.927437599999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ54QKCWJOXUgRTtl45vwMfUg/photos/AV-0GLeZrZ9l2vGjILaZwR_XNNf7-rnTta_qarST2dDnz9TKuF_-YJBOk_TdHs8YIooI0bkgjA-wCP0idJUuhrhvHIVEbHSwbLo7WsWwARs1_qJJUbvB8Ti_XdApFnlLWb2hHq3NfPBg0tGLeHXY39kTOLrFDdiqGIF1Vmzjr_oYYvZJJt4b-WgrrWRrDi3rqv7YOhXDbU2XbcwHOT3NzsDAR-Du5fg7jUC1IOv3I-N_lKbBeY5fTI5N98hwQHeTxkFsR1nGQwTqRcsBqhuuYAyXCsOHZ-cWEpMetESLFYa0USqS8-cRC-xCDR9sExNHoUQNu8XSuXEtmIXx6u579QeWRnK3xI6LJ2cRFm21c9fv3zvX_cf7eqoTF1rfCimq1vc9TLRhJkOcddu0_s4GlIqdV9SfXlnxnW8ERhJXLpUnrGaJUg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "karen tripp",
+            "uri": "https://maps.google.com/maps/contrib/116408910831822331908"
+          },
+          "q": "Step House Restaurant, Borris"
+        },
+        "duration": 472,
+        "distance": 7199,
+        "alts": [
+          {
+            "name": "Lord Bagenal Inn",
+            "duration": 960,
+            "distance": 14009
+          }
+        ],
+        "walk": {
+          "duration": 5394,
+          "distance": 6681
+        },
+        "bike": {
+          "duration": 1389,
+          "distance": 6869
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "6.7 km of quiet country lanes to Borris; safe but long."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet country lanes most of the way to Borris."
+        }
+      }
     },
     {
       "id": "hospital",
@@ -214,7 +422,37 @@
       ],
       "note": "Nearest 24-hour emergency department by drive time.",
       "title": "St Luke's General Hospital",
-      "category": "Health"
+      "category": "Health",
+      "resolved": {
+        "at": "2026-10-31T13:12:34.124Z",
+        "dest": {
+          "name": "St. Luke's General Hospital",
+          "address": "Freshford Rd, Jamespark, Kilkenny, R95 FY71",
+          "uri": "https://maps.google.com/?cid=12990297315117170149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.2,
+          "ratings": 236,
+          "lat": 52.6665445,
+          "lng": -7.2622519,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8zBZn286XUgR5f1EIpXORrQ/photos/AV-0GLewc1WzuPKRWb7arBNW_VN316bHC8QceP3eTr-_lJwQLLX5OE6cNnnEzKQC9cFkcxlz_c8ipTf7FAwEDO6KMmXMm3mQwEk3mSMDpR5XI_Is9G8-ga8lNffSnVX3HPk7KDAimYLcAJQojhahJ64CQIhZEi94zs3kNdtAcHiR1_DsaohUq3Xp6mHTcoJceM11-hXkxXSA3BcZgxBahQCSCUqyHaUtR1Axao-uE3c0CzPfWUmZxgkbDuycXLWOSczAY5YFWzSe7S18OEO11_N3wn5DiADcuiwIY7-EZht0MMqSL9Oc9cxpndvw1sCOjv9cIyG3yO4g8XjbBa3HigD7EsmyajBNC55WWlcGLIn-394ehf3uw_R0tFSK1-IYTmbEnF6Yv0NL9ShC30SoEy46htv6V00/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Damo Collier",
+            "uri": "https://maps.google.com/maps/contrib/106838707088067428534"
+          },
+          "q": "St Luke's General Hospital, Kilkenny"
+        },
+        "duration": 2071,
+        "distance": 28307,
+        "alts": [
+          {
+            "name": "Wexford General Hospital",
+            "duration": 3493,
+            "distance": 67010
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "town",
@@ -227,7 +465,31 @@
       ],
       "note": "Bagenalstown: GP, pharmacies, supermarkets and the station.",
       "title": "Bagenalstown",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-31T13:12:34.124Z",
+        "dest": {
+          "name": "Main Street",
+          "address": "Main St, Moneybeg, Muine Bheag, Co. Carlow",
+          "uri": "https://maps.google.com/?cid=13442946413484374310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.7020537,
+          "lng": -6.9583666,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Main Street, Bagenalstown, Co. Carlow"
+        },
+        "duration": 661,
+        "distance": 9584,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1533,
+          "distance": 8536
+        }
+      }
     },
     {
       "id": "city",
@@ -241,7 +503,37 @@
       ],
       "note": "Kilkenny, with Carlow as the closer alternative.",
       "title": "Kilkenny",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-31T13:12:34.124Z",
+        "dest": {
+          "name": "Kilkenny Castle",
+          "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
+          "uri": "https://maps.google.com/?cid=14479754400188434760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 15606,
+          "lat": 52.6504632,
+          "lng": -7.249297400000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLfWw4lq72YoiPKGyKUc5mvyHp6nNejTSnX0O3cfOHyXRSRzRePUNgCTAWZVPQUKQUKRzLPFZ69hELoV27mQNABRie4zZN0iWIIvVY1b_tFxCSV255FhZYiUeIxksO9lUPexKMc_P2PMFQJeEceOMDNNZygaw9-D-I9xGu4fGoMOYh7Nuq-WNBt2cFcFeSLn1_b2I9IvQ-Xh0K9P4wYCjesYG8Y8fdR4Gcb9i-KYmadzIw8oTXi0_20JG_jqSkOlgI4om1EFXDIHTfH6Roa7T9658SOm7O3TNVTW7AzANLEaC4DaN79V9uRN1nXGjW2wfOpTX5swlTJF1OgROMP6OOYOVpa77Yq9q-sOS_oU2qHXiKuyQ9dTaf3LbOvtdaqVWpMWggJ69z1pbEZ-_ALMTjuAqDft/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "lahari anandur",
+            "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
+          },
+          "q": "Kilkenny Castle, Kilkenny"
+        },
+        "duration": 1977,
+        "distance": 27479,
+        "alts": [
+          {
+            "name": "Carlow",
+            "duration": 1999,
+            "distance": 26461
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "dublin",
@@ -255,7 +547,31 @@
       ],
       "note": "",
       "title": "Dublin city centre",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-31T13:12:34.124Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLeKkcq1j2M7B2u5jHhEtIMmS5m1fdqFNU86OCyk9LIP_HcX3caVPfp711ycpMplyIxygz0FcPuOD-_P_hNqXTEgFU46nkGmWy4B_Kd__WyTmvavDiROKC9ckWILlFVqwNbYk2EPfqZ7-u0buvAVhl_fE-oBeHRlE8zWdE49s0tj2ArPcVj_ssEmoS4WmoI7fXzrsxLkxOEkyJfox3yM9zxKbRHTe6DSq0XVlDePVfqnPuA1kgfXNuw4GwHcCXm_1xRu_5mzwbo-gRg7CT4OiMi14xUrnKb9wyu5daXH8QRrI88uoZNizaYELmD5KS5U3CLfF0D5sL_RaLT3xabFK3mipADeJ0md0wd-DVSDsP8eERS0XQ2PHWxp_41sXHKUyiTUchmjlv2mqJf3xwNABJiVXw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 5415,
+        "distance": 111467,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "cork",
@@ -269,7 +585,31 @@
       ],
       "note": "",
       "title": "Cork city centre",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-10-31T13:12:34.124Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11762,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLdnDF5_x_MwZCdPo7Hs-Xh0xCtU414rPXDIwkbnLGLcCvDKbPiWdMfCeUKp-IxZim9Yc2MB7y2BJZ5yMpqfaCNhy00AILt22rOd8hCDP0yQvzU-R0BUKC9TaIDT8v1kl015fGHkiHz8Do8Vij-Is52x8tNkEYRFwuqh8AxhsfFaIQxmH__3WKO_-RMgAPZdwX02P366CqVmXursJ844ib9jFOa6bNxe4PKD7V_IW3294m_DNfuN2uQpJZ2rDZjULeThQHVckINCVNT6rLXKNnTToazw3s9vU81HBPnmxPMUD7KyJ_xoHj3ENMbE33Xr4S9JaPjqEeDe5rvGBddvt-Ty68SdkOTqsaXPZHVRbAP0OVJtwelKUGQ89vMMuO7mtZ6jh8gy1eW1wbY9UQLi6DjT8RE/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 8361,
+        "distance": 193936,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -282,7 +622,34 @@
         "Muine Bheag railway station, Bagenalstown"
       ],
       "note": "Waterford–Heuston line: about 7 trains a weekday, 1h15–1h25 to Heuston.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-31T13:12:34.124Z",
+        "dest": {
+          "name": "Muine Bheag Train Station",
+          "address": "Muine Bheag Train Station, Stationhouse Rd, Muine Bheag, Co. Carlow",
+          "uri": "https://maps.google.com/?cid=12267158297789205995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.6990881,
+          "lng": -6.9525502999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJT7SRY6dFXUgR6w02R3qzPao/photos/AV-0GLexqReqDB6k8akfcX6tSXls6sgdwohunqyi-JIYMINv6BbVDD94HeOpDbe3lwx5aznl4v0_f_8u17tp62CZ6736y-wFZcHenFmKEltJIuisLfigI5fXdiHR2BcHwWDS9pgwryf6WlFvWt8RSQSV6M8jT1-xkaz1bk5X5r1UhDS3tc63nGx0Z33zqJgpEWXN08Dd0yYR7ivVTNGMkDzBGtlpFJYwd4twRDz1YIlRqGSuPKex_xyJU0xxsD9xg91DLWUMLDaFNzZrc9aXrMZCA7986JEihi9y3wYhqTjuFJ9gEkWqpE2-bsFq1SN4EWMc_WjuvgEEMiyVuNoz0fSNuzNg8QXKI5L011VhDNxbx1cWRk5SU8fcnZx19myLJUTVuzr44DtQBpi9rz1CrpJiyzJdGg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Baldy",
+            "uri": "https://maps.google.com/maps/contrib/104040930381743786634"
+          },
+          "q": "Muine Bheag railway station, Bagenalstown"
+        },
+        "duration": 609,
+        "distance": 9601,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1515,
+          "distance": 8553
+        }
+      }
     },
     {
       "id": "airport",
@@ -295,7 +662,31 @@
         "Dublin Airport"
       ],
       "note": "The trip you and your parents will make most.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-10-31T13:12:34.124Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42173,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLcifLZlofkQrNcIid4Ql4nQlCok50NXSbU2CxFFn46foxj506kNTT72E71GgGIxwtWKoTiS70NUQtIYx4euXBVULFuSAbgDPLiAElEm3vGrSPUBKFXKymNQCrZsvUjETSvvUY4F9-fozAA90VGI31l_Z_yPlRnZRbATrOnhhbEUxyOz0Zmtg_VoHnP717jKc6FW0dV1S_9wp3fVLx9542L3lXlQ_MyuVuz39e7lIebNqGUzDMc5_eH00By6gWzoG_2jjIDWgRP7OSWk8ZzeBHoRw164QNGaCF5J6GaxTQL2VKNKH35Jz_CKcHYkeRjFL0eaM8Eu3P_7Dmhbr4atX2_-QqxdA6b4-RzXECI-amaijeR6ssCgAbly93Jh0fhIrz3nxgVutKtKZlLPAc3YFm-B_2kAZYY/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 5251,
+        "distance": 122705,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [
@@ -307,7 +698,7 @@
     "Getting away"
   ],
   "ai": {
-    "stars": 3.0,
+    "stars": 3,
     "why": "Two ground-floor bedrooms in a 218 m² house on about 1.5 acres for €450k, back on the market after its sale fell through; but only 2 bathrooms, steep stairs, close neighbours and about 30 minutes to an emergency department."
   },
   "services": {

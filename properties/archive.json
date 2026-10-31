@@ -295,20 +295,6 @@
       "recheck": false
     },
     {
-      "id": "ballinkillen-bagenalstown",
-      "name": "Ballinkillen",
-      "left": "2026-10-29",
-      "reason": "tied at 3.0 with new finds; new wins ties (Gabor, 29 Oct) — rated incumbent",
-      "lastPrice": 450000,
-      "aiStars": 3.0,
-      "human": {
-        "n": 2,
-        "avg": 3.0
-      },
-      "listingUrl": "https://www.daft.ie/for-sale/ballinkillen-muine-bheag-co-carlow/6676559",
-      "recheck": false
-    },
-    {
       "id": "monagee-cashel",
       "name": "Monagee",
       "left": "2026-10-30",
@@ -323,20 +309,6 @@
       "recheck": false
     },
     {
-      "id": "garryhundon-milford",
-      "name": "Garryhundon",
-      "left": "2026-10-30",
-      "reason": "tied at 3.0 with new finds (The Paddock 3.5 beat it; Loughminane Green 3.0 tied); new wins ties, rated incumbents first",
-      "lastPrice": 450000,
-      "aiStars": 3,
-      "human": {
-        "n": 1,
-        "avg": 3.0
-      },
-      "listingUrl": "https://www.daft.ie/for-sale/garryhundon-milford-tinryland-co-carlow/6615103",
-      "recheck": false
-    },
-    {
       "id": "tankardstown-ballylynan",
       "name": "Tankardstown",
       "left": "2026-10-30",
@@ -348,6 +320,34 @@
         "avg": 3.0
       },
       "listingUrl": "https://www.daft.ie/for-sale/tankardstown-ballylynan-co-laois/6706728",
+      "recheck": false
+    },
+    {
+      "id": "loughminane-green-kildare",
+      "name": "73 Loughminane Green",
+      "left": "2026-10-31",
+      "reason": "Gabor rated it 2 (score 2.5), below houses still for sale at 3.0",
+      "lastPrice": 500000,
+      "aiStars": 3,
+      "human": {
+        "n": 1,
+        "avg": 2.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/73-loughminane-green-kildare-kildare-co-kildare/6709088",
+      "recheck": false
+    },
+    {
+      "id": "the-paddock-glenmore",
+      "name": "The Paddock",
+      "left": "2026-10-31",
+      "reason": "Gabor rated it 2 (score 2.75), below houses still for sale at 3.0",
+      "lastPrice": 465000,
+      "aiStars": 3.5,
+      "human": {
+        "n": 1,
+        "avg": 2.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/the-paddock-robinstown-glenmore-co-kilkenny/6703176",
       "recheck": false
     }
   ]

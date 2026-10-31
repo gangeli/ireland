@@ -57,3 +57,10 @@ Slaney Vista, Wexford is a model for a second kind of good fit, alongside the ru
 - about €575k.
 
 Surface houses like this anywhere in the search area, including the Dublin commuter belt and county towns with an ED (Naas, Navan, Drogheda, Mullingar, Portlaoise, Kilkenny, Carlow, Wexford, Clonmel). Go up to about €650k for them. Score them on the rubric. Walkable town access with footpaths is a real plus. A town-edge road counts against only if it is genuinely busy at the gate.
+
+## Calibration (31 Oct)
+Gabor rated two "plain but sound" new finds 2:
+- The Paddock, Glenmore: rural, light-filled, 1.8 acres, but only 2 baths and a 1990s dormer design.
+- 73 Loughminane Green, Kildare: a turnkey estate bungalow on a 0.2-acre plot.
+
+Houses at the 3.0 baseline without charm, a lovely setting or a standout feature land below 3 for him. When a house is merely plain and sound, score it 2.5. Keep 3.0 for plain houses that also have a clear plus, such as walkable town access with footpaths, 3+ baths, or a great plot.

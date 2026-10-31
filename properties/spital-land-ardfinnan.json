@@ -1,0 +1,398 @@
+{
+  "id": "spital-land-ardfinnan",
+  "name": "Spital-Land",
+  "address": "Spital-Land, Ardfinnan, Clonmel, Co. Tipperary",
+  "eircode": "E91 T186",
+  "lat": 52.314937,
+  "lng": -7.873355,
+  "listingUrl": "https://www.daft.ie/for-sale/detached-house-spital-land-ardfinnan-clonmel-co-tipperary/6709732",
+  "status": "Considering",
+  "added": "2026-10-31",
+  "area": "Ardfinnan, Co. Tipperary",
+  "agent": "Declan Pollard, Sherry FitzGerald Pollard Fitzgerald, Clonmel",
+  "agentPhone": "089 454 1959",
+  "questions": [
+    "What is the site area? From the photos and satellite we estimate about 0.08–0.12 ha (0.2–0.3 ac), mostly a walled gravel yard. Does any garden or land go with the house beyond the walls, and is the field behind available?",
+    "What is the yard across the R665, with the large shed, machinery and stockpiles? Is it a working business, and what are its hours and traffic?",
+    "Is the house on the public sewer, or a septic tank? The listing says only 'mains services connected'.",
+    "When was the house built, how are the walls built (cavity or block), and has any insulation been added? The BER is G at 440.95 kWh/m²/yr. How old are the oil boiler and the windows?",
+    "BuyerIQ flags the Eircode as in an EPA High Radon Area. Has a radon test been done, and has the house ever flooded? The Suir is about 400 m south."
+  ],
+  "ai": {
+    "stars": 2.5,
+    "why": "€290k plus a rough €75–130k retrofit comes to about €365–420k for a 186 m² dormer with a ground-floor bedroom beside a full bathroom, a 10-minute walk from Ardfinnan and 18 minutes from Clonmel's ED. Even finished, it stays a plain house on a small walled gravel plot right on the R665, with a commercial-looking yard across the road and no land for the dogs."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "Connected; the listing says 'Mains services connected'."
+    },
+    "water": {
+      "status": "ok",
+      "detail": "Mains water, per the listing's 'mains services connected'."
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Likely the public sewer: the listing says 'mains services', and the house is inside Ardfinnan's built-up edge, but it doesn't name the sewer. Confirm it isn't a septic tank."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Full fibre at the address per BuyerIQ ('Fast broadband — 103 Mb full fibre'); the listing doesn't mention broadband, and the provider isn't confirmed.",
+      "type": "Fibre",
+      "speed": "~100 Mb+ (full fibre)",
+      "provider": "open eir / NBI (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "The floor plan shows Bedroom 1 (4.32 × 2.96 m, 12.8 m²) on the ground floor, next to the full bathroom with a bath (2.81 × 3.64 m). The second living room next to it (4.32 × 3.45 m) could become a fourth bedroom."
+  },
+  "price": 290000,
+  "type": "Detached dormer bungalow",
+  "beds": 3,
+  "bedsNote": "One double on the ground floor and two large doubles upstairs (4.82 × 3.99 m and 3.63 × 3.99 m, under the eaves with roof windows), plus a 2.34 × 3.23 m study. The 4.32 × 3.45 m second living room beside Bedroom 1 could become a fourth bedroom.",
+  "baths": 2,
+  "floorM2": 186,
+  "landHa": 0.1,
+  "landAcres": 0.25,
+  "ber": "G",
+  "berKwh": 440.95,
+  "heating": "Oil-fired central heating, with a stove in the sitting room and another in the second living room",
+  "listed": "2026-10-30",
+  "views": 491,
+  "stampDuty": 2900,
+  "tagline": "A 186 m² three-bed dormer bungalow with a ground-floor bedroom and conservatory, BER G and in need of a full energy retrofit, on a small walled plot on the R665 at the north-east edge of Ardfinnan.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/3/0/5039032/7bda034a-54b4-4301-919f-2820b90d9fd8_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/3/0/5039032/4d5f78a5-607e-4c88-b30a-9a518e7406f7_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/3/0/5039032/9b01d671-7376-428a-99b5-2d7c1bdc673b_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/3/0/5039032/37a8ad6f-18df-4028-a280-997ad45ddd00_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/3/0/5039032/bb983d9a-cdf2-44fa-95f2-fd30e060b2a9_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/3/0/5039032/3cb10e53-e41d-4f4e-aafe-6d382320bc8c_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/3/0/5039032/28ab71b0-4cec-420a-b3a0-bd0e56a28241_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/3/0/5039032/1316cdbb-9916-4674-845b-a460df5840f7_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/3/0/5039032/2274eb57-cdf8-4fdb-b353-d5f17edde917_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "€290k, with room for a full retrofit",
+      "weight": 3,
+      "detail": "About €1,560/m²; stamp duty €2,900. With a rough €75–130k of work the total comes to about €365–420k, well under €500k."
+    },
+    {
+      "text": "Ground-floor bedroom beside a full bathroom",
+      "weight": 3,
+      "detail": "Bedroom 1 (12.8 m²) sits next to the 2.81 × 3.64 m bathroom with a bath. The 14.9 m² second living room beside it could become a second ground-floor bedroom, making a parents' wing."
+    },
+    {
+      "text": "Walk into Ardfinnan",
+      "weight": 2,
+      "detail": "About 0.8 km (10 min) on foot to the village centre and castle, and 0.94 km to Ardfinnan NS by OSM routing. Satellite suggests a footpath along the R665 the whole way, but Street View isn't checked yet."
+    },
+    {
+      "text": "Clonmel ED about 18 minutes",
+      "weight": 2,
+      "detail": "Tipperary University Hospital, Clonmel (all ages, 24 h) is about 15.5 km. Cahir, with shops and secondary schools, is about 9 km away."
+    },
+    {
+      "text": "186 m² with four reception rooms",
+      "weight": 1,
+      "detail": "Sitting room (3.60 × 5.16 m), a second living room, a 4.03 × 4.35 m conservatory, a dining room and a study. The rooms add up to about 180 m²."
+    },
+    {
+      "text": "Full fibre at the address",
+      "weight": 1,
+      "detail": "BuyerIQ shows 103 Mb full fibre for E91 T186."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Needs a deep energy retrofit, roughly €75–130k",
+      "weight": 3,
+      "detail": "Rough estimate. BER G at 441 kWh/m²/yr on oil. Walls, roof slopes and attic, windows and doors, and a heat pump come to €70–110k before about €25–35k of SEAI grants. Add €15–25k for an upstairs en-suite and bathroom upgrade and €15–30k to rework the galley kitchen. Expect months of disruption."
+    },
+    {
+      "text": "Small walled gravel plot, no land for dogs",
+      "weight": 3,
+      "detail": "No plot size is stated. From the photos and satellite we estimate 0.08–0.12 ha (0.2–0.3 ac). Nearly all of it is gravel and tarmac yard inside block walls, with no lawn to speak of. The field behind isn't part of the sale as far as the listing says."
+    },
+    {
+      "text": "On the R665, with a yard opposite",
+      "weight": 2,
+      "detail": "The house sits a few metres back from the R665 Clonmel road behind the yard wall. Across the road, about 40 m away, satellite shows a compound with a large shed, machinery and stockpiles, and a sand arena. Its use is unknown."
+    },
+    {
+      "text": "Plain house, little character",
+      "weight": 2,
+      "detail": "A 1990s–2000s style dormer with a pillared porch, a PVC conservatory and tidy but dated interiors. It isn't by the Suir (about 400 m south) or the castle, and there are neighbours about 15–25 m away on the road side."
+    },
+    {
+      "text": "Only two bathrooms; small upstairs shower room",
+      "weight": 2,
+      "detail": "The upstairs shower room is 3.25 × 1.11 m and serves both upstairs bedrooms. The 2.37 m² store next to it could make an en-suite."
+    },
+    {
+      "text": "Galley kitchen is narrow for six",
+      "weight": 1,
+      "detail": "The kitchen is 2.36 × 5.26 m (12.4 m²) and the dining room 2.46 × 3.83 m. Opening them up is part of the renovation estimate."
+    },
+    {
+      "text": "Dublin trains need a 35-minute drive",
+      "weight": 2,
+      "detail": "Cahir station (9 km) has only a few trains a day to Limerick Junction and Waterford, per Wikipedia. Direct Dublin trains run about hourly from Limerick Junction, roughly 35 km and 35 min away, taking about 1h30–1h45. Thurles is the alternative, about 48 km away."
+    },
+    {
+      "text": "High radon area",
+      "weight": 1,
+      "detail": "BuyerIQ marks the Eircode as in an EPA High Radon Area and shows a second, hidden critical finding. It also lists 10 planning applications within 1 km, one of them an active build."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Ardfinnan National School",
+      "candidates": [
+        "Ardfinnan National School, Ardfinnan, Co. Tipperary"
+      ],
+      "note": "Catholic, mixed (about 137 boys and 101 girls per gov.ie), roll 16077B, not DEIS, about 0.94 km on foot.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed village school of about 240 pupils, not DEIS. gov.ie lists a June 2024 curriculum evaluation, but the report sits behind gov.ie's verification check and couldn't be read."
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 0.94 km along the R665 into the village. Satellite shows what looks like a footpath on the house side the whole way, but Street View hasn't been checked, so this rating is provisional."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Under 1 km on the R665 regional road into the village. Short, but on a regional road with traffic; not yet checked on Street View."
+        }
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Coláiste Dún Iascaigh",
+      "candidates": [
+        "Coláiste Dún Iascaigh, Cahir, Co. Tipperary"
+      ],
+      "note": "Mixed ETB community college in Cahir, about 900 pupils, about 8 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "A large mixed ETB community college that opened in 1997. The Irish Times feeder-school page shows no progression figures, and its gov.ie inspection reports couldn't be read."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "CBS High School Clonmel",
+      "candidates": [
+        "High School Clonmel, Clonmel, Co. Tipperary",
+        "Ard Scoil na mBraithre, Clonmel, Co. Tipperary"
+      ],
+      "note": "Boys' CBS secondary in Clonmel, about 16 km. Rockwell College near New Inn (mixed, fee-paying, about 20 km) is the stronger alternative.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "A Tipperary Live roundup of the Irish Times tables, probably from 2018, gave Ard Scoil na mBraithre about 82% progression to third level from 125 students; Rockwell was about 104%."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Ardfinnan village shop",
+      "candidates": [
+        "Spar Ardfinnan, Co. Tipperary",
+        "Centra Ardfinnan, Co. Tipperary",
+        "Shop, Main Street, Ardfinnan, Co. Tipperary"
+      ],
+      "note": "Visitor reviews mention a village shop with an off-licence and coffee; its brand isn't confirmed.",
+      "category": "Groceries",
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 0.8 km along the R665 into the village. Satellite suggests a footpath on the house side; Street View hasn't been checked."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "A short ride on the R665 into the village; regional-road traffic, not yet checked on Street View."
+        }
+      }
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Cahir",
+      "candidates": [
+        "SuperValu Cahir, Co. Tipperary",
+        "Aldi Cahir, Co. Tipperary",
+        "Tesco Clonmel, Co. Tipperary"
+      ],
+      "note": "Cahir is about 9 km; Clonmel has the full range about 15 km away.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "The Galtee Inn, Cahir",
+      "candidates": [
+        "The Galtee Inn, Cahir, Co. Tipperary",
+        "Cahir House Hotel, Cahir, Co. Tipperary"
+      ],
+      "note": "No food pub could be confirmed in Ardfinnan itself, so this is Cahir; check the hours.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Tipperary University Hospital",
+      "candidates": [
+        "Tipperary University Hospital, Clonmel",
+        "University Hospital Waterford"
+      ],
+      "note": "All-ages 24-hour ED in Clonmel, about 15.5 km.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Cahir",
+      "candidates": [
+        "The Square, Cahir, Co. Tipperary",
+        "O'Connell Street, Clonmel, Co. Tipperary"
+      ],
+      "note": "Cahir is about 9 km away; Clonmel, the county's main town, is about 15.5 km.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Waterford",
+      "candidates": [
+        "The Quay, Waterford",
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Waterford, with Kilkenny as the alternative.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "day": "saturday",
+      "when": "09:30",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "City centre by car. The train from Limerick Junction is the other way in.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "day": "saturday",
+      "when": "09:30",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "day": "weekday",
+      "when": "07:15",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Limerick Junction",
+      "candidates": [
+        "Limerick Junction railway station",
+        "Thurles railway station"
+      ],
+      "note": "Cork–Dublin line, about hourly and roughly 1h30–1h45 to Heuston. Cahir station, 9 km away, has only a few trains a day to Limerick Junction and Waterford.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "day": "friday",
+      "when": "06:00",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
