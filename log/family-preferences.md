@@ -64,3 +64,11 @@ Gabor rated two "plain but sound" new finds 2:
 - 73 Loughminane Green, Kildare: a turnkey estate bungalow on a 0.2-acre plot.
 
 Houses at the 3.0 baseline without charm, a lovely setting or a standout feature land below 3 for him. When a house is merely plain and sound, score it 2.5. Keep 3.0 for plain houses that also have a clear plus, such as walkable town access with footpaths, 3+ baths, or a great plot.
+
+## George on town-edge houses (1 Nov notes)
+- Slaney Vista 3: "suburban setting, everything is close, including the neighbours"
+- Laurel Close 3: "lots of carpet… grounds small… city type"
+- Garryhundon 2: "very small house, especially the common areas; neighbors are very close"
+- Shanavaur 3: "small… industrial looking place"
+
+Gabor rates the town-edge houses highly (Slaney Vista 5, Laurel Close 4); George is lukewarm about them. For town-edge finds, weight the plot size and the distance to neighbours more heavily. A walled garden of about 0.25 acre with neighbours 20 m away is a con for George even when the house itself is good. Common-room size matters to him as much as bedroom count.

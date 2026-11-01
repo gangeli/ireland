@@ -309,20 +309,6 @@
       "recheck": false
     },
     {
-      "id": "tankardstown-ballylynan",
-      "name": "Tankardstown",
-      "left": "2026-10-30",
-      "reason": "tied at 3.0 with new finds (The Paddock 3.5 beat it; Loughminane Green 3.0 tied); new wins ties, rated incumbents first",
-      "lastPrice": 450000,
-      "aiStars": 3,
-      "human": {
-        "n": 1,
-        "avg": 3.0
-      },
-      "listingUrl": "https://www.daft.ie/for-sale/tankardstown-ballylynan-co-laois/6706728",
-      "recheck": false
-    },
-    {
       "id": "loughminane-green-kildare",
       "name": "73 Loughminane Green",
       "left": "2026-10-31",
@@ -348,6 +334,20 @@
         "avg": 2.0
       },
       "listingUrl": "https://www.daft.ie/for-sale/the-paddock-robinstown-glenmore-co-kilkenny/6703176",
+      "recheck": false
+    },
+    {
+      "id": "garryhundon-milford",
+      "name": "Garryhundon",
+      "left": "2026-11-01",
+      "reason": "George rated it 2 ('very small house, especially the common areas; neighbors are very close'); score 2.67, below houses still for sale at 3.0",
+      "lastPrice": 450000,
+      "aiStars": 3,
+      "human": {
+        "n": 2,
+        "avg": 2.5
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/garryhundon-milford-tinryland-co-carlow/6615103",
       "recheck": false
     }
   ]
