@@ -349,6 +349,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/garryhundon-milford-tinryland-co-carlow/6615103",
       "recheck": false
+    },
+    {
+      "id": "ballinkillen-bagenalstown",
+      "name": "Ballinkillen",
+      "left": "2026-11-02",
+      "reason": "made room for Genista Cottage, which Gabor added by hand; lowest score (3.0) and the longest-standing rated house at that score",
+      "lastPrice": 450000,
+      "aiStars": 3,
+      "human": {
+        "n": 2,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/ballinkillen-muine-bheag-co-carlow/6676559",
+      "recheck": false
     }
   ]
 }

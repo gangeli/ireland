@@ -1,0 +1,788 @@
+{
+  "id": "genista-cottage-ballyboughal",
+  "name": "Genista Cottage",
+  "address": "Genista Cottage, Drishoge, Ballyboughal, Co. Dublin",
+  "eircode": "A45 XK66",
+  "lat": 53.510867,
+  "lng": -6.289558,
+  "listingUrl": "https://www.myhome.ie/residential/brochure/genista-cottage-drishoge-ballyboughal-co-dublin/5026402",
+  "status": "Considering",
+  "added": "2026-11-02",
+  "area": "Ballyboughal, Co. Dublin",
+  "agent": "Gráinne McKenna, DNG McKenna Healy, Skerries",
+  "agentEmail": "grainnemckenna@dng.ie",
+  "agentPhone": "01 849 1510 / 087 267 4287",
+  "questions": [
+    "Genista Cottage is on Fingal's Record of Protected Structures (RPS 0152). Both bedrooms and the only shower room are upstairs, and Gabor's parents need to sleep on the ground floor. Has anyone looked at a single-storey bedroom and shower-room extension, or at converting the 2.88 × 4.57 m studio? Has there been any pre-planning or conservation-officer advice on either?",
+    "Are the studio and the garden room insulated, wired and heated? Are either plumbed, or close to a drain? Were they built as exempt development or with permission?",
+    "When was the cottage last rethatched or re-ridged, in what material, and by whom? Is there a thatcher's condition report? Who insures it now, at what premium, and on what fire conditions (stove, chimneys, spark arrestors, alarms)? Have any heritage thatching grants been drawn down?",
+    "Is water mains or a private well? Is foul drainage a septic tank or a treatment plant, and when was it last desludged? What fuel is the central heating? The BER shows 'pending'. Will there be a BER, or is the cottage exempt as a protected structure?",
+    "Can you send the folio map? From the drone shot the site is L-shaped and wraps around the neighbouring bungalow. What does 'potential for further development' mean in practice: an extension, or a site? Where is the secondary rear access, and is the whole boundary secure for two dogs?"
+  ],
+  "ai": {
+    "stars": 2.5,
+    "why": "A protected 19th-century thatched cottage in walk-in condition, on 0.69 ac of lovely gardens with two garden rooms, about 15 minutes from Dublin Airport. It has real charm, but at about 69 m² it is far too small for six: two bedrooms, one shower room, nothing to sleep in on the ground floor, and €590k with thatch upkeep on top."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected. Not stated, but the house is lived in and the garden studio has lights and sockets."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Not stated in the listing. It is a rural lane, so the supply could be mains or a well. Ask."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Not stated. On a rural site this is probably a septic tank or treatment plant. Ask for its age and service history."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Full fibre at the address per BuyerIQ ('Fast broadband — 100 Mb full fibre'). The listing doesn't mention broadband, and the provider isn't confirmed.",
+      "type": "Fibre",
+      "speed": "~100 Mb (full fibre)",
+      "provider": "NBI / open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "None in the cottage. Bedroom 1 (3.56 × 4.17 m), Bedroom 2 (2.56 × 1.88 m) and the only shower room are all upstairs, reached by a stair from the living room. The ground floor has just the living room, the kitchen and a utility room, so converting a room there would cost the family its only sitting room. The realistic route is the 2.88 × 4.57 m (13 m²) garden studio, which the photos show already set up with a bunk bed, sofa and stove. It would fit a double, but it has no WC or shower and sits across the garden. Because the cottage is a protected structure (RPS 0152), making it habitable, or extending the cottage, would need planning."
+  },
+  "price": 590000,
+  "type": "Detached two-storey thatched cottage (protected structure)",
+  "beds": 2,
+  "bedsNote": "Bedroom 1 is a double (3.56 × 4.17 m, with a fireplace). Bedroom 2 is a box room (2.56 × 1.88 m). Both are upstairs, with a 2.45 × 1.60 m shower room. In the garden there is a 2.88 × 4.57 m studio, furnished with a bunk bed in the photos, and a 2.79 × 3.72 m garden room.",
+  "baths": 1,
+  "floorM2": 69,
+  "landHa": 0.28,
+  "landAcres": 0.69,
+  "heating": "Not stated. Photos show radiators and a multi-fuel stove in the living room; the fuel for the central heating is unknown.",
+  "listed": "2026-09-04",
+  "views": 5705,
+  "stampDuty": 5900,
+  "tagline": "A late-19th-century two-storey thatched cottage of about 69 m², on Fingal's Record of Protected Structures, with 0.69 ac of landscaped gardens, two garden rooms and a greenhouse. It is on Drishoge Lane between Ballyboughal and Oldtown, about 15 minutes from Dublin Airport.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/0/4/5026402/96b622be-7858-49a5-8eb4-2442e4c4ae85_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/0/4/5026402/225f001e-38f9-4fa9-a45b-c6c82fd81647_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/0/4/5026402/d00a09ae-e354-4047-b4c3-cdc51b6192a4_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/0/4/5026402/622aa28c-876f-4b3c-95eb-2038f32ae8fd_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/0/4/5026402/cd6a468e-8bc3-420f-9bc6-94ea230f8d97_x.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/0/4/5026402/67038588-1899-46c4-9fff-9af0ebcffc01_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/0/4/5026402/dee0cd8c-df7f-4e49-b716-ac5af1f1ab62_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/0/4/5026402/d0a301d5-4c5a-47d7-a8d0-322d57013bb9_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/0/4/5026402/cb808892-afaa-4733-baba-1982959ed00e_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/0/4/5026402/88a8de20-f209-4793-b9f7-53d255bc3761_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Genuine charm: a period thatched cottage in walk-in condition",
+      "weight": 3,
+      "detail": "Fingal's RPS 0152 describes it as a 'late 19th century two-storey thatched dwelling with bonneted gable'. It has lime-white walls, green joinery, pine floors and a multi-fuel stove, and it is described as lovingly maintained."
+    },
+    {
+      "text": "0.69 ac of mature, private gardens for the dogs and boys",
+      "weight": 3,
+      "detail": "About 0.28 ha: cottage-garden planting, a 'secret garden', a long striped lawn, a patio, a pergola with a barbecue, a greenhouse and a concrete pad. Hedges and trees line most of the boundary."
+    },
+    {
+      "text": "Two garden rooms: home office plus a guest room",
+      "weight": 2,
+      "detail": "A 2.88 × 4.57 m timber studio with French doors, furnished in the photos with a bunk bed, sofa and stove, and a 2.79 × 3.72 m garden room. That is about 23.5 m² outside the house."
+    },
+    {
+      "text": "Close to Dublin and the airport",
+      "weight": 2,
+      "detail": "Roughly 10 km (about 15 min) to Swords, 13 km (about 15–20 min) to Dublin Airport, and 30 min to the city by car via the M1 or M50 (BuyerIQ: 'Dublin within 30 min by car'). These are estimates; the trip cards give live times."
+    },
+    {
+      "text": "Ballyboughal village about 2.5 km away",
+      "weight": 1,
+      "detail": "Per the listing it has a Mace shop, a pharmacy, a co-ed national school (about 210–236 pupils), a church, a GAA club, and pitch and putt. Oldtown, about 2.5 km the other way, has another national school."
+    },
+    {
+      "text": "Children's ED about 30 minutes away",
+      "weight": 2,
+      "detail": "CHI Temple Street is about 25 km by the M1, about 25–30 min at night. Our Lady of Lourdes in Drogheda (all ages) is about 30 km up the M1."
+    },
+    {
+      "text": "Full-fibre broadband at the address",
+      "weight": 1,
+      "detail": "BuyerIQ shows 100 Mb full fibre for this Eircode, which is enough for home working from the garden studio."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Far too small for six: about 69 m², two bedrooms, one shower room",
+      "weight": 3,
+      "detail": "The floor-plan rooms sum to about 69 m² (39 m² downstairs, 30 m² up), against a 100 m² minimum. Bedroom 2 is a 2.56 × 1.88 m box room. The only living space is an 18 m² living room plus a 3.56 × 2.85 m kitchen-dining room. That works out at €8,550 per m²."
+    },
+    {
+      "text": "No ground-floor bedroom or bathroom",
+      "weight": 3,
+      "detail": "Both bedrooms and the 2.45 × 1.60 m shower room are up a narrow timber stair from the living room. The parents' room would have to be the 13 m² garden studio (no WC or shower) or a new extension."
+    },
+    {
+      "text": "Protected structure (Fingal RPS 0152): changes are tightly controlled",
+      "weight": 3,
+      "detail": "Any extension, a ground-floor bedroom wing, window changes and the thatch itself need conservation-led planning and like-for-like materials. The listing's 'development potential' is subject to that, and to Fingal's rural housing policy."
+    },
+    {
+      "text": "Thatch upkeep and insurance (rough estimates)",
+      "weight": 2,
+      "detail": "ROUGH, unquoted: a full rethatch of a two-storey cottage roof (about 130–170 m² of thatch) runs roughly €30–50k every 20–35 years, with ridge renewal every 10–15 years at about €5–10k, so set aside about €2–3k a year. Insurance is likely €1,500–3,500 a year (owners report about 1.5–4× standard cover) from very few insurers. Heritage thatch grants (BHIS) can offset part of the cost."
+    },
+    {
+      "text": "€590k, above the €500k line",
+      "weight": 2,
+      "detail": "Within the up-to-€700k allowance for charm near Dublin, but about €90k over the usual budget before any extension. Stamp duty is about €5,900."
+    },
+    {
+      "text": "No station within reach on foot",
+      "weight": 2,
+      "detail": "Rush & Lusk is about 13 km away (about 17 min by car, then about 28–33 min to Connolly). Donabate is about 16 km (about 20 min, then about 23–28 min). Malahide is about 17 km (about 25 min, then about 18–30 min). Skerries is about 19 km (about 24 min, then about 35–44 min). Drive times are estimates."
+    },
+    {
+      "text": "Neighbour's bungalow close by, cottage gable on the lane",
+      "weight": 1,
+      "detail": "The drone shots show the site wrapping around a neighbouring bungalow about 25–35 m from the cottage, and the cottage's gable sits a few metres from Drishoge Lane, a quiet country lane."
+    },
+    {
+      "text": "Services, BER and radon unconfirmed",
+      "weight": 1,
+      "detail": "Water, drainage and heating fuel aren't stated, and the BER is 'pending'. BuyerIQ flags a moderate radon area (remediation about €800–2,000 if needed)."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "category": "Schools",
+      "kind": "Primary school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "title": "Ballyboghill National School",
+      "candidates": [
+        "Ballyboghill National School, Ballyboughal, Co. Dublin",
+        "Ballyboughal National School, Main Street, Ballyboughal, Co. Dublin"
+      ],
+      "note": "Catholic and co-ed (roll 19001G). gov.ie lists 119 boys and 117 girls, and a 2026 job advert gives 206 pupils with 19 teachers. About 2.5 km away. Oldtown has another national school, whose gender mix wasn't verified.",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed, mid-sized and not known to be DEIS. gov.ie's report pages returned 403, so no inspection report could be read."
+      },
+      "resolved": {
+        "at": "2026-11-02T05:10:21.654Z",
+        "dest": {
+          "name": "Ballyboughal National School",
+          "address": "Ballyboughal National School, R108, Ballyboghil, Ballyboughal, Co. Dublin",
+          "uri": "https://maps.google.com/?cid=640129184760906233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.521156000000005,
+          "lng": -6.2664662,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Ballyboghill National School, Ballyboughal, Co. Dublin"
+        },
+        "duration": 297,
+        "distance": 2688,
+        "alts": [
+          {
+            "name": "Ballyboughal National School",
+            "duration": 297,
+            "distance": 2688
+          }
+        ],
+        "walk": {
+          "duration": 2147,
+          "distance": 2688
+        },
+        "bike": {
+          "duration": 522,
+          "distance": 2688
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 2.5 km of quiet hedged lanes with no footpath, then footpaths in Ballyboughal village; fine with an adult."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet lanes the whole way into the village."
+        }
+      }
+    },
+    {
+      "id": "secondary",
+      "category": "Schools",
+      "kind": "Secondary school",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "title": "St Finian's Community College, Swords",
+      "candidates": [
+        "St Finian's Community College, Swords, Co. Dublin"
+      ],
+      "note": "Mixed ETB school in Swords, about 10 km. Lusk Community College (69% / 65%) and Fingal Community College, Swords (60% / 64%) are the other nearby mixed options.",
+      "rating": {
+        "level": "Average",
+        "basis": "Feeder tables via DublinLive (2022): 74% of 2021 leavers and 58% of 2020 leavers went to third level, mid-table for Fingal."
+      },
+      "resolved": {
+        "at": "2026-11-02T05:10:21.654Z",
+        "dest": {
+          "name": "St. Finian's Community College",
+          "address": "Jugback Ln, Castlefarm, Swords, Co. Dublin, K67 YN93",
+          "uri": "https://maps.google.com/?cid=4125643496715596847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.464759799999996,
+          "lng": -6.2242766,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "St Finian's Community College, Swords, Co. Dublin"
+        },
+        "duration": 928,
+        "distance": 8693,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1584,
+          "distance": 8769
+        }
+      }
+    },
+    {
+      "id": "secondary-good",
+      "category": "Schools",
+      "kind": "Good secondary school",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "title": "Malahide Community School",
+      "candidates": [
+        "Malahide Community School, Broomfield, Malahide, Co. Dublin"
+      ],
+      "note": "Large mixed school, about 17 km. Skerries Community College (75% / 85%) is the other Good option at a similar distance.",
+      "rating": {
+        "level": "Strong",
+        "basis": "Feeder tables via DublinLive (2022): 89% of 188 Leaving Cert sitters in 2021 and 86% in 2020 went to third level, among the top mixed schools in Fingal."
+      },
+      "resolved": {
+        "at": "2026-11-02T05:10:21.654Z",
+        "dest": {
+          "name": "Malahide Community School",
+          "address": "Broomfield, Malahide, Co. Dublin",
+          "uri": "https://maps.google.com/?cid=11297559329026163673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.438264999999994,
+          "lng": -6.152653300000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ9044O44aZ0gR2UOBS1r-yJw/photos/AV-0GLfmUbbZ0uwec76zn8pa1PpGevICPwUUszACACfFmhDj_AmqLo0tIUyBcmoMoYgOAvgfmv491BnRgaUCi-Dg4EMBj0TE44XRcZDHtEbD8XO08qwV9gj1ROMxPz4z1R5nSU9c6cujP3ZnYdUK1aNn4JE90zd4fFVxoQG2yE4lMkegX9KUh5ZqLc6xs_2kU-5-qKEh6v1GuP9t1v9kFxNGQO-KSRbYh0Atjr7HNXcYRhjkHg00mgnutqDQOiGTEr4EsS3KuPr2SZsEm7HaAIfqP8oJFW_HVvslew-7NruMvel28XZ7u3VV_QjdzGoqO71VLnAd_3vAXcVYh0AlCm3NrIJ_-FmyaFiiBHGB3F6fzN8Jd03tsqLwyXcPuJWf2SqNMguwrzNwxA_m7SCB5syos9P8JEI/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Blue Willow",
+            "uri": "https://maps.google.com/maps/contrib/111571605990380534972"
+          },
+          "q": "Malahide Community School, Broomfield, Malahide, Co. Dublin"
+        },
+        "duration": 1848,
+        "distance": 19628,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 3119,
+          "distance": 16433
+        }
+      }
+    },
+    {
+      "id": "shop",
+      "category": "Groceries",
+      "kind": "Village shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "title": "Mace Ballyboughal",
+      "candidates": [
+        "Mace, Main Street, Ballyboughal, Co. Dublin",
+        "Ballyboughal shop, Main Street, Ballyboughal, Co. Dublin"
+      ],
+      "note": "The village shop on Main Street, about 2.5 km. The listing also mentions a pharmacy in the village.",
+      "resolved": {
+        "at": "2026-11-02T05:10:21.654Z",
+        "dest": {
+          "name": "Mace Ballyboughal",
+          "address": "Grange, Ballyboughal, Co. Dublin",
+          "uri": "https://maps.google.com/?cid=12355791208325995717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 195,
+          "lat": 53.517667100000004,
+          "lng": -6.2663581,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJe2Ep6e8WZ0gRxVwq46OWeKs/photos/AV-0GLehdrygRLwfXrMNc3bFKBxxoCmHcjDZLo1r1LEVJmCbtXkaNidotK9kd_CwrMtt1W-CvUO9XjZtRhQd27qjy6bxSKM9tdJnILiSr7jV4z-m3U4oHzS6KsgzQhuhi4Jb2jQhNam5fd5jUz70lZwtIKoVh3NeZYUB6y_eRZ3dEHkLTwvGVpgioxtP9ZnyKS2eGBCszlXiArUOH5A7yMcXRffbPXqHBmorMYh7rHmgHwRqR_-yHlprWi_lBuZMFY4YNQasF_YNWDb6qmghgjd6dPRItesKawot43pMZYKsKSoxs87IdHFjDKMJaEVTCerBi63jbFM1TG_o9d77Cyoq4CKRfeuB-YZgyJO0ai6RCRueAjOT7bbQzJrVjO1L3luV1rx0rniRoOf_rT0T58TP1e9mMpE6BxM/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "David Risso",
+            "uri": "https://maps.google.com/maps/contrib/111345484958509474923"
+          },
+          "q": "Mace, Main Street, Ballyboughal, Co. Dublin"
+        },
+        "duration": 248,
+        "distance": 2732,
+        "alts": [
+          {
+            "name": "Mace Ballyboughal",
+            "duration": 248,
+            "distance": 2732
+          }
+        ],
+        "walk": {
+          "duration": 2171,
+          "distance": 2732
+        },
+        "bike": {
+          "duration": 509,
+          "distance": 2732
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "The same 2.5 km of quiet lanes into Ballyboughal with no footpath until the village."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet lanes the whole way into the village."
+        }
+      }
+    },
+    {
+      "id": "bigshop",
+      "category": "Groceries",
+      "kind": "Supermarket",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "title": "Swords",
+      "candidates": [
+        "Tesco Extra, Swords Pavilions, Swords, Co. Dublin",
+        "Lidl Swords, Co. Dublin",
+        "Aldi Swords, Co. Dublin"
+      ],
+      "note": "Swords, about 10 km south, has Tesco, Dunnes, Lidl and Aldi. Ashbourne, about 11 km west, is the alternative.",
+      "resolved": {
+        "at": "2026-11-02T05:10:21.654Z",
+        "dest": {
+          "name": "Lidl",
+          "address": "Dublin Rd, Miltonsfields, Dublin, K67 E6A2",
+          "uri": "https://maps.google.com/?cid=300809060104139198&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 1770,
+          "lat": 53.4512423,
+          "lng": -6.226883099999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJQ1sCzvsQZ0gRvvG5FD-wLAQ/photos/AV-0GLdx9uQ8zfePl_SPkLgRxJmfI8JRe47zZf2g9f3e9qeeUMLGz5BTo0AOpxODRx5ba4EZLRa3sUyh2A-IQd-GnpkKiSSTapwPyj4o2bX4G4Q8ILubybOromEweanqg7MBRHpzYSREuNXuOGj8LQ-KV-iTgPEIFzgZc8LNT5FFQya-AZJQL2ZcC4ZaNONW_GMPTU4mfzmI_lccO8JZiEanFyGVt3Az6QuFJqK-EFbra3O3W4TJCqdnnLIyYb7zrIDuKdu8cuZ2Copo7x5qUyZPD0phlPJTCqsalpaUkjfujrBAQVqmeN9A37uby-YnOuJM3MWhSmgui8zRvfb9IEgSsyUo9LAzMZU2-R-h_7lFGRDn9pb6RK0kW3gf-Jf9gHG5odagOOgA73tteAqamFQSgCqwUIOZOAQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Lidl",
+            "uri": "https://maps.google.com/maps/contrib/117085831105073392445"
+          },
+          "q": "Lidl Swords, Co. Dublin"
+        },
+        "duration": 1060,
+        "distance": 10114,
+        "alts": [
+          {
+            "name": "ALDI",
+            "duration": 1079,
+            "distance": 10409
+          },
+          {
+            "name": "Swords Pavilions Shopping Centre",
+            "duration": 1251,
+            "distance": 11506
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1890,
+          "distance": 10096
+        }
+      }
+    },
+    {
+      "id": "dinner",
+      "category": "Eating out",
+      "kind": "Restaurant",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "title": "Wine House, Swords",
+      "candidates": [
+        "The Wine House, Main Street, Swords, Co. Dublin",
+        "The Old Schoolhouse, Church Road, Swords, Co. Dublin"
+      ],
+      "note": "Rated 4.8 from 191 OpenTable reviews. The Old Schoolhouse, an 18th-century schoolhouse, is the other favourite in Swords. No food pub in Ballyboughal could be confirmed.",
+      "resolved": {
+        "at": "2026-11-02T05:10:21.654Z",
+        "dest": {
+          "name": "The Old Schoolhouse",
+          "address": "Church Rd, Townparks, Swords, Co. Dublin, K67 Y935",
+          "uri": "https://maps.google.com/?cid=13517080757777927080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 4632,
+          "lat": 53.4567456,
+          "lng": -6.2228797,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJcxD9X-UQZ0gRqAufJ1VRlrs/photos/AV-0GLdff8qlxmjwbqhrpt51TqHUJwSqenAiO89qeyOcbIWXKm4GBVLy3Y4U6rl4ev-Bpk-M7YWs2rMvqqpS_orF3J4ka8fVa_IpL3KRdiCtgngwuuiIcPEuNBOKaQusk147LqUKUoai_o650VvbU0yC0EdNe8S48x7mkZPojWMMo_5IRLLkzvdDnY9gHktPzRddfbtAcaWyc39Lm__qNllLoaniE3ulcQYAaZ8puRVgD1RkcC0OiFGsolSyVGJCAMF3imjLI8indiIyTYtjIuyyVsXw6lyI-Uc32PRN1iitmOhNb6O1O8e1ZPEwLdI1bRYrO9oghCU-bhND7CIeXg7J3MiANESXoKRwZNHSWJQAdmEJaXbTEVsYbWY1itkk3Qiu_la0jiK8sKmo3SeXdOukEz9RN38/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Azriel Mohammed",
+            "uri": "https://maps.google.com/maps/contrib/112536414129791796832"
+          },
+          "q": "The Old Schoolhouse, Church Road, Swords, Co. Dublin"
+        },
+        "duration": 919,
+        "distance": 9368,
+        "alts": [
+          {
+            "name": "Wine House Restaurant",
+            "duration": 931,
+            "distance": 9115
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1691,
+          "distance": 9236
+        }
+      }
+    },
+    {
+      "id": "hospital",
+      "category": "Health",
+      "kind": "Emergency department",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "title": "CHI at Temple Street",
+      "candidates": [
+        "Children's Health Ireland at Temple Street, Dublin",
+        "Our Lady of Lourdes Hospital, Drogheda"
+      ],
+      "note": "Temple Street's children's ED, about 25 km by the M1, until it moves to the new children's hospital at St James's. Drogheda is all ages. Connolly and Beaumont take 16+ only.",
+      "resolved": {
+        "at": "2026-11-02T05:10:21.654Z",
+        "dest": {
+          "name": "CHI at Temple Street",
+          "address": "Temple St, Rotunda, Dublin 1, D01 XD99",
+          "uri": "https://maps.google.com/?cid=14340658118984733662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.3,
+          "ratings": 365,
+          "lat": 53.356787,
+          "lng": -6.2620292,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJA-oGjH0OZ0gR3hNoQ5RABMc/photos/AV-0GLfGnpS9GxA1-wG599Y3SNWpMgE0sDelWQ2giwQcrOoGvqiiFNf5q2N4CakKWBMJVJGXtVRu30mjKccEoadrA29BIVjMNap8RDSNa0aTyGriTRywx0N3I7qNmbjptZ8E1EWuGvKBp7xVkrRJJJF-13oVMX6sADr8k4NJaOdGR8pz9K0upWxUfqx5oIGapDs5CEkqvlltr60xlVRfBxAA5IMtss5SbyfcppkIyAgo5FOBbLoHhiRiHu8fOTkb9jiIX7n0_WEO-U6xN1IBmwkFZyVpkU_WOoVzQpKGt_EfMUJ0Ui362InLMOk7otXQ8J_plTKMNiwenG3w668giryH7DoT9_A6CHJYL6y9xUN3pGF8KUYlmII7gtvn36j82Gob20qFBtof7RnBHGEYzYAzchUiQ84/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Combined Media",
+            "uri": "https://maps.google.com/maps/contrib/104907542300526495738"
+          },
+          "q": "Children's Health Ireland at Temple Street, Dublin"
+        },
+        "duration": 1491,
+        "distance": 25447,
+        "alts": [
+          {
+            "name": "Our Lady of Lourdes Hospital, Drogheda",
+            "duration": 2126,
+            "distance": 38927
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "town",
+      "category": "Towns and cities",
+      "kind": "Small town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "title": "Swords",
+      "candidates": [
+        "Main Street, Swords, Co. Dublin"
+      ],
+      "note": "The county town of Fingal, about 10 km, with GPs, the Pavilions, schools and restaurants. Ashbourne is the other option.",
+      "resolved": {
+        "at": "2026-11-02T05:10:21.654Z",
+        "dest": {
+          "name": "Main Street",
+          "address": "Main St, Townparks, Swords, Co. Dublin",
+          "uri": "https://maps.google.com/?cid=5570478537408622099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.4575444,
+          "lng": -6.2208821,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ4QkFt-8QZ0gRE64tU7dQTk0/photos/AV-0GLdlaBErx1LhaZSbGPWu0-iDmoYlEeABoNBKJKp97DJhBRIY1_HT0Trpm_JzMglygDw0Anwu2qV0LvV8vH1M-GmS0SODvyN-_n0WoMzJzhCG210W44-lmuaxrS6ZmHI9KhKE2AQ0IPUUs0RKjA3MINkg6mm--CRm1mRZQyx-QAahwzY4uZd2A7l-bt6BJmTzxKUMb-4788wzW6bKcNTl832mlOfM0UbVoRqzFUT3FQZbAQo7RMEoiGaxcjwLvEDpeNiGB2ZkFberrSxXt21AlkX7ihLUshlctkLFnq3-Vm8tNqXcxZei7tDoSqhi1xZMfWgvt_gInQ8fUZki0FZPIHMnMlsSDuepLlLRoLqXoXvGq9tRlU6GZIbNcVJXYGlMDeNZbMCsKMwr9F2Osunq0rEXPBEEt0g/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Om Dog",
+            "uri": "https://maps.google.com/maps/contrib/103309934465147829344"
+          },
+          "q": "Main Street, Swords, Co. Dublin"
+        },
+        "duration": 1007,
+        "distance": 9213,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1697,
+          "distance": 9229
+        }
+      }
+    },
+    {
+      "id": "city",
+      "category": "Towns and cities",
+      "kind": "City",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "title": "Drogheda",
+      "candidates": [
+        "West Street, Drogheda, Co. Louth"
+      ],
+      "note": "About 30 km north up the M1. Dublin itself is below.",
+      "resolved": {
+        "at": "2026-11-02T05:10:21.654Z",
+        "dest": {
+          "name": "West Street",
+          "address": "West St, Moneymore, Drogheda, Co. Louth",
+          "uri": "https://maps.google.com/?cid=14345659621275522689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.7151256,
+          "lng": -6.3539361,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJw6AYqiA6Z0gRgdbKQmsFFsc/photos/AV-0GLfLPygefZ1TlIBShdicV6B73wGj3aCyHsEaY3FCTgkNXVnXm3PiW3qxFBUxuTLE_DUQu55i3MyUYcisFo6u4sW19BXUub8EA023Fcs-gCTcI-dtBZr2x8GtQScEGyhKqmfYOXx9gpz28C71MyE6Yyiz4lfXRDIRwggeoabJnnAJfFz5OYASiT39FaCvF4MYH-yOXRvSykpNsqfWh3M0sqc4KyET0J_-6VPVLyF5KoU1G_pt3qFlRDzknzASZfshjnYx-v7sKdt5uqcwCdZEAu8ftg2pw4aT7bWLW15z_sCZRnMqIQljC1HOWw_gHVMoVoi7zZmUvziyZIX6KLe2a2hem1CMY_gJQ-UtUyeZq14a7l8R759apFxRjwEmcYjdxd9gqP4NHNfTij2i0OgehEh1Rm5-/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Richard Donnelly",
+            "uri": "https://maps.google.com/maps/contrib/109407912022634271640"
+          },
+          "q": "West Street, Drogheda, Co. Louth"
+        },
+        "duration": 2210,
+        "distance": 35776,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "dublin",
+      "category": "Towns and cities",
+      "kind": "Capital",
+      "group": "further",
+      "day": "saturday",
+      "when": "09:30",
+      "label": "Day in Dublin",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "About 25 km by car via the M1. Alternatively, drive to Malahide or Donabate and take the train to Connolly.",
+      "resolved": {
+        "at": "2026-11-02T05:10:21.654Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLdkyBBitb4aluHXu8K06o2jVxA6Vh1Ws5l4_bm18H78dTNGury6PGayYe0r0vn8xDnHKZJBotMdUC_u3EhQi9DHTXIr0seaAKCUnO934M7_ZFuN8Y073y9coRNgHkR3p91UQglsgPdoQA6pm8e81R8u4JxckI67-nraoIHUR_78VKsylNX1OVj2I_7IrjMhn9i66ClWVnpWd9r5TtOJPLY2pcl3gQizPBd3cCm4z6HBDb3aPe7l0fDjUua0AMG5Om--zzbJF010uaOvfnBNSMBAtgv4BVsn_ris6QqnqTSDQ27tokv64_hHltNZWTLR7vzPmYpwu2A__SpsAq33vAxL77nKAzyugxWnjDFOETY8egLavzfiq7T0-WmS1irW5C8I91aaADx-kUO5oyaYXIxgkg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 2740,
+        "distance": 28813,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "cork",
+      "category": "Towns and cities",
+      "kind": "City",
+      "group": "further",
+      "day": "saturday",
+      "when": "09:30",
+      "label": "Weekend in Cork",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "resolved": {
+        "at": "2026-11-02T05:10:21.654Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11766,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLf46ZRtFoLqIF8QgQydbMJ1hOfl1GToyTSONxi9k--wwaZbvfzvLwioH-OntG8-VAbHiSNlVP2_LmDdnyP9SZRn4LKanycCXRdaZX60tU0o-uoA4zPNLFH7bLRxjOdSjgKOS1voZBAz-d6KHxDA_Beoq2-4i8ZRKIM6ARbBCUftoeku-dFhQtyf6Uecp83gA4iHqTL6jptptwga8SbNRIq0L32wVobNdN6z0foZ_IgTcPVjKysIpwQpolsTkMFDBefXtEcheY0aMQ3w7pjYV2m8CGxwQff7EuchI1d9ral8N9jxVhBgcep47NK8ffZivrmzmMkNRyalyCVteUBm2fMnZzKiksqoUeJmh6duB0OzHHboU5Wx_yBxKSyKQvrAzBb-UlDr03wI3a3YDZoomZDoRz8/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 10552,
+        "distance": 279517,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "train",
+      "category": "Getting away",
+      "kind": "Station",
+      "group": "further",
+      "day": "weekday",
+      "when": "07:15",
+      "label": "Train to Dublin",
+      "title": "Rush & Lusk station",
+      "candidates": [
+        "Rush and Lusk railway station, Co. Dublin",
+        "Donabate railway station, Co. Dublin",
+        "Malahide railway station, Co. Dublin"
+      ],
+      "note": "Northern Commuter line, at least hourly with more at peak, about 28–33 min to Connolly. Donabate (about 23–28 min), Malahide (DART or commuter, about 18–30 min) and Skerries (about 35–44 min) are the alternatives; trains per weekday weren't counted reliably.",
+      "resolved": {
+        "at": "2026-11-02T05:10:21.654Z",
+        "dest": {
+          "name": "Donabate railway station",
+          "address": "Beaverstown, Donabate, Co. Dublin, Ireland",
+          "uri": "https://maps.google.com/?cid=5256843628797938151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3,
+          "ratings": 2,
+          "lat": 53.4859389,
+          "lng": -6.1515423,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ__8bECQaZ0gR58lGrm0P9Eg/photos/AV-0GLfQe87xwpfrEOXVRgCTaZCTogGBWCRqozuzafWaNn9lndpi-2MDHJhFxurcribL4albRr7thujUbMROOlvMzlbIQs5EnKXcy8RAaU-261p_KMiyRZzA6O6noB1VHF6G0qLxwzkvS7LQk70WuE3kGlfyW5ouLJGbs-Taj90aZCfIr0nd163ySxfNfOv_uDHW7zcAbNjINDJ59GQJ7DlC1GJlfOnSvcN-bQt8XitARmfQTz5eVhuSXUHOB6dIdhNJKDAVugYdFb4y_pArjL2q4B13NIaOau0BcT_12HOWzjyzus_rUnwE3yEXYBGerxsSKTqGSvkT-VlY6zBwwxojDrfhE8sF94tPHWSl-keB3RFVJYF81AU2xB2fXtbqDKw9GYtZbeuNRV4dQdRnnZJT7nGdOw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Earl Fitzgerald",
+            "uri": "https://maps.google.com/maps/contrib/100740333108951125118"
+          },
+          "q": "Donabate railway station, Co. Dublin"
+        },
+        "duration": 884,
+        "distance": 12087,
+        "alts": [
+          {
+            "name": "Rush and Lusk",
+            "duration": 909,
+            "distance": 12478
+          },
+          {
+            "name": "Malahide",
+            "duration": 1411,
+            "distance": 15078
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 2155,
+          "distance": 12087
+        }
+      }
+    },
+    {
+      "id": "airport",
+      "category": "Getting away",
+      "kind": "Airport",
+      "group": "further",
+      "day": "friday",
+      "when": "06:00",
+      "label": "Flight home",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "About 13 km, one of the shortest airport runs on the list.",
+      "resolved": {
+        "at": "2026-11-02T05:10:21.654Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42229,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLd_IPGRSV5ZiEBox_TiqlzWUvf9k_NAtNnNssBT5LWfNcUKZdm3fL4FmeoBToNJfY0Gz3XvPauNEmuAmR8MlZvC2AI92kp__XCRRww4XWbB4lJRCaCcHlnJdOooVCDMZHheP8mxqEhiCTRS3vij_pjcNOYLxDJg-dyA7yw49dgidrGgx3aa7JqeFTu_g4uIF193h0Yn2aWjXKqQ3IN4L6WfMQX5cmSLLSOSm_LNlpnjT2dFP3SwvDi9j7aHz6tiI_086pT-X5eUsWqLVusfquVECc89X4jOlrNusuw1E7fvAOM0HmxA3wyn3TYOZaNmjTv7sEJNZnrSW160-Tl-Qxr6uhuXR8SPDU5jIymxP-RtqnbbR0Afc38qYEoMPfvKxZYnxzJWuaBVEy0Ti9YanZzly6rMZx4/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 1047,
+        "distance": 12315,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 4124,
+          "distance": 21500
+        }
+      }
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
