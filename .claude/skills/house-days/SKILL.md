@@ -81,12 +81,12 @@ Look at it from above before writing any setting pro or con. Use the listing's a
 
 Read the memory file for the Ireland property search for the current brief. As of Oct 2026, the brief covers:
 - budget (roughly under €500k; up to ~€650–700k only for something special near a Dublin train)
-- land for the dogs (ideally ~1 acre; at least a big private garden)
+- land for the dogs (Gabor's parents' dogs; ideally ~1 acre; at least a big private garden)
 - strong schools nearby, for two young boys
 - 24-hour ED access **that takes children**
 - train to Dublin
 - 100–280 m² (lowered from 140 by Gabor on 6 Oct 2026; compact is fine if the layout works)
-- a ground-floor bedroom for Gabor's parents (or a room that can convert)
+- a ground-floor bedroom for Gabor's parents (or a room that can convert); medical access is mostly for them, so note the adult ED, GP and pharmacy
 - space around the house (see 2c)
 - rental use when the family's away
 

@@ -13,9 +13,9 @@ Anchors:
 - A ground-floor bedroom for Gabor's parents, or a realistic convertible room or annex.
 - 100–280 m².
 - Budget roughly under €500k. A price well above ~€600k is a strong negative: Gabor rated €1m+ houses 2.
-- Land for dogs.
+- Land for dogs. The dogs are Gabor's parents' dogs, so the garden should be easy to reach from the parents' rooms.
 - Good schools.
-- A 24 h ED that takes children.
+- Hospital access. Medical care is mostly for Gabor's parents, so adult care counts most: nearest 24 h ED, GP and pharmacy. A children's ED is still on the brief but matters less.
 - Dublin train access.
 
 ## Family preferences (from notes and ratings)
@@ -77,3 +77,11 @@ Gabor rates the town-edge houses highly (Slaney Vista 5, Laurel Close 4); George
 Gabor added Genista Cottage, Ballyboughal (€590k, a thatched two-bed in walk-in condition, ~0.69 ac of landscaped gardens, garden rooms, a greenhouse) by hand: "it's just the raw charm of the place that I love." He added it even though both bedrooms are upstairs.
 
 Genuine charm can outweigh the rubric's practical points for him: a thatched or stone cottage, a period farmhouse, an old schoolhouse or a lodge, with a pretty garden. Closeness to Dublin adds to it. Surface these from the Dublin fringe outward (Fingal, Meath, Kildare, Wicklow, Louth) up to about €700k. Report them even when the ground-floor bedroom only works through a garden room or annex, and flag that. Score them honestly, but put the charm in the ledger and the "why".
+
+## Who the dogs and the medical care are for (Gabor, 2 Nov)
+- The dogs are Gabor's parents' dogs. Their land and fencing matter most where the parents live. A ground-floor bedroom or annex with its own door to the garden is a plus.
+- Medical care is mostly for the parents. Weigh time to a 24 h ED for adults, plus a GP and pharmacy nearby, above a children's ED. An adults-only ED (Naas, Connolly) is a real option for them; still show the children's ED on the page.
+- So "hard to … get medical care" (George on Forty Shades) is about the parents. Remoteness costs more for a house where the parents live alone on the ground floor.
+
+## Charm cottages, once fully reviewed (Gabor, 2 Nov)
+Gabor agreed with the 2.5 scores for the 2 Nov charm near misses (Dairyland Cottage, Crocksheeby, Borora): "not actually great once fully reviewed. But they are super charming." Keep scoring charm houses honestly on the brief, and keep reporting them in the near-miss list with the charm named, so he can pick one by hand as he did with Genista.
