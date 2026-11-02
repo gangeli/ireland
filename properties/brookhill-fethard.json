@@ -34,7 +34,7 @@
     },
     "sewer": {
       "status": "check",
-      "detail": "Bio-cycle treatment unit, stated in the listing; ask its age and service history."
+      "detail": "Bio-cycle unit; Bio-cycle treatment unit, stated in the listing; ask its age and service history."
     },
     "internet": {
       "status": "ok",

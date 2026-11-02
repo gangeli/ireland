@@ -360,7 +360,7 @@
     },
     "water": {
       "status": "unknown",
-      "detail": "Not stated in the listing; rural site, could be mains or a well. Ask."
+      "detail": "Unknown; not stated in the listing; rural site, could be mains or a well. Ask."
     },
     "sewer": {
       "status": "unknown",

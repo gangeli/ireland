@@ -29,11 +29,11 @@
     },
     "water": {
       "status": "unknown",
-      "detail": "Not stated. A rural roadside site: could be mains or a private well; ask."
+      "detail": "Unknown; not stated. A rural roadside site: could be mains or a private well; ask."
     },
     "sewer": {
       "status": "unknown",
-      "detail": "Not stated. Probably a septic tank on a rural site like this; ask its age and certification."
+      "detail": "Likely septic; not stated. Probably a septic tank on a rural site like this; ask its age and certification."
     },
     "internet": {
       "status": "ok",

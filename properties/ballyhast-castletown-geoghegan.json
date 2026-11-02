@@ -29,7 +29,7 @@
     },
     "water": {
       "status": "check",
-      "detail": "Probably a private well; the supply isn't stated, but a 'pump house' is listed among the features. Ask whether it is a well or a group scheme, and ask for a water test."
+      "detail": "Likely well; the supply isn't stated, but a 'pump house' is listed among the features. Ask whether it is a well or a group scheme, and ask for a water test."
     },
     "sewer": {
       "status": "check",

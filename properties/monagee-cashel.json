@@ -29,7 +29,7 @@
     },
     "water": {
       "status": "likely",
-      "detail": "Probably mains: the listing says 'all main services' but doesn't name the water supply."
+      "detail": "Likely mains; the listing says 'all main services' but doesn't name the water supply."
     },
     "sewer": {
       "status": "unknown",

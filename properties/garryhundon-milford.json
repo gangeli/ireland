@@ -30,11 +30,11 @@
     },
     "water": {
       "status": "unknown",
-      "detail": "Not stated in the listing. A rural one-off house, so it could be mains, a group scheme or a private well; ask."
+      "detail": "Unknown; not stated in the listing. A rural one-off house, so it could be mains, a group scheme or a private well; ask."
     },
     "sewer": {
       "status": "unknown",
-      "detail": "Not stated in the listing. Probably a septic tank or treatment unit for a rural site; ask its age and certification."
+      "detail": "Likely septic; not stated in the listing. Probably a septic tank or treatment unit for a rural site; ask its age and certification."
     },
     "internet": {
       "status": "ok",

@@ -26,15 +26,15 @@
   "services": {
     "electricity": {
       "status": "likely",
-      "detail": "Likely connected. Not stated, but the house is lived in and the garden studio has lights and sockets."
+      "detail": "Likely; Not stated, but the house is lived in and the garden studio has lights and sockets."
     },
     "water": {
       "status": "unknown",
-      "detail": "Not stated in the listing. It is a rural lane, so the supply could be mains or a well. Ask."
+      "detail": "Unknown; not stated in the listing. It is a rural lane, so the supply could be mains or a well. Ask."
     },
     "sewer": {
       "status": "unknown",
-      "detail": "Not stated. On a rural site this is probably a septic tank or treatment plant. Ask for its age and service history."
+      "detail": "Likely septic; not stated. On a rural site this is probably a septic tank or treatment plant. Ask for its age and service history."
     },
     "internet": {
       "status": "ok",

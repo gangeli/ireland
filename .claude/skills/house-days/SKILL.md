@@ -162,7 +162,7 @@ Trip cards show live walk and bike times for trips under 8 km. Each trip also ne
 
 ## 5. Services
 
-`services` has one entry each for `electricity`, `water`, `sewer` and `internet`: `{ "status": ..., "detail": ... }`. Status is `ok` (stated: mains, fibre, connected), `check` (stated but worth checking: septic tank, private well), `likely` (not stated but strongly implied) or `unknown`. Start `detail` with the conclusion, because the page shows its first phrase.
+`services` has one entry each for `electricity`, `water`, `sewer` and `internet`: `{ "status": ..., "detail": ... }`. Status is `ok` (stated: mains, fibre, connected), `check` (stated but worth checking: septic tank, private well), `likely` (not stated but strongly implied) or `unknown`. Start `detail` with a chip label of at most about 15 characters, then a semicolon, then the explanation: the chip shows only the text before the first `;`, `,` or `(` and has little room, while the full detail appears on hover. Good labels: `Mains`, `Likely mains`, `Septic tank`, `Likely septic`, `Private well`, `Unknown`, `Bio-cycle unit`. For example: `"Likely septic; not stated, rural site. Ask its age and certification."`
 
 Internet also needs what Gabor would actually get, shown as "type · speed · provider":
 - `type`: `Fibre`, `Cable`, `DSL`, `Fixed wireless`, `Satellite` or `Mobile 4G/5G`

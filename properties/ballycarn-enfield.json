@@ -25,11 +25,11 @@
   "services": {
     "electricity": {
       "status": "likely",
-      "detail": "Likely connected or easily reconnected: a pole and line run to the house, and the photos show radiators and sockets; vacant over two years, so check the supply and the wiring."
+      "detail": "Likely; a pole and line run to the house, and the photos show radiators and sockets; vacant over two years, so check the supply and the wiring."
     },
     "water": {
       "status": "unknown",
-      "detail": "Not stated. The ribbon of houses on the R148 may be on public mains; a private well is the alternative. Ask."
+      "detail": "Unknown; not stated. The ribbon of houses on the R148 may be on public mains; a private well is the alternative. Ask."
     },
     "sewer": {
       "status": "unknown",

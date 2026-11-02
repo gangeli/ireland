@@ -29,11 +29,11 @@
     },
     "water": {
       "status": "check",
-      "detail": "Private supply: the listing says the house 'benefits from private services', most likely a well. Type not stated; ask for a water test."
+      "detail": "Private; Private supply: the listing says the house 'benefits from private services', most likely a well. Type not stated; ask for a water test."
     },
     "sewer": {
       "status": "check",
-      "detail": "Private drainage per 'private services', most likely a septic tank or treatment unit; type, age and certification not given."
+      "detail": "Private; Private drainage per 'private services', most likely a septic tank or treatment unit; type, age and certification not given."
     },
     "internet": {
       "status": "likely",

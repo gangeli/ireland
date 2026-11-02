@@ -29,11 +29,11 @@
     },
     "water": {
       "status": "unknown",
-      "detail": "Not stated. Glencap Road is on the edge of Kilmacanogue village, so mains water is plausible; ask."
+      "detail": "Unknown; not stated. Glencap Road is on the edge of Kilmacanogue village, so mains water is plausible; ask."
     },
     "sewer": {
       "status": "unknown",
-      "detail": "Not stated whether it is on mains sewer or a septic tank; ask."
+      "detail": "Unknown; not stated whether it is on mains sewer or a septic tank; ask."
     },
     "internet": {
       "status": "ok",

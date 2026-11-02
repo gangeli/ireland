@@ -29,7 +29,7 @@
     },
     "water": {
       "status": "ok",
-      "detail": "Mains water: the listing says 'all mains services'."
+      "detail": "Mains; the listing says 'all mains services'."
     },
     "sewer": {
       "status": "ok",

@@ -30,11 +30,11 @@
     },
     "water": {
       "status": "likely",
-      "detail": "Likely mains: not stated, but it's a village-centre address in Stoneyford. Confirm with the agent."
+      "detail": "Likely mains; not stated, but it's a village-centre address in Stoneyford. Confirm with the agent."
     },
     "sewer": {
       "status": "likely",
-      "detail": "Likely mains sewer: not stated, but it's in the village; confirm the connection on survey."
+      "detail": "Likely mains; not stated, but it's in the village; confirm the connection on survey."
     },
     "internet": {
       "status": "ok",

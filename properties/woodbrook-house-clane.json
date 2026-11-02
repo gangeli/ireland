@@ -838,11 +838,11 @@
     },
     "water": {
       "status": "unknown",
-      "detail": "Not stated: could be mains or a private well; ask."
+      "detail": "Unknown; not stated: could be mains or a private well; ask."
     },
     "sewer": {
       "status": "likely",
-      "detail": "Septic tank or treatment unit likely; not stated, and there's no public sewer this far out."
+      "detail": "Likely septic; Septic tank or treatment unit likely; not stated, and there's no public sewer this far out."
     },
     "internet": {
       "status": "likely",

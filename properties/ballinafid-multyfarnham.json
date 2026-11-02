@@ -28,11 +28,11 @@
     },
     "water": {
       "status": "unknown",
-      "detail": "Not stated in the listing; could be mains, a group water scheme or a private well. Ask."
+      "detail": "Unknown; not stated in the listing; could be mains, a group water scheme or a private well. Ask."
     },
     "sewer": {
       "status": "check",
-      "detail": "Septic tank/treatment plant, stated in the features. Ask its age and service history."
+      "detail": "Septic/treatment; Septic tank/treatment plant, stated in the features. Ask its age and service history."
     },
     "internet": {
       "status": "unknown",

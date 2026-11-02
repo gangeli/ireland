@@ -30,11 +30,11 @@
     },
     "water": {
       "status": "likely",
-      "detail": "Likely mains: not stated, but it's on a town road beside new estates and the hospital. Confirm with the agent."
+      "detail": "Likely mains; not stated, but it's on a town road beside new estates and the hospital. Confirm with the agent."
     },
     "sewer": {
       "status": "likely",
-      "detail": "Likely mains sewer: not stated, but on the edge of Wexford town among serviced estates. Confirm there's no septic tank."
+      "detail": "Likely mains; not stated, but on the edge of Wexford town among serviced estates. Confirm there's no septic tank."
     },
     "internet": {
       "status": "likely",

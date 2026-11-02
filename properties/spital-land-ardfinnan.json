@@ -33,7 +33,7 @@
     },
     "sewer": {
       "status": "likely",
-      "detail": "Likely the public sewer: the listing says 'mains services', and the house is inside Ardfinnan's built-up edge, but it doesn't name the sewer. Confirm it isn't a septic tank."
+      "detail": "Likely mains; likely the public sewer: the listing says 'mains services', and the house is inside Ardfinnan's built-up edge, but it doesn't name the sewer. Confirm it isn't a septic tank."
     },
     "internet": {
       "status": "ok",
