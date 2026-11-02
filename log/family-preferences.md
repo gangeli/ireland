@@ -72,3 +72,8 @@ Houses at the 3.0 baseline without charm, a lovely setting or a standout feature
 - Shanavaur 3: "small… industrial looking place"
 
 Gabor rates the town-edge houses highly (Slaney Vista 5, Laurel Close 4); George is lukewarm about them. For town-edge finds, weight the plot size and the distance to neighbours more heavily. A walled garden of about 0.25 acre with neighbours 20 m away is a con for George even when the house itself is good. Common-room size matters to him as much as bedroom count.
+
+## Raw charm near Dublin (Gabor, 2 Nov)
+Gabor added Genista Cottage, Ballyboughal (€590k, a thatched two-bed in walk-in condition, ~0.69 ac of landscaped gardens, garden rooms, a greenhouse) by hand: "it's just the raw charm of the place that I love." He added it even though both bedrooms are upstairs.
+
+Genuine charm can outweigh the rubric's practical points for him: a thatched or stone cottage, a period farmhouse, an old schoolhouse or a lodge, with a pretty garden. Closeness to Dublin adds to it. Surface these from the Dublin fringe outward (Fingal, Meath, Kildare, Wicklow, Louth) up to about €700k. Report them even when the ground-floor bedroom only works through a garden room or annex, and flag that. Score them honestly, but put the charm in the ledger and the "why".
