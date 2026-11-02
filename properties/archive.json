@@ -368,7 +368,7 @@
       "id": "old-forge-ballyduff",
       "name": "The Old Forge",
       "left": "2026-11-02",
-      "reason": "bumped by the 2 Nov charm adds (Graiguesallagh 3.5 beat it; The Cottage, Monasterboice tied at 3.0 and new wins ties); on the list since 4 Oct with no ratings",
+      "reason": "bumped by the 2 Nov charm adds (Graiguesallagh 3.5 beat it; The Cottage, Monasterboice tied at 3.0 and new wins ties); on the list since 4 Oct with no ratings; delisted 2 Nov (Daft URL now redirects to an empty search)",
       "lastPrice": 350000,
       "aiStars": 3,
       "human": {
@@ -376,7 +376,8 @@
         "avg": null
       },
       "listingUrl": "https://www.daft.ie/for-sale/the-old-forge-ballyduff-camolin-ballyduff-co-wexford/6552918",
-      "recheck": false
+      "recheck": false,
+      "gone": true
     },
     {
       "id": "tankardstown-ballylynan",
