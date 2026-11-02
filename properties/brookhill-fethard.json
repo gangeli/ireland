@@ -26,7 +26,7 @@
   "services": {
     "electricity": {
       "status": "ok",
-      "detail": "Mains electricity, stated in the listing's services."
+      "detail": "Mains, stated in the listing's services."
     },
     "water": {
       "status": "ok",
