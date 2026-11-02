@@ -1,0 +1,817 @@
+{
+  "id": "graiguesallagh-maynooth",
+  "name": "Graiguesallagh",
+  "address": "Graiguesallagh, Maynooth, Co. Kildare",
+  "eircode": "W23 FY83",
+  "lat": 53.3443,
+  "lng": -6.653136,
+  "listingUrl": "https://www.daft.ie/for-sale/graiguesallagh-maynooth-co-kildare/6671639",
+  "status": "Considering",
+  "added": "2026-10-26",
+  "area": "Maynooth, Co. Kildare",
+  "agent": "Enda Smith, Sherry FitzGerald Brady O'Flaherty, Celbridge",
+  "agentPhone": "01 651 0000",
+  "questions": [
+    "What is the business in the large shed with signage that shares the western boundary, what are its hours, and does it bring lorries or deliveries past the gate on the R408?",
+    "Bedroom 3 (3.58 × 2.11 m) opens only off the living room. Would you or the vendors know whether the cut-stone outbuildings have been assessed for conversion to a self-contained annex, and has any pre-planning been done with Kildare County Council?",
+    "What are the water supply and drainage (mains water or a well; septic tank or treatment unit, and its age and certification)? The listing only states oil-fired central heating.",
+    "Can you send the full BER certificate (119712164)? Is it E1 or E2, what is the kWh/m²/yr, and were the walls or roof of the original house insulated when it was extended about 20 years ago?",
+    "Is the house or the outbuildings on Kildare's Record of Protected Structures or the NIAH, and has a radon test been done (BuyerIQ flags moderate radon risk)?"
+  ],
+  "ai": {
+    "stars": 3.5,
+    "why": "A genuine early-1800s agent's house with a cut-stone courtyard on 2.2 acres, 8–12 minutes from Maynooth's Dublin trains, with three bathrooms and a ground-floor bedroom by an accessible shower. Held back by 133 m² and small common rooms for six, a tiny walk-through ground-floor bedroom, a commercial premises on the west boundary, BER E and €595k."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but the house is lived in, alarmed, and has an electronic gate."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Not stated. A rural roadside site: could be mains or a private well; ask."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Not stated. Probably a septic tank on a rural site like this; ask its age and certification."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Full fibre at the address per BuyerIQ ('Fast broadband — 392 Mb full fibre'); the listing doesn't mention broadband and the provider isn't confirmed.",
+      "type": "Fibre",
+      "speed": "~390 Mb+",
+      "provider": "open eir / NBI (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "Bedroom 3 (3.58 × 2.11 m, cast-iron fireplace) is on the ground floor but opens only off the living room; the ground-floor bathroom (1.84 × 2.46 m, accessible walk-in shower) is across the house off the rear hallway, so it is a small single and walk-through, not a parents' suite. The cut-stone outbuildings are the realistic annex route, subject to planning."
+  },
+  "price": 595000,
+  "type": "Detached period house, two storey",
+  "beds": 3,
+  "bedsNote": "Two en-suite doubles upstairs; Bedroom 3 is a small ground-floor single (3.58 × 2.11 m) off the living room",
+  "baths": 3,
+  "floorM2": 133,
+  "landHa": 0.89,
+  "landAcres": 2.2,
+  "ber": "E",
+  "heating": "Oil-fired central heating, plus a stove in the kitchen and original cast-iron fireplaces",
+  "listed": "2026-10-05",
+  "views": 4035,
+  "stampDuty": 5950,
+  "tagline": "An early-1800s stone house, built for the Duke of Leinster's land agent, with a gravelled courtyard of cut-stone outbuildings and a 2.2-acre paddock on the R408 about 6 km south-west of Maynooth.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/0/4/5035408/392bb8ab-c50b-4955-945c-b4f60da0186b_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/0/4/5035408/682441c0-9bdb-4e7e-adea-033b61623bc0_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/0/4/5035408/b57a1940-83bc-493b-a7ee-2ccab0d1c740_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/0/4/5035408/a3adc493-f292-468e-a75a-36aed5555e5d_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/0/4/5035408/ee361e69-66ce-4dd0-adff-c7169846cb9b_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/0/4/5035408/dad22fb3-62a4-4d53-a73f-d371eeaae1dd_x.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/0/4/5035408/47090d41-b6a2-40ae-8176-7144210f1060_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/0/4/5035408/cd6f352e-ffa3-472b-8432-b9bbb73f5276_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/0/4/5035408/b177af26-972b-4802-b967-1a146307410f_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Real period character",
+      "weight": 3,
+      "detail": "Early-1800s house built for the Duke of Leinster's land agent, in one family for five generations: stone walls, a gabled Gothic-window porch, decorative bargeboards and original cast-iron fireplaces in the living room and Bedroom 3."
+    },
+    {
+      "text": "Cut-stone courtyard and 2.2-acre paddock",
+      "weight": 3,
+      "detail": "About 0.89 ha behind an electric gate: a gravelled rear courtyard ringed by cut-stone outbuildings with timber doors, mature hedges and a paddock for the dogs; the agent says the outbuildings could suit residential use, subject to consents."
+    },
+    {
+      "text": "Dublin trains 8–12 minutes away",
+      "weight": 3,
+      "detail": "Maynooth station is about 6.8 km by road: roughly half-hourly trains to Connolly in 36–44 minutes, some running on to Pearse; St Stephen's Green is about 35 minutes by car via the M4."
+    },
+    {
+      "text": "Three bathrooms, one on each sleeping floor",
+      "weight": 2,
+      "detail": "Two en-suites upstairs (one 3.40 × 2.88 m with an inset bath) plus a ground-floor bathroom with an accessible walk-in shower; Daft's header '1 bath' undercounts."
+    },
+    {
+      "text": "Maynooth town and good schools close",
+      "weight": 2,
+      "detail": "Maynooth's shops, university town centre and Maynooth Post Primary are about 6 km; Rathcoffey NS (231 pupils, mixed) is 2 km and is a named feeder to Maynooth Post Primary."
+    },
+    {
+      "text": "Fibre broadband at the address",
+      "weight": 1,
+      "detail": "BuyerIQ shows 392 Mb full fibre."
+    },
+    {
+      "text": "Lets well near Dublin and Maynooth University",
+      "weight": 1,
+      "detail": "A characterful house 35 minutes from Dublin and 7 minutes from a university town should let easily when the family is away."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Small for six: 133 m², three beds",
+      "weight": 3,
+      "detail": "Living room 3.58 × 4.37 m (15.6 m²) and kitchen/dining 4.92 × 4.42 m (21.7 m²) are the only common rooms; well below the 180–280 m² the family wants, so an extension or outbuilding conversion is likely needed."
+    },
+    {
+      "text": "Ground-floor bedroom is a tiny walk-through single",
+      "weight": 2,
+      "detail": "Bedroom 3 is 3.58 × 2.11 m and opens only off the living room, with the accessible shower room across the hall; fine for a short stay, not a permanent parents' room."
+    },
+    {
+      "text": "Commercial premises on the west boundary",
+      "weight": 2,
+      "detail": "The listing aerials show a large shed with shop signage, a forecourt and parked cars directly beside the house and courtyard; the business wasn't identified. A farm shed with wrapped bales sits across the lane at the paddock's far corner."
+    },
+    {
+      "text": "On the R408, a corner site between two roads",
+      "weight": 2,
+      "detail": "The gate opens onto the R408 Maynooth–Rathcoffey road, which runs along the front, with a lane along the other side of the paddock; the house sits near the road edge."
+    },
+    {
+      "text": "€595k, above the €500k line",
+      "weight": 2,
+      "detail": "€4,474/m², stamp duty about €5,950; with a retrofit and an annex the total would pass roughly €700k (rough)."
+    },
+    {
+      "text": "BER E, oil heating, unknown water and drainage",
+      "weight": 2,
+      "detail": "BER E (kWh not published) on a part-stone 1800s house; a heat pump and insulation retrofit is a rough €40–70k before grants. Water and sewer aren't stated."
+    },
+    {
+      "text": "Children's ED about 30 minutes away",
+      "weight": 1,
+      "detail": "CHI at Tallaght or Crumlin is about 30 km; Naas and Connolly are closer but take ages 16+ only."
+    },
+    {
+      "text": "Moderate radon risk; heritage status unchecked",
+      "weight": 1,
+      "detail": "BuyerIQ flags moderate radon and five planning applications within 1 km (one active build); protected-structure status of the house and outbuildings wasn't verified."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Rathcoffey National School",
+      "candidates": [
+        "Rathcoffey National School, School Road, Rathcoffey, Co. Kildare"
+      ],
+      "note": "Catholic, mixed (about 124 boys, 107 girls), roll 16845U, about 2–3 km; recently extended, and a named feeder for Maynooth Post Primary.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed Catholic school of about 230 pupils with a recent extension; gov.ie returned 403, so no inspection report could be read."
+      },
+      "resolved": {
+        "at": "2026-11-02T05:17:14.849Z",
+        "dest": {
+          "name": "Rathcoffey National School",
+          "address": "Rathcoffey, Donadea, Rathcoffey South, Naas, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=1147028335480322238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3328157,
+          "lng": -6.6757219999999995,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Rathcoffey National School, School Road, Rathcoffey, Co. Kildare"
+        },
+        "duration": 185,
+        "distance": 2338,
+        "alts": [],
+        "walk": {
+          "duration": 1902,
+          "distance": 2338
+        },
+        "bike": {
+          "duration": 472,
+          "distance": 2338
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "2.3 km along a regional road with no footpath or shoulder to Rathcoffey NS."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Regional road with no shoulder; light traffic but fast."
+        }
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Maynooth Post Primary School",
+      "candidates": [
+        "Maynooth Post Primary School, Moyglare Road, Maynooth, Co. Kildare",
+        "Maynooth Community College, Moyglare Road, Maynooth, Co. Kildare"
+      ],
+      "note": "Mixed, about 6 km. Maynooth Community College is next door; Clongowes Wood College (fee-paying Jesuit boys' school, top of Kildare's feeder tables) is about 4 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Large mixed school; Leinster Leader feeder-table roundups put its progression to third level at 74% and, in a later year, 87% of 213 Leaving Cert students (years not stated)."
+      },
+      "resolved": {
+        "at": "2026-11-02T05:17:14.849Z",
+        "dest": {
+          "name": "Maynooth Post Primary School",
+          "address": "Moyglare Rd, Mariavilla, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=12635943747983210089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3959808,
+          "lng": -6.5997052,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJWbNWP-BvZ0gRaXZbBOTjW68/photos/AV-0GLeR_D84LUyQD4XEp2velh5DaXMk1EDec1mVFMOY7pl109WJjprEttVvcf_MFU1dI4p1B37PQqonqzdbKnpVPTt-CkultKJKAf55CVRSOHlNU0CU5GkBfn6AdRoqX4UHtaflhDsT1lq_HS-guMdGJqATqfoGYTmxU6_DXA7S9mgq6JZMSJPEa2bD5Q-yyp_guRw-cLD5GZGKmYSBkq7Zp_kVVG1w0y2iQxzfEaBYq6OSLcUK8kd4EUc0fqzM7VMbyvikx2HdOgsj1e5SDEwzA-wJGTKp0fxIZXE7pDU2wjd6HjBcQas09AcwzkD1gLYxLHuSTe0af6vYKuJf6tT76VFE_DIPXJw5kWUav1OLdtXohFC3PsLPskWQaavTrxyYn2RywG7gMR6dLrvunc6Ymwct4A5M09A/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Mr. Konrad",
+            "uri": "https://maps.google.com/maps/contrib/113807379679746354782"
+          },
+          "q": "Maynooth Post Primary School, Moyglare Road, Maynooth, Co. Kildare"
+        },
+        "duration": 804,
+        "distance": 7734,
+        "alts": [
+          {
+            "name": "Maynooth Community College",
+            "duration": 832,
+            "distance": 7892
+          }
+        ],
+        "walk": {
+          "duration": 6249,
+          "distance": 7734
+        },
+        "bike": {
+          "duration": 1364,
+          "distance": 7734
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Along a regional road with no footpath or shoulder and 80 km/h traffic."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Regional road with no shoulder for most of the way, then cycle lanes on the edge of Maynooth; fine for a confident adult, not for kids."
+        }
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Maynooth (nearest convenience shop)",
+      "candidates": [
+        "Centra, Maynooth, Co. Kildare",
+        "Spar, Maynooth, Co. Kildare",
+        "Londis, Prosperous, Co. Kildare"
+      ],
+      "note": "No shop was confirmed in Rathcoffey; Maynooth is about 6 km. The business next door has shop signage but wasn't identified.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-02T05:17:14.849Z",
+        "dest": {
+          "name": "Spar",
+          "address": "Unit 8-12, 6 Beaufield Cl, Newtown, Maynooth, Co. Kildare, W23 CT78",
+          "uri": "https://maps.google.com/?cid=6358964529493258794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 236,
+          "lat": 53.3729432,
+          "lng": -6.5989708,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJxRCz2RpwZ0gRKjLBX4yUP1g/photos/AV-0GLd1FXHgFJcNiNZFgCVkNXtxs6xOe11H2nP_XHV3e8n1nBcd30TphwNk_oxO3ymLxE7Vpk4xb_wPPzHo9L4qD6TesPnFszuOlefx1mkyfOXDes-mUZK5CPb8lSn5fJhah-tuUKp4zBXo_2jRInyq1W1uCcgW3T1Fno0ECfQkm5nENaAZlOawOjThN_Mg5NxlJbPj3kN-locQ014aLnhH8cwvB2EMmtJLC55R4lpmB8WeLHrOzSXUtOatCPDBN2YpiMoECRjbo7kFkE2l72-09sGgSjEuBXmGVz8RSc9YLwAQPJiwFLpobcN7baPOnn1sQyA3oirVQk13TrFdibw4QuKu3A493938zeyDdUaltn9x-pr7cTSUbgnFuJppSbExxjcvlEvC4oufZlkhXfeK2DeEHMzB/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Michael Kiss",
+            "uri": "https://maps.google.com/maps/contrib/105569088049563330769"
+          },
+          "q": "Spar, Maynooth, Co. Kildare"
+        },
+        "duration": 332,
+        "distance": 5370,
+        "alts": [
+          {
+            "name": "Centra Maynooth Main Street",
+            "duration": 524,
+            "distance": 6069
+          },
+          {
+            "name": "Londis Prosperous",
+            "duration": 570,
+            "distance": 9383
+          }
+        ],
+        "walk": {
+          "duration": 4325,
+          "distance": 5370
+        },
+        "bike": {
+          "duration": 965,
+          "distance": 5370
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Along a regional road with no footpath or shoulder and 80 km/h traffic."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Regional road with no shoulder for most of the way, then cycle lanes on the edge of Maynooth; fine for a confident adult, not for kids."
+        }
+      }
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Tesco, Manor Mills, Maynooth",
+      "candidates": [
+        "Tesco, Manor Mills Shopping Centre, Maynooth, Co. Kildare",
+        "Aldi, Maynooth, Co. Kildare",
+        "Lidl, Maynooth, Co. Kildare"
+      ],
+      "note": "Maynooth, about 6 km.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-02T05:17:14.849Z",
+        "dest": {
+          "name": "Lidl",
+          "address": "Straffan Rd, Greenfield, Maynooth, Co. Kildare, W23 FV34",
+          "uri": "https://maps.google.com/?cid=5951945501137990587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 1055,
+          "lat": 53.36946,
+          "lng": -6.58979,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJBxKsPxdwZ0gRu3PQBeaOmVI/photos/AV-0GLdnkwu6yDgRwILLigtAyhUhd2MWvwerU7lXZxwTesqgsWMamuZsGGoUXRXEtoCPbdKzAcUtQHrHopG4cdEXPLaKGmDEBmxT64VRi0gnS28GrptH_8lBrQCZwVG-__AwK8TvvM6L7nfZfhaxmTi7Kr_O6Nh9PQWXPRk9q9FTVEN1E3upyqdC2FPqQiNMAOPheUmwEaNvmtK3tBAVIfcA0PnMim5eFgio6j0Y46wD3CXoVBmuTdORn2U5xWEY8HlfcvXcnaXNijAF4n9SDxUkYlEKclC-AcG1kXfOp_u1C2XMvXi8uaV8RrhgEHjpLf33hhksTRCRZwaO_ayTvMhlJWaMgtX8351Uh8UbfkQaQ9L6RLhQM_UzreYNJzki0XjmGplpCe5fxwsM3z1Jq2ANWwqfoUxP/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "John McCarthy",
+            "uri": "https://maps.google.com/maps/contrib/111082416813206001480"
+          },
+          "q": "Lidl, Maynooth, Co. Kildare"
+        },
+        "duration": 481,
+        "distance": 6781,
+        "alts": [
+          {
+            "name": "ALDI",
+            "duration": 576,
+            "distance": 6406
+          },
+          {
+            "name": "Manor Mills",
+            "duration": 613,
+            "distance": 6556
+          }
+        ],
+        "walk": {
+          "duration": 5121,
+          "distance": 6320
+        },
+        "bike": {
+          "duration": 1204,
+          "distance": 6310
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Along a regional road with no footpath or shoulder and 80 km/h traffic."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Regional road with no shoulder for most of the way, then cycle lanes on the edge of Maynooth; fine for a confident adult, not for kids."
+        }
+      }
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Avenue, Maynooth",
+      "candidates": [
+        "Avenue Cafe Restaurant Bar, Main Street, Maynooth, Co. Kildare",
+        "ELY Wine Store, Maynooth, Co. Kildare"
+      ],
+      "note": "Avenue is rated 4.8 on OpenTable from 1,500+ reviews; ELY Wine Store in Maynooth also serves food.",
+      "category": "Eating out",
+      "resolved": {
+        "at": "2026-11-02T05:17:14.849Z",
+        "dest": {
+          "name": "Avenue Cafe, Restaurant & Bar",
+          "address": "Main St, Maynooth, Co. Kildare, W23 DX49",
+          "uri": "https://maps.google.com/?cid=2079039976382301782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 1509,
+          "lat": 53.3820561,
+          "lng": -6.5888111,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJQ6knIOBvZ0gRVoYa4tc72hw/photos/AV-0GLfKZWPxO_3dp8YMFzbn1_acSUdwZDNaFMtDFMND7CoJmgkGidIU_XuUvkX_q0B1fR8EdZpNNNI6nLvNn3-Ej5-0_2H3b3qGD6L0YXCp1AI7B_WhHD3cnihYg-e2MQ3HARKFxvDGyyr2Sm4-C8ux1fa7TBQGFiVDl6gil66M6ER8EWF1GhA6XvyZPE-QZnbr6HI5YtUnzRxUA6sbbWsJ9vaYAZZ9hNm_DDUXxtrYkN2itAmuO7SgGdfSGMDo9YnCkrCoo_5IFeBfQVr68U2YoDhsyoT0KIeZGYtpl2mQMfN1E-3n6nfBvwhBRRCAzPHVVimOO-bMYEocuYByU4LIA6LQGmfKKAm3FY4MxI0ukW4G0cLzUO_aL38n2OwPaTEXD3mUitBhVcLaL_eMuM6yQm_bivk/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Avenue Cafe, Restaurant & Bar",
+            "uri": "https://maps.google.com/maps/contrib/116417795420418506591"
+          },
+          "q": "Avenue Cafe Restaurant Bar, Main Street, Maynooth, Co. Kildare"
+        },
+        "duration": 553,
+        "distance": 6284,
+        "alts": [
+          {
+            "name": "ELY WINE STORE MAYNOOTH",
+            "duration": 553,
+            "distance": 6285
+          }
+        ],
+        "walk": {
+          "duration": 5091,
+          "distance": 6291
+        },
+        "bike": {
+          "duration": 1219,
+          "distance": 6568
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Along a regional road with no footpath or shoulder and 80 km/h traffic."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Regional road with no shoulder for most of the way, then cycle lanes on the edge of Maynooth; fine for a confident adult, not for kids."
+        }
+      }
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Children's Health Ireland at Tallaght",
+      "candidates": [
+        "Children's Health Ireland at Tallaght, Tallaght University Hospital, Dublin 24",
+        "Children's Health Ireland at Crumlin, Dublin 12"
+      ],
+      "note": "24-hour children's ED, about 30 km (around 30 minutes at night); CHI Crumlin is similar. Naas General and Connolly take ages 16+ only.",
+      "category": "Health",
+      "resolved": {
+        "at": "2026-11-02T05:17:14.849Z",
+        "dest": {
+          "name": "Children's Health Ireland (CHI) at Crumlin",
+          "address": "Cooley Rd, Drimnagh, Dublin, D12 N512",
+          "uri": "https://maps.google.com/?cid=2330578895347819053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.8,
+          "ratings": 383,
+          "lat": 53.3262016,
+          "lng": -6.3179544,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJe2PK8ooMZ0gRLaI6SijhVyA/photos/AV-0GLf7GDd9cva86s_YPRZcRqwz2IBU34h66kNaOce3Hnh2R8dgCCtJdlsRcQAFNWcxMhuf67gu41ssW3J5JKy26vl9Nk4Y_VSj3r8d6LWNStSf3_6RUs_aeP1f1Uus6GwXh8sj6yG3NI5RzMUbu6UdPxxcj9rnK04_MwKRlv8YCw12raS01v7FG04AmGnl8peT6BqEJUTlOIedoLud3iwx5xNj9GyjCB12dgmheOphExoDYxYWzmQN2tNT5NEN_EZoTDY4t5-3fKJ3uYVq0wd4INBR5jW9K4JUF2wM4jFvpUvb_ybQ-LJutyDtW1-1YC-QqPh66hAUAkBDsdR0FyQjpQ19KFRE3yyeYgzSJjOxbSAndaAdywNTDAm2BXbNehJwGTFBYaVRfu1DSM2Treg_mrz2mOa8/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Anthony Foran (ChoppersX)",
+            "uri": "https://maps.google.com/maps/contrib/101724662350283612896"
+          },
+          "q": "Children's Health Ireland at Crumlin, Dublin 12"
+        },
+        "duration": 1521,
+        "distance": 29574,
+        "alts": [
+          {
+            "name": "CHI at Tallaght Children's Outpatient and Emergency Care Unit",
+            "duration": 1588,
+            "distance": 30699
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Maynooth",
+      "candidates": [
+        "Main Street, Maynooth, Co. Kildare",
+        "Main Street, Clane, Co. Kildare"
+      ],
+      "note": "University town about 6 km away with shops, pharmacies and GPs; Clane is about 8 km.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-02T05:17:14.849Z",
+        "dest": {
+          "name": "Main Street",
+          "address": "Main St, Maynooth, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=5452334759289222891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3816986,
+          "lng": -6.590574,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJOc4J2B9wZ0gR6_bya5OVqks/photos/AV-0GLdPQJJxCj00EgMIEBnHtK78rDRvZ0pkrHc5xK8K2_gpZ1AZd0EKQG42eKpdH1x3zUM9QZO7Nh5uvpDDmMZWHAsGWNBQ0G3v-U4bGzwLJUn3nRNdGqf02waOcvCBQgC5mjX4UYKEDWSBbgMQSuvRNGz4LvnJAx3V2LD6GS4HkgcyFEDOwZDyTGbqf9tOmtdeB8UKNZ4PCGxQ8u3w5mSK4kiWMiPFzmiYmYaoRI-9QSJ_zuXLZ3o0j7FOil3KCn0dxvpoen-_6aWuIgy1MMoEhx-b-cTXwVIatmLkbsgGlQcexDlgVwylKij_-UL_VJBUugwMicDJKJZoHh71r6oU6T385qoTeylNX_2wNg3EZgANgsA4UkCmzhG6Q3fe-QID6i1BTtdnsTkdOPukWNG1V-N24Z4/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Fr Paul Geárd Costelloe",
+            "uri": "https://maps.google.com/maps/contrib/108816600642604537456"
+          },
+          "q": "Main Street, Maynooth, Co. Kildare"
+        },
+        "duration": 514,
+        "distance": 6162,
+        "alts": [
+          {
+            "name": "Main Street",
+            "duration": 757,
+            "distance": 8621
+          }
+        ],
+        "walk": {
+          "duration": 4978,
+          "distance": 6162
+        },
+        "bike": {
+          "duration": 1114,
+          "distance": 6178
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Along a regional road with no footpath or shoulder and 80 km/h traffic."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Regional road with no shoulder for most of the way, then cycle lanes on the edge of Maynooth; fine for a confident adult, not for kids."
+        }
+      }
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "County town",
+      "kind": "Large town",
+      "title": "Naas",
+      "candidates": [
+        "Main Street, Naas, Co. Kildare"
+      ],
+      "note": "Kildare's county town, about 17 km; Dublin is the nearest city (see below).",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-02T05:17:14.849Z",
+        "dest": {
+          "name": "South Main Street",
+          "address": "S Main St, Naas West, Naas, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=5686510874870009409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.216938,
+          "lng": -6.6643816,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJjXft5rx4Z0gRQc4FJIOL6k4/photos/AV-0GLd0qrQCkklVyOKFCbQ0-dXHDQF2D-vzbDTwXbDhXkSCahDI96Wc2q1p4mNRp7CMz21lsXRJG8S0vEsekvys42N8Hc5FaZbiMt4DWIq58oeZN5XhigWx931hPIjWpOry8eR_tdW3dw7ntm2k1SYpAyNMd5_Gr_RAPDdw1leC4s_DqpVOUdm0bHkENs4_a_kuR4_yJikI3iJcjzteTdDMUWtbWGTvEd-2pUlOWyXEL6AogM8RekxFgVWTlri2PoF2xAweVK9CYyzUV778YRq_fXIVqsGf5vmOQUSc7SrBg7d2fn3xEWP07uu3Sb0N8LGufJzMZb7_d-MuoA0OBpzXrY1tSOMXg5Y1cjSO-bss2-rsKF2IMPXAMy996CTooFENObq9wdHnhZGwyPokVXSdQggbdG0/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Adam Drozynski",
+            "uri": "https://maps.google.com/maps/contrib/115881344565068077640"
+          },
+          "q": "Main Street, Naas, Co. Kildare"
+        },
+        "duration": 1655,
+        "distance": 17085,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 3182,
+          "distance": 17085
+        }
+      }
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "About 31 km via the M4; or the train from Maynooth to Connolly.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-02T05:17:14.849Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLdf5iRkZtQuuruWK1jS61GqIJ1RR_BeIoTknGh17RaQfWYb2SR3pknMoRYxfJMUARxjYoVbX5cPIBoAuHjZ0QplgSU9-ZwoTJmxMEKNnlkjZ__Puz2ag9vYLyboLNnfnCoG_E4sCB1ysErVwYKflMXX2wyBTjXhZ36fflxpu8SylCys23JHzGA7LVWZGYakOKRt20WWqSjheXavuQYOOg1w7RiACUNwOD50t_vbhlqDNqyION7j4GSZyC71dugdiRuuwlfJTFH3qf8LUdToUy22a14hSSzLvyEiIUAhPQcLrpbRfFWFE7onijBKt4jySyXd1DjqIUSS8ekDjzKrGqlKmsF_AiWMkNOZeq8IarODePAPFMmR2-HIs0MCLDMbsVB9UflsRLfVukAb5DCaibVE7w/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 2273,
+        "distance": 30774,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-02T05:17:14.849Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11766,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLc1Px-IGHvR3TtLfxw9-h53GS1Adq0jXU0ha8mhp3KY9mLSJSYZ77s-wjoN_XEab2X9_gEjRWT9m7KFCUWfyJmGtDunabtruyU_XR5YefAPd48tcBMJi_UXM5oe8yGb0c4vJ1PA0oVOdQxO-H8IEungz7p-FOmC1qN8AcAcBlzxF7d3IOOxhkGa6B2Ii7t-uiomMFRfhV3P9W-vhGnEUIf-6YQcTX_7HqPOirgjLQYHPZ9Iwwn-HhzSxxXhttCFUUeTPV71xS51oUCYgElK7iJOPEaYznugMge4dagd6aZaUufsI25qI-qnUFo8Vw96sklLIHvl11rbMuGhF816LztbYgDmfWm9M0wd7yjIDlp5c4lGIOfWj4c6iDf6u1YRNyx97grLfZSY78IzJHhA6ljpGX0/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 9033,
+        "distance": 241605,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Maynooth",
+      "candidates": [
+        "Maynooth railway station, Maynooth, Co. Kildare",
+        "Kilcock railway station, Kilcock, Co. Kildare"
+      ],
+      "note": "Maynooth line: roughly every 30 minutes all day with extra peak trains (daily count not verified), 36–44 min to Connolly, some through to Pearse; about 6.8 km.",
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-11-02T05:17:14.849Z",
+        "dest": {
+          "name": "Maynooth",
+          "address": "Straffan Rd, Greenfield, Maynooth, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=14914330216775127927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.3,
+          "ratings": 175,
+          "lat": 53.378085999999996,
+          "lng": -6.5906139999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJjfFq5h5wZ0gRd5PBCVBY-s4/photos/AV-0GLcOWnh8iLblaAjwmyTr13kLZmhoS92kGT-i5sdRhkYFF0OE9b_ZugtS9PkWOxrIM5bHP7ZrZqmfQ7LJv0IM-8k8AIJNcHPlUkogte1egbCcc4MJSvMgzcZubm6KPfoGS1ujrnlw5CGZDiswO8x78GMUdVXZ8vcYFdngRIuzWKcJTF_f0BMlLT8odiR2zRSbiBdtJzQnHqvdNKst2fH2O1O4mGRZhNUeF9gmWeBI7L-oZlZ435d_HJv2QXMz_p7k28KZxqNogEDGbGDGMGLSmmPYWJ2YXKYuAiymvxJUVuwdgVy34QX0J8F-yc9V4V-OObr3dA5qumReEv7ObcLXhz9v8VYhMl4GIWRfHVBMSvpt3mlz4W5ojv8u33A7tWtjmtsNoT8CQbiyu6VnG9UM8zMZoNhyvAc7rsU9A7aVkc7-vw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Vladas Portapas",
+            "uri": "https://maps.google.com/maps/contrib/109104673503451209616"
+          },
+          "q": "Maynooth railway station, Maynooth, Co. Kildare"
+        },
+        "duration": 577,
+        "distance": 6708,
+        "alts": [
+          {
+            "name": "Kilcock",
+            "duration": 618,
+            "distance": 9677
+          }
+        ],
+        "walk": {
+          "duration": 4718,
+          "distance": 5843
+        },
+        "bike": {
+          "duration": 1061,
+          "distance": 5843
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Along a regional road with no footpath or shoulder and 80 km/h traffic. About 5.8 km to Maynooth station."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Regional road with no shoulder for most of the way, then cycle lanes on the edge of Maynooth; fine for a confident adult, not for kids."
+        }
+      }
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "About 37 km via the M4 and M50.",
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-11-02T05:17:14.849Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42230,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLcYKBNnH8VRmRs0k8KYcXx1fo3ZO0ymuJI_mdMDsQO_hMaMkPPlNU2PXElr0STZ92dEZkR0-1q9WR0EGkoWrV5mfVGm-Ee17mJKzK-5-6395F5H7qpJa1P1Tx-KLwl74N6q4wNzY4g4Fk5Fa3Ng4fw6Yt4WOEzIza9MYoEpyqazLHN9gZV3ubTYk7oT3F2fQxIBkB9SEYS8L0BF7WgBfPOj5ZWGCZyiS5inroM7mYjjUWTYlVUOf8NyzHA55wtD6N8L5PXTEUoHEqTVXqq0li96wBht2j74jZB1IIHk59Ry9IymPKeKceLO_dXqHSwg62AQ7wQJtyXtHdCoLC8znrSOycCva5H9g--47NKbRReIHq-04vz1YARTBI-2i_mWgn2pOdMtcz2cXMyfPiMP_V43BGv923A/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 1844,
+        "distance": 35683,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

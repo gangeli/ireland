@@ -1,0 +1,768 @@
+{
+  "id": "the-cottage-monasterboice",
+  "name": "The Cottage",
+  "address": "The Cottage, Newtown, Monasterboice, Co. Louth",
+  "eircode": "A92 F856",
+  "lat": 53.769758,
+  "lng": -6.402487,
+  "listingUrl": "https://www.daft.ie/for-sale/the-cottage-newtown-monasterboice-co-louth/6626272",
+  "status": "Considering",
+  "added": "2026-11-02",
+  "area": "Monasterboice, Co. Louth",
+  "agent": "Maria Lawler, Savills Country",
+  "agentPhone": "01 618 1300",
+  "questions": [
+    "The ground-floor bathroom (3.09 × 3.57 m) is at the east end off the utility room, about 15 m from the study at the west end. If Gabor's parents slept in the study, or in a converted barn, has anyone looked at adding a shower room beside the study? Has the Louth conservation officer given any view on that, or on converting the 57 m² barn into a ground-floor annex, given the Newtownmonasterboice ACA?",
+    "Is the cottage on Louth's Record of Protected Structures or the NIAH, or is it BER-exempt only because it sits in the Architectural Conservation Area?",
+    "When was it last rethatched and re-ridged, in what material, and by whom? Is there a thatcher's condition report? Who insures it now, at what premium, and on what conditions for the range and the two open hearths (spark arrestors, chimney sweeping, alarms)? Have any heritage or thatching grants been drawn down, and do any conditions still bind a buyer?",
+    "Can you send the folio map for the 1.09 ac (0.44 ha)? How much of it is the paddock? Is the paddock fenced and stock-proof for two dogs, and is anything on it (well, septic percolation area)?",
+    "Are the private well and septic tank tested and certified? How old is the oil boiler? BuyerIQ flags radon as high priority: has a radon test been done? How close is the M1, and is traffic audible in the garden?"
+  ],
+  "ai": {
+    "stars": 3,
+    "why": "Real charm: a restored thatched farmhouse with stone floors and open hearths, 1.09 ac of woodland and paddock, and big stone outbuildings, 12 minutes from Drogheda's all-ages ED and frequent Dublin trains. Against it: €595k, a compact 150 m² with small common rooms and two bathrooms, no ground-floor bedroom (the study is at the far end from the bathroom), and thatch upkeep."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but the house is lived in and overhead lines are visible in the photos."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private well, stated in the description. Ask for a recent water test."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank, stated in the description. Ask its age, location and when it was last desludged."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Full fibre at the address per BuyerIQ ('Fast broadband — 387 Mb full fibre'); the listing doesn't mention broadband and the provider isn't confirmed.",
+      "type": "Fibre",
+      "speed": "~387 Mb (full fibre)",
+      "provider": "NBI / open eir (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "None. All three bedrooms are upstairs. The floor plan shows a 3.52 × 2.74 m study at the west end, beside the stair to Bedroom 1, but the only ground-floor bathroom (3.09 × 3.57 m) is at the far east end, reached through the kitchen and utility room, about 15 m away. So it is not next to a bathroom. A realistic route is a new shower room by the study, or converting the 57 m² stone barn into an annex. Both need planning in an Architectural Conservation Area."
+  },
+  "price": 595000,
+  "type": "Detached two-storey thatched farmhouse",
+  "beds": 3,
+  "bedsNote": "All upstairs, on two separate stairs. Bedroom 1 (4.74 × 5.40 m) has an en-suite shower room (3.38 × 1.20 m). Bedrooms 2 (4.74 × 3.59 m) and 3 (4.74 × 3.30 m max) have no upstairs bathroom; they use the ground-floor bathroom. Downstairs: a 3.52 × 2.74 m study.",
+  "baths": 2,
+  "floorM2": 150,
+  "landHa": 0.44,
+  "landAcres": 1.09,
+  "ber": "Exempt",
+  "heating": "Oil-fired central heating, plus a range in the kitchen and open hearths in the kitchen and living room",
+  "listed": "2026-07-21",
+  "views": 12873,
+  "stampDuty": 5950,
+  "tagline": "A restored thatched farmhouse said to be 400 years old, with stone outbuildings around a gravel courtyard, a woodland garden and a paddock (1.09 ac), on a cul-de-sac 9 km north of Drogheda.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/7/3/5015374/ad582e78-d07b-45c4-b18f-bd2489fe47bf_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/7/3/5015374/421af04f-5818-47c7-a814-4cb947107df4_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/7/3/5015374/b2524359-0159-4f13-92e6-861f85c9cb02_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/7/3/5015374/c49f7dc9-f9fb-464f-a43f-54a4da9e2168_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/7/3/5015374/386ff72e-2257-4cf1-bea7-f6fa87f6826a_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/7/3/5015374/c24822dd-aa11-4514-984c-c16d3a8423dc_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/7/3/5015374/d269b89b-763b-41c7-a16c-ad9752ab733c_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/7/3/5015374/29ee6ea6-b072-4e7b-8d8a-5dd1b3455aa3_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/7/3/5015374/5b5e0db5-c8f3-4241-b688-5a25803b190b_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/4/7/3/5015374/5330c232-dbf9-4772-9639-8a43d66c3416_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Genuine charm: a restored thatched farmhouse",
+      "weight": 3,
+      "detail": "The listing describes it as 400 years old, with exposed beams, lime-rendered walls, original stone floors, a range and two open hearths. It says it won Period Living's 'Best Restoration Britain & Ireland' award in 2011 (not independently confirmed)."
+    },
+    {
+      "text": "1.09 ac: woodland garden plus a paddock",
+      "weight": 3,
+      "detail": "0.44 ha per Savills. A gated gravel courtyard, a mature woodland garden at the rear and a rough-grass paddock beyond it give the dogs room to run."
+    },
+    {
+      "text": "About 143 m² of stone outbuildings",
+      "weight": 2,
+      "detail": "The plans show a 57 m² barn plus two stores (89 m² in all) and a two-storey store with a loft (54 m²). They could become an annex, studio or holiday let, subject to planning in the ACA."
+    },
+    {
+      "text": "All-ages ED about 12 minutes away",
+      "weight": 2,
+      "detail": "Our Lady of Lourdes, Drogheda, takes children. Drogheda town is about 9 km away for schools, shops and services."
+    },
+    {
+      "text": "Frequent trains from Drogheda",
+      "weight": 2,
+      "detail": "Drogheda MacBride is about 9–10 km away. It has about 38 weekday Northern Commuter departures to Dublin (about 56–65 min to Connolly), plus Enterprise expresses."
+    },
+    {
+      "text": "Close to Dublin, the airport and the Boyne Valley",
+      "weight": 1,
+      "detail": "Dublin Airport is about 50 km (listing) via the M1, and Dublin city centre is about 45–55 min off-peak. Monasterboice's round tower and high crosses are nearby, which helps holiday lets."
+    },
+    {
+      "text": "Full-fibre broadband and a quiet cul-de-sac",
+      "weight": 1,
+      "detail": "BuyerIQ shows 387 Mb full fibre. The house is on a cul-de-sac off the old Drogheda–Dunleer road."
+    }
+  ],
+  "cons": [
+    {
+      "text": "No ground-floor bedroom; the study is far from the bathroom",
+      "weight": 3,
+      "detail": "The 3.52 × 2.74 m study is at the west end, and the only ground-floor bathroom is about 15 m away at the east end, through the kitchen and utility room. The parents would need a new shower room by the study or a barn conversion. Both need planning in the ACA; a ROUGH guess is €25–40k for a shower room, or €120–200k+ for a barn annex."
+    },
+    {
+      "text": "Compact for six: 150 m², two bathrooms",
+      "weight": 3,
+      "detail": "The common rooms are a 4.74 × 4.01 m living room and a 4.74 × 5.37 m kitchen-dining room. Bedrooms 2 and 3 have no bathroom upstairs; they share the ground-floor bath. Two separate steep cottage stairs."
+    },
+    {
+      "text": "€595k, about €95k over the €500k line",
+      "weight": 2,
+      "detail": "Within the up-to-€700k allowance for charm near Dublin. €3,967/m²; stamp duty about €5,950."
+    },
+    {
+      "text": "Thatch upkeep and insurance (rough estimates)",
+      "weight": 2,
+      "detail": "ROUGH, unquoted: roughly 180–220 m² of thatch, so a full rethatch is about €35–55k every 25–35 years (water reed; less often than straw), with re-ridging every 10–15 years at €5–10k. Set aside about €2–3k a year. Insurance is likely €1,500–3,500 a year from a few specialist insurers, with conditions on the range and the two open hearths. Heritage grants may offset part."
+    },
+    {
+      "text": "Conservation controls; protected status unconfirmed",
+      "weight": 2,
+      "detail": "It is in the Newtownmonasterboice clachan ACA, where even normally exempt extensions need planning and are judged on character. BER-exempt; no RPS or NIAH entry was found, but none was ruled out either."
+    },
+    {
+      "text": "Private well, septic tank, oil heating, radon flag",
+      "weight": 1,
+      "detail": "BuyerIQ flags radon as high priority (remediation about €800–2,000 if needed) and lists 10 planning applications within 1 km, one an active build."
+    },
+    {
+      "text": "Barn range fronts the lane",
+      "weight": 1,
+      "detail": "The photos show the long stone barn's wall right on the cul-de-sac's edge, under overhead lines. The setting hasn't been checked from above."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "St Patrick's National School, Harestown",
+      "candidates": [
+        "St Patrick's National School, Harestown, Monasterboice, Co. Louth",
+        "S N Padraig, Harestown, Monasterboice, Drogheda"
+      ],
+      "note": "Catholic, mixed primary with a Monasterboice address, roll 19223B, with 7 mainstream classes and 2 autism classes; a third-party listing says about 183 pupils.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed Catholic school with about 183 pupils (third-party figure); gov.ie returned 403 and no inspection report could be read."
+      },
+      "resolved": {
+        "at": "2026-11-02T05:19:54.371Z",
+        "dest": {
+          "name": "St Patrick's National School",
+          "address": "Brownstown, Harestown, Co. Louth",
+          "uri": "https://maps.google.com/?cid=11859594062212475409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.7758417,
+          "lng": -6.3529398,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "St Patrick's National School, Harestown, Monasterboice, Co. Louth"
+        },
+        "duration": 382,
+        "distance": 5031,
+        "alts": [
+          {
+            "name": "St Patrick's National School",
+            "duration": 382,
+            "distance": 5031
+          }
+        ],
+        "walk": {
+          "duration": 3395,
+          "distance": 4161
+        },
+        "bike": {
+          "duration": 907,
+          "distance": 4159
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Starts on the R132 hard shoulder, then about 3 km of quiet hedged lanes (some stretches without Street View) to the school."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Short stretch on the busy R132, then quiet lanes."
+        }
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "St Joseph's CBS, Drogheda",
+      "candidates": [
+        "St Joseph's CBS, Newfoundwell Road, Drogheda, Co. Louth",
+        "Ballymakenny College, Ballymakenny Road, Drogheda, Co. Louth"
+      ],
+      "note": "Boys' Christian Brothers school on the north side of Drogheda. Ballymakenny College (mixed) is nearby, and Drogheda Grammar School (mixed, fee-paying, about €4,490 a year) is the other option.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "No progression or inspection figure could be retrieved for St Joseph's, Ballymakenny or Drogheda Grammar; the Irish Times feeder tables render as charts."
+      },
+      "resolved": {
+        "at": "2026-11-02T05:19:54.371Z",
+        "dest": {
+          "name": "Ballymakenny College",
+          "address": "Ballymakenny Rd, Yellowbatter, Drogheda, Co. Louth",
+          "uri": "https://maps.google.com/?cid=5113285606742632022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.730857099999994,
+          "lng": -6.344590300000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJZ1DWzRo6Z0gRViYDASsK9kY/photos/AV-0GLcyXoWomHF9Rvv2a8gujY_SNVa14Peun0IY4PKC1AzsuDkxltXOl9ZnEU-wEkfSGerAzjqNnSKNSQgD-yoSqKdho7qeLLMvbvC-hNAeiwDWvKQFOjRDhEzA4529X50r92po95035fRjBYtve4xsvMu5tbkJ-EggAYrdOYMOjMLQByaTDMO40wQJaRwxB8ZZXgs5t93nEmYPLaCNRZzW7hx4aiF3F3PIO3XdZiKPVhAXRZqB8Z4Kzq8W_NXxDkdYB_6uCrKZ4Pap4S3qxcxU7r22ByygeZoQ2811I8O_ugIRVjGWUZ_m4hIur9rnacT4RP3xLHuXZaob8-gkwu89u2cXfAsuf9MF44k1s_j6oK5Nlis7mq9G8sZRJvi8hGfY3ijIJ2JMcEjvTn2B22472kUy39tK/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Richard Donnelly",
+            "uri": "https://maps.google.com/maps/contrib/109407912022634271640"
+          },
+          "q": "Ballymakenny College, Ballymakenny Road, Drogheda, Co. Louth"
+        },
+        "duration": 755,
+        "distance": 8038,
+        "alts": [
+          {
+            "name": "St. Josephs Secondary School",
+            "duration": 882,
+            "distance": 10729
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1415,
+          "distance": 8336
+        }
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Centra Dunleer",
+      "candidates": [
+        "Centra, Main Street, Dunleer, Co. Louth"
+      ],
+      "note": "No shop was found in Monasterboice itself. Centra Dunleer is about 8 km north; north Drogheda's shops are a similar distance.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-02T05:19:54.371Z",
+        "dest": {
+          "name": "Centra Dunleer",
+          "address": "Main St, Dunleer, Co. Louth, A92 XK29",
+          "uri": "https://maps.google.com/?cid=1681726352342074157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 59,
+          "lat": 53.8301041,
+          "lng": -6.3941902,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJKTag2xw0Z0gRLUPDEDWxVhc/photos/AV-0GLeHtwZThK4C-3NmFPGmxu2Olq_HyM7x8vY_pNREZVE4XFWe76LwV3IGIRLDJ6hREzP-q2pNQmv5sy7Tk68m52M5uOffppdmgeyeOgHIMbZn49TsYwPZqjbzppBx-B5MJyGy2aO9erlXJ3Jx3974ubh5lspyCS7G2bEnwge4ToLzLeqDeeVRxpiWujuhHxj2W_qbG2cNqrpfDE5umscjkpH3F6Qdevh96EbOZpdP1gccRS8MdUviJ8-bs9BwUtDRq1qU5WB_s_NuAAEahPQyqTO_fB-N1oYyP_ZAN-pPRG_2GWoDc5VmyzaQRijbcM0MejA9cI7ZZvZIXhNp4UNAoCp8mWJldoMY_8W4DIqxLYCj-hDnIY5WojvhxVbSMaegGduIQk70lbV39No0nSMkpDFCaHfw_QY/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Keith Lambe",
+            "uri": "https://maps.google.com/maps/contrib/116787000035470111710"
+          },
+          "q": "Centra, Main Street, Dunleer, Co. Louth"
+        },
+        "duration": 458,
+        "distance": 7284,
+        "alts": [],
+        "walk": {
+          "duration": 5589,
+          "distance": 7179
+        },
+        "bike": {
+          "duration": 1199,
+          "distance": 7284
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Long stretches of the R132 with no footpath to Dunleer."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "The R132 has a wide hard shoulder most of the way; fine for a confident adult, not for kids."
+        }
+      }
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Drogheda supermarkets",
+      "candidates": [
+        "Lidl, North Road, Drogheda, Co. Louth",
+        "Tesco, Drogheda, Co. Louth",
+        "Aldi, Drogheda, Co. Louth"
+      ],
+      "note": "Drogheda, about 9 km south, has the full range.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-02T05:19:54.371Z",
+        "dest": {
+          "name": "Lidl",
+          "address": "Mell, M1 Retail Park, Co. Louth, A92 YX97",
+          "uri": "https://maps.google.com/?cid=629832111718527519&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 534,
+          "lat": 53.726369999999996,
+          "lng": -6.38636,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJVYCk_R45Z0gRH_Id9_ecvQg/photos/AV-0GLcioYFgUam2pFwyDdbakpFmLYkdm28b2M-XNwNmYYE2drSfW1A_Hb1oo7feqHBbOJio6Geu15ErerHyHupnTDyLSxFNat3zqIjfhemP3mcOIqX3TmkDPcGlxjWur151kSx8_AipIPfKLNbTJymPcP10gQW2GGCV5d_pQkZRDr097rFxlwYj-p_QGkWdXsmUI4csQYJuLYZXMARNJxDVQQ62094gY6N4XYjJcNE4Ks0fZUilJF8LYOZlFRJe9zribV7gwRG0oybvdwsVIRrttQHVTYuexHg1wmbLUtt2keb-2csBvv9N4bz_2-NXBvRamdbKQKWy7MxrUwBEN9WIbwwlj4WSnFdHM3yEjt-TUnvIkBgaRCmhIA2_pj3J5O59DFQE9gq4uKr_oqHgzPdl1Ny-oXQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Steven Spark",
+            "uri": "https://maps.google.com/maps/contrib/107983174483217513999"
+          },
+          "q": "Lidl, North Road, Drogheda, Co. Louth"
+        },
+        "duration": 482,
+        "distance": 6321,
+        "alts": [
+          {
+            "name": "ALDI",
+            "duration": 581,
+            "distance": 6927
+          },
+          {
+            "name": "Tesco Extra",
+            "duration": 716,
+            "distance": 10713
+          }
+        ],
+        "walk": {
+          "duration": 4753,
+          "distance": 6182
+        },
+        "bike": {
+          "duration": 1072,
+          "distance": 6259
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Along the R132 (the old N1): busy, with a hard shoulder but no footpath, for most of the way into Drogheda."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "The R132 has a wide hard shoulder most of the way; fine for a confident adult, not for kids."
+        }
+      }
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Monasterboice Inn",
+      "candidates": [
+        "Monasterboice Inn, Monasterboice, Co. Louth"
+      ],
+      "note": "An old coaching inn serving pub food (steaks and seafood); recent reviews are mixed.",
+      "category": "Eating out",
+      "resolved": {
+        "at": "2026-11-02T05:19:54.371Z",
+        "dest": {
+          "name": "Monasterboice Inn (Donegan's)",
+          "address": "Drogheda Rd, Newtown Monasterboice, Drogheda, Co. Louth",
+          "uri": "https://maps.google.com/?cid=8415469116978605081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 2248,
+          "lat": 53.76983260000001,
+          "lng": -6.399775,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJr7fyCag2Z0gRGazHJ5PAyXQ/photos/AV-0GLcaSPKh-QKm9XLj9zakvyL0O3fAfo6HXvN07QqBMTTSw7hGWRhW0i83kHf8Gh5T2b7W3_6DQaCkxGZYirZtMUViXCRsKRAbK0Ew2OCx8gmDkroyCjeby61YElYJZ93VjONDFGz0mRoYKYeoSCZNUNnDEDC3YGf6nMKveDKiryWs5COQgRh9Lp32v7C4pAdr83UtbYW6EIrboHRLEyZMEJHD6b5alBONrkJQQ4mJEi_1G-wrlMk1RC8OKvgDeNH_CqtCcb8MoXxw86J3iLD6LVU9Mu4TKYYJverWOjNSW2JR4fohyP2BD80A66v1OhCo26kBoLkJaJOKfMQfSRH2O4P8ho_fc7TnpcNBa4_5pgvMcJ_QOuoPRPGpOb22Y-4wwPxq1C5klDmz-VI4LaVIzncnlLxn/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Monasterboice Inn",
+            "uri": "https://maps.google.com/maps/contrib/109940070866528571856"
+          },
+          "q": "Monasterboice Inn, Monasterboice, Co. Louth"
+        },
+        "duration": 152,
+        "distance": 485,
+        "alts": [],
+        "walk": {
+          "duration": 312,
+          "distance": 360
+        },
+        "bike": {
+          "duration": 156,
+          "distance": 485
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 360 m to the Monasterboice Inn along the R132 hard shoulder."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Short hop along the R132 hard shoulder."
+        }
+      }
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Our Lady of Lourdes Hospital, Drogheda",
+      "candidates": [
+        "Our Lady of Lourdes Hospital, Drogheda"
+      ],
+      "note": "24-hour emergency department for all ages, including children.",
+      "category": "Health",
+      "resolved": {
+        "at": "2026-11-02T05:19:54.371Z",
+        "dest": {
+          "name": "Our Lady of Lourdes Hospital, Drogheda",
+          "address": "Windmill Rd, Moneymore, Drogheda, Co. Louth, A92 VW28",
+          "uri": "https://maps.google.com/?cid=2298502660645804254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.2,
+          "ratings": 514,
+          "lat": 53.722214699999995,
+          "lng": -6.354331999999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJYc5nvh86Z0gR3lgV6_3r5R8/photos/AV-0GLdxiBz1B0FZKIkyr1J3mP9F6WBFyXDUNcxGviFdXS46YMXMdBkxf0CW-6McaGETw_uEaCMny1mfzDuReYpceqBZAd8TfYUim5lYEiU41oocEPMT9nSjmDdMWrOJkUfEOXZymNmtVQFiVbnTOhp8lJy5bnP6-9GeRzEPJJ9Fg62zB6m5NiireLK_I-8JegYk-CJjHKq4_8AuGfXR9ECEyfDz7DyBT1MbL5f5vEdWV2bNYeMM7C-sBCCrRIu4Pw7HY_D_DIIroNpy3LW4ha_N7RYM429GaNsO3r52-gP6rtk8G9mtvtxnGTz9UTJut27BZJgU8FvGSNm3R7zfXUQcls0U9s8XQmEe4Q85N00j4NQFTV7HlMAtCnvxN9asixVlvvwXS8Cnuk6ZdtIIWUNPBlgKqlAfLSY/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Rachel Rathbone",
+            "uri": "https://maps.google.com/maps/contrib/111911198148203496389"
+          },
+          "q": "Our Lady of Lourdes Hospital, Drogheda"
+        },
+        "duration": 604,
+        "distance": 6806,
+        "alts": [],
+        "walk": {
+          "duration": 5264,
+          "distance": 6787
+        },
+        "bike": {
+          "duration": 1125,
+          "distance": 6806
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Along the R132 (the old N1): busy, with a hard shoulder but no footpath, for most of the way into Drogheda."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "The R132 has a wide hard shoulder most of the way; fine for a confident adult, not for kids."
+        }
+      }
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Drogheda",
+      "candidates": [
+        "West Street, Drogheda, Co. Louth"
+      ],
+      "note": "Drogheda: GPs, pharmacies, cafés, the hospital and the station, about 9 km away.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-02T05:19:54.371Z",
+        "dest": {
+          "name": "West Street",
+          "address": "West St, Moneymore, Drogheda, Co. Louth",
+          "uri": "https://maps.google.com/?cid=14345659621275522689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.7151256,
+          "lng": -6.3539361,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJw6AYqiA6Z0gRgdbKQmsFFsc/photos/AV-0GLcA8d7NqiSsy0ty6Sh_av_9SA90dwsJr4lEyMWf7UlsU4Q_qK0avqeyCL2mIOzLoZFAJ6LKKHfd7zqZV_iVb8l9YJbAUQdKxMhHAISClI7Gz-t5favxP803sNiKAOjZWH7uIMWWb41KD4gtEk3lh4Hb9jHt2uHRE5KgPd4py1mwJGgnlh3yadLj1r6GJviuO6B2-YPRbbwDmmi5x51HJA_EELv76wQahPxc1dFuAB08mZUS98_mj0QwOI7VtpJmJ-tehVMINCHHY6xSaRInVtUD--4ZKNjrGn0mAAbGKz8wLqNbsYrcOAhmYMmlVi1g_gOFxEyUIR8prVrrtk0szCsdbSyM5TyqmpHkv15U20fNyvqRxtmZIN6LtuJDUdI9hNle_jJf0HR-7As2S3xM0FGGcqTV/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Richard Donnelly",
+            "uri": "https://maps.google.com/maps/contrib/109407912022634271640"
+          },
+          "q": "West Street, Drogheda, Co. Louth"
+        },
+        "duration": 772,
+        "distance": 7330,
+        "alts": [],
+        "walk": {
+          "duration": 5650,
+          "distance": 7323
+        },
+        "bike": {
+          "duration": 1179,
+          "distance": 7330
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Along the R132 (the old N1): busy, with a hard shoulder but no footpath, for most of the way into Drogheda."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "The R132 has a wide hard shoulder most of the way; fine for a confident adult, not for kids."
+        }
+      }
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Dundalk",
+      "candidates": [
+        "Clanbrassil Street, Dundalk, Co. Louth"
+      ],
+      "note": "Dundalk, the county town, is up the M1. Dublin is the real city (see the Capital card).",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-02T05:19:54.371Z",
+        "dest": {
+          "name": "Clanbrassil Street",
+          "address": "Clanbrassil St, Townparks, Dundalk, Co. Louth",
+          "uri": "https://maps.google.com/?cid=2941162397888703576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 54.0059519,
+          "lng": -6.4025112,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJBXuov6bOYEgRWGzkMJ4b0Sg/photos/AV-0GLePNx9AyONY8X4sQtFCwrWKb9hgrWhxkJjf3nWDwo_97pZ1YLW3rM0PV1vQjUTDcenafJ3vUG2JkgDpERfif_Qd10ZbAsnOE8eqjzHrpSla4mOzi2Jq29AP7GDi0mn1XY2kMdGH96kNMj72PHhsgCraRN9TGSraKy6pXUg9ZCw456cjrlaP2owC-L9qErDhUGGMMCw85QjvtcQg2kFYPchMO98ZTqrQXq8xw4rQJx07nICZ5KEaxUWeWsPBma3sukvu9yytcI0Fj7l8ljSyO-PGWGDuORbZyFUwFyEVuz_ng6-aG77BHSn6sOuxNP8tj0IwagD9864hGYohRvgTqSp5iL4SUTbHoaMRVfG42Lt9lld2s55Uef85xWBXtGBD5m0E1KGF3P8SG5YQv-D1ir2iMuk/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "FOLLYVI SIMON",
+            "uri": "https://maps.google.com/maps/contrib/103317790764000097943"
+          },
+          "q": "Clanbrassil Street, Dundalk, Co. Louth"
+        },
+        "duration": 1478,
+        "distance": 29064,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the M1. The train from Drogheda is the other way in.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-02T05:19:54.371Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLcKk2wFZP--As-twncYXfx8kG8LujQgickDclp7goKiell3Onl_jKT8Ks7A7C3JCpaHZDpgJTh_b48_UO9xImxtMS_8Wg1yEHk_rGlh-6wOTb6L8QCHuG_sDoNIoFfATru1DwJKcB8O_bBX_jvzbmOhA4Bob3YZ5DGr7BJo2Xm5VejAdyMM7sfkOs6MQLndQ8rQ42oR12eWYRodFXfET-TxcC7C_iZcRfXRcz8EaRCnDV8vVoTQmvtX3DWcfqzB1gFkqntT5czIxnJkeyI0imaxysyTscvekO0FUBhWI02u2Et4XR9b_fgNxCQMNAyu4VN3MAcYfepWjeic_MRRIFPZG6uCsDCSR-KuNbmV9WwCsG17xyrsLLrvk3c0IcYnKUUHpCm_814zgFC6hsUEXj8n0g/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 3554,
+        "distance": 57877,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-02T05:19:54.371Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11766,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLdYB9jMAjqmAs1UH8bj970wgj2k2wnroNHPUrL1vM85cM76DaRMDXTPKMxJhfKUv_whjv2nlMbApoPMT-WMGVSX4Bza3rjUuiGNhl9YYAuy_hsEXxaGBMHe5m_wUijqLZFWaK-aTKJaK1B1XLuN7gHWDC1FMvpefqA9atQ5gi_y4UMXHaRKoamcFBL2cjhRvcfoyfP70ABBge2hE9m1txX1DHRZ8tAM4Q_6rAsastp8z-q9_pQhQ6_mu4lVCIKfHKcVaLSPU44SUbIrVUVC6UgwuLZ8ME1cCe6VjcOseqjlanxX3jsdrbVNyQtjvZQFfx2_pLo7fW_Pj9F_Xc612nWVGChwW3FzjRo4LMkOcnL3pzn6mwGL7Y3Coe8LzGgiecnzUePh17siqErlABFxJQJhnwk/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 11510,
+        "distance": 316034,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Drogheda MacBride",
+      "candidates": [
+        "Drogheda MacBride railway station"
+      ],
+      "note": "Northern line: about 38 weekday commuter departures to Dublin (about 56–65 min to Connolly), plus Enterprise expresses to Connolly.",
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-11-02T05:19:54.371Z",
+        "dest": {
+          "name": "Drogheda",
+          "address": "Lagavooren, Drogheda, Co. Louth, Ireland",
+          "uri": "https://maps.google.com/?cid=3942211150090211172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 144,
+          "lat": 53.7119091,
+          "lng": -6.335733299999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJlbJYjDo6Z0gRZA-2fieMtTY/photos/AV-0GLdzFc7oTv3dOsFaRmUkhKSVCGy_jjmxXt8-M_vEHshNg3H6A-g0bbTSxZuX5g7zGNOdYdF6q0zQV8ksQI_VGfRDm5EzhR-ALmb9KSlFF9LX76IP7C1yrJs_8Ckm0_B6iiutcI8O7UOP7yrIHSryrErnY2g_JrQ7S6OXEByhHpWVHOJ97Vwl7yaMLE1kpSa2584q7tUL49dJXqz0rlBkx-CoQaAiaI_WWafHuwRL7zNN1PrKeOwMLyE24S1XhvV1rV1f2g67m2iOYsq88splfjHenklY3_vJDQhNdGnFkl0KHTJaVx7g8zvwqmoKGbjgKfv-2FnsC9ppmK-m8_4dcABJPbLSTgzPCvMkvQByAHyCPvKws1NK9__s_n_qoOEKEWXL9Qb-MF87o9pCrrB5ZGJOzF8cMoY/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "スタバカ（SUTABAKA）",
+            "uri": "https://maps.google.com/maps/contrib/107705833309561868785"
+          },
+          "q": "Drogheda MacBride railway station"
+        },
+        "duration": 923,
+        "distance": 8935,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1542,
+          "distance": 8702
+        }
+      }
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "About 50 km down the M1 (listing).",
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-11-02T05:19:54.371Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42230,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLdHmCI89Dr_JZe7fQtrfOmp___k9ql_RDiTaouNf9VXCWfdsy-sgikwoi9CHCxue4aW0e8oICT5WmPHpri5rcR_Q6PElom5EOvoD6xqFmqrfTwP5sRJC72_zJO9C9opSF4DODbq9ObOCZwGCJv8wk284wI3dg7OPIf4MdIkbx8Y3tISMgJI95UdepDzf4TJKCEEzOGjTfIlfNL_5kAZYrByNAuslRh0CBONwRkx-KySyivfjOZoJogeP6Jr0xbT2uK6SorMM6ORjMGAAbap_tIJVAL7i27AsQ9ow0MucdgbxYgQf2z9tRO-CqnbgWguCc3qhopJv8Bii81_skyjZpNO6_T2nKLsaFVUuQfWWtBe5D4xRifweXY934LsleGHyiv34z1EFAJ8kvVPNO5l_xJrmSAbDEU/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 2609,
+        "distance": 55088,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

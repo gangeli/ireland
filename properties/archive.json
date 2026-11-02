@@ -363,6 +363,34 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/ballinkillen-muine-bheag-co-carlow/6676559",
       "recheck": false
+    },
+    {
+      "id": "old-forge-ballyduff",
+      "name": "The Old Forge",
+      "left": "2026-11-02",
+      "reason": "bumped by the 2 Nov charm adds (Graiguesallagh 3.5 beat it; The Cottage, Monasterboice tied at 3.0 and new wins ties); on the list since 4 Oct with no ratings",
+      "lastPrice": 350000,
+      "aiStars": 3,
+      "human": {
+        "n": 0,
+        "avg": null
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/the-old-forge-ballyduff-camolin-ballyduff-co-wexford/6552918",
+      "recheck": false
+    },
+    {
+      "id": "tankardstown-ballylynan",
+      "name": "Tankardstown",
+      "left": "2026-11-02",
+      "reason": "bumped by the 2 Nov charm adds at 3.0 (new wins ties)",
+      "lastPrice": 450000,
+      "aiStars": 3,
+      "human": {
+        "n": 1,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/tankardstown-ballylynan-co-laois/6706728",
+      "recheck": false
     }
   ]
 }

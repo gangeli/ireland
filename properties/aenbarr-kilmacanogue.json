@@ -1,0 +1,362 @@
+{
+  "id": "aenbarr-kilmacanogue",
+  "name": "Aenbarr",
+  "address": "Aenbarr, Glencap, Kilmacanogue, Co. Wicklow",
+  "eircode": "A98 P268",
+  "lat": 53.165811,
+  "lng": -6.142101,
+  "listingUrl": "https://www.daft.ie/for-sale/aenbarr-glencap-kilmacanogue-co-wicklow/6669352",
+  "status": "Considering",
+  "added": "2026-11-02",
+  "area": "Kilmacanogue, Co. Wicklow",
+  "agent": "Rory Dooley, Dooley Auctioneers, Bray",
+  "agentPhone": "01 201 0300",
+  "questions": [
+    "Which part of the house is the self-contained one-bed flat: does it have its own entrance, kitchen and bathroom, and is it one of the six bedrooms or in addition to them? Can you send a floor plan?",
+    "The room list shows no bathroom on the first floor (Bedrooms Four to Six). Is there one, and where is the third bathroom the listing counts?",
+    "The house is BER G with 'central heating': what fuel and boiler, how old, and what insulation do the 1930s walls and the 1977 and 1986 extensions have? Is the BER certificate with the kWh/m²/yr figure available?",
+    "MyHome shows an earlier listing of Aenbarr marked Sale Agreed in June 2024. Why did that sale fall through, and did a survey find anything?",
+    "Is the house on mains water and mains sewer or a well and septic tank? BuyerIQ flags a High Radon Area: has a radon test been done? How much N11 traffic noise reaches the garden?"
+  ],
+  "ai": {
+    "stars": 3.0,
+    "why": "A real fit for six plus the parents: 220 m², three ground-floor bedrooms (one en-suite) and a self-contained flat, on half an acre of mature trees at the foot of the Sugarloaf, about 7 km from the Bray DART. The 1930s cottage keeps its hipped slate roof and roughcast front, but the extensions are plain. At €725k, BER G (a rough €70–120k retrofit), no upstairs bathroom and the N11 about 450 m away pull it back to the baseline."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but the house is lived in and the listing tags central heating."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Not stated. Glencap Road is on the edge of Kilmacanogue village, so mains water is plausible; ask."
+    },
+    "sewer": {
+      "status": "unknown",
+      "detail": "Not stated whether it is on mains sewer or a septic tank; ask."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Full fibre at the address per BuyerIQ ('Fast broadband — 388 Mb full fibre'); the listing doesn't mention broadband.",
+      "type": "Fibre",
+      "speed": "~388 Mb (full fibre)",
+      "provider": "open eir / Siro (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Three ground-floor bedrooms in the room list, including the master (4.73 × 3.31 m) with a 2.37 × 1.73 m en-suite, plus a family bathroom; there is also a self-contained one-bed flat in the original cottage with its own small rear garden. No floor plan is published."
+  },
+  "price": 725000,
+  "type": "Detached house (1930s cottage, extended 1977 and 1986)",
+  "beds": 6,
+  "bedsNote": "Three bedrooms on the ground floor and three upstairs, plus two ground-floor office/TV rooms (4.09 × 2.89 m and 4.20 × 4.09 m) and a one-bed flat in the original cottage",
+  "baths": 3,
+  "floorM2": 220,
+  "landHa": 0.2,
+  "landAcres": 0.5,
+  "ber": "G",
+  "heating": "Central heating (fuel not stated)",
+  "listed": "2026-09-11",
+  "views": 5688,
+  "stampDuty": 7250,
+  "tagline": "A 1930s cottage extended into a 220 m² six-bed house, with a self-contained flat, on half an acre of mature trees at the foot of the Sugarloaf, just above Kilmacanogue village.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/5/7/5027755/ab152fd0-5f9c-4165-a250-8242a37337d0_x.png",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/5/7/5027755/7e304761-814d-40f0-a542-69ec6054ed71_x.png",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/5/7/5027755/20217df3-9779-490a-b1d0-d2a8ec5f5ad3_x.png",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/5/5/7/5027755/56492d54-cb46-403d-b6d2-6b55136385af_x.png"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Room for the parents on the ground floor, twice over",
+      "weight": 3,
+      "detail": "Three ground-floor bedrooms, the master (4.73 × 3.31 m) with an en-suite, beside a family bathroom; separately, a self-contained one-bed flat in the original cottage with its own small rear garden."
+    },
+    {
+      "text": "Space for six: 220 m², six bedrooms",
+      "weight": 3,
+      "detail": "An 8.26 × 4.11 m living/dining room, a 5.39 × 5.07 m country kitchen, a 5.34 × 3.20 m conservatory and two more 12–17 m² office/TV rooms."
+    },
+    {
+      "text": "Close to Dublin by DART and the N11",
+      "weight": 2,
+      "detail": "Bray Daly DART station about 7 km away; St Stephen's Green about 25 km by the N11 and M11, roughly 30–40 min off-peak; Greystones station is the other option."
+    },
+    {
+      "text": "Half an acre of mature gardens under the Sugarloaf",
+      "weight": 2,
+      "detail": "About 0.5 ac (0.2 ha) behind gates, with a tree-lined gravel drive and lawns; the listing says the Sugarloaf walking trail starts from the driveway."
+    },
+    {
+      "text": "Some genuine cottage character survives",
+      "weight": 1,
+      "detail": "The original single-storey cottage keeps its hipped slate roof, chimneys, roughcast walls and a multi-pane window; the listing says it was owned by the Attorney General during WWII."
+    },
+    {
+      "text": "Village primary about 330 m away",
+      "weight": 2,
+      "detail": "Kilmacanogue NS (St Mochonog's), mixed, 224 pupils, on Rocky Valley Crescent just north of the house; bus stops for the 45A, 131 and 133 about 560 m away."
+    },
+    {
+      "text": "Full fibre at the address",
+      "weight": 1,
+      "detail": "BuyerIQ shows 388 Mb full fibre for A98 P268."
+    }
+  ],
+  "cons": [
+    {
+      "text": "€725k, well over budget",
+      "weight": 3,
+      "detail": "€225k over the ~€500k line and above the ~€700k ceiling for near-Dublin charm; €3,295/m², stamp duty about €7,250."
+    },
+    {
+      "text": "BER G: a big retrofit",
+      "weight": 3,
+      "detail": "G means over 450 kWh/m²/yr. Insulating 1930s walls plus 1970s/80s extensions, new windows, airtightness and a heat pump on 220 m² is a rough €70–120k before SEAI grants (very rough; no survey), taking the total towards €800k+."
+    },
+    {
+      "text": "No bathroom upstairs",
+      "weight": 2,
+      "detail": "The room list puts both bathrooms (en-suite 2.37 × 1.73 m and family 2.39 × 1.44 m) on the ground floor; the three first-floor bedrooms (one only 2.34 × 2.30 m) have none listed."
+    },
+    {
+      "text": "N11 dual carriageway about 450 m east",
+      "weight": 2,
+      "detail": "The Glen of the Downs dual carriageway passes Kilmacanogue roughly 450–500 m east (from map coordinates), carrying tens of thousands of vehicles a day; expect a background hum in the garden. Mature trees may help; listen on a viewing."
+    },
+    {
+      "text": "Extensions are plain",
+      "weight": 1,
+      "detail": "The 1977/1986 work adds a storey-and-a-half gabled wing and a flat-roofed brick link porch that don't match the cottage; only about 5 of 30 photos were viewable, none of the kitchen or conservatory."
+    },
+    {
+      "text": "Children's ED about 30–35 min",
+      "weight": 2,
+      "detail": "CHI at Crumlin, about 30 km via the N11 and M50; Tallaght's children's unit is a 24/7 emergency care unit that sends the sickest children to Crumlin. St Vincent's takes adults only and Loughlinstown has no ED."
+    },
+    {
+      "text": "Radon, services and history unknown",
+      "weight": 1,
+      "detail": "BuyerIQ puts it in an EPA High Radon Area and shows 10 planning applications within 1 km (one active build); water and drainage aren't stated; MyHome shows an earlier listing marked Sale Agreed in June 2024."
+    },
+    {
+      "text": "Half an acre, not a full acre",
+      "weight": 1,
+      "detail": "About 0.5 ac of garden, smaller than the ~1 ac ideal for the dogs; neighbours' distance not checked from above."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Kilmacanogue National School (St Mochonog's)",
+      "candidates": [
+        "Kilmacanogue National School, Rocky Valley Crescent, Kilmacanogue, Co. Wicklow",
+        "St Mochonog's National School, Kilmacanogue, Co. Wicklow"
+      ],
+      "note": "Catholic, mixed, roll 18365Q, 224 pupils (104 boys, 120 girls), with an autism class; about 330 m north of the house.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "A Whole School Evaluation was published in Jan 2020, but gov.ie returned 403 and it couldn't be read; not DEIS, steady enrolment around 220."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "St Kilian's Community School, Bray",
+      "candidates": [
+        "St Kilian's Community School, Ballywaltrim, Bray, Co. Wicklow"
+      ],
+      "note": "Mixed community school, about 2.4 km in a straight line per Daft. Presentation College Bray (boys only, 632 pupils) and Coláiste Ráithín (Irish-medium, mixed) are the other non-fee options in Bray.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Irish Times feeder-school figures for Bray schools couldn't be read (chart pages); no inspection report retrieved."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "St Gerard's School, Bray",
+      "candidates": [
+        "St Gerard's School, Thornhill Road, Bray, Co. Wicklow"
+      ],
+      "note": "Lay Catholic co-educational fee-charging day school, about 620 senior pupils; fees apply.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Fee-charging schools sit at the upper end of the Irish Times progression tables in general; St Gerard's own percentage couldn't be read, so this is reputation-based."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Circle K Kilmacanogue",
+      "candidates": [
+        "Circle K Kilmacanogue, N11, Kilmacanogue, Co. Wicklow",
+        "Avoca Kilmacanogue, Co. Wicklow"
+      ],
+      "note": "The Circle K forecourt on the N11 in the village has a shop and deli; the Avoca food market at the north end of the village is the upmarket alternative.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Lidl or Aldi, Bray",
+      "candidates": [
+        "Lidl, Southern Cross Road, Bray, Co. Wicklow",
+        "Aldi, Bray, Co. Wicklow",
+        "Tesco, Bray, Co. Wicklow"
+      ],
+      "note": "Bray's supermarkets are about 5–7 km north.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Glenview Hotel, Glen of the Downs",
+      "candidates": [
+        "Glenview Hotel, Glen of the Downs, Co. Wicklow",
+        "The Enniskerry Inn, Enniskerry, Co. Wicklow"
+      ],
+      "note": "Avoca's Fern House in the village is breakfast and lunch only; the Glenview Hotel's Woodlands restaurant and the Enniskerry Inn are evening options (current hours not confirmed).",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "CHI at Crumlin",
+      "candidates": [
+        "Children's Health Ireland at Crumlin, Dublin",
+        "Tallaght University Hospital, Dublin"
+      ],
+      "note": "Crumlin is the full 24-hour children's ED until the move to the new children's hospital at St James's (no opening date yet); Tallaght runs a 24/7 children's emergency care unit. St Vincent's takes adults only, and St Columcille's, Loughlinstown has no ED.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Bray",
+      "candidates": [
+        "Main Street, Bray, Co. Wicklow",
+        "Church Road, Greystones, Co. Wicklow"
+      ],
+      "note": "Bray, about 6 km north: shops, the seafront, the DART. Greystones is about 8 km south-east.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Dublin",
+      "candidates": [
+        "Grafton Street, Dublin"
+      ],
+      "note": "Dublin is the city here.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "day": "saturday",
+      "when": "09:30",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "About 25 km by the N11/M11 and N11 Stillorgan dual carriageway, or drive to Bray and take the DART.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "day": "saturday",
+      "when": "09:30",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Bray Daly station",
+      "candidates": [
+        "Bray Daly railway station, Bray, Co. Wicklow",
+        "Greystones railway station, Co. Wicklow"
+      ],
+      "note": "DART and the Rosslare line to Pearse and Connolly, several trains an hour at peak (not counted from the timetable this run), roughly 40–45 min to Pearse; Greystones is the DART terminus to the south. Buses 45A/131/133 stop about 560 m from the house.",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "day": "friday",
+      "when": "06:00",
+      "label": "Flight out",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "About 45 km via the M11 and M50.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
