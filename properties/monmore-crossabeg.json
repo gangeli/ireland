@@ -1,0 +1,772 @@
+{
+  "id": "monmore-crossabeg",
+  "name": "Monmore",
+  "address": "Monmore, Crossabeg, Co. Wexford",
+  "eircode": "Y35 T1HR",
+  "lat": 52.404189,
+  "lng": -6.51806,
+  "listingUrl": "https://www.daft.ie/for-sale/monmore-crossabeg-co-wexford/6712081",
+  "status": "Considering",
+  "added": "2026-11-03",
+  "area": "Crossabeg, Co. Wexford",
+  "agent": "Catriona Murphy, Kehoe & Assoc., Wexford",
+  "agentEmail": "catriona@kehoeproperty.com",
+  "agentPhone": "053 914 4393",
+  "questions": [
+    "Could the 2.13 × 1.39 m guest WC off the hall take a shower, or is there plumbing nearby to add a ground-floor shower room next to the 4.34 × 3.61 m ground-floor bedroom? We need a bedroom with a full bathroom downstairs for older parents.",
+    "BuyerIQ puts the address inside a mapped high-noise zone, and the N11 runs about 150 m to the west. How much road noise is there in the garden and the front bedrooms, and is the glazing double or triple?",
+    "What are the sheds and yard about 70–100 m south of the house used for (farm, contractor, storage)? Are any of the four planning applications within 1 km, including the active build, next to the house?",
+    "Is the 0.69 ac boundary fenced all round, and is the gate electric? Can you send the folio map? (The parents' two dogs will live here.)",
+    "When was the treatment plant installed and last serviced, and is it registered? Has a radon test been done?"
+  ],
+  "ai": {
+    "stars": 3,
+    "why": "A plain 2000 two-storey with real space for six (234 m², two reception rooms with open fires, a 7 × 4.7 m kitchen, three full bathrooms) on a gated 0.69 ac, about 12 minutes from Wexford General's ED. Held back by a ground-floor bedroom that needs a shower added, a ribbon of one-off houses with neighbours about 35–50 m away, and the N11 about 150 m off."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but the house is lived in and fitted out, and a pole line is visible beside the site."
+    },
+    "water": {
+      "status": "ok",
+      "detail": "Mains; 'Mains water' is in the listing's services list."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Treatment plant; stated in the listing's services list. Ask its age, service history and registration."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Fibre; the listing's services list says 'Siro / NBI Fibre Broadband'. BuyerIQ's broadband figure is behind its paywall.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb",
+      "provider": "Siro / NBI"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "The 'Ground Floor Bedroom/Playroom/Games Room/Formal Dining Room' (4.34 × 3.61 m) opens off the hall and the kitchen, but the only ground-floor bathroom is a 2.13 × 1.39 m guest WC with basin and no shower; it works for the parents only if a shower is added, and the garden is reached through the kitchen's patio doors, not from the room."
+  },
+  "price": 495000,
+  "type": "Detached two-storey house",
+  "beds": 4,
+  "bedsNote": "+ a 4.34 × 3.61 m ground-floor room marketed as a 5th bedroom, playroom or dining room; '4 bathrooms' counts a ground-floor guest WC without a shower",
+  "baths": 4,
+  "floorM2": 234,
+  "landHa": 0.28,
+  "landAcres": 0.69,
+  "ber": "C2",
+  "berKwh": 186.76,
+  "heating": "Oil-fired condensing boiler (replaced 2022), open fires in both reception rooms",
+  "listed": "2026-11-03",
+  "views": 298,
+  "stampDuty": 4950,
+  "tagline": "A 234 m² four-bed, built in 2000, on a gated 0.69 acre of lawn among a cluster of one-off houses near Crossabeg, about 10 km north of Wexford town.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/0/3/3/5039330/16328f31-3956-4fc7-aa8a-8eb204fc77c3_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/0/3/3/5039330/dacccccc-4dad-46e3-b0f3-ef84ead1f06b_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/0/3/3/5039330/ffeb3349-dcc8-456a-8f44-555c445c4cce_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/0/3/3/5039330/4be20960-ab2b-49bf-9387-9d5221df2ed2_x.png",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/0/3/3/5039330/7bb5f003-e6fb-4436-a138-08c6be928ea4_x.png",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/0/3/3/5039330/56458005-00cb-4a1e-8bd6-0e4b63fe84b8_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/0/3/3/5039330/0d23dfcb-e52f-4a23-a9eb-4c1b356c61c7_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/0/3/3/5039330/df6b4df3-579f-459c-8fc8-f61f24a96db8_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Room for six: 234 m² with big common rooms",
+      "weight": 3,
+      "detail": "Sitting room 5.61 × 4.29 m with a bay and open fire, family lounge 4.86 × 4.26 m with an open fire, kitchen/dining 7 × 4.72 m with an island and Rangemaster, plus a utility and a 3.11 × 2.78 m office/mud room."
+    },
+    {
+      "text": "Three full bathrooms upstairs for four bedrooms",
+      "weight": 2,
+      "detail": "Master 4.27 × 4.00 m with en-suite and walk-in wardrobe, bedroom 3 en-suite, and a family bathroom with bath and separate shower; all four bedrooms are 11–17 m²."
+    },
+    {
+      "text": "Wexford General's ED about 12 minutes",
+      "weight": 3,
+      "detail": "About 10 km south via the N11 to the all-ages 24-hour ED on Newtown Road; Castlebridge (about 5 km) has a pharmacy and shops, and Wexford town's shops, GPs and schools are about 15 minutes."
+    },
+    {
+      "text": "Gated 0.69 acre, fenced lawns, south patio",
+      "weight": 2,
+      "detail": "Timber panel fencing is visible on all sides in the photos, with a gated entrance, a long tarmac drive, a detached garage and a shed; open crop fields lie beyond the east and south boundaries."
+    },
+    {
+      "text": "Sound and ready to live in, at €495k",
+      "weight": 1,
+      "detail": "BER C2 (187 kWh/m²/yr), boiler replaced 2022, mains water and Siro/NBI fibre; just under the €500k line, about €2,115/m², stamp duty about €4,950."
+    },
+    {
+      "text": "Ground-floor room that could be the parents' bedroom",
+      "weight": 2,
+      "detail": "A 4.34 × 3.61 m room off the hall, marketed as a fifth bedroom, beside a guest WC; the family keeps both reception rooms if it is used as a bedroom."
+    }
+  ],
+  "cons": [
+    {
+      "text": "No ground-floor shower yet",
+      "weight": 2,
+      "detail": "The guest WC is 2.13 × 1.39 m (WC and basin only); fitting a shower there or building a shower room is a rough €8–15k guess, and the room has no door of its own to the garden."
+    },
+    {
+      "text": "Neighbours about 35–50 m away in a cluster of one-off houses",
+      "weight": 2,
+      "detail": "Satellite shows the house on a private lane among about ten detached houses; the nearest is roughly 35 m south-west and another about 50 m north-east, so it is open on two sides, not isolated."
+    },
+    {
+      "text": "N11 about 150 m west; every walk or ride starts on it",
+      "weight": 2,
+      "detail": "The Enniscorthy–Wexford N11 runs about 150 m west behind other houses and hedges, and BuyerIQ marks the address as inside a mapped high traffic noise zone. Street View shows the lane joins the N11 within about 130 m, so walking or cycling anywhere means about 1 km on its hard shoulder; children will be driven everywhere."
+    },
+    {
+      "text": "Sheds and a yard about 70–100 m south",
+      "weight": 1,
+      "detail": "Satellite shows large sheds and a yard about 70–100 m south across the field edge; their use (farm, contractor or storage) is not known."
+    },
+    {
+      "text": "Plain 2000s design, dated finishes",
+      "weight": 1,
+      "detail": "A standard two-storey with dormers, a pine kitchen and carpets in the reception rooms and bedrooms; open lawns with few trees and no particular character."
+    },
+    {
+      "text": "Dublin trains are slow and few",
+      "weight": 2,
+      "detail": "Wexford O'Hanrahan (about 11 km) and Enniscorthy (about 14 km) are on the Rosslare–Connolly line with only about 4–5 direct weekday trains, roughly 2–2h40 to Connolly, so most Dublin trips will be by car on the M11."
+    },
+    {
+      "text": "Oil heating and a treatment plant",
+      "weight": 1,
+      "detail": "Both stated in the listing; the plant needs servicing and registration checked, and oil will need replacing in time."
+    },
+    {
+      "text": "Primary school quality unknown",
+      "weight": 1,
+      "detail": "Crossabeg's St Patrick's NS (mixed, about 214 pupils) is about 2–3 km, but no inspection report could be read; the nearest well-rated secondary is St Peter's College (boys) in Wexford, about 11 km."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "category": "Schools",
+      "kind": "Primary school",
+      "title": "St Patrick's NS, Crossabeg",
+      "label": "School run",
+      "candidates": [
+        "St Patrick's National School, Sion, Crossabeg, Co. Wexford",
+        "Crossabeg National School, Crossabeg, Co. Wexford"
+      ],
+      "note": "Catholic, mixed (104 boys, 110 girls per gov.ie), roll 17017L, with two autism classes; about 2–3 km. Oylegate NS (145 pupils) is about 3 km the other way.",
+      "when": "08:20",
+      "group": "weekday",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed vertical school of about 214 with 14 teaching posts and no DEIS status found; no inspection report could be read because gov.ie's report pages return 403."
+      },
+      "resolved": {
+        "at": "2026-11-03T14:07:30.302Z",
+        "dest": {
+          "name": "St Patrick’s National School",
+          "address": "Sion, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=5971215117357186917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.3886104,
+          "lng": -6.5079972,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "St Patrick's National School, Sion, Crossabeg, Co. Wexford"
+        },
+        "duration": 149,
+        "distance": 2312,
+        "alts": [
+          {
+            "name": "Scoil Phadraig",
+            "duration": 149,
+            "distance": 2312
+          }
+        ],
+        "walk": {
+          "duration": 1843,
+          "distance": 2312
+        },
+        "bike": {
+          "duration": 414,
+          "distance": 2312
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "The lane meets the N11 within about 130 m; then about 1 km on the N11's hard shoulder with fast traffic before quiet lanes to the school."
+        },
+        "bike": {
+          "level": "poor",
+          "note": "Same 1 km on the N11 hard shoulder; not for children. Fine on the lanes beyond."
+        }
+      }
+    },
+    {
+      "id": "secondary",
+      "category": "Schools",
+      "kind": "Secondary school",
+      "title": "Selskar College",
+      "label": "School run",
+      "candidates": [
+        "Selskar College, Westgate, Wexford"
+      ],
+      "note": "Nearest English-medium mixed secondary (WWETB, about 380 pupils), about 11 km. Daft lists Meanscoil Gharman (Irish-medium) as nearer, but that school is in Enniscorthy.",
+      "when": "08:05",
+      "group": "weekday",
+      "rating": {
+        "level": "Unknown",
+        "basis": "DEIS mixed ETB school per gov.ie; no progression figure or inspection report was found."
+      },
+      "resolved": {
+        "at": "2026-11-03T14:07:30.302Z",
+        "dest": {
+          "name": "Selskar College",
+          "address": "Westgate, Townparks, Wexford, Y35 RY27",
+          "uri": "https://maps.google.com/?cid=11813741568547866469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.341312599999995,
+          "lng": -6.4673012,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Selskar College, Westgate, Wexford"
+        },
+        "duration": 700,
+        "distance": 10170,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2180,
+          "distance": 10927
+        }
+      }
+    },
+    {
+      "id": "secondary-good",
+      "category": "Schools",
+      "kind": "Good secondary school",
+      "title": "St Peter's College",
+      "label": "School run",
+      "candidates": [
+        "St Peter's College, Summerhill, Wexford"
+      ],
+      "note": "Boys' diocesan secondary, about 785 pupils, about 11 km in Wexford town; CBS Wexford (boys) is the alternative.",
+      "when": "08:05",
+      "group": "weekday",
+      "rating": {
+        "level": "Good",
+        "basis": "Named among Wexford's well-performing schools for progression to third level (South East Radio, Dec 2019); no recent percentage found."
+      },
+      "resolved": {
+        "at": "2026-11-03T14:07:30.302Z",
+        "dest": {
+          "name": "St. Peter's College Secondary School",
+          "address": "Summerhill Heights, Townparks, Wexford, Y35 P8WT",
+          "uri": "https://maps.google.com/?cid=15928080058911983556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.3352216,
+          "lng": -6.473201899999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJrbzUybEPZ0gRxIduSWzoC90/photos/AV-0GLe6jCz2kowfZqFGMXo9uyTO9HopXZiSS9IPdNO3YPFi7Ss5RPEUyRvA4GZ_GmhYvKRMRMqaYvq68rkm6la8Su_3rQXiyC0zBjIrRufuH04WIdjMYzj8C-lIaaDI8Zew9GkRLtIfojk6i2NxtSJv9Ixv1N6bFqfVwvU4VMNY12MQDn0lciYEupI7WlLodtth0-EbTVy9PV8NIl5UgFez22AlZJTG1iZTOyj3mbQ-2OchVBhCjuRvS8QlvRgxB-lF59itOomQHYA_Dn6Ss4uaI7_VnlI6GWfrG-tuiuC6kYC08a_7otg7mJ2Gj6X6t-qgx4F141SrRgyN3a0pdc4dgNsdn7riGSW5L4uMfew3DomOZyY3fg1cUHoNk27G6H4nJhaYpy7igaDS5jcaS-bjNzUbBhY/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Mairead Coleman",
+            "uri": "https://maps.google.com/maps/contrib/117150877286568789860"
+          },
+          "q": "St Peter's College, Summerhill, Wexford"
+        },
+        "duration": 808,
+        "distance": 10966,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2446,
+          "distance": 11301
+        }
+      }
+    },
+    {
+      "id": "shop",
+      "category": "Groceries",
+      "kind": "Village shop",
+      "title": "Londis Castlebridge",
+      "label": "Milk and the paper",
+      "candidates": [
+        "Londis, Castlebridge, Co. Wexford",
+        "Centra, Castlebridge, Co. Wexford"
+      ],
+      "note": "Castlebridge, about 5 km, has a refurbished Londis and a Centra with a forecourt, plus a pharmacy and post office.",
+      "when": "09:15",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-11-03T14:07:30.302Z",
+        "dest": {
+          "name": "Londis Castlebridge",
+          "address": "Castlebridge, Wexford, Y35 H1WY",
+          "uri": "https://maps.google.com/?cid=5511421768444247067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 272,
+          "lat": 52.3817199,
+          "lng": -6.4499035,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJc8Xw2egEaEgRG3x5y-WAfEw/photos/AV-0GLfpyTiUJZ9vAuHBoVm6B2lAYHTOGlMZIU6j1Jya5kNJM9wBLhGjqVYBp043gzBgD4Q5hEvQBptMeavm5_0CVTr3zxhBi2IJGQKiRbN7EuiA-r55th4pRQuyUqXYVIIEHi6lSmpvKjRj30vRFbnBvNSlzLdRdoaHgw2IY6IFMAD1Nsq1VfeePZQ46N2RHCFY_shH06BTR6wFAOR26yTHfWy58cQuqaWmsigif6vb-V28WyKpnkYFvV7iu8nxyA6rswSlXKQm6mJOW4_T3Zre5VHyyNd1OWrMylES45Q8pF6m4Lgk7Furms4TcvJfQmno6ip4caZ2RfL0XVGAgJ-7BzixtnKQNLmMtwbSCx0VC-SiQ5X6O5zJnLvBh3TlYguXm2D4mIhIRWCQi8dLvzqhliz6TZxScGCgeHk4zOU7zjcw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Michal",
+            "uri": "https://maps.google.com/maps/contrib/103193538165202423622"
+          },
+          "q": "Londis, Castlebridge, Co. Wexford"
+        },
+        "duration": 581,
+        "distance": 7769,
+        "alts": [
+          {
+            "name": "Londis Castlebridge",
+            "duration": 581,
+            "distance": 7769
+          }
+        ],
+        "walk": {
+          "duration": 5745,
+          "distance": 7161
+        },
+        "bike": {
+          "duration": 1518,
+          "distance": 8145
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "7 km, starting with about 1 km on the N11; the rest is narrow, quiet country lanes into Castlebridge."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "About 1 km on the N11 hard shoulder, then a pleasant ride on quiet wooded lanes into Castlebridge."
+        }
+      }
+    },
+    {
+      "id": "bigshop",
+      "category": "Groceries",
+      "kind": "Supermarket",
+      "title": "Tesco Wexford",
+      "label": "The big shop",
+      "candidates": [
+        "Tesco Extra, Clonard Road, Wexford"
+      ],
+      "note": "Wexford town's supermarkets are about 10–12 km south.",
+      "when": "10:30",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-11-03T14:07:30.302Z",
+        "dest": {
+          "name": "Tesco Extra",
+          "address": "Distillery Rd, Townparks, Wexford, Y35 AD98",
+          "uri": "https://maps.google.com/?cid=9758262122462699949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 650,
+          "lat": 52.332302399999996,
+          "lng": -6.4609839,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJlWizQ2gbaEgRreGJ6rJPbIc/photos/AV-0GLfZKhwsLQzWavSvpnO6CeKTDDmgB-Te93M5xJ9qCscZ5ZBp8dm7SvsxapkFG_eL1t2ekx8fOfgJJBTsyazzdm9Z-jxfV4gi_upo11AGBCxeOjnL-CMWhEQbCQscUzvXCVRFVfxnG5LqAscL0PhlpZv3kN-SfLz1f8t5SP6GGQ-OSdTO_3g57EGpMD0GCdBwGGT_F_oBldi81RM7L-bOvGjUVy0Z_vU1ujvS3E6wYTZM_l7krnMKJIQ41BE50KFD5gt2q0XO-JbOSijOnkHmn1aFqilOV7KgKwSRs-LFQHmuSQWTq65DlqdsEbN2oM01lOJq_W0kU5k4PMXdj97Y1CZdA5CTv4Dq_9eHHywk4EnZcbbOQGvul7HE4ws1vI1eGIlDLqbiqRzjekw5X0ZjxevPzQgWgY0/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Greg S",
+            "uri": "https://maps.google.com/maps/contrib/113682781732724541407"
+          },
+          "q": "Tesco Extra, Clonard Road, Wexford"
+        },
+        "duration": 890,
+        "distance": 12870,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2726,
+          "distance": 14316
+        }
+      }
+    },
+    {
+      "id": "dinner",
+      "category": "Eating out",
+      "kind": "Restaurant",
+      "title": "Reeds Restaurant, Ferrycarrig Hotel",
+      "label": "Dinner out",
+      "candidates": [
+        "Reeds Restaurant, Ferrycarrig Hotel, Ferrycarrig, Wexford",
+        "La Cote Seafood Restaurant, Custom House Quay, Wexford"
+      ],
+      "note": "Reeds at the Ferrycarrig Hotel on the Slaney (2026 Restaurant Association customer-service award) is about 7 km; La Côte in Wexford town was the county's best restaurant for 2026.",
+      "when": "19:00",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-11-03T14:07:30.302Z",
+        "dest": {
+          "name": "Ferrycarrig Hotel",
+          "address": "Ferrycarrig Hotel, Ferrycarrig, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=8450591395470676026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 2632,
+          "lat": 52.3531995,
+          "lng": -6.5077,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJyeh8eEYbaEgROpAA3RmIRnU/photos/AV-0GLfa0P7q81qqW2JtmaWlSJ2Odk3INViEzvK7jjckG_xJLM_ZeSK4xTCMkCfvsHw4DeP27-Xo0JYdTS6rAa-S9UPLCUW12-eV6Q8TxIK9O1dYNrvzBpDeSxAyPFCcHFJ4-wb-D8yLaqeE6s-OS3GshYdAHK5sOCcXPJTOxh06wkGSFZM7qcx7kiC7Hi76tP9H7wojNf6mAIo6DjLAtRzIFPsVUxpGewb9yUR5FpST7ZT2uhOpHxIW8Mu141ct5_uPqYr2q0zd7-vK4SpwCmQTPOlyYw3Pi4AiSgdONS2xgEUGozNvu0dqvdc59yQtCK71nshRzFu_-XccdGjMqUtuJft6j-dIke8QHPKFGPEZzBblgwLTIp0A50A7VMjkwvoVUg_d3BwRcpZicuODaE476Jnp8Mc/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Ferrycarrig Hotel",
+            "uri": "https://maps.google.com/maps/contrib/106967878423762319285"
+          },
+          "q": "Reeds Restaurant, Ferrycarrig Hotel, Ferrycarrig, Wexford"
+        },
+        "duration": 285,
+        "distance": 6009,
+        "alts": [
+          {
+            "name": "La Côte Seafood Restaurant",
+            "duration": 778,
+            "distance": 10606
+          }
+        ],
+        "walk": {
+          "duration": 4722,
+          "distance": 5997
+        },
+        "bike": {
+          "duration": 1338,
+          "distance": 6766
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "Almost all 6 km along the N11 hard shoulder to Ferrycarrig; no footpath."
+        },
+        "bike": {
+          "level": "poor",
+          "note": "The whole ride is on the N11 with fast traffic; drive it."
+        }
+      }
+    },
+    {
+      "id": "hospital",
+      "category": "Health",
+      "kind": "Emergency department",
+      "title": "Wexford General Hospital",
+      "label": "The 3 a.m. trip",
+      "candidates": [
+        "Wexford General Hospital, Newtown Road, Wexford"
+      ],
+      "note": "All-ages 24-hour ED, about 10 km south on the N11 side of Wexford town.",
+      "when": "03:00",
+      "group": "night",
+      "resolved": {
+        "at": "2026-11-03T14:07:30.302Z",
+        "dest": {
+          "name": "Wexford General Hospital",
+          "address": "Newtown Rd, Carricklawn, Wexford, Y35 Y17D",
+          "uri": "https://maps.google.com/?cid=2703091205570474847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.4,
+          "ratings": 211,
+          "lat": 52.343234300000006,
+          "lng": -6.4831372,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ1SE5gKgcaEgRX7OCPyFPgyU/photos/AV-0GLeaR9Zp84-q_5CLjykjCbNiNGh1tnMMG7FpoB-vooDlZpPwJaJhsIxhtnvtBGZl6v6Ex9-h1X92szGkeoFdO0ALmgRdsjaxxVLkZuwnopnuSDs6DB2rfzOE4a8jzoyE17swr6aMwluy5JtE_wy5TesMHKBUBT3BYg9i__Np8w_0ncC9u9LodC1lVF2RD_eGQJ8CQEWjqsQeZJXnABf9VLcNWTaNW3WfUI1BRTP-0XqAr92UKEmk99jgZO3AJU91AfoN1zCjN0QasIWbrX8_XkMYxWTJwhQnKL90onqrtOn86P2morqLKrjLVtIa8QrLeVNtZdHxSIiOumUvwUrjmDLf2fpAMz5n5R07DJnfz-NSQ-xHb_iF9FIdqGkR84hp13vcfXKn9efa382n9doZURiMVMthn1s/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Keith Kennedy",
+            "uri": "https://maps.google.com/maps/contrib/116833290017099661719"
+          },
+          "q": "Wexford General Hospital, Newtown Road, Wexford"
+        },
+        "duration": 522,
+        "distance": 8982,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2085,
+          "distance": 9740
+        }
+      }
+    },
+    {
+      "id": "town",
+      "category": "Towns and cities",
+      "kind": "Small town",
+      "title": "Wexford town centre",
+      "label": "Errands in town",
+      "candidates": [
+        "The Bullring, Wexford",
+        "Market Square, Enniscorthy, Co. Wexford"
+      ],
+      "note": "Wexford (county town, about 21,000 people) is about 15 minutes; Enniscorthy is about 13 km north; Castlebridge (5 km) covers the pharmacy and daily shopping.",
+      "when": "12:30",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-11-03T14:07:30.302Z",
+        "dest": {
+          "name": "The Bullring Market",
+          "address": "The Bullring, Townparks, Wexford",
+          "uri": "https://maps.google.com/?cid=3421839085302747084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 16,
+          "lat": 52.3399223,
+          "lng": -6.462106299999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJJar7eAwbaEgRzI8EtoTQfC8/photos/AV-0GLflqE-ZALXJQp82aajAyndjSR3zsy9wD5VDC8Gza41zKZ7UVR3Ssr7TtMNh5eCyxKrzUf-Py7511NDIvFo56nrDKUsd3t2__G4EKTlyWnAs77DEmqo58ug5I6Ohc09lflKfoG17F3CgNW5oSdMHv9RjrPi5ogE1TaZvYtZ4fE3GEXW1Rl-I8h2qDohzrJ-Yw70ZkjXZkUPBhEUrkOVuSjPQfAsSbG2aA3U4hwAHUCWqbewlbLtGXLOjc9zzaSREgNAlTOtcRzJn8udjiOAGHxYAd0zur9EsCzzfo_Tr7umIuOnUCUL8dnvUqXlTA1vHtCAu8-tV5cVB57_chAxfYEGqPIAbnmJJwjASASigwAQpGJSX_fRIslqiZ97-KK0-Y72MBo4hCv6mjiuinXV--_5g-g/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "p bour",
+            "uri": "https://maps.google.com/maps/contrib/110428016759024374688"
+          },
+          "q": "The Bullring, Wexford"
+        },
+        "duration": 856,
+        "distance": 10529,
+        "alts": [
+          {
+            "name": "Market Square",
+            "duration": 941,
+            "distance": 13075
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 2485,
+          "distance": 13228
+        }
+      }
+    },
+    {
+      "id": "city",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "Waterford",
+      "label": "Into the city",
+      "candidates": [
+        "Reginald's Tower, Waterford"
+      ],
+      "note": "Waterford is the nearest city, roughly an hour west via New Ross; Kilkenny is the alternative.",
+      "when": "15:00",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-11-03T14:07:30.302Z",
+        "dest": {
+          "name": "Reginald’s Tower",
+          "address": "The Quay, Waterford",
+          "uri": "https://maps.google.com/?cid=17730792897430887032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 641,
+          "lat": 52.260445999999995,
+          "lng": -7.1054606,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ4_w6JTW_QkgReBpjzTJuEPY/photos/AV-0GLfpPe79gy_AVJ5fywwW-52e6m3Dat-wm7onK2dCSBF5YNHZzL78umNKHzjtmYQ9nN32JGDu0dvVewHHAXBQncD4tNg-az82v6Xe4oC-nW-43V3cbA7TYgpHAzrpti7w5TwygGCkiGyZWHGGKTmXmy-w7bmUgayNyRkX51F1gzGos4xjmNNnFocYlWHCl7Tsg72_zFhdRzOIOnbUbJhyNVIhO1TOALsspStXOSBztBnZMLifhhGmcnDb_cX_p6U5eJLyUQqtER_4LJBu9Xl_cY5g1krnMjAIvh9UImV0aY7NLlLztyofzbHvkpOvH4JGajhuiq8_GjpA6NZKzaUY04TVDQz6FVzNOgym6UPUTzfb2imkWVKk8dKqw-O5OzNKG1b2LeVOM5Rxq2rsroq-swRtoATM/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "THE EXPLORER",
+            "uri": "https://maps.google.com/maps/contrib/113768639315364178628"
+          },
+          "q": "Reginald's Tower, Waterford"
+        },
+        "duration": 3373,
+        "distance": 60708,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "dublin",
+      "category": "Towns and cities",
+      "kind": "Capital",
+      "title": "St Stephen's Green, Dublin",
+      "label": "Day in Dublin",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car north on the N11 and M11; the N11 runs about 150 m west of the house.",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-11-03T14:07:30.302Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLdDBr9_nakK_1LXrcW1wtt8uiqS26SVCf3SNIweFayE3tQ6hMFA1z7LbULIG4VWP0TP1AQNowYLb1WRp7VsimKZbLrhOOBUtF5gSeBbmGvTd_HLdaLUgQbgIwLS2lKYypZH_75oGRqlz5Tw7oQgkAv8Hn44KPgc7NMFCPe0hC80A8gFo7UC-10IZqqyeSERw5dDP3amI1dxp5EEOc2t-PBojfqfFennsGS6eWsA2KIN_J-u8b3ecH-JaYb4riciVwB_vJ89ThKhDHWefWU6hTMivGzzXyg6a1VLi2182Yf2MYIlF6VA8C3TY45NnYNTsBJAQoAmV_LOEGd-EaDxPLV4L0uxhAjx7ipI5_m1sC-7eKigI_gLzlDquI4i4G2y3rBHmZ_5wgDlTtILllTk_Cacug/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 5793,
+        "distance": 126326,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "cork",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "English Market, Cork",
+      "label": "Weekend in Cork",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-11-03T14:07:30.302Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11767,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLdRQmj97vtwejy_6m13XUkCNzMoWqOt5cuV0TA1NLC3JU6f_AcYldDqOXLHdO5Y5WKQfqmil2gaCmUGHYpJ5lDXK7Fd0zKVnZd8f2OGNaOGRCBEywOdBKbL82l6AfTzDE4Caj0wKbvATsyQ8TRCtktL3fFPiaWh4MDhklcSeX8Wx0bcAZm1n3FENfNzyalTlS6FBv4ASNjkSqnVkUDbBSMMhlNE_LYSSwFNiOserWXiP_b1SpWH2KUv4jvsCf5JGOns0n8u38d6siZy6ITX_h_Mdn1xAB_6Ep59YM0nj1VfRQ85MLpTSebrzJM8XS3BvsCvMA4xpeSTgj_WPwMOxyoxL3d-23LJlvSYaWNNf5KWyxfPRVsUh5HxKF3wu183klDrdTLjXM0BomXdIMbesdQ9hPc/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 8904,
+        "distance": 179450,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "train",
+      "category": "Getting away",
+      "kind": "Station",
+      "title": "Wexford O'Hanrahan station",
+      "label": "Train to Dublin",
+      "candidates": [
+        "Wexford O'Hanrahan Railway Station, Redmond Place, Wexford",
+        "Enniscorthy railway station, Enniscorthy, Co. Wexford"
+      ],
+      "note": "Rosslare–Dublin Connolly line: about 4–5 direct trains a weekday, roughly 2h30–2h40 from Wexford or 1h50–2h20 from Enniscorthy (about 14 km north); not checked against the current timetable.",
+      "when": "07:15",
+      "group": "further",
+      "resolved": {
+        "at": "2026-11-03T14:07:30.302Z",
+        "dest": {
+          "name": "Wexford (O Hanrahan)",
+          "address": "Wexford Railway Station Redmond Sqaure, Townparks, Wexford, Co. Wexford, Y35 FC62",
+          "uri": "https://maps.google.com/?cid=4263746221154084344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 69,
+          "lat": 52.3433383,
+          "lng": -6.4643597999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJDVnuREUbaEgR-KVNDJneKzs/photos/AV-0GLdSuKeWvkO1ifmnDLMBm6WjmECqF0xGaIKoeDf_942xHzkhDoboSF020tziXEpTw9MKnFtZ-EVj8uY00-oFVW3HzYUBcI85B3JtLQIL9UqoZ4nbJ65ix31fQBPRMCPtE-VWMHKbegPJnzDnk_adCNboPPS1RwrQkFwPvs4zyKGdzZIYgw9q-NmgSYk7xqLgIyE4PI2r2-aLqAh0f6jFFLx-MTwS61t8AdzSIJxQ2Crw7pBDQdUlpZ1UXy5F4KUSG4b5SIHzniGYfdYfYKaS7YMJY_-XjyW2YIKKU4RyHzuR7skcZkXmOuJk_D2bOMXXOy6k8jFE5TPmpthCGLWaEzrrxDLHeHLwNYLkNVCbQSFRbvOVqaziu_kaCAvEJdPiFwZn04Qxbpl4TUkUlwHWaqBM33M/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "スタバカ（SUTABAKA）",
+            "uri": "https://maps.google.com/maps/contrib/107705833309561868785"
+          },
+          "q": "Wexford O'Hanrahan Railway Station, Redmond Place, Wexford"
+        },
+        "duration": 590,
+        "distance": 10010,
+        "alts": [
+          {
+            "name": "Enniscorthy Railway Station",
+            "duration": 731,
+            "distance": 12258
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 2500,
+          "distance": 13279
+        }
+      }
+    },
+    {
+      "id": "airport",
+      "category": "Getting away",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "label": "Flight home",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "when": "06:00",
+      "group": "further",
+      "day": "friday",
+      "resolved": {
+        "at": "2026-11-03T14:07:30.302Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42265,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLfuUhZEV8BQOlMKgUkrPD3BnImeF__izkMtjo3WZi6h3Rb6KdGcrqhOBsrg1qFg6r11AkKE901x1iw6CgMf15jjQqOH9nXzJhwngKrEjKDmF1OWz1BFmJ4CJLgc1ZV2_cYYWW_XxsTxWBFifySOJ6P2P-pgRFaVLhIB72JRtImHIGgj8Ao2WTA7bGrGKoWb7WSyJ7hREBDPVXnq9-hYdtIS3D7QrwJhCzxkZdlNbGY6A-wrDeXhsSY14CIdPDniMi-3W-8jn8cCGON8AY9RRboI5nJfmhw5Pubrdo7yiSrdhElfhGtdPfEGOL5g-DuZ8FTByrsDn0hg1Rzd6-rHKy-pOHOVYXv88ZOazaPLUD8_34JTFhpLQaYHrVY823zKu6OpcuRYLIPqSkCwOZFvAmtlE83z0ro/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 5739,
+        "distance": 149621,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

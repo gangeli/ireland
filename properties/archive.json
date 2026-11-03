@@ -392,6 +392,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/tankardstown-ballylynan-co-laois/6706728",
       "recheck": false
+    },
+    {
+      "id": "the-cottage-monasterboice",
+      "name": "The Cottage",
+      "left": "2026-11-03",
+      "reason": "tied at 3.0 with Monmore, Crossabeg (new wins ties); the only incumbent at 3.0 — George: 'a bit on the small size for 6 people… floor plan is inconvenient for a ground floor bedroom'",
+      "lastPrice": 595000,
+      "aiStars": 3,
+      "human": {
+        "n": 2,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/the-cottage-newtown-monasterboice-co-louth/6626272",
+      "recheck": true
     }
   ]
 }
