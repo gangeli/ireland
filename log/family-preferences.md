@@ -85,3 +85,8 @@ Genuine charm can outweigh the rubric's practical points for him: a thatched or 
 
 ## Charm cottages, once fully reviewed (Gabor, 2 Nov)
 Gabor agreed with the 2.5 scores for the 2 Nov charm near misses (Dairyland Cottage, Crocksheeby, Borora): "not actually great once fully reviewed. But they are super charming." Keep scoring charm houses honestly on the brief, and keep reporting them in the near-miss list with the charm named, so he can pick one by hand as he did with Genista.
+
+## George on the charm houses (2 Nov notes)
+- Genista Cottage 2: "It's an amazing place, but the house is way too small and the neighbor is way too close."
+- The Cottage, Monasterboice 3: "Charming old farmhouse, a bit on the small size for 6 people. Probably expensive maintenance. Floor plan is inconvenient for a potential ground floor bedroom."
+- Gabor gave both a 3. So even for the charm lane, size for six, distance to neighbours and a workable ground-floor bedroom still decide the score; old fabric (thatch, stone barns) adds a maintenance con. Charm alone holds a small house at about 2.5.
