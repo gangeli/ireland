@@ -90,3 +90,7 @@ Gabor agreed with the 2.5 scores for the 2 Nov charm near misses (Dairyland Cott
 - Genista Cottage 2: "It's an amazing place, but the house is way too small and the neighbor is way too close."
 - The Cottage, Monasterboice 3: "Charming old farmhouse, a bit on the small size for 6 people. Probably expensive maintenance. Floor plan is inconvenient for a potential ground floor bedroom."
 - Gabor gave both a 3. So even for the charm lane, size for six, distance to neighbours and a workable ground-floor bedroom still decide the score; old fabric (thatch, stone barns) adds a maintenance con. Charm alone holds a small house at about 2.5.
+
+## George on Monmore (4 Nov note)
+- Monmore, Crossabeg 2: "Nice house, but lots of carpet, and no particular character. Ground floor bath has no shower. Large enough yard, fully fenced, but no privacy bushes (somewhat close neighbors)."
+- Confirms the calibration: a plain 2000s house with space and land but no character is 2.5, not 3.0. Carpet throughout reads as dated and characterless to him. A ground-floor bedroom that still needs a shower added counts against it. Fencing alone isn't privacy: he wants screening (hedges, trees) from neighbours.
