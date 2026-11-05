@@ -295,20 +295,6 @@
       "recheck": false
     },
     {
-      "id": "monagee-cashel",
-      "name": "Monagee",
-      "left": "2026-10-30",
-      "reason": "bumped by Laurel Close, Wexford (AI 3.5) at a four-way tie on 3.0; lost the tie-break: ground-floor bedroom unconfirmed (no floor plan) and inside the OPW 1-in-100 flood extent",
-      "lastPrice": 350000,
-      "aiStars": 3,
-      "human": {
-        "n": 1,
-        "avg": 3.0
-      },
-      "listingUrl": "https://www.daft.ie/for-sale/bungalow-monagee-camus-cashel-co-tipperary/6706734",
-      "recheck": false
-    },
-    {
       "id": "loughminane-green-kildare",
       "name": "73 Loughminane Green",
       "left": "2026-10-31",
@@ -351,20 +337,6 @@
       "recheck": false
     },
     {
-      "id": "ballinkillen-bagenalstown",
-      "name": "Ballinkillen",
-      "left": "2026-11-02",
-      "reason": "made room for Genista Cottage, which Gabor added by hand; lowest score (3.0) and the longest-standing rated house at that score",
-      "lastPrice": 450000,
-      "aiStars": 3,
-      "human": {
-        "n": 2,
-        "avg": 3.0
-      },
-      "listingUrl": "https://www.daft.ie/for-sale/ballinkillen-muine-bheag-co-carlow/6676559",
-      "recheck": false
-    },
-    {
       "id": "old-forge-ballyduff",
       "name": "The Old Forge",
       "left": "2026-11-02",
@@ -380,20 +352,6 @@
       "gone": true
     },
     {
-      "id": "tankardstown-ballylynan",
-      "name": "Tankardstown",
-      "left": "2026-11-02",
-      "reason": "bumped by the 2 Nov charm adds at 3.0 (new wins ties)",
-      "lastPrice": 450000,
-      "aiStars": 3,
-      "human": {
-        "n": 1,
-        "avg": 3.0
-      },
-      "listingUrl": "https://www.daft.ie/for-sale/tankardstown-ballylynan-co-laois/6706728",
-      "recheck": false
-    },
-    {
       "id": "the-cottage-monasterboice",
       "name": "The Cottage",
       "left": "2026-11-03",
@@ -405,6 +363,48 @@
         "avg": 3.0
       },
       "listingUrl": "https://www.daft.ie/for-sale/the-cottage-newtown-monasterboice-co-louth/6626272",
+      "recheck": true
+    },
+    {
+      "id": "jamestown-ballybrittas",
+      "name": "Jamestown",
+      "left": "2026-11-05",
+      "reason": "sale agreed (Daft banner, 5 Nov)",
+      "lastPrice": 450000,
+      "aiStars": 3.5,
+      "human": {
+        "n": 1,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/jamestown-ballybrittas-co-laois/6689454",
+      "recheck": false
+    },
+    {
+      "id": "parochial-house-monasterevin",
+      "name": "Parochial House",
+      "left": "2026-11-05",
+      "reason": "sale agreed (Daft banner, 5 Nov)",
+      "lastPrice": 370000,
+      "aiStars": 3,
+      "human": {
+        "n": 1,
+        "avg": 5.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/parochial-house-drogheda-street-monasterevin-co-kildare/6672709",
+      "recheck": false
+    },
+    {
+      "id": "monmore-crossabeg",
+      "name": "Monmore",
+      "left": "2026-11-05",
+      "reason": "score fell to 2.67 after George's 2 ('lots of carpet, no particular character… somewhat close neighbors'); below archived houses still for sale at 3.0",
+      "lastPrice": 495000,
+      "aiStars": 3,
+      "human": {
+        "n": 2,
+        "avg": 2.5
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/monmore-crossabeg-co-wexford/6712081",
       "recheck": true
     }
   ]
