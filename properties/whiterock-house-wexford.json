@@ -1,0 +1,355 @@
+{
+  "id": "whiterock-house-wexford",
+  "name": "Whiterock House",
+  "address": "Whiterock House, Whiterock Hill, Wexford",
+  "eircode": "Y35 P5V2",
+  "lat": 52.328157,
+  "lng": -6.471446,
+  "listingUrl": "https://www.daft.ie/for-sale/whiterock-house-whiterock-hill-wexford/6715613",
+  "status": "Considering",
+  "added": "2026-11-06",
+  "area": "Wexford town, Co. Wexford",
+  "agent": "Gary Quinn, DNG McCormack Quinn, Paul Quay, Wexford",
+  "agentPhone": "086 251 1892 / 053 912 1977",
+  "questions": [
+    "Bedroom 1 on the ground floor is reached only through the 4.46 × 2.56 m family room. Would you or the vendor see any planning issue with moving its door to the hall or adding a garden door, and is the 1.09 × 2.08 m en-suite's shower usable as a level-access shower?",
+    "The listing says BER G but gives 418.71 kWh/m²/yr, which is band F. Which is right, and can you share the BER advisory report? Has anyone priced the refurbishment (rewiring, plumbing, roof, windows, insulation)?",
+    "Earlier Daft listings for Whiterock House show it went to auction (an AMV of €350,000 in July, then an online auction on 27 October). What happened at those auctions, and is the vendor (estate or private) open to offers at €395,000?",
+    "How far does the garden rise behind the house, and where exactly do the folio boundaries run against the neighbouring houses? Is the boundary stock-proof for two dogs?",
+    "BuyerIQ shows the site in an EPA High Radon Area and seven large residential schemes about 150 m away. Has a radon test been done, and are any of those schemes (Árd Uisce or others) still to be built next to this site?"
+  ],
+  "ai": {
+    "stars": 2.5,
+    "why": "A 1913 period house on 0.42 ac of screened gardens, walkable to Wexford town and its all-ages ED, with a ground-floor en-suite bedroom, at €395k. But at 154 m² with two bathrooms it is small for six, the parents' room is an 8.7 m² box reached through the family room, and a full refurbishment (rough €150–250k) puts the total at about €545–645k, past the budget, with houses 15–25 m away on two sides."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "Mains; the listing's Services line says 'All main services'. Expect a full rewire in a 1913 house."
+    },
+    "water": {
+      "status": "ok",
+      "detail": "Mains water; 'All main services' per the listing, on a serviced town road."
+    },
+    "sewer": {
+      "status": "ok",
+      "detail": "Mains drainage; 'All main services' per the listing. Confirm the old house's drains are connected and sound."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Fibre (per BuyerIQ); BuyerIQ shows '386 Mb full fibre' at Y35 P5V2. The listing doesn't mention broadband; Wexford town has open eir FTTH and SIRO.",
+      "type": "Fibre",
+      "speed": "~386 Mb (BuyerIQ)",
+      "provider": "open eir / SIRO (check)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "Bedroom 1 (3.27 × 2.65 m) is on the ground floor per the Matterport floor plan, with its own 1.09 × 2.08 m shower en-suite, but it is reached only through the family room and is only about 8.7 m²."
+  },
+  "price": 395000,
+  "type": "Detached period house (1913), two storeys",
+  "beds": 4,
+  "bedsNote": "Ground floor: Bedroom 1 (3.27 × 2.65 m) with shower en-suite, entered through the family room. First floor: master 5.35 × 4.67 m, 4.13 × 3.89 m and 4.67 × 2.64 m, with the family bathroom on the return",
+  "baths": 2,
+  "floorM2": 154,
+  "landHa": 0.17,
+  "landAcres": 0.42,
+  "ber": "G",
+  "berKwh": 418.71,
+  "heating": "Oil-fired central heating; open fireplaces in the living room and a bedroom",
+  "listed": "2026-11-06",
+  "views": 182,
+  "stampDuty": 3950,
+  "tagline": "A 154 m² four-bed 1913 house needing full refurbishment, set back behind mature trees on 0.42 ac on Whiterock Hill, on the south-west edge of Wexford town.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/2/0/5040029/fbfe046f-caf7-43bf-9460-dcb34297b6dc_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/2/0/5040029/e450d38b-cf96-4c01-8494-6270d1a144d5_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/2/0/5040029/69757537-88b0-4e0d-9200-a5b8b5afda30_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/2/0/5040029/7a36f9e2-38db-4819-b0f0-8b4a1024bbee_x.png",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/2/0/5040029/35065e9d-19a7-4f86-8c28-0ef64877ac56_x.png",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/2/0/5040029/4fafbd55-4edb-489b-8ec8-4f1b9645a85b_x.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/2/0/5040029/d92713c6-6c0d-4a12-8bbd-986c34d8236d_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/2/0/5040029/e2d11816-bb2a-4f5d-aec0-3608098e05bb_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/9/2/0/5040029/d5e66088-015d-44e4-b712-8a52ba454a66_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Walkable to Wexford General's all-ages ED",
+      "weight": 3,
+      "detail": "Wexford General Hospital on Newtown Road is about 1.9 km in a straight line; the town centre (Bullring) is about 1.4 km and O'Hanrahan station about 1.75 km."
+    },
+    {
+      "text": "€395k asking, about €2,565/m²",
+      "weight": 2,
+      "detail": "Stamp duty about €3,950; leaves roughly €100k of the €500k line for work before going over (see the refurbishment con)."
+    },
+    {
+      "text": "Ground-floor bedroom with its own shower room",
+      "weight": 2,
+      "detail": "Bedroom 1 (3.27 × 2.65 m) has a 1.09 × 2.08 m en-suite with shower, WC and basin, confirmed on the floor plan."
+    },
+    {
+      "text": "0.42 ac of mature, screened gardens behind a gate",
+      "weight": 2,
+      "detail": "Folio WX40769F shows 0.17 ha; the house is set back up a tree-lined drive with lawns front and side, and the trees hide it from Whiterock Hill."
+    },
+    {
+      "text": "1913 period character",
+      "weight": 2,
+      "detail": "Bay windows, a 4.36 × 3.97 m bay-windowed porch, a slate hipped roof, fireplaces and a 5.42 × 5.21 m living/dining room."
+    },
+    {
+      "text": "Schools on the doorstep",
+      "weight": 1,
+      "detail": "Gaelscoil Charman is directly opposite, Kennedy Park NS (co-ed) about 400 m, and St Peter's College (boys) about 800 m."
+    },
+    {
+      "text": "Mains services and full fibre",
+      "weight": 1,
+      "detail": "'All main services' per the listing; BuyerIQ shows 386 Mb full fibre."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Full refurbishment takes the total past €500k",
+      "weight": 3,
+      "detail": "Rough estimate only: €150–250k for rewiring, plumbing, insulation, windows, a heat pump, kitchen and bathrooms on 154 m² (less any SEAI grants), so about €545–645k all in, before adding a third bathroom."
+    },
+    {
+      "text": "Small for six: 154 m², two bathrooms",
+      "weight": 3,
+      "detail": "88 m² downstairs and 66 m² up; one family bathroom (2.44 × 1.65 m) serves three upstairs bedrooms and the kitchen is 3.93 × 3.15 m."
+    },
+    {
+      "text": "Parents' bedroom is small and reached through the family room",
+      "weight": 2,
+      "detail": "Bedroom 1 is about 8.7 m² and its only door opens off the 4.46 × 2.56 m family room, so the family room becomes a corridor unless the door is moved; the garden door is in the kitchen."
+    },
+    {
+      "text": "Close neighbours and estates all round",
+      "weight": 2,
+      "detail": "Satellite and the listing's aerial show houses about 15–25 m away on two sides, the Bishopswater and Whitebrook estates beyond, and the school and community centre across the road."
+    },
+    {
+      "text": "BER G (or F) and oil heating",
+      "weight": 1,
+      "detail": "The listing gives 418.71 kWh/m²/yr, which is band F, against a stated G; either way it is a cold, costly house until retrofitted."
+    },
+    {
+      "text": "Slow Dublin trains",
+      "weight": 1,
+      "detail": "Wexford O'Hanrahan has about 4 direct trains a weekday to Connolly, around 2h40."
+    },
+    {
+      "text": "High radon area; new estates nearby",
+      "weight": 1,
+      "detail": "BuyerIQ flags an EPA High Radon Area and seven large residential schemes about 150 m away; its flood finding is behind a paywall."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "category": "Schools",
+      "kind": "Primary school",
+      "title": "Gaelscoil Charman",
+      "label": "School run",
+      "candidates": [
+        "Gaelscoil Charman, Whiterock Hill, Wexford",
+        "Scoil Charman, Wexford"
+      ],
+      "note": "Irish-medium primary directly opposite the house (about 140 m, 207 pupils per Daft); Kennedy Park NS on Whitemill Road (co-ed, Catholic, DEIS Band 2, about 400 m) is the nearest English-medium option.",
+      "when": "08:20",
+      "group": "weekday",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Its only indexed inspection is a 2009 Whole-School Evaluation behind gov.ie's verification check; gender intake not confirmed (gaelscoileanna are usually co-ed)."
+      }
+    },
+    {
+      "id": "secondary",
+      "category": "Schools",
+      "kind": "Secondary school",
+      "title": "St Peter's College",
+      "label": "School run",
+      "candidates": [
+        "St Peter's College, Summerhill, Wexford"
+      ],
+      "note": "Boys' diocesan secondary, about 780 pupils, about 800 m north; Wexford CBS (boys) is about 810 m.",
+      "when": "08:05",
+      "group": "weekday",
+      "rating": {
+        "level": "Good",
+        "basis": "Named among Wexford's well-placed schools in the Irish Times feeder tables (South East Radio, Dec 2019) and on an older Sunday Independent best-performers list; no recent percentage found."
+      }
+    },
+    {
+      "id": "shop",
+      "category": "Groceries",
+      "kind": "Village shop",
+      "title": "Tesco Distillery Road",
+      "label": "Milk and the paper",
+      "candidates": [
+        "Tesco, Distillery Road, Wexford"
+      ],
+      "note": "The nearest grocery found, about 800 m east down Bishopswater; no Centra or Spar turned up closer.",
+      "when": "09:15",
+      "group": "weekday"
+    },
+    {
+      "id": "bigshop",
+      "category": "Groceries",
+      "kind": "Supermarket",
+      "title": "Dunnes Stores Wexford",
+      "label": "The big shop",
+      "candidates": [
+        "Dunnes Stores, Redmond Square, Wexford",
+        "Tesco Extra, Clonard, Wexford",
+        "Lidl, Wexford"
+      ],
+      "note": "Wexford town's full supermarkets are all within about 3 km.",
+      "when": "10:30",
+      "group": "weekday"
+    },
+    {
+      "id": "dinner",
+      "category": "Eating out",
+      "kind": "Restaurant",
+      "title": "La Côte Seafood Restaurant",
+      "label": "Dinner out",
+      "candidates": [
+        "La Cote Seafood Restaurant, Custom House Quay, Wexford"
+      ],
+      "note": "Best restaurant in Co. Wexford at the 2026 Restaurant Association Awards; on the quay, about 1.5 km. The listing names the Pot Belly Café nearby.",
+      "when": "19:00",
+      "group": "weekday"
+    },
+    {
+      "id": "hospital",
+      "category": "Health",
+      "kind": "Emergency department",
+      "title": "Wexford General Hospital",
+      "label": "The 3 a.m. trip",
+      "candidates": [
+        "Wexford General Hospital, Newtown Road, Wexford"
+      ],
+      "note": "All-ages 24-hour ED, about 1.9 km in a straight line across town.",
+      "when": "03:00",
+      "group": "night"
+    },
+    {
+      "id": "town",
+      "category": "Towns and cities",
+      "kind": "Small town",
+      "title": "Wexford town centre",
+      "label": "Errands in town",
+      "candidates": [
+        "The Bullring, Wexford",
+        "Main Street, Wexford"
+      ],
+      "note": "The house is on the south-west edge of Wexford (county town, ~21,000 people); the Bullring is about 1.4 km.",
+      "when": "12:30",
+      "group": "weekday"
+    },
+    {
+      "id": "city",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "Waterford",
+      "label": "Day in the city",
+      "candidates": [
+        "The Quay, Waterford"
+      ],
+      "note": "Nearest city, roughly an hour west via the N25.",
+      "when": "15:00",
+      "group": "weekday"
+    },
+    {
+      "id": "dublin",
+      "category": "Towns and cities",
+      "kind": "Capital",
+      "title": "St Stephen's Green, Dublin",
+      "label": "Day in Dublin",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday"
+    },
+    {
+      "id": "cork",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "English Market, Cork",
+      "label": "Day in Cork",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday"
+    },
+    {
+      "id": "train",
+      "category": "Getting away",
+      "kind": "Station",
+      "title": "Wexford O'Hanrahan station",
+      "label": "Train to Dublin",
+      "candidates": [
+        "Wexford O'Hanrahan Railway Station, Redmond Place, Wexford"
+      ],
+      "note": "Rosslare–Dublin Connolly line: about 4 direct trains a weekday, ~2 h 40 min; about 1.75 km north in a straight line.",
+      "when": "07:15",
+      "group": "further"
+    },
+    {
+      "id": "airport",
+      "category": "Getting away",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "label": "Flights",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "",
+      "when": "06:00",
+      "group": "further",
+      "day": "friday"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
