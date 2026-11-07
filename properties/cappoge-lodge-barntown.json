@@ -217,6 +217,16 @@
           "duration": 92,
           "distance": 487
         }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 500 m on the footpath beside a busy main road; fine with an adult."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Short, but on a busy main road; use the footpath with young children."
+        }
       }
     },
     {
@@ -263,6 +273,16 @@
         "bike": {
           "duration": 1039,
           "distance": 5233
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Long, but walkable: a separate path beside the N25 for the first 1.5 km, then footpaths and cycle lanes into Wexford."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Path beside the N25 at first, then painted cycle lanes into town; busy roundabouts to cross."
         }
       }
     },
@@ -314,6 +334,16 @@
           "duration": 360,
           "distance": 2132
         }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 3 km of quiet, narrow country lanes with stone walls and hedges; no footpath but little traffic."
+        },
+        "bike": {
+          "level": "good",
+          "note": "A pleasant ride on quiet lanes to Barntown village."
+        }
       }
     },
     {
@@ -356,6 +386,16 @@
         "bike": {
           "duration": 1351,
           "distance": 6148
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Long, but walkable: a separate path beside the N25 for the first 1.5 km, then footpaths and cycle lanes into Wexford."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Path beside the N25 at first, then painted cycle lanes into town; busy roundabouts to cross."
         }
       }
     },
@@ -400,6 +440,16 @@
           "duration": 1093,
           "distance": 5759
         }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Long, but walkable: a separate path beside the N25 for the first 1.5 km, then footpaths and cycle lanes into Wexford."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Path beside the N25 at first, then painted cycle lanes into town; busy roundabouts to cross."
+        }
       }
     },
     {
@@ -442,6 +492,16 @@
         "bike": {
           "duration": 738,
           "distance": 4028
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Long, but walkable: a separate path beside the N25 for the first 1.5 km, then footpaths and cycle lanes into Wexford."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Path beside the N25 at first, then painted cycle lanes into town; busy roundabouts to cross."
         }
       }
     },
@@ -492,6 +552,16 @@
         "bike": {
           "duration": 1094,
           "distance": 5644
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Long, but walkable: a separate path beside the N25 for the first 1.5 km, then footpaths and cycle lanes into Wexford."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Path beside the N25 at first, then painted cycle lanes into town; busy roundabouts to cross."
         }
       }
     },
@@ -656,6 +726,16 @@
         "bike": {
           "duration": 1028,
           "distance": 5326
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "Long, but walkable: a separate path beside the N25 for the first 1.5 km, then footpaths and cycle lanes into Wexford."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Path beside the N25 at first, then painted cycle lanes into town; busy roundabouts to cross."
         }
       }
     },
