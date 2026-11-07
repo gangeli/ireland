@@ -406,6 +406,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/monmore-crossabeg-co-wexford/6712081",
       "recheck": true
+    },
+    {
+      "id": "graiguesallagh-maynooth",
+      "name": "Graiguesallagh",
+      "left": "2026-11-07",
+      "reason": "sale agreed (Daft banner, 7 Nov)",
+      "lastPrice": 595000,
+      "aiStars": 3.5,
+      "human": {
+        "n": 0,
+        "avg": null
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/graiguesallagh-maynooth-co-kildare/6671639",
+      "recheck": false
     }
   ]
 }
