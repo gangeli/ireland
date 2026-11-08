@@ -94,3 +94,7 @@ Gabor agreed with the 2.5 scores for the 2 Nov charm near misses (Dairyland Cott
 ## George on Monmore (4 Nov note)
 - Monmore, Crossabeg 2: "Nice house, but lots of carpet, and no particular character. Ground floor bath has no shower. Large enough yard, fully fenced, but no privacy bushes (somewhat close neighbors)."
 - Confirms the calibration: a plain 2000s house with space and land but no character is 2.5, not 3.0. Carpet throughout reads as dated and characterless to him. A ground-floor bedroom that still needs a shower added counts against it. Fencing alone isn't privacy: he wants screening (hedges, trees) from neighbours.
+
+## George and Gabor on Cappoge Lodge (7 Nov)
+- Both rated it 4. George: "Very nice, large enough house and grounds. Reasonable floor plan. May be noisy, as a major highway is next to it."
+- Contrast with Monmore (George 2): both are plain, carpeted houses near the N11/N25, but Cappoge is single-level, ~215 m² with two big living rooms, 3 baths and 1.3 screened acres, renovated in 2020. Size of house and grounds, a sensible floor plan and single-level living outweigh plainness and carpet. Plain + small or plain + close neighbours stays 2.5; plain but big, roomy, well laid out on generous screened grounds near an ED earns 3.0–3.5.
