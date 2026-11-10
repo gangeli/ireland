@@ -1,0 +1,371 @@
+{
+  "id": "willowbrook-duncormick",
+  "name": "Willowbrook",
+  "address": "“Willowbrook”, Knocktown, Duncormick, Co. Wexford",
+  "eircode": "Y35 EK54",
+  "lat": 52.244038,
+  "lng": -6.616478,
+  "listingUrl": "https://www.daft.ie/for-sale/willowbrook-knocktown-duncormick-co-wexford/6718353",
+  "status": "Considering",
+  "added": "2026-11-10",
+  "area": "Duncormick, Co. Wexford",
+  "agent": "Roland Morris, Keane Auctioneers, Wexford",
+  "agentEmail": "info@keaneauctioneers.com",
+  "agentPhone": "053 912 3072 / 086 813 9819",
+  "questions": [
+    "The aerials show a bungalow about 30–40 m to the west and sheds, caravans and vans just beyond the east hedge. Who uses the east plot (a house, a yard or a farm), and is there any business or livestock there?",
+    "Overhead lines cross the back garden on wooden poles. Are they ESB or telecoms, is there a wayleave, and could they be moved or put underground?",
+    "Is the full 0.99 acres, including the rear meadow, fenced dog-proof all round? Can you send the folio map?",
+    "How deep and how old are the private well and the septic tank or treatment system? Is there a recent water test, and is the septic system registered and recently inspected?",
+    "What broadband is connected now (NBI fibre, or other), and what do the solar panels feed (PV or hot water)? BuyerIQ flags one critical and one high-priority finding behind its paywall; are you aware of any planning, radon or title issue?"
+  ],
+  "ai": {
+    "stars": 2.5,
+    "why": "A turnkey 221 m² BER B dormer at €445k with a proper parents' suite downstairs (en-suite master plus two more ground-floor bedrooms) and three full bathrooms on about an acre. Held back by a plain 2000s interior, neighbours about 30–40 m away on both sides with only partial hedging, overhead lines over the garden, and 20 minutes to Wexford's ED. Held at 2.5 on the rubric's rule that plain with close neighbours stays 2.5 (bungalow ~30–40 m west, sheds and vans ~40–60 m east), as with Monmore."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "Mains; 'Electricity' is in the listing's services line, plus solar panels; overhead lines cross the back garden."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private well; the listing says 'private water'. Ask its depth, yield and a recent water test."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank; the listing says 'private sewerage' (type not stated). Ask age, registration and last inspection."
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; not stated in the listing and BuyerIQ's broadband is paywalled. The area was in NBI survey works in 2021 and NBI's rollout is due to finish by end-2026; check the Eircode on nbi.ie/map.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb (unconfirmed)",
+      "provider": "NBI (check)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "The master bedroom (3.5 × 3.8 m) is on the ground floor with a 2.7 × 1.2 m shower en-suite, beside Bedroom 2 (3.8 × 3.3 m), Bedroom 3 (3.3 × 3.0 m) and the family bathroom, per the floor plan."
+  },
+  "price": 445000,
+  "type": "Detached dormer house",
+  "beds": 4,
+  "bedsNote": "Three ground-floor bedrooms (master en-suite) plus two attic rooms upstairs (5 × 4 m and 5.7 × 5 m) listed as attic room and study",
+  "baths": 3,
+  "floorM2": 221,
+  "landHa": 0.4,
+  "landAcres": 0.99,
+  "ber": "B3",
+  "berKwh": 129.87,
+  "heating": "Oil-fired central heating, a feature stove in the living room, and solar panels",
+  "listed": "2026-11-10",
+  "views": 122,
+  "stampDuty": 4450,
+  "tagline": "A turnkey stone-fronted dormer of 221 m² with three bedrooms downstairs, on about an acre at Knocktown, 1 km from Rathangan village in south Wexford.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/1/4/5/5040541/c423e058-db8b-4f0e-85f2-175310020e7d_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/1/4/5/5040541/86238fd3-d8b9-4e9f-8ba4-e348d9f238e4_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/1/4/5/5040541/69224aae-8eae-45f5-ae83-92737f334a62_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/1/4/5/5040541/133a3eb0-0fd9-43bb-b2fb-ffbccf81edb0_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/1/4/5/5040541/204b599b-bde1-46b9-8742-543043d9879d_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/1/4/5/5040541/dfaf386d-35fb-4627-92ed-445eab806c05_x.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/1/4/5/5040541/50133a8d-02ab-44b7-a832-f5fc1310e9a4_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/1/4/5/5040541/6835987c-c968-405d-9c65-edd59fa6dfd0_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/1/4/5/5040541/7f13113d-858b-42ab-a807-ec9b12da56c5_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Parents' suite on the ground floor",
+      "weight": 3,
+      "detail": "The 3.5 × 3.8 m master has a shower en-suite, and two more double bedrooms (3.8 × 3.3 m and 3.3 × 3.0 m) and the family bathroom are on the same hall."
+    },
+    {
+      "text": "221 m² with three full bathrooms",
+      "weight": 2,
+      "detail": "En-suite, ground-floor family bathroom with a bath and shower, and a 3.8 × 2.5 m first-floor bathroom with a bath and double shower, plus a WC off the utility."
+    },
+    {
+      "text": "€445k, under the line",
+      "weight": 2,
+      "detail": "About €2,014/m² and €55k under the €500k budget; stamp duty about €4,450."
+    },
+    {
+      "text": "About an acre with a rear meadow",
+      "weight": 2,
+      "detail": "0.99 ac: front lawns behind gated pillars, a fenced back lawn with a play area, a rewilded field behind, and a 6.9 × 4.7 m (32 m²) detached garage."
+    },
+    {
+      "text": "Good village primary 1.2 km away",
+      "weight": 2,
+      "detail": "Rathangan NS (co-ed, 236 pupils) was rated 'good' across learning, teaching and leadership in its May 2025 Whole-School Evaluation."
+    },
+    {
+      "text": "Turnkey, BER B3 with solar",
+      "weight": 1,
+      "detail": "129.87 kWh/m²/yr (B3 by the kWh figure; the listing says only 'B'), solar panels, oil heating and a stove; shown in move-in condition."
+    },
+    {
+      "text": "A bright triple-aspect kitchen",
+      "weight": 1,
+      "detail": "4.8 × 4.5 m kitchen with an island opening to a 3.9 × 3.5 m dining area with French doors, plus a 4.7 × 4.6 m living room with a stove."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Neighbours close on both sides",
+      "weight": 3,
+      "detail": "The listing's aerials show a bungalow about 30–40 m west across a hedge and a cluster of sheds, caravans and vans 40–60 m east behind trees, with a farm shed about 100 m north-west; the rear boundary is open post-and-rail."
+    },
+    {
+      "text": "A plain 2000s dormer interior",
+      "weight": 2,
+      "detail": "Stone façade at the front but a plain rendered back, laminate floors downstairs, carpet in the attic rooms and a high-gloss black kitchen; little particular character."
+    },
+    {
+      "text": "20 minutes to the ED and town",
+      "weight": 2,
+      "detail": "Wexford General is about 14 km in a straight line (roughly 18–20 min); the village has no shop, so the nearest found is Centra in Bridgetown (about 5 km)."
+    },
+    {
+      "text": "Slow Dublin trains",
+      "weight": 2,
+      "detail": "Wexford O'Hanrahan, about 15 km, has about 4 direct trains a weekday to Connolly taking about 2 h 40 min."
+    },
+    {
+      "text": "Overhead lines over the garden",
+      "weight": 1,
+      "detail": "Wooden poles carry lines across the back lawn beside the play area (ESB or telecoms not stated)."
+    },
+    {
+      "text": "Private well and septic",
+      "weight": 1,
+      "detail": "'Private water, private sewerage' per the listing; broadband not stated, and BuyerIQ flags one critical and one high-priority finding behind its paywall."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Rathangan National School (St Anne's)",
+      "candidates": [
+        "Rathangan National School, Rathangan, Duncormick, Co. Wexford",
+        "St Anne's National School Rathangan, Co. Wexford"
+      ],
+      "note": "Co-educational Catholic primary, junior infants to 6th class, roll 19317K, 236 pupils in May 2025; 1.2 km per the sweep notes.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Whole-School Evaluation (May 2025, issued Oct 2025): learning, teaching, leadership and self-evaluation all 'good', wellbeing support 'very good'; no DEIS status noted."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Bridgetown College",
+      "candidates": [
+        "Bridgetown College, Bridgetown, Co. Wexford"
+      ],
+      "note": "Mixed WWETB school of about 600 pupils in Bridgetown, about 4.9 km; listed as DEIS on gov.ie.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Co-ed ETB school, DEIS per gov.ie; a 2025 Whole-School Evaluation exists but gov.ie returned 403, and no progression figure was found."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "St Peter's College, Wexford",
+      "candidates": [
+        "St Peter's College, Summerhill, Wexford"
+      ],
+      "note": "Boys' diocesan secondary on the west side of Wexford town, about 14 km in a straight line; Loreto Wexford is girls-only.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Named among Wexford's well-placed schools in the Irish Times feeder tables (South East Radio, Dec 2019); no recent percentage found."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Centra Bridgetown",
+      "candidates": [
+        "Centra, Main Street, Bridgetown, Co. Wexford"
+      ],
+      "note": "Rathangan has a church, school and pub but no shop was found; Duncormick's filling station and post office have closed, so Bridgetown's Centra (about 5 km) is the nearest found.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Wexford supermarkets",
+      "candidates": [
+        "Aldi, Wexford Retail Park, Clonard, Wexford",
+        "Tesco Extra, Distillery Road, Wexford",
+        "Lidl Wexford, Co. Wexford"
+      ],
+      "note": "Wexford town's full supermarkets, about 12–15 km north-east.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "The Silver Fox, Kilmore Quay",
+      "candidates": [
+        "The Silver Fox Seafood Restaurant, Kilmore Quay, Co. Wexford",
+        "Mary Barry's Bar and Restaurant, Kilmore Quay, Co. Wexford"
+      ],
+      "note": "Long-running seafood restaurant in Kilmore Quay, about 8 km; current opening not confirmed, and Mary Barry's is the fallback.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Wexford General Hospital",
+      "candidates": [
+        "Wexford General Hospital, Newtown Road, Wexford"
+      ],
+      "note": "All-ages 24-hour ED, about 14 km in a straight line; roughly 18–20 minutes by car.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Wexford town centre",
+      "candidates": [
+        "The Bullring, Wexford",
+        "Main Street, Wexford"
+      ],
+      "note": "Wexford (county town, about 21,000 people), about 12 km per the listing.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Waterford",
+      "candidates": [
+        "The Quay, Waterford"
+      ],
+      "note": "Nearest city, roughly an hour west via New Ross or the Ballyhack–Passage East ferry.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the N11 and M11.",
+      "category": "Towns and cities",
+      "day": "saturday"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities",
+      "day": "saturday"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Wexford O'Hanrahan station",
+      "candidates": [
+        "Wexford O'Hanrahan Railway Station, Redmond Place, Wexford",
+        "Wexford Train Station, Wexford"
+      ],
+      "note": "Rosslare–Dublin Connolly line: about 4 direct trains a weekday, about 2 h 40 min; about 15 km in a straight line.",
+      "category": "Getting away",
+      "day": "weekday"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away",
+      "day": "friday"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
