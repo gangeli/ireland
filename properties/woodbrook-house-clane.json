@@ -5,13 +5,13 @@
   "eircode": "W91 T9C5",
   "lat": 53.329764,
   "lng": -6.748685,
-  "listingUrl": "https://www.daft.ie/for-sale/woodbrook-house-kilmurray-clane-co-kildare/6570178",
+  "listingUrl": "https://www.daft.ie/for-sale/woodbrook-house-kilmurray-clane-co-kildare/6715117",
   "status": "Considering",
   "added": "2026-10-26",
   "area": "Clane, Co. Kildare",
   "agent": "Gero Gannon, Sherry FitzGerald Reilly (Clane)",
   "agentPhone": "045 868412",
-  "price": 1175000,
+  "price": 1200000,
   "type": "Detached period house (c.1850, extended c.2002)",
   "beds": 6,
   "bedsNote": "Two en-suite doubles on the ground floor, four upstairs; plus a detached ~1,000 sq ft mews (kitchen, shower room, two lofts)",
@@ -24,7 +24,7 @@
   "heating": "Oil-fired central heating, plus a wood-burning stove",
   "listed": "2026-06-27",
   "views": 10289,
-  "stampDuty": 13500,
+  "stampDuty": 14000,
   "tagline": "An ivy-covered 1850s house, extended in 2002, on 3 acres with paddocks and a sand arena, across the road from Donadea Forest Park, 6 km from Clane.",
   "photos": [
     {
@@ -100,7 +100,12 @@
   ],
   "cons": [
     {
-      "text": "€1,175,000, well over the brief",
+      "text": "Price raised from €1,175,000",
+      "weight": 1,
+      "detail": "Relisted on Daft on 6 Nov 2026 (new ID 6715117) at €1,200,000, up €25,000."
+    },
+    {
+      "text": "€1,200,000, well over the brief",
       "weight": 3,
       "detail": "€3,013/m², about 2.35 times the €500k line, with €13,500 stamp duty. It has been listed for 121 days (since 27 Jun) with no price change found, which gives some room to negotiate."
     },
@@ -829,7 +834,7 @@
   ],
   "ai": {
     "stars": 2.5,
-    "why": "A beautiful c.1850 house on 3 acres with two ground-floor en-suite bedrooms by Donadea Forest, but €1.175m to buy and a lot of house, grounds and arena to keep up; well past the budget."
+    "why": "A beautiful c.1850 house on 3 acres with two ground-floor en-suite bedrooms by Donadea Forest, but €1.2m to buy and a lot of house, grounds and arena to keep up; well past the budget."
   },
   "services": {
     "electricity": {
