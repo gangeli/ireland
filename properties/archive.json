@@ -420,6 +420,21 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/graiguesallagh-maynooth-co-kildare/6671639",
       "recheck": false
+    },
+    {
+      "id": "tankardstown-ballylynan",
+      "name": "Tankardstown",
+      "left": "2026-11-11",
+      "reason": "withdrawn 11 Nov (Daft and MyHome both redirect to a Ballylynan search without it)",
+      "lastPrice": 450000,
+      "aiStars": 3,
+      "human": {
+        "n": 1,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/tankardstown-ballylynan-co-laois/6706728",
+      "recheck": false,
+      "gone": true
     }
   ]
 }
