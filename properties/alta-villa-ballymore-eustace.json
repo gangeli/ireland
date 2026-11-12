@@ -1,0 +1,753 @@
+{
+  "id": "alta-villa-ballymore-eustace",
+  "name": "Alta Villa",
+  "address": "Alta Villa, Broadleas Commons, Ballymore Eustace, Co. Kildare",
+  "eircode": "W91 V1N2",
+  "lat": 53.121815,
+  "lng": -6.615292,
+  "listingUrl": "https://www.daft.ie/for-sale/alta-villa-broadleas-commons-ballymore-eustace-co-kildare-/6624583",
+  "status": "Considering",
+  "added": "2026-11-12",
+  "area": "Ballymore Eustace, Co. Kildare",
+  "agent": "John O'Reilly, Sherry FitzGerald O'Reilly, Naas",
+  "agentEmail": "info@sfor.ie",
+  "agentPhone": "045 866 466",
+  "questions": [
+    "Could the 3.15 × 2.8 m study take a double bed for older parents, and could a shower go into the ground-floor bathroom beside it (it has a bath only)? Alternatively, could the 8.1 × 4.05 m playroom become a bedroom, given that its stairs are the only way up to the two loft rooms?",
+    "The services aren't stated. Is the house on mains water or a private well, and is drainage to a septic tank? If septic, how old is it, where is it, and is it registered?",
+    "Can you send the folio map for the 0.65 acre? How far are the houses beyond the rear lawn, who owns the hedgerow boundary, and is it dog-proof all round? BuyerIQ shows a mapped flood zone about 0.2 km away: has the site or the lane ever flooded?",
+    "Do the two loft rooms in the 1988 extension have planning and building-regulation sign-off as habitable rooms, with a fire escape route? How old is the oil boiler, and has a radon test been done?",
+    "We'd hope to see it at the open viewing on Saturday 14 Nov, 12:00–12:15. Could we also have a longer private viewing, and is the NBI fibre line already connected?"
+  ],
+  "ai": {
+    "stars": 3,
+    "why": "The charm is real: an early-1800s stone house with 0.7 m walls, a slate roof, an Aga under a beamed, vaulted kitchen and old fireplaces, about 220 m² on 0.65 ac, 15–18 minutes from Naas and its adults' ED and about 20 minutes from Sallins' trains. Held back by only two small bathrooms for six, a small ground-floor study as the parents' room (bath, no shower), through-room access to the playroom and loft rooms, houses within about 25–100 m on one side, BER D and €530k."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely mains; not stated, but a lived-in house with an alarm and all appliances included."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Unknown; not stated in the Daft or MyHome listing. Rural site about 1.2 km south of the village, so ask whether it's mains or a well."
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Likely septic; not stated, rural site outside the village. Ask its age, location and registration."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Likely fibre; NBI lists Ballymore Eustace in its Blessington deployment area, and BuyerIQ's summary says '389 Mb full fibre' but its broadband panel shows no data. Not stated in the listing.",
+      "type": "Fibre",
+      "speed": "up to 500 Mb (unconfirmed)",
+      "provider": "NBI"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "check",
+    "detail": "No bedroom downstairs: the 3.15 × 2.8 m study sits beside the family bathroom (bath, WC, no shower), and the 8.1 × 4.05 m dual-aspect playroom has a washroom plumbed for a WC but is reached through the utility and holds the only stairs to the loft rooms."
+  },
+  "price": 530000,
+  "type": "Detached period house",
+  "beds": 3,
+  "bedsNote": "Three double bedrooms upstairs, plus two loft rooms (6.1 × 4.05 m and 3.35 × 3.35 m) over the 1988 extension, a ground-floor study and an 8.1 × 4.05 m playroom",
+  "baths": 2,
+  "floorM2": 220,
+  "landHa": 0.26,
+  "landAcres": 0.65,
+  "ber": "D2",
+  "berKwh": 263.95,
+  "heating": "Oil-fired central heating, a classic Aga in the kitchen, an electric stove in the dining-room brick fireplace and a cast-iron fireplace in the living room",
+  "listed": "2026-11-11",
+  "views": 1392,
+  "stampDuty": 5300,
+  "tagline": "An early-1800s stone house, extended in 1988, with about 220 m² on 0.65 acre at Broadleas Commons, about 1.2 km south of Ballymore Eustace village in west Kildare.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/8/5040817/c3df45dc-39d7-4714-8f80-17912fe5e6f8_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/8/5040817/2735a51a-ced0-4047-9fd6-dc330aee6db1_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/8/5040817/54c37d22-c647-4687-b67b-e1dae560715b_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/8/5040817/d8d52598-5b5a-4da3-9765-f3e201668199_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/8/5040817/aac8ac58-58ef-4207-b114-e78b0dbf9c85_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/8/5040817/0c1da6a4-101d-4a6f-a1f4-2e667e8ef838_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/8/5040817/c8a5d000-9db6-4fa5-8a82-478f66c011ed_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/7/1/8/5040817/181bff44-5866-4ac1-87e7-36da8ce4f4d5_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Genuine early-1800s character",
+      "weight": 3,
+      "detail": "Shown on the 1838 OS map; 0.7 m stone walls and a slate roof, a classic Aga in a red-brick surround under a vaulted, beamed kitchen, cast-iron and red-brick fireplaces, a built-in dresser and maple floors."
+    },
+    {
+      "text": "About 220 m² with generous common rooms",
+      "weight": 3,
+      "detail": "A triple-aspect 8.55 × 3.7 m kitchen/dining room, a 5.35 × 2.9 m family room with a wall of windows to the garden, an 8.1 × 4.05 m playroom, a dining room, a living room and a 3.6 × 3.35 m utility."
+    },
+    {
+      "text": "Naas and its adults' ED 15–18 minutes",
+      "weight": 2,
+      "detail": "Naas General's 24-hour ED (16+) is about 11 km in a straight line and Naas town about 13 km per the listing; the village, with a pharmacy, shop and pubs, is about 1.2 km north."
+    },
+    {
+      "text": "Frequent Dublin trains about 20 minutes away",
+      "weight": 2,
+      "detail": "Sallins & Naas station is about 14 km in a straight line, with about 25 weekday commuter departures towards Heuston and Grand Canal Dock (NTA data, Nov 2026)."
+    },
+    {
+      "text": "0.65 acre with a gated courtyard and a big rear lawn",
+      "weight": 2,
+      "detail": "A gated south-east-facing cobblelock courtyard, stone raised beds, a gravel drive for many cars, a patio off the family room, a rear lawn with a natural hedgerow boundary and two block-built sheds."
+    },
+    {
+      "text": "Good secondary within 9 km",
+      "weight": 1,
+      "detail": "Cross and Passion College, Kilcullen (mixed) sent 82% to third level in the 2025 Irish Times feeder table; Blessington Community College (mixed) is 7.4 km."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Only two small bathrooms for six",
+      "weight": 3,
+      "detail": "A 2.35 × 1.85 m ground-floor bathroom with a bath but no shower and a 1.85 × 1.7 m shower room upstairs; no en-suites. The playroom washroom has a basin and is plumbed for a WC only."
+    },
+    {
+      "text": "No ground-floor bedroom yet",
+      "weight": 2,
+      "detail": "The parents' room would be the 3.15 × 2.8 m (8.8 m²) study by the bath-only bathroom, or the 33 m² playroom, which is reached through the utility and holds the stairs to the loft rooms."
+    },
+    {
+      "text": "Awkward through-room layout and level changes",
+      "weight": 2,
+      "detail": "The floor plan shows steps down into the family room and up into the kitchen; the loft rooms are reached only through the playroom, and Loft Room 2 only through Loft Room 1."
+    },
+    {
+      "text": "Neighbours close on one side",
+      "weight": 2,
+      "detail": "OpenStreetMap shows about eight houses within 100 m, the nearest about 25–45 m south-west, and the rear-lawn photo shows a row of houses at the far end; open fields lie on the other sides. Not checked on satellite imagery."
+    },
+    {
+      "text": "BER D2 and an old house to heat",
+      "weight": 1,
+      "detail": "263.95 kWh/m²/yr on oil, with uPVC windows from 2012; stone walls and a 1988 extension suggest a rough €40–80k retrofit for a B rating (rough estimate)."
+    },
+    {
+      "text": "€530k, €30k over the line; services unstated",
+      "weight": 1,
+      "detail": "About €2,409/m², stamp duty €5,300. Water and drainage aren't stated, and BuyerIQ shows a mapped flood zone about 0.2 km away."
+    },
+    {
+      "text": "Village primary is oversubscribed",
+      "weight": 1,
+      "detail": "Scoil Mhuire turned away up to 16 junior-infant applicants in 2024 (one class of 26), so places for two boys aren't certain."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "category": "Schools",
+      "kind": "Primary school",
+      "title": "Scoil Mhuire, Ballymore Eustace",
+      "label": "School run",
+      "candidates": [
+        "Scoil Mhuire National School, Ballymore Eustace, Co. Kildare",
+        "Ballymore Eustace National School, Ballymore Eustace, Naas, Co. Kildare"
+      ],
+      "note": "Catholic, co-ed (roll 18055B, 104 boys and 111 girls per gov.ie), about 1.4 km per Daft; one junior-infant class of 26 turned away up to 16 children in 2024. Ballymore NS (Church of Ireland, co-ed, roll 18250W) is the village's other primary.",
+      "when": "08:20",
+      "group": "weekday",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Co-ed Catholic school of about 215 pupils, not known to be DEIS and in high demand; no inspection report could be read because gov.ie's report pages are behind a verification check."
+      },
+      "resolved": {
+        "at": "2026-11-12T14:09:22.017Z",
+        "dest": {
+          "name": "Scoil Mhuire",
+          "address": "Naas Rd, Ballymore Eustace East, Ballymore Eustace, Co. Kildare, W91 PF86",
+          "uri": "https://maps.google.com/?cid=121913114167468636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.1345526,
+          "lng": -6.6164575999999995,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Scoil Mhuire National School, Ballymore Eustace, Co. Kildare"
+        },
+        "duration": 206,
+        "distance": 1620,
+        "alts": [
+          {
+            "name": "Scoil Mhuire",
+            "duration": 206,
+            "distance": 1620
+          }
+        ],
+        "walk": {
+          "duration": 1294,
+          "distance": 1619
+        },
+        "bike": {
+          "duration": 376,
+          "distance": 1619
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 500 m of quiet, narrow hedged lane with no footpath, then footpaths through Ballymore Eustace village."
+        },
+        "bike": {
+          "level": "good",
+          "note": "A short, quiet ride: country lane, then the village main street."
+        }
+      }
+    },
+    {
+      "id": "secondary",
+      "category": "Schools",
+      "kind": "Secondary school",
+      "title": "Blessington Community College",
+      "label": "School run",
+      "candidates": [
+        "Blessington Community College, Naas Road, Blessington, Co. Wicklow"
+      ],
+      "note": "Mixed KWETB school (roll 70760S), about 715 pupils, 7.4 km per Daft; the nearest boys' or mixed secondary.",
+      "when": "08:05",
+      "group": "weekday",
+      "rating": {
+        "level": "Unknown",
+        "basis": "No progression figure could be read: the Irish Times feeder page shows none in search results and no local news roundup quoted one."
+      },
+      "resolved": {
+        "at": "2026-11-12T14:09:22.017Z",
+        "dest": {
+          "name": "Blessington Community College",
+          "address": "Naas Rd, Blessington Demesne, Blessington, Co. Wicklow",
+          "uri": "https://maps.google.com/?cid=15617271089791258598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.1695369,
+          "lng": -6.5391134,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Blessington Community College, Naas Road, Blessington, Co. Wicklow"
+        },
+        "duration": 766,
+        "distance": 10225,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2059,
+          "distance": 8549
+        }
+      }
+    },
+    {
+      "id": "secondary-good",
+      "category": "Schools",
+      "kind": "Good secondary school",
+      "title": "Cross and Passion College, Kilcullen",
+      "label": "School run",
+      "candidates": [
+        "Cross and Passion College, Kilcullen, Co. Kildare"
+      ],
+      "note": "Mixed Catholic secondary, about 841 pupils, 8.8 km per Daft. In Naas, CBS Naas (boys, 77%), Piper's Hill (mixed, 77%) and Naas Community College (mixed, 76%) are alternatives.",
+      "when": "08:05",
+      "group": "weekday",
+      "rating": {
+        "level": "Good",
+        "basis": "82% progression to third level from 117 Leaving Cert sitters in the 2025 Irish Times feeder table, as quoted by KFM (Jan 2026)."
+      },
+      "resolved": {
+        "at": "2026-11-12T14:09:22.017Z",
+        "dest": {
+          "name": "Cross and Passion College",
+          "address": "Kilcullen, Castlemartin, Kilcullen, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=1403207857607801627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.129803599999995,
+          "lng": -6.7476081,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Cross and Passion College, Kilcullen, Co. Kildare"
+        },
+        "duration": 908,
+        "distance": 11154,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2102,
+          "distance": 11154
+        }
+      }
+    },
+    {
+      "id": "shop",
+      "category": "Groceries",
+      "kind": "Village shop",
+      "title": "Costcutter, Ballymore Eustace",
+      "label": "Milk and the paper",
+      "candidates": [
+        "Costcutter Fogarty's, The Square, Ballymore Eustace, Co. Kildare",
+        "Fogarty's, The Square, Ballymore Eustace, Co. Kildare"
+      ],
+      "note": "Costcutter with the post office and the Cartwheel Cafe on The Square, about 1.2 km north; its building has been offered for sale as the owners retire, so check it's still trading.",
+      "when": "09:15",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-11-12T14:09:22.017Z",
+        "dest": {
+          "name": "Reddy's Costcutter",
+          "address": "Main St, Ballymore Eustace East, Ballymore Eustace, Co. Kildare, W91 ET80",
+          "uri": "https://maps.google.com/?cid=3052195956658027150&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.8,
+          "ratings": 13,
+          "lat": 53.1333566,
+          "lng": -6.6145224,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ4aIyNAeDZ0gRjjp8JQ2UWyo/photos/AV-0GLdlHj-xzGdisQy9pzkWisouxztGd7lulrNiN3SNq3L6ES3NCgleRslLw8gsdumzIePxFNJQnM5dwMDNyhBGv2x0ABM3X2n1j-I2Scm3vKZQxH_TKgZsJ4miZsaopcISS5nHR12AelstDsTcKapLkYoMgg_Ebm-EZH5qSUE8WjVyuzs9qnmIu7O5nXpSj2HPSnFEXg3wQpuELwx0BrK6bbPk-T8JH39GCRxamhOWhdEiULdqLGxV_lX6dWUmlkKGzGztuA3mrjb8oN0itVo2OYkFREBC-EbQgLAtfBjYVS2pw6fRqHcuY1uBO4drjRMReJrsdXIuAmjLjkuPOEjqP7zy6WUxe58NMuwCgjaXqnuzC5gO_Rn3hMLJeIjRlxRV-5or7OnjpSH09mqaqe-FJIW51sgoN7ZXFZPeP-T0XT5b1A/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Reddy's Costcutter",
+            "uri": "https://maps.google.com/maps/contrib/112663569840982570091"
+          },
+          "q": "Costcutter Fogarty's, The Square, Ballymore Eustace, Co. Kildare"
+        },
+        "duration": 171,
+        "distance": 1555,
+        "alts": [
+          {
+            "name": "Fogarty's of ballymore eustace",
+            "duration": 171,
+            "distance": 1561
+          }
+        ],
+        "walk": {
+          "duration": 1145,
+          "distance": 1436
+        },
+        "bike": {
+          "duration": 385,
+          "distance": 1555
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 500 m of quiet, narrow hedged lane with no footpath, then footpaths through Ballymore Eustace village."
+        },
+        "bike": {
+          "level": "good",
+          "note": "A short, quiet ride: country lane, then the village main street."
+        }
+      }
+    },
+    {
+      "id": "bigshop",
+      "category": "Groceries",
+      "kind": "Supermarket",
+      "title": "Aldi, Blessington",
+      "label": "The big shop",
+      "candidates": [
+        "Tesco, Blessington, Co. Wicklow",
+        "Aldi, Blessington, Co. Wicklow",
+        "Tesco Extra, Monread Road, Naas, Co. Kildare"
+      ],
+      "note": "Blessington is about 10 km and Naas about 13 km per the listing; both have full supermarkets.",
+      "when": "10:30",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-11-12T14:09:22.017Z",
+        "dest": {
+          "name": "ALDI",
+          "address": "Dublin Road, Blessington Demesne, Blessington, Co. Wicklow, W91 K310",
+          "uri": "https://maps.google.com/?cid=16869212287223131860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.3,
+          "ratings": 860,
+          "lat": 53.1746384,
+          "lng": -6.5288328,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ-TZskhudZ0gR1O6WxDJ7G-o/photos/AV-0GLfFk9Mk-l6VFg2t-khDHXxSTfM1nBiW6EOBo4pE7OXKvsl7PYtH4mgSxh1RSBfgq4N7ruTqZ94sJY_Y1e4cwOQhFy77QONi1En0bwC3jSwmgVtHyfKDz8r9g2iSB7xCLOYuSHr4Hejmfl9iqC_g4l20vWRCUBhlyMbNT0-e_aH7VQJdSPjOXveLZuCL3Ius-KK1TpJpF4FGa3MVpmXPhdLD5fmr8k3kfjjZWAssnCAz4JRdpTUuBA2BZLUibKjfv3QUtIVObTIQUPXEYxN2Dw0pNdRd1pYS8kumuYUpErBkuKyN6Pa9F5X1fHZ59uNoIScgYH7HB6OJKh_NF3AlDFcDp4uUWsPjezjzd9UEa6EFkQY2WWQgBxZgmqzo0Z04Zfy2gpapzR7-9Lsv8p-n4AwS7BAGEuU/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Gianluca Iumiento",
+            "uri": "https://maps.google.com/maps/contrib/116892060246229290400"
+          },
+          "q": "Aldi, Blessington, Co. Wicklow"
+        },
+        "duration": 879,
+        "distance": 10843,
+        "alts": [
+          {
+            "name": "Tesco Superstore",
+            "duration": 1015,
+            "distance": 12996
+          },
+          {
+            "name": "Tesco Extra",
+            "duration": 1507,
+            "distance": 15761
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 2254,
+          "distance": 9337
+        }
+      }
+    },
+    {
+      "id": "dinner",
+      "category": "Eating out",
+      "kind": "Restaurant",
+      "title": "The Ballymore Inn",
+      "label": "Dinner out",
+      "candidates": [
+        "The Ballymore Inn, Ballymore Eustace, Co. Kildare"
+      ],
+      "note": "Long-running food pub in the village, about 1.3 km north, with a restaurant and a casual back bar; Good Food Ireland approved since 2023.",
+      "when": "19:00",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-11-12T14:09:22.017Z",
+        "dest": {
+          "name": "The Ballymore Inn",
+          "address": "Main St, Ballymore Eustace East, Ballymore Eustace, Co. Kildare, W91 P024",
+          "uri": "https://maps.google.com/?cid=6212278450463403163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 893,
+          "lat": 53.1338693,
+          "lng": -6.6154234,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJI2Xl_JyDZ0gRm2yvLVZyNlY/photos/AV-0GLd4zcebBw4QX9HJbaHHldDKHoSilVTZuKKqM-XvPS-iYh9RIMG8hnBaxfZpEbGmbQSWDCGCPZ0nn4uTU5xhS_lheJaNX9yMJOkEsO0ZtREHq_lGATRublx-8YQPhDrsQRV1UXYZNy1ToWUcvBDgHN7KJ55b0nxSN1gzjLw2nD4O50Y8c1mf7Dc_8sOuELmSEbnakA5OUUDDcrmPkXvbRZluscMl8_-WY3ICtTC7CFgsGBUSDJu4lnLQlaFssb8c9RGEVBE0oRtFogdKrAhQu-rIhBV18HoW5flVlPmUbN4M_5PMi4gUtt7cv0V8xLTbXj3GE36mycDyVXoCcfDaTUGGKJkSRzVzK3Cv_ebUfW027cu3pG98Wkzp0x8k3RnZ6ykPKcK3kFHRYx1S2xJEaU8WXy69f70KxnH3VtjXytIxlQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "The Ballymore Inn",
+            "uri": "https://maps.google.com/maps/contrib/102733676441726185856"
+          },
+          "q": "The Ballymore Inn, Ballymore Eustace, Co. Kildare"
+        },
+        "duration": 203,
+        "distance": 1517,
+        "alts": [],
+        "walk": {
+          "duration": 1222,
+          "distance": 1517
+        },
+        "bike": {
+          "duration": 362,
+          "distance": 1517
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 500 m of quiet, narrow hedged lane with no footpath, then footpaths through Ballymore Eustace village."
+        },
+        "bike": {
+          "level": "good",
+          "note": "A short, quiet ride: country lane, then the village main street."
+        }
+      }
+    },
+    {
+      "id": "hospital",
+      "category": "Health",
+      "kind": "Emergency department",
+      "title": "Tallaght University Hospital",
+      "label": "The 3 a.m. trip",
+      "candidates": [
+        "Tallaght University Hospital, Tallaght, Dublin 24"
+      ],
+      "note": "Nearest 24-hour ED that takes children (Tallaght has a children's ED). For your parents, Naas General's adult ED is closer, about 15–18 min.",
+      "when": "03:00",
+      "group": "night",
+      "resolved": {
+        "at": "2026-11-12T14:09:22.017Z",
+        "dest": {
+          "name": "Tallaght University Hospital",
+          "address": "Tallaght, Dublin, Co. Dublin, D24 NR0A",
+          "uri": "https://maps.google.com/?cid=10000488260109434950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.1,
+          "ratings": 392,
+          "lat": 53.2911929,
+          "lng": -6.378605299999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJg3IYMbF0Z0gRRoBJdBbfyIo/photos/AV-0GLcfvtv5f-0bWPpwwiDGUvF_1un_HyXQKdNCCB8qKFuNQfrDGMR1qPlF6xWhyfdV2T3dNJ0X_yqhU4-w8Yuc7jSPMdP1SQAzArV1SXPaXG58kwi9S43OupJCgUHALrQIOZ20RBVv2ez9V2rYTPH_jhIeL_cFFRqqO0IWGi40vvbpVbY7t2e9qRX1_FdGLf5NGg8BzrZRfEgWGEeXFjdkssrTQm2u5pb_fABLixjHrTluyoRUzJIA23c8qc22i5Uu0ay-ZqOSaP-9k-aOi5lW2c9KRnAVBNBVtVdfR8nKZRfzeziI3bkhZUM2gnQopygHiFUgl6yDvtSViirpnGp-fdneJVYag1amarnV2zlTSGMMYlDtYkuRIMrPc8ekp5lew8knLYJW2nXsjnwhyn3H1oK8t98/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Horizontal Mapping",
+            "uri": "https://maps.google.com/maps/contrib/108452496593381222596"
+          },
+          "q": "Tallaght University Hospital, Tallaght, Dublin 24"
+        },
+        "duration": 1789,
+        "distance": 28218,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "town",
+      "category": "Towns and cities",
+      "kind": "Small town",
+      "title": "Naas",
+      "label": "Errands in town",
+      "candidates": [
+        "Main Street, Naas, Co. Kildare"
+      ],
+      "note": "County town with GPs, pharmacies and shopping, about 13 km per the listing; Blessington (about 10 km) is the smaller alternative.",
+      "when": "12:30",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-11-12T14:09:22.017Z",
+        "dest": {
+          "name": "South Main Street",
+          "address": "S Main St, Naas West, Naas, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=5686510874870009409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.216938,
+          "lng": -6.6643816,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJjXft5rx4Z0gRQc4FJIOL6k4/photos/AV-0GLe4Z1jeYvhkfJD-IOYYq_kF1cl2V5ZoFCpRz2cNPB83ex1qzX8vkXSVW4rM1Xd-eGCNdIPxojiPzzJuEdfukP6pFxPjZJxAwuRRkssWUU92nLE2kqrCYIZ2tF_u0GMHcXSr1ylhmUbOHWSc3EKYicdz7vDfrIxFSYtfMi7GeitxkzTVZu19lMC64HcvFRL1JdPLJVXiTG9-_IGQZXuIHKS9bCT__CpVUk5uxjBu_VghXTsiYWOWgfv04581AsVg1H4iVMzHLcdWE34zeFFwVx7Ng_XSr3Ff7zlYtaZ_9g48SgtJ8j0N90dNN7-Of0R1CPiEPdTVJZYRrM2EdxsR5sAb0EMFLDDo5UtjCS4Xww8UIrBLohJehN0KAkMh1C88vPkY7tsv8TwX9pULQMCCwJ4Wgn8/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Adam Drozynski",
+            "uri": "https://maps.google.com/maps/contrib/115881344565068077640"
+          },
+          "q": "Main Street, Naas, Co. Kildare"
+        },
+        "duration": 1012,
+        "distance": 12039,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2341,
+          "distance": 12039
+        }
+      }
+    },
+    {
+      "id": "city",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "Kilkenny",
+      "label": "Into the city",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Dublin is the real city here; Kilkenny for a day out.",
+      "when": "15:00",
+      "group": "weekday",
+      "resolved": {
+        "at": "2026-11-12T14:09:22.017Z",
+        "dest": {
+          "name": "Kilkenny Castle",
+          "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
+          "uri": "https://maps.google.com/?cid=14479754400188434760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 15648,
+          "lat": 52.6504632,
+          "lng": -7.249297400000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLcg64HPdrRnoVHH9zjirx9THFtDEHqqRW9lAZjaJfp6SrS_omXqeE-k27LOlg7rMf5zFIfafU2yWlZWQ-Xfl7xtk9jJhQr-EgC60zzVVTP-sUlgkP1Hj2svt-BW4GHAcqU0s4T3XaqlXHTJlTICn_b8_HbYEAoAGitJRCxNVU2NiRHFtOKNwA8jzOOgdLQ97h4ydObqT-9MuHtzLFSLmn7PWp0xnI1zl6WLcEHjyll-W6zjU7qGSaL1Q4-RHlGB3xx6sdIQ9S4D9cwqI3a1e_uCaZkcixx-VfjRKhQ8X6bve4Rd6mvObV8udPeZXBywiZBF66ms51820QKsZTup9FUb17MyD-2flSqC_DprzuxA0_v7y1f8d34IuLo_9PhT0UD43SsPLErqwgDSsiVQPOcW48RM/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "lahari anandur",
+            "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
+          },
+          "q": "Kilkenny Castle, Kilkenny"
+        },
+        "duration": 3714,
+        "distance": 88562,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "dublin",
+      "category": "Towns and cities",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "label": "Day in Dublin",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the N81 or the M7, or by train from Sallins.",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-11-12T14:09:22.017Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLdA284oAMGv3Oc8CWds58yuLn8ZWc9JHtDF286uSnnIzfO_X3Q6n_DZ2RdZaFSKpqRjHfxNhnfKHrvFlWbUeUtJwTY-2zkUn_O2UW7cpq0lC6vWGIK4mKrX17HgkkTwA9-YN6XVCZKuJ2kPR0Fq2OlLcxHYqt9OmNb_5crxs80C7sq_V4kv3YnlB3Ui9TZerytDrOPP431eL0HUNKcQ6TVl7y83EpM-Dpw8WQIdWAVPS6md3x4oVA9w9VlQmKR1HaPPbjcTc5ZbKmjwYsAkGLvBoAeiwb1e0M7o0Q71jRA0icRhpa9u9mC2BXulyceBLA1ejW3mWO3DrVoydWQe--GRzvDzmjQ6zJ24aBt2zwCwlUYsvZ6No3tCjNqWRI0gaEJkHzwLbcN-ZWqv_24Xggi_mg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 3186,
+        "distance": 41736,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "cork",
+      "category": "Towns and cities",
+      "kind": "City",
+      "title": "Cork city centre",
+      "label": "Weekend in Cork",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "when": "09:30",
+      "group": "further",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-11-12T14:09:22.017Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11790,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLcQ71xKc0GNKQML5gbVEkDQJ2V3LiF4U5LVTR6K9eYFHlWLmlfzn6Ai-YRL_-bW9MNIKMukKzgP9haPwE-t8qf9gZrnWVrI9Xtty2WiL_Tzlm2qE_ob_W9fo3jp_JhcoxE_wJdxpIJtKdneNs3YI9u1Wie2qGwIiZuKhp8ZHADiBzQHcfULiJSSmOeI3sQZRjUJYtmE9tSUjpjmo3f00aIiTBi3dus3E1y0lJbvx8rDjtdxhiHy5XLmLvkOIlGMuVqn40QU8f_ZytyvJLVLTX6sUsMkcxS2PzPX2ve8iJej6w2qsPKpwgiUWLYExN-bgIPgqTROPpiqSMo9O3F5Bl5QO7FTNOT_H71h0EkoGhNShkfy-AFHHnOvZJ2Prx_zqzXcFD4HJxBNW0GOxiBBA36cSOI/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 8791,
+        "distance": 229465,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "train",
+      "category": "Getting away",
+      "kind": "Station",
+      "title": "Sallins & Naas station",
+      "label": "Train to Dublin",
+      "candidates": [
+        "Sallins and Naas railway station, Sallins, Co. Kildare"
+      ],
+      "note": "Kildare line: about 25 weekday commuter departures towards Heuston and Grand Canal Dock (06:06–23:08, NTA data via bustimes.org, Nov 2026), about 35–50 min to Heuston.",
+      "when": "07:15",
+      "group": "further",
+      "day": "weekday",
+      "resolved": {
+        "at": "2026-11-12T14:09:22.017Z",
+        "dest": {
+          "name": "Sallins And Naas",
+          "address": "Osberstown, Kildare",
+          "uri": "https://maps.google.com/?cid=7787313135558992775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 111,
+          "lat": 53.246983,
+          "lng": -6.664663999999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJf8EWMeB4Z0gRhyO6rwkYEmw/photos/AV-0GLcSEmYHj148P0rzKsDBAuc_GNfhXo_K_SW1SOba64956T5fyfNIC4q3nMZcb4CXaFxb-yBmfrV668xfiDEiTxn9dxeZInZ8Nw0xRPsAl57htdq4t2Tr8PAAENxEFpIWcuPRCikR7e_AHayHOTmKXn3tUS4c7NGOXLLAfl98TrNEz06adpY2cxZm4Kke5CDFdo8W7pewT7R3fpemKV97gfd12e0iBoSRatUcC2Z2Oohy-n4sIbnusIzJW_6BRBsnKH_ZJ4Q6prvK-qLwU7lB3bJhmJOKOQr7TjqKPhbQhj07tmYpwjd3XSSzKZfxw5Yexf0-2YbefGnxvYyahBFfhA0OA0ginwkD0wPGiQM5axSTL5AqylxZD7oHk53bhNldlmIv4V9e2y9picR_2Gaqr_6Zr6HLljtXz0ARmng-I6Lveg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "J C",
+            "uri": "https://maps.google.com/maps/contrib/105670557760363051678"
+          },
+          "q": "Sallins and Naas railway station, Sallins, Co. Kildare"
+        },
+        "duration": 1349,
+        "distance": 15746,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 3044,
+          "distance": 16108
+        }
+      }
+    },
+    {
+      "id": "airport",
+      "category": "Getting away",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "label": "Flight home",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "when": "06:00",
+      "group": "further",
+      "day": "friday",
+      "resolved": {
+        "at": "2026-11-12T14:09:22.017Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42548,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLf44tgg32L0NtKV0J8GN2Z6WBYpxZwZ6mfJf48I6ZT38DeWWPRHlvuYtRcPgttUdp51mRGLmps2Rr8a5hpwQgAI4iZrPpA_kbfienrgh-EYRymypmBGjKhjonBGbY54ZD3Hq5z4Hwib0gOiAMBHMcHJ5aaybgfP5qbKiEukqVfNSXl7IjGzk3m9Fz84VnSIPs6OjrWuLN88mE_K_Z6JbhTrvG8qLTttl3e_ZCoCfFd_YyD2dIQDWdbgmWcxaUjaCe0tey26NKi0iHEpf7rBvo6ivzmCAqZ1uEmoXRouXGPv90rDB7TNKgUKtiffplYd4ya9tQmHnbUOfzO7xfvosARIYYawokowcmlj71iMuTMtJz897_QT4VeNAGJTnsb9NbfusarDnr4g2wqQoAHXUgL7wAwIicA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 2961,
+        "distance": 52974,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
