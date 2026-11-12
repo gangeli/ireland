@@ -1,0 +1,380 @@
+{
+  "id": "raheenduff-oulart",
+  "name": "Raheenduff",
+  "address": "Raheenduff, Oulart, Gorey, Co. Wexford",
+  "eircode": "Y25 A897",
+  "lat": 52.525478,
+  "lng": -6.38463,
+  "listingUrl": "https://www.daft.ie/for-sale/raheenduff-oulart-gorey-co-wexford/6719678",
+  "status": "Considering",
+  "added": "2026-11-12",
+  "area": "Oulart, Co. Wexford",
+  "agent": "Kinsella Estates (Carnew & Gorey)",
+  "agentEmail": "gorey@kinsellaestates.ie",
+  "agentPhone": "053 942 1718 / 087 269 1967",
+  "questions": [
+    "Bedroom 4 (3.91 × 3.7 m) is beside the ground-floor shower room. Is the shower a level-access walk-in or a tray with a step, and could a door be added from Bedroom 4 or the sunroom straight to the garden for older parents and their dogs?",
+    "What are the sheds and yard about 100 m north of the house used for (working farm, livestock, horses, contractor)? Are any of the 10 planning applications within 1 km, including the active build, on the fields beside this site?",
+    "Is the whole 0.69 ac boundary stock- and dog-proof, and are the hedges on the neighbours' sides (about 35–40 m to the houses north and south) on this folio (WX41232F)?",
+    "When were the septic tank and the well last inspected or tested? Is the tank registered, and is there a recent water-quality test? Has a radon test been done?",
+    "The house was listed with Phoenix Estates from September at €440k. Has anything come up on survey with earlier bidders, and has the timber frame (2003) had any damp or condensation issues?"
+  ],
+  "ai": {
+    "stars": 2.5,
+    "why": "A sound but plain 2003 timber-frame dormer, 183 m² with three bathrooms and a usable ground-floor bedroom beside a tiled shower room, on a hedged 0.69 ac at €420k. Held back by modest common rooms, neighbours about 35–40 m away with farm sheds about 100 m north, no GP or pharmacy in Oulart, and about 25 minutes to Wexford General."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely mains; not stated, but the house is lived in and fitted out."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private well; 'Water Well' in the listing's services. Ask for a recent water test."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank; 'Sewerage: Septic Tank' in the listing's services. Ask its age, registration and last inspection."
+    },
+    "internet": {
+      "status": "ok",
+      "detail": "Fibre; the listing says 'High-speed broadband available, with speeds of up to 500 Mbps' and BuyerIQ lists '102 Mb full fibre'. Provider not named; confirm on nbi.ie by Eircode.",
+      "type": "Fibre",
+      "speed": "up to 500 Mb",
+      "provider": "NBI (likely)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Bedroom 4 (3.91 × 3.7 m, timber floor, bay window, built-in wardrobe) is on the ground floor beside a fully tiled 2.3 × 2 m shower room, per the listing and the floor plan."
+  },
+  "price": 420000,
+  "type": "Detached dormer house",
+  "beds": 4,
+  "bedsNote": "Bedroom 4 on the ground floor; master (4.53 × 4 m, walk-in wardrobe, en-suite), Bedroom 2 (4.3 × 3.88 m) and Bedroom 3 (3.88 × 3.46 m) upstairs",
+  "baths": 3,
+  "floorM2": 182.6,
+  "landHa": 0.28,
+  "landAcres": 0.69,
+  "ber": "C1",
+  "berKwh": 151.46,
+  "heating": "Oil-fired central heating; solid-fuel stove in the living room",
+  "listed": "2026-11-11",
+  "views": 550,
+  "stampDuty": 4200,
+  "tagline": "A 2003 four-bed timber-frame dormer on 0.69 hedged acres off a quiet lane, about 3 km from Oulart and 13 km from Enniscorthy.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/5/8/5040858/f6126142-a9ff-4e01-9237-ee0625e8db98_x.jpeg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/5/8/5040858/f3539955-bf8c-4cd6-b099-0abd47adacf6_x.jpeg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/5/8/5040858/340e2d84-8c90-4d09-ba5a-3eaa75c73990_x.jpeg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/5/8/5040858/f263453a-444d-4eb5-ab7e-680df473ee46_x.jpeg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/5/8/5040858/adf55b13-dcb6-4954-a656-090af19936dc_x.jpeg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/5/8/5040858/ad6e9718-b31a-4676-a2de-3662db970162_x.jpeg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/5/8/5040858/ddb4f1a1-1760-48b7-ac84-b4ccdf93cb4e_x.jpeg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/5/8/5040858/5921a89b-050e-49e5-b6a8-9aa84804af9a_x.jpeg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/5/8/5040858/989d666d-2a94-4811-9253-187649a9eb28_x.jpeg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/8/5/8/5040858/9a4c49b0-7ea3-4124-ab31-2a7884ce8711_x.jpeg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Ground-floor bedroom beside a shower room",
+      "weight": 3,
+      "detail": "Bedroom 4 is 3.91 × 3.7 m with a bay window and built-in wardrobe, next to a fully tiled 2.3 × 2 m shower room; no conversion needed."
+    },
+    {
+      "text": "Three bathrooms, one full on each floor",
+      "weight": 2,
+      "detail": "Ground-floor shower room, a 3 × 1.9 m en-suite to the master, and a 3.6 × 2.79 m main bathroom with a bath and separate shower."
+    },
+    {
+      "text": "€420k, under budget",
+      "weight": 2,
+      "detail": "About €2,300/m²; stamp duty about €4,200. It was €440k with Phoenix Estates from September, so the price has already come down once."
+    },
+    {
+      "text": "0.69 ac with mature hedges",
+      "weight": 2,
+      "detail": "A 0.28 ha lawned plot with tall hedges on the boundaries, a large rear patio and fields on the east side; enough room for the dogs."
+    },
+    {
+      "text": "Detached garage and stores, about 50 m²",
+      "weight": 1,
+      "detail": "A 6.7 × 4.7 m garage/storage room (32 m² on the plan) plus two 5 m² stores; could serve as a workshop or gym."
+    },
+    {
+      "text": "Timber floors and a vaulted sunroom",
+      "weight": 1,
+      "detail": "Timber floors in the living rooms and all bedrooms (no carpet), a 4.17 × 4 m vaulted sunroom opening to the patio, and a stove in the living room."
+    },
+    {
+      "text": "Fibre broadband and a quiet lane",
+      "weight": 1,
+      "detail": "The listing gives up to 500 Mbps and BuyerIQ lists full fibre; BuyerIQ puts the address outside mapped noise zones, on a local lane (L5152)."
+    }
+  ],
+  "cons": [
+    {
+      "text": "A plain 2000s dormer with modest common rooms",
+      "weight": 2,
+      "detail": "Built in 2003, timber frame, 183 m² over two floors; the living room (3.97 × 4.68 m), dining room (3.78 × 3.96 m), kitchen (4.32 × 3.6 m) and sunroom are all separate mid-sized rooms, with no large family space."
+    },
+    {
+      "text": "Neighbours 35–40 m off and farm sheds about 100 m north",
+      "weight": 2,
+      "detail": "On satellite and the folio map, one-off houses sit on the plots directly north (about 40 m house to house) and south (about 33 m), with large sheds, a yard and an arena about 100 m north; hedges screen the boundaries. Cooney's grain store is at Raheenduff Cross Roads about 600 m south."
+    },
+    {
+      "text": "About 25 minutes to an ED, no GP in Oulart",
+      "weight": 2,
+      "detail": "Wexford General (all-ages 24-hour ED) is about 21 km in a straight line, about 27 km by road; the nearest GPs and pharmacies found are in Enniscorthy, about 13 km."
+    },
+    {
+      "text": "Rural services: well and septic tank",
+      "weight": 1,
+      "detail": "Water from a private well and drainage to a septic tank, per the listing; oil heating and BER C1 (151.46 kWh/m²/yr)."
+    },
+    {
+      "text": "Slow Dublin trains",
+      "weight": 2,
+      "detail": "Enniscorthy (about 15 km by road) and Gorey (about 20 km) have about 5 direct trains a weekday to Dublin Connolly, roughly 1 h 45 min to 2 h 20 min."
+    },
+    {
+      "text": "Two storeys, stairs for the main bedrooms",
+      "weight": 1,
+      "detail": "Three of the four bedrooms are upstairs under sloped ceilings; only Bedroom 4 and the shower room are on the ground floor."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Oulart N.S. (Scoil Mochua)",
+      "candidates": [
+        "Oulart National School, Oulart, Co. Wexford",
+        "Scoil Mochua Oulart, Gorey, Co. Wexford"
+      ],
+      "note": "Mixed Catholic primary, roll 15419V, about 143 pupils (70 boys, 73 girls) with eight teachers; about 3 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "A mixed, eight-teacher school of about 143 pupils; gov.ie lists a 2017 Follow-Through WSE-MLL inspection, but its report page returns 403, so quality could not be read."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Enniscorthy Community College",
+      "candidates": [
+        "Enniscorthy Community College, Enniscorthy, Co. Wexford",
+        "St Mary's CBS, Enniscorthy, Co. Wexford"
+      ],
+      "note": "Nearest mixed secondary, a WWETB school of about 470–490 pupils, about 13 km; St Mary's CBS (boys) is also in Enniscorthy, and Coláiste Bríde is girls-only.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "DEIS per scoilscout and enrolment up since 2019; no progression figure or inspection report could be retrieved."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "The better school",
+      "kind": "Good secondary school",
+      "title": "Gorey Community School",
+      "candidates": [
+        "Gorey Community School, Esmonde Street, Gorey, Co. Wexford"
+      ],
+      "note": "Mixed, about 1,540 pupils; about 20 km north.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Ireland's largest school (about 1,540, mixed, free) with wide subject choice and a long good reputation; no recent progression figure retrieved, so moderate confidence."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Spar Oulart",
+      "candidates": [
+        "Spar, Oulart, Co. Wexford",
+        "Corrigans, Oulart, Co. Wexford",
+        "Cooney's, Raheenduff, Oulart, Co. Wexford"
+      ],
+      "note": "The listing says Oulart (about 2.9 km) has a shop; a Spar (Y25 H6D6) and Corrigans are listed there, and Cooney's village store and pub is at Raheenduff Cross Roads about 600 m south. Which one still trades is unconfirmed.",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu Enniscorthy",
+      "candidates": [
+        "SuperValu, Abbey Street, Enniscorthy, Co. Wexford",
+        "Aldi, Bellfield, Enniscorthy, Co. Wexford",
+        "Tesco Extra, Paul Funge Boulevard, Gorey, Co. Wexford"
+      ],
+      "note": "Enniscorthy (about 13 km) has SuperValu and Aldi; Gorey's Tesco Extra is about 20 km.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Table Forty One, Gorey",
+      "candidates": [
+        "Table Forty One, Main Street, Gorey, Co. Wexford",
+        "Ashdown Park Hotel, Gorey, Co. Wexford",
+        "Fat Tomato, Enniscorthy, Co. Wexford"
+      ],
+      "note": "Gorey restaurants won five Wexford categories at the 2026 Restaurant Association Awards, including Table Forty One (restaurant manager) and Ashdown Park (hotel restaurant); Fat Tomato in Enniscorthy won innovator.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Wexford General Hospital",
+      "candidates": [
+        "Wexford General Hospital, Newtown Road, Wexford"
+      ],
+      "note": "All-ages 24-hour ED, about 21 km south in a straight line (roughly 27 km by road); Caredoc out-of-hours GP is in Enniscorthy.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Enniscorthy",
+      "candidates": [
+        "Market Square, Enniscorthy",
+        "Main Street, Gorey"
+      ],
+      "note": "Enniscorthy (about 13 km) for GP, pharmacy and errands; Gorey (about 20 km) the alternative. Oulart village has a school, church, shop and GAA club.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Waterford",
+      "candidates": [
+        "The Quay, Waterford",
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "Nearest cities are Waterford and Kilkenny, each over an hour away; Wexford town (about 22 km in a straight line) covers most needs.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the M11.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Enniscorthy",
+      "candidates": [
+        "Enniscorthy railway station",
+        "Gorey railway station"
+      ],
+      "note": "Rosslare–Dublin line: about 5 trains each weekday calling at Enniscorthy and Gorey, about 1h50–2h20 from Enniscorthy to Connolly (fastest from Gorey about 1h43).",
+      "category": "Getting away"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
