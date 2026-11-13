@@ -423,17 +423,17 @@
       "gone": true
     },
     {
-      "id": "monagee-cashel",
-      "name": "Monagee",
-      "left": "2026-11-12",
-      "reason": "tied at 3.0 with Alta Villa, Ballymore Eustace (new wins ties); weakest 3.0 incumbent on hard requirements (ground-floor bedrooms unconfirmed, no floor plan)",
-      "lastPrice": 350000,
+      "id": "alta-villa-ballymore-eustace",
+      "name": "Alta Villa",
+      "left": "2026-11-13",
+      "reason": "score fell to 2.67 (Gabor 2; George 3: 'Small/fractured common areas… neighbor are very close'); below archived houses still for sale at 3.0",
+      "lastPrice": 530000,
       "aiStars": 3,
       "human": {
-        "n": 1,
-        "avg": 3.0
+        "n": 2,
+        "avg": 2.5
       },
-      "listingUrl": "https://www.daft.ie/for-sale/bungalow-monagee-camus-cashel-co-tipperary/6706734",
+      "listingUrl": "https://www.daft.ie/for-sale/alta-villa-broadleas-commons-ballymore-eustace-co-kildare-/6624583",
       "recheck": true
     }
   ]

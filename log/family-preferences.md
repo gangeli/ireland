@@ -98,3 +98,7 @@ Gabor agreed with the 2.5 scores for the 2 Nov charm near misses (Dairyland Cott
 ## George and Gabor on Cappoge Lodge (7 Nov)
 - Both rated it 4. George: "Very nice, large enough house and grounds. Reasonable floor plan. May be noisy, as a major highway is next to it."
 - Contrast with Monmore (George 2): both are plain, carpeted houses near the N11/N25, but Cappoge is single-level, ~215 m² with two big living rooms, 3 baths and 1.3 screened acres, renovated in 2020. Size of house and grounds, a sensible floor plan and single-level living outweigh plainness and carpet. Plain + small or plain + close neighbours stays 2.5; plain but big, roomy, well laid out on generous screened grounds near an ED earns 3.0–3.5.
+
+## Alta Villa, Ballymore Eustace (12 Nov ratings)
+- Gabor 2, George 3. George: "Large enough house and yard. Floor plan is workable with adding at least one bathroom. Small/fractured common areas. Nice neighborhood, but neighbor are very close."
+- Even in the charm lane, an old house with small, fractured common rooms, only two bathrooms and close neighbours doesn't hold 3.0 for either of them. Score such houses 2.5 unless the common rooms are genuinely big and the plot is private. Charm earns a point only when the practical basics (space that flows, 3 baths or room to add them, privacy) are already there.
