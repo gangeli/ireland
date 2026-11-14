@@ -435,6 +435,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/alta-villa-broadleas-commons-ballymore-eustace-co-kildare-/6624583",
       "recheck": true
+    },
+    {
+      "id": "posey-cottage-graiguenamanagh",
+      "name": "Posey Cottage",
+      "left": "2026-11-14",
+      "reason": "sale agreed (MyHome header, updated 13 Nov; Daft card not yet updated)",
+      "lastPrice": 425000,
+      "aiStars": 3.5,
+      "human": {
+        "n": 2,
+        "avg": 4.0
+      },
+      "listingUrl": "https://www.myhome.ie/residential/brochure/posey-cottage-posey-graiguenamanagh-co-kilkenny/5034042",
+      "recheck": true
     }
   ]
 }
