@@ -281,20 +281,6 @@
       "recheck": false
     },
     {
-      "id": "leavalley-leixlip",
-      "name": "Leavalley",
-      "left": "2026-10-29",
-      "reason": "tied at 3.0 with new finds; new wins ties (Gabor, 29 Oct) — rated incumbent",
-      "lastPrice": 550000,
-      "aiStars": 2.0,
-      "human": {
-        "n": 2,
-        "avg": 3.5
-      },
-      "listingUrl": "https://www.daft.ie/for-sale/leavalley-confey-leixlip-co-kildare/6533852",
-      "recheck": false
-    },
-    {
       "id": "loughminane-green-kildare",
       "name": "73 Loughminane Green",
       "left": "2026-10-31",

@@ -158,6 +158,49 @@
       "rating": {
         "level": "Unknown",
         "basis": "Catholic, co-ed, non-DEIS; senior 301 pupils (3rd–6th), junior 265 (Scoilscout/Headstart); no inspection findings retrieved, so no verdict."
+      },
+      "resolved": {
+        "at": "2026-11-14T14:02:04.473Z",
+        "dest": {
+          "name": "San Carlo Senior School",
+          "address": "Captain's Hill, St. Catherine's Park, Leixlip, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=17513809002621679179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3703602,
+          "lng": -6.4881629,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "San Carlo Senior National School, Captain's Hill, Leixlip, Co. Kildare"
+        },
+        "duration": 308,
+        "distance": 1286,
+        "alts": [
+          {
+            "name": "San Carlo Senior School",
+            "duration": 308,
+            "distance": 1286
+          }
+        ],
+        "walk": {
+          "duration": 1024,
+          "distance": 1249
+        },
+        "bike": {
+          "duration": 281,
+          "distance": 1286
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 600 m of narrow country lane with no footpath, then footpaths on Captain's Hill and through the estates."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short ride: a quiet lane, then estate roads and a painted cycle lane."
+        }
       }
     },
     {
@@ -176,6 +219,52 @@
       "rating": {
         "level": "Good",
         "basis": "84% progression to third level in the Irish Times 2025 feeder table (128 LC sits), among the better non-fee-paying schools in Kildare."
+      },
+      "resolved": {
+        "at": "2026-11-14T14:02:04.473Z",
+        "dest": {
+          "name": "Confey Community College Leixlip",
+          "address": "River Forest, Confey, Leixlip, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=13810240047130567802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.8,
+          "ratings": 50,
+          "lat": 53.3728402,
+          "lng": -6.4983018999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJucUxoB1yZ0gRemQXMCfUp78/photos/AV-0GLfxBPN2QIvq0kdIjmW_LHzovCz42af8MfwiydbhmIn0jkSNoW1BwdgpXxLoPwMBlfMpdHxs4RcbT1JLBLIn9fC-8f4Q1ijGoQ6ObzT_ZupdkpbSLhRe6wuwUO_8QwcPqV81MN0lvzfi5Xi9XYmMb70mgxPoqOBa2JOgn23EiLEcvCcn6V45ARnkwGkgJIVfeonmRYy8bp-ejJC-3rprcWVp5mKpq-rsKAft2CFGGD3aw_k4VIHNukliOQaKhpmE7iBdphI6ia0PkmTRaaXhY_fiufU4QMh3NVJ4aY9J6cLHcQutnKoTQ_el7jaSfPb8sA-_4LlnVcM78Y5j40AGdQ904DhZwq27aYCBuW3c4Tn2cGfYhMNdZx4Ed3UUlXmkD_Cz7BhNril6He2b3bzmkWt74W6_U54/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "undefinednev",
+            "uri": "https://maps.google.com/maps/contrib/116992814993018778626"
+          },
+          "q": "Confey College, Leixlip, Co. Kildare"
+        },
+        "duration": 439,
+        "distance": 2485,
+        "alts": [
+          {
+            "name": "Confey Community College Leixlip",
+            "duration": 439,
+            "distance": 2485
+          }
+        ],
+        "walk": {
+          "duration": 1670,
+          "distance": 2019
+        },
+        "bike": {
+          "duration": 482,
+          "distance": 2485
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 600 m of narrow country lane with no footpath, then footpaths on Captain's Hill and through the estates."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short ride: a quiet lane, then estate roads and a painted cycle lane."
+        }
       }
     },
     {
@@ -190,7 +279,50 @@
       ],
       "note": "River Forest Newsagency in the Riverforest centre, Confey, Leixlip, is about 900 m away, a 12-minute walk.",
       "title": "River Forest Newsagency",
-      "category": "Groceries"
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-14T14:02:04.473Z",
+        "dest": {
+          "name": "River Forest Newsagency",
+          "address": "Unit 7 River Forest, Captains Hill, Newtown, Leixlip, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=16107582503879611261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 3,
+          "lat": 53.371208499999995,
+          "lng": -6.487966000000001,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "River Forest Newsagency Riverforest Shopping Centre Captain's Hill Leixlip Co. Kildare"
+        },
+        "duration": 229,
+        "distance": 1212,
+        "alts": [
+          {
+            "name": "SPAR",
+            "duration": 439,
+            "distance": 2039
+          }
+        ],
+        "walk": {
+          "duration": 960,
+          "distance": 1168
+        },
+        "bike": {
+          "duration": 272,
+          "distance": 1212
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 600 m of narrow country lane with no footpath, then footpaths on Captain's Hill and through the estates."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short ride: a quiet lane, then estate roads and a painted cycle lane."
+        }
+      }
     },
     {
       "id": "bigshop",
@@ -204,7 +336,58 @@
         "Lidl Station Road Leixlip Co. Kildare"
       ],
       "note": "Staunton's SuperValu in the Riverforest centre is about 900 m away; Aldi on Pound Street is 1.8 km and Lidl on Station Road 2.5 km, all in Leixlip.",
-      "category": "Groceries"
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-14T14:02:04.473Z",
+        "dest": {
+          "name": "SuperValu",
+          "address": "Riverforest Shopping Centre, Captain's Hill, Newtown, Leixlip, Co. Kildare, W23 H267",
+          "uri": "https://maps.google.com/?cid=3283621562861417916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 320,
+          "lat": 53.371301599999995,
+          "lng": -6.488352099999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJE9nkwBlyZ0gRvPUq_2nEkS0/photos/AV-0GLfcie5fk1ha79Q2fF3SXLG5SF6xDp6PAdwhwPA1CdpVYYojY5eoFqSsEosjiebuC3mcAeXDgxkLk86ITBk6f_XP8qLdvGQOvScF0ZvpHqRChZu7xxLOZNPd3_v8_7M8KezfTG-ogQb19L_Ky9kk7fDx3oFq78UL82Hth6awajqf0RfEzj7A2Z6ueIrgXrHbsn32wKnWywNLRgzq-5FV2wtjWoPQ7_E1gwrI9dtdBbcgZcdSe3Mk3Rqv5N8jSWHPzbtzMlhjI67NVYWDjuUPvdJcg6lrfFN-nzXhz8A5B1Kcva2pQfEqQN-XTLZsfMhXlZIhNclxHt3k4WuFqp6OfFjuIsZ9qwYTukULCebDVCvd9fxhsO4sF9PUoIw9TTnv2gQqb_dxajLtihEU0z8ZewLpcXdUdi8/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Ozymbrel",
+            "uri": "https://maps.google.com/maps/contrib/108452496593381222596"
+          },
+          "q": "SuperValu Riverforest Shopping Centre Captain's Hill Leixlip Co. Kildare"
+        },
+        "duration": 210,
+        "distance": 1239,
+        "alts": [
+          {
+            "name": "ALDI",
+            "duration": 324,
+            "distance": 2227
+          },
+          {
+            "name": "Lidl",
+            "duration": 524,
+            "distance": 4138
+          }
+        ],
+        "walk": {
+          "duration": 982,
+          "distance": 1195
+        },
+        "bike": {
+          "duration": 276,
+          "distance": 1239
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 600 m of narrow country lane with no footpath, then footpaths on Captain's Hill and through the estates."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short ride: a quiet lane, then estate roads and a painted cycle lane."
+        }
+      }
     },
     {
       "id": "dinner",
@@ -216,7 +399,47 @@
         "Salmon Leap Inn, Leixlip"
       ],
       "note": "The best-reviewed food pub in Leixlip.",
-      "category": "Eating out"
+      "category": "Eating out",
+      "resolved": {
+        "at": "2026-11-14T14:02:04.473Z",
+        "dest": {
+          "name": "The Salmon Leap Inn",
+          "address": "Leixlip Road, Cooldrinagh, Leixlip, Co. Dublin",
+          "uri": "https://maps.google.com/?cid=18175979160660217931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.5,
+          "ratings": 1680,
+          "lat": 53.362512699999996,
+          "lng": -6.4863646,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ7f3hDyNyZ0gRSxAOBL8MPvw/photos/AV-0GLfquU3yuSy4Aqoc38_v3itiN7pD1AjHfc3eE5rFUjb-yAkG9NY6b5esIW0Iz52Gc4f_NuanRbvjlDPYVoXzET-vhGBlr8-Ut2oLCpAIwkxwdqJW39fFYxJMyWH6sJMkH5aiAlg2DBODv-txzWnqYqtn4-Y0dD3ewRD_Tr_8xe2QYmAHu7KwnwUR3b2NjtFV0mHvRwfGA7mTRLb89WcXCC3lb-3jFhvSEjISTbiJxM9yWJV6fHP2YHEVqUzU5H-sHXK9gjYaRliLaIWlzXnBWjuiZe59ZDJEa1C5iDEhpDXgtpg5aykjzpjgC2aUaNIh6Lq1pLz6odaeR1IbSdCQF7Vw10pak8va7lQhBBfdQtpsX51YEjaWX7XbsTZYmraflo2Tndd365ytNcltC8XpLCQfPRNeSzI/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "The Salmon Leap Inn",
+            "uri": "https://maps.google.com/maps/contrib/100609990495728509984"
+          },
+          "q": "Salmon Leap Inn, Leixlip"
+        },
+        "duration": 367,
+        "distance": 2203,
+        "alts": [],
+        "walk": {
+          "duration": 1773,
+          "distance": 2172
+        },
+        "bike": {
+          "duration": 435,
+          "distance": 2203
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 600 m of narrow country lane with no footpath, then footpaths on Captain's Hill and through the estates."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short ride: a quiet lane, then estate roads and a painted cycle lane."
+        }
+      }
     },
     {
       "id": "hospital",
@@ -230,7 +453,40 @@
       ],
       "note": "Tallaght and Temple Street take children; Connolly (nearer, for adults) is 16+ only.",
       "title": "Tallaght University Hospital",
-      "category": "Health"
+      "category": "Health",
+      "resolved": {
+        "at": "2026-11-14T14:02:04.473Z",
+        "dest": {
+          "name": "Tallaght University Hospital",
+          "address": "Tallaght, Dublin, Co. Dublin, D24 NR0A",
+          "uri": "https://maps.google.com/?cid=10000488260109434950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.1,
+          "ratings": 392,
+          "lat": 53.2911929,
+          "lng": -6.378605299999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJg3IYMbF0Z0gRRoBJdBbfyIo/photos/AV-0GLclK2U0Qihf91aQo5cyONJaAzyCvtxVjHMMRv9lxhQlO4lSQnUQ9r6fRHMem_B8_LBlZPG_JzErFKY3dAhrY7XmgF75OqzahRDJA0bb7qSWwJ8KC61a9eBpquK161QkDKQtpUrMTuw1OXmI14bcEAlyt1IOv1lU12_78yWUcf8E11zpTjCcyn-bmri0IavO5-DutVtKo-JTYytqxXcO3UM9PCTZ7qSeCne6Wl7dLNQNbVnYt8_UTj_zrXUewPR5Sp10S5_5zfGkJjiEqOUFEZSOj1Wub2H_6e4M7yybSSbYDwoS_tIiLw3x27Jehk7WMSXhUJZFxz8d5FMBomnjHSCXfmOLNevma32_eJf0iBJ2Tlq0PCJp5iEEEoXU5rumaj-3aeSTZrJCGlI86eiyiLZoZSo/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Ozymbrel",
+            "uri": "https://maps.google.com/maps/contrib/108452496593381222596"
+          },
+          "q": "Tallaght University Hospital, Dublin"
+        },
+        "duration": 1264,
+        "distance": 19497,
+        "alts": [
+          {
+            "name": "CHI at Temple Street",
+            "duration": 1334,
+            "distance": 19098
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 3509,
+          "distance": 17102
+        }
+      }
     },
     {
       "id": "town",
@@ -244,7 +500,50 @@
       ],
       "note": "Leixlip for basics, Maynooth for more.",
       "title": "Leixlip",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-14T14:02:04.473Z",
+        "dest": {
+          "name": "Main Street",
+          "address": "Main St, Leixlip, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=8095856057173792292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3641067,
+          "lng": -6.4888524,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Main Street, Leixlip"
+        },
+        "duration": 303,
+        "distance": 1934,
+        "alts": [
+          {
+            "name": "Main Street",
+            "duration": 864,
+            "distance": 9731
+          }
+        ],
+        "walk": {
+          "duration": 1529,
+          "distance": 1896
+        },
+        "bike": {
+          "duration": 405,
+          "distance": 1934
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 600 m of narrow country lane with no footpath, then footpaths on Captain's Hill and through the estates."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short ride: a quiet lane, then estate roads and a painted cycle lane."
+        }
+      }
     },
     {
       "id": "city",
@@ -257,7 +556,34 @@
       ],
       "note": "Dublin is the city here.",
       "title": "Dublin",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-14T14:02:04.473Z",
+        "dest": {
+          "name": "Grafton Street",
+          "address": "Grafton Street, Dublin",
+          "uri": "https://maps.google.com/?cid=10425747079380786397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3416362,
+          "lng": -6.2601859,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8duOjJsOZ0gR3dyOELuxr5A/photos/AV-0GLdwDy8b0o9csx7TG1obHjicFMAwDJXUJheOgSkLBkmDLFQg0ujYzvIyPsdkfTMYfJ0ux6cFUCcIwN6w1VhpJhvEv019UOsstRKXSyGtZkz5cXxvkEJEuMP68nVY9v3E880PMs1x1CrV0AfJLOP6GypFFnCWU1e7wl-5h5zc2aE8nntw-RRXQDZvffoM1iJdzzRyTnLMtS6fRda1J4S3vYNyIdTXFhCAMXT38MiWqUAYp4YI-udr8QoUXaQMjWG7ap-WUyjfAyEc-7etwTYJvTXE5FF9-QgTh-LXWIddwHinhPGQfiTbPRZtJtEYyrWdbEFBXtebvmC5RvvmIZxKR0_xX5a2RpAgfyctXWC6FUG0oJ8smFxHAiOnG4FtNbnRRB0Ms677z-d9ItEAAgFo36uQKjVyX6DMjnwlySEtW_6EHQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Colby Lindsay",
+            "uri": "https://maps.google.com/maps/contrib/108013996015143080472"
+          },
+          "q": "Grafton Street, Dublin"
+        },
+        "duration": 2252,
+        "distance": 19449,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 3655,
+          "distance": 18633
+        }
+      }
     },
     {
       "id": "dublin",
@@ -271,7 +597,34 @@
       ],
       "note": "City centre by car. The train from Confey is the other way in.",
       "title": "Dublin city centre",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-14T14:02:04.473Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLd4OwjPYr2ctLkStpop407QmRYYQ5l7JZ18vRFkUlrN6Czw1hfPnWE2XdMBlxMm7dCLsvTWjgzjT3ckTOwcLJ4DZVpagEazHWereTekTSzT1O1SdyEKbKqukOlOskAdq-sL8bqIKMe55N_gRks28tWgPe-c5_9jGa1Ot3NxRViWQdu2RDiGDSnVhXxSuYCuAJ8DlEW42FyKmsYYKgBvWZNzXuKzwNflEDoeiR0gairKbI_hBfJTeVfVg2DnsPWyqzuB7qEK7zkRdBOKsKSB98QXLpHCGqIGjsf46A3qqN3YRyUmNli2zPBftsjtIP__SpdsR2Er2pCV50al63bVSZjJ3bSt_O9e61GvMWkXaOWYD85jr96kHk85sUgOiR4mKCPm_LHbnqWwuUssiJd-H7fO2g/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 1949,
+        "distance": 19485,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 3794,
+          "distance": 18999
+        }
+      }
     },
     {
       "id": "cork",
@@ -285,7 +638,31 @@
       ],
       "note": "",
       "title": "Cork city centre",
-      "category": "Towns and cities"
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-14T14:02:04.473Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11792,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLeVxFvyMHPmpHDmsUcf7I2pRgCG9PV6MiiTVyzHSsEdWCIG-i1P5zv1reJGNIzfGbgS-eXZyTXiUEGeAZFt2pCPsvUiJz2A7M3Oxt-8swIm-kgsJs6MmvSS0ecyw7Q2bkcw5ltbpa96Zxya05Y1smUAFhTbRwGV9fIhFeGlM0dao6sl0CDLS88p5D-zPIqeusTY1d-HH2ksBpKq9FSxsTDxQ0muF11SD24rWjliyO4s_rf89m7nj02zvdhwECGWe2a0vQGm37VxdoV3zt-bYRhA9wrHu4yRL3TrPi2ZQfIO5thokNNc8ntFWIUp_Y8mmHtQLD8vI3kGgjKfIwQS-a0leG5m90W7-qJy2QkTfsnTZnZer2cC2yAU4cf2H4gDByoljCOnfoBHsLOnPXy_ngDmdSQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 9819,
+        "distance": 255996,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     },
     {
       "id": "train",
@@ -298,7 +675,47 @@
         "Leixlip Confey railway station"
       ],
       "note": "Maynooth/Sligo line. Under 1 km, then about 35–40 minutes to Dublin Connolly.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-11-14T14:02:04.473Z",
+        "dest": {
+          "name": "Confey Railway Station",
+          "address": "Confey Railway Station, Captain's Hill, Newtown, Leixlip, Co. Kildare",
+          "uri": "https://maps.google.com/?cid=14081177495367040268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3740628,
+          "lng": -6.4854422,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJPwIbiBByZ0gRDL2TplNkasM/photos/AV-0GLeSpx4rkimQzKGI8VjWSv2NqSQQ7aOAmsBWI92jNHp_N0OQV8DMdibuDaMS-vr--vzvkL7mtdkWrKMpcWkE0nmJT5kZotou1Vj1pFyl0YiQ2Pmjx0aBRA5HtEXi4xOvjUJCbjYEAapTi-AW83ERryGG8Pl0_6RV8qQRH2roZb0yawP2XEZdOWeEAwAuCIwAvbZ3hWqtUPqpgrak_PK_MYaBswXfF0k1gVccDWbGdMfyIADVG01CeqTWdZjkPE-Ks_auBDACTYgMCp-Q7UHFLRGcJTo--peGbmey-0Qv0FEnw7C90Oj9fmN7MQTVK6SQwR4mcNkP5OibB7issVrS7fKe_J72BHcuIluRTwMQyvWhp1IwCdxvT3eWliwmJCXTrN_Z6zVLOtVsnccxZjwd02W4XvQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Amarjit Singh",
+            "uri": "https://maps.google.com/maps/contrib/117554684600723877533"
+          },
+          "q": "Leixlip Confey railway station"
+        },
+        "duration": 207,
+        "distance": 993,
+        "alts": [],
+        "walk": {
+          "duration": 799,
+          "distance": 956
+        },
+        "bike": {
+          "duration": 244,
+          "distance": 993
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 600 m of narrow country lane with no footpath, then footpaths on Captain's Hill and through the estates."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Short ride: a quiet lane, then estate roads and a painted cycle lane."
+        }
+      }
     },
     {
       "id": "airport",
@@ -311,7 +728,31 @@
         "Dublin Airport"
       ],
       "note": "The trip you and your parents will make most.",
-      "category": "Getting away"
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-11-14T14:02:04.473Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42612,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLeCn1FpHSkNRAtHnxHd-UlNsh5RNpA_3l29wF-1go-mr9SSSZx0EX0Y9wuF1eekM6ry02v-toksiPmV6xl0N0JeqLq8WXE3gqwa4YgqdEnHa1jaYDviKN1814lUav2dIgiMbgfU1UX2nXWFIhI5PoLj_G6eX3OsqGcDk209t22wQI49jxtuuGJ4pfkNqcI-zuaoSqvQooKNMHDZk2HvVbGIYojykX3iGWiQvxVo65mOVzAXpDAoL2g_xo3_fOq4GPULImIItikZEK-9pVs9OSSuyISSVoglr3zAyvZxlDuuwYtXCPf4WYNfjzhM4VkDuDv9uaI_OtBd7DfF_rPHeg8G3zVY8tU1Kke4T0xPgQx7P_zFssl_RYSy18DS6Qoiu268ueEfO-C9pJa7KDCYytU3gWHmTm0/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 1478,
+        "distance": 24394,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
     }
   ],
   "categories": [
@@ -323,7 +764,7 @@
     "Getting away"
   ],
   "ai": {
-    "stars": 2.0,
+    "stars": 2,
     "why": "Best Dublin and airport access, with fields around it for now. BER G, over budget, flood zone and zoning to check."
   },
   "services": {
