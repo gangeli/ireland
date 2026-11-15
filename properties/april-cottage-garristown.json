@@ -1,0 +1,373 @@
+{
+  "id": "april-cottage-garristown",
+  "name": "April Cottage",
+  "address": "April Cottage, Garristown, Co. Dublin",
+  "eircode": "A42 X046",
+  "lat": 53.56766,
+  "lng": -6.377054,
+  "listingUrl": "https://www.daft.ie/for-sale/april-cottage-garristown-co-dublin/6677523",
+  "status": "Considering",
+  "added": "2026-11-15",
+  "area": "Garristown, Co. Dublin",
+  "agent": "Gillian Gildea, Sherry FitzGerald Geraghty",
+  "agentEmail": "gillian@sfg.ie",
+  "agentPhone": "01 835 0577",
+  "questions": [
+    "When was April Cottage built, and when were the rear extension and dormer floor added? Is any of it an original old cottage, or is the stone a facing on a newer build?",
+    "The floor plan says 245 m² and the listing says 253 m². Which is right, and how much of the upstairs has full head height under the sloped ceilings?",
+    "How close are the neighbours behind the rear block wall and to each side, and who owns the boundary walls? What is planned on the two large housing sites BuyerIQ shows about 200 m away?",
+    "How much traffic uses the R130 at the gate, and is there a footpath all the way into Garristown village? Can you hear the boarding kennels or smell the village wastewater plant from the garden?",
+    "Has a radon test been done (BuyerIQ flags a moderate radon area), and how old is the oil boiler? Which broadband is connected now?"
+  ],
+  "ai": {
+    "stars": 2.5,
+    "why": "A roomy 253 m² four-double with big common rooms (a 9.6 × 6.1 m kitchen/living, a 6.5 × 6.0 m lounge, a sunroom), three bathrooms and a ground-floor double beside a full bathroom, a short walk from Garristown village and about 40 minutes from central Dublin. Held back by €580k, a modest walled 1/3 acre with neighbours 20–40 m off and on the R130 at the gate, a cottage-style build rather than a genuine old cottage, and about 30 minutes to the nearest all-ages ED. Held at 2.5: big rooms and three baths, but close neighbours behind block walls (~20–30 m), a mostly gravel 1/3 ac on the R130, a cottage-style build rather than an old cottage, and ~30 min to an ED — the Monmore/Alta Villa pattern."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "Mains; overhead lines run along the R130 in front of the house."
+    },
+    "water": {
+      "status": "ok",
+      "detail": "Mains; 'Mains Water' is in MyHome's features list."
+    },
+    "sewer": {
+      "status": "ok",
+      "detail": "Mains; 'Mains Waste' is in MyHome's features list."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Likely fibre; not in the listing, and BuyerIQ hides the speed behind its paywall. Check the Eircode on eir's and NBI's maps.",
+      "type": "Fibre",
+      "speed": "unconfirmed",
+      "provider": "open eir / NBI (check)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Bedroom 1 (4.78 × 3.75 m double, at the front) opens off the entrance hall next to a 3.75 × 2.45 m bathroom with a bath and a separate shower; it has no door of its own to the garden."
+  },
+  "price": 580000,
+  "type": "Detached dormer house",
+  "beds": 4,
+  "bedsNote": "Four doubles: one on the ground floor beside the main bathroom, and three large dormer bedrooms upstairs (6.70 × 3.62 m with walk-in wardrobe and en-suite, 6.60 × 3.80 m, 6.27 × 3.95 m), plus a 2.50 × 1.90 m office downstairs",
+  "baths": 3,
+  "floorM2": 253,
+  "landHa": 0.13,
+  "landAcres": 0.33,
+  "ber": "C1",
+  "berKwh": 161.88,
+  "heating": "Oil-fired central heating (OFCH), plus a multi-fuel stove in the lounge",
+  "listed": "2026-11-14",
+  "views": 934,
+  "stampDuty": 5800,
+  "tagline": "A stone-fronted, cottage-style four-bed dormer house of about 250 m² on a walled third of an acre on the R130, a short walk from Garristown village in north Fingal.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/4/3/5041343/51a5fea2-7cec-4f50-8e5c-83cc2ca3f493_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/4/3/5041343/3a706826-33d2-4c9a-912a-246451aece3b_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/4/3/5041343/d4b89012-865c-4ae1-bee6-bda9ed9c42a6_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/4/3/5041343/7c05af0b-b0d5-4c92-9804-c64494055655_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/4/3/5041343/10deb839-04f1-46e7-83b3-bef3e11599a0_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/4/3/5041343/f23c78d2-3b69-4b8f-a86a-6baf3fee8269_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/4/3/5041343/7f6bdfbf-121b-498a-b795-767ef8f10f5b_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/3/4/3/5041343/da40ee5f-3cf5-457f-8745-2f5a3f5c62e4_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "Big common rooms",
+      "weight": 3,
+      "detail": "Per the floor plan: a 9.63 × 6.08 m kitchen/dining/living room (about 58 m², dual aspect, double doors to the garden), a 6.45 × 5.96 m lounge (about 38 m²) with a multi-fuel stove, and a 3.85 × 3.32 m sunroom off it."
+    },
+    {
+      "text": "A ground-floor double beside a full bathroom",
+      "weight": 3,
+      "detail": "Bedroom 1 is 4.78 × 3.75 m (about 18 m²), off the hall next to a 3.75 × 2.45 m bathroom with a large bath and a separate shower."
+    },
+    {
+      "text": "Three bathrooms, four doubles",
+      "weight": 2,
+      "detail": "The ground-floor bathroom, an en-suite (2.25 × 2.18 m) with a walk-in wardrobe off the 6.70 × 3.62 m master, and a 2.11 × 2.07 m shower room on the landing; the three upstairs bedrooms are each over 23 m²."
+    },
+    {
+      "text": "Walk to Garristown village",
+      "weight": 2,
+      "detail": "Garristown National School 760 m and the Route 195 bus 510 m per the listing; the Mace and post office are on the same Naul Road, and Quinn's bar is in the village."
+    },
+    {
+      "text": "Mains water and sewer, oil heating",
+      "weight": 1,
+      "detail": "MyHome's features list says mains water, mains waste and OFCH; BER C1 at 161.88 kWh/m²/yr."
+    },
+    {
+      "text": "Stone front, walled and gated",
+      "weight": 1,
+      "detail": "A natural stone facade with brick reveals behind a stone wall with wrought-iron railings, gated gravel parking, and a south-facing walled rear garden with a raised lawn and shed."
+    },
+    {
+      "text": "Close to Dublin and the airport",
+      "weight": 1,
+      "detail": "Ashbourne about 12 km, Dublin Airport about 25 km and St Stephen's Green about 40 km; Gormanston station about 15 km for Northern Commuter trains."
+    }
+  ],
+  "cons": [
+    {
+      "text": "Neighbours close, little screening",
+      "weight": 3,
+      "detail": "The listing photos show a bungalow just behind the rear block wall (about 20–25 m from the house) and a dormer house across the R130 about 30 m away; the aerial shows houses on each side within about 20–40 m, with block walls rather than hedges or trees at the back."
+    },
+    {
+      "text": "€580k, €80k over the line",
+      "weight": 2,
+      "detail": "About €2,290/m² plus stamp duty of €5,800; within the ~€650k allowed near Dublin for something special, but well above the €500k norm."
+    },
+    {
+      "text": "A modest walled plot on the R130",
+      "weight": 2,
+      "detail": "About 1/3 acre (0.13 ha) by the listing, much of it gravel; the rear lawn is a raised strip, and the front wall stands on the R130 Naul Road, a regional road with a centre line."
+    },
+    {
+      "text": "About 30 minutes to an all-ages ED",
+      "weight": 2,
+      "detail": "Our Lady of Lourdes, Drogheda is about 27 km; Temple Street (children) and Beaumont/Connolly (adults) are about 35 km; Ashbourne has GPs and pharmacies about 12 km away."
+    },
+    {
+      "text": "Cottage-style, not an old cottage",
+      "weight": 1,
+      "detail": "The cut-stone facing, uPVC sash-style windows, dormer roof lights and rendered rear with pink trim suggest a 1990s–2000s build or a heavily rebuilt one; the build year isn't stated. Laminate floors in most rooms."
+    },
+    {
+      "text": "Development and neighbours nearby",
+      "weight": 1,
+      "detail": "BuyerIQ lists 10 planning applications within 1 km, including 2 large residential schemes about 200 m away (a building site is visible in the aerial); a boarding kennels and the village wastewater plant are marked nearby on the brochure map."
+    },
+    {
+      "text": "Floor-area mismatch; radon",
+      "weight": 1,
+      "detail": "The plan says 245 m² and the listing 253 m², and the upstairs rooms have sloping ceilings; BuyerIQ flags a moderate radon area."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Scoil Mhuire, Garristown",
+      "candidates": [
+        "Garristown National School, The Green, Garristown, Co. Dublin",
+        "Scoil Mhuire, Garristown, Co. Dublin"
+      ],
+      "note": "Catholic, co-educational village primary of about 190 pupils (roughly half boys); 760 m per the listing. Ardcath NS (about 4.4 km) is the nearest alternative.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed school of about 190 pupils (third-party directory and gov.ie enrolment); not known to be DEIS; gov.ie returned 403, so no inspection report could be read."
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Coláiste de Lacy, Ashbourne",
+      "candidates": [
+        "De Lacy College, Ashbourne Educational Campus, Killegland, Ashbourne, Co. Meath",
+        "Ashbourne Community School, Ashbourne, Co. Meath"
+      ],
+      "note": "Mixed ETB school about 6.6 km away per the listing; Ashbourne Community School (mixed, about 1,100 pupils) is 7.1 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "Irish Times feeder tables via the Meath Chronicle: 66% to third level in 2024 and 73% in 2025; Ashbourne Community School 65% and 70%, mid-table for Meath."
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Dunshaughlin Community College",
+      "candidates": [
+        "Dunshaughlin Community College, Dunshaughlin, Co. Meath"
+      ],
+      "note": "Mixed community college about 20 km south-west. Gormanston College (89%) is about 14 km but its fees and admissions weren't checked.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Irish Times feeder tables via the Meath Chronicle (2024): 86% progression to third level, well above the Ashbourne schools."
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Mace Garristown",
+      "candidates": [
+        "Mace, Naul Road, Garristown, Co. Dublin",
+        "Garristown Post Office, Naul Road, Garristown, Co. Dublin"
+      ],
+      "note": "The village Mace with the post office is on the same Naul Road (A42 VP04).",
+      "category": "Groceries"
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Ashbourne supermarkets",
+      "candidates": [
+        "Tesco, Ashbourne Town Centre, Ashbourne, Co. Meath",
+        "Lidl Ashbourne, Co. Meath",
+        "Aldi Ashbourne, Co. Meath"
+      ],
+      "note": "Ashbourne, about 12 km south-west, has the full range.",
+      "category": "Groceries"
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Quinn's Bar, Garristown",
+      "candidates": [
+        "Quinns Bar Grill & Guesthouse, Garristown, Co. Dublin"
+      ],
+      "note": "Village bar and grill with a beer garden, 4.8 from 19 OpenTable reviews (older reviews); current opening hours not checked.",
+      "category": "Eating out"
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Our Lady of Lourdes Hospital, Drogheda",
+      "candidates": [
+        "Our Lady of Lourdes Hospital, Drogheda",
+        "Children's Health Ireland at Temple Street, Dublin"
+      ],
+      "note": "24-hour ED for all ages, including children, about 27 km north. Temple Street (children) and Beaumont or Connolly (adults) are about 35 km south.",
+      "category": "Health"
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Ashbourne",
+      "candidates": [
+        "Main Street, Ashbourne, Co. Meath"
+      ],
+      "note": "Ashbourne, about 12 km: GPs, pharmacies, supermarkets and the secondary schools.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Drogheda",
+      "candidates": [
+        "West Street, Drogheda, Co. Louth",
+        "Swords Pavilions, Swords, Co. Dublin"
+      ],
+      "note": "Drogheda to the north or Swords to the east; Dublin itself is below.",
+      "category": "Towns and cities"
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the N2 or M1; the 195 bus or the train from Gormanston are the alternatives.",
+      "category": "Towns and cities",
+      "day": "saturday"
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities",
+      "day": "saturday"
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Gormanston station",
+      "candidates": [
+        "Gormanston railway station, Co. Meath",
+        "Balbriggan railway station, Co. Dublin"
+      ],
+      "note": "Northern Commuter line to Connolly, roughly hourly through the day with extra peak trains (about 45–60 min); the weekday count wasn't verified. Balbriggan is the alternative.",
+      "category": "Getting away",
+      "day": "weekday"
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "About 25 km, the trip you and your parents will make most.",
+      "category": "Getting away",
+      "day": "friday"
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
