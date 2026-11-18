@@ -1,0 +1,786 @@
+{
+  "id": "rathmoley-killenaule",
+  "name": "Rathmoley",
+  "address": "Rathmoley, Killenaule, Co. Tipperary",
+  "eircode": "E41 KD76",
+  "lat": 52.550339,
+  "lng": -7.69402,
+  "listingUrl": "https://www.daft.ie/for-sale/detached-house-rathmoley-killenaule-co-tipperary/6715681",
+  "status": "Considering",
+  "added": "2026-11-18",
+  "area": "Killenaule, Co. Tipperary",
+  "agent": "Jonathan Gleeson, Sherry FitzGerald Gleeson, Thurles",
+  "agentEmail": "jonathan@sfgleeson.ie",
+  "agentPhone": "0504 22997",
+  "questions": [
+    "Behind the rear stone wall the aerials show a neighbouring holding: vegetable plots, a long shed and what looks like a sand arena about 75 m from the house, and a house about 100 m south-east. Whose is it, what is it used for (horses, livestock, a business), and is there any planning on it? BuyerIQ lists 5 applications within 1 km, one an active build.",
+    "Could Bedroom 5 (3.17 × 2.76 m, en-suite with shower) and the playroom next to it (3.44 × 5.85 m, with kitchen units, a stove and its own outside door) be used as a parents' annex as they are, and would any planning or building-regulation sign-off be needed? Is the boundary around the patio outside that door dog-proof?",
+    "The brochure gives two sets of room labels and sizes: the second calls the ground-floor bedroom 'Bedroom 4', gives the sunroom as 3.42 × 8.13 m and the playroom as 3.33 m wide. Can you confirm the Giraffe360 plan (sunroom 3.42 × 5.85 m) is correct, and when was the house built?",
+    "Heating is electric underfloor on the ground floor plus solid-fuel stoves with a back boiler. What heats the first floor when the stoves are out, and what were the last 12 months' electricity and fuel bills?",
+    "What is the drainage: a septic tank or a treatment unit, how old, and is it registered? Which supply feeds the house, mains or the private well? Is fibre broadband connected (BuyerIQ shows about 100 Mb full fibre), and has a radon test been done?"
+  ],
+  "ai": {
+    "stars": 3,
+    "why": "A sound 225 m² stone-fronted house with big common rooms, three full bathrooms and a genuine ground-floor annex (en-suite bedroom plus a kitchenette playroom with its own door) on 1.31 ac at €475k, 20–25 min from Thurles trains. Held back by about 30 min to the ED in Clonmel, a neighbouring yard 45–100 m behind the rear wall, and a small 8.7 m² parents' bedroom. Held at 3.0 (like Cappoge Lodge): the neighbouring yard ~45 m behind the rear wall and ~30 min to the ED offset the extra bathroom and annex."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely mains; not stated, but a lived-in house with electric underfloor heating."
+    },
+    "water": {
+      "status": "ok",
+      "detail": "Mains; the brochure says mains water, plus a private well on site."
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Likely septic; not stated, rural site with no public sewer in the townland. Ask its type, age and registration."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Likely fibre; not in the listing. BuyerIQ shows '101 Mb full fibre' in one place and 'no data' in another. Check the Eircode on nbi.ie.",
+      "type": "Fibre",
+      "speed": "~100 Mb (unconfirmed)",
+      "provider": "NBI (check)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Bedroom 5 (3.17 × 2.76 m) is on the ground floor with its own shower en-suite, off a corridor that opens into the 3.44 × 5.85 m playroom with kitchen units, a stove and an outside door; the brochure pitches the pair as a granny-flat annex. The room itself is small for a couple."
+  },
+  "price": 475000,
+  "type": "Detached house (two-storey)",
+  "beds": 5,
+  "bedsNote": "Four bedrooms upstairs (one now a dressing room with en-suite, easily reinstated) plus en-suite Bedroom 5 on the ground floor",
+  "baths": 3,
+  "floorM2": 225,
+  "landHa": 0.53,
+  "landAcres": 1.31,
+  "ber": "C1",
+  "berKwh": 155.27,
+  "heating": "Electric underfloor heating on the ground floor; solid-fuel stoves in the sitting room, living area and playroom, one with a back boiler",
+  "listed": "2026-11-17",
+  "views": 889,
+  "stampDuty": 4750,
+  "tagline": "A stone-fronted five-bed country house of 225 m² with a ground-floor annex, big outbuildings and 1.31 elevated acres, about 2.5 km south-west of Killenaule.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/5/6/5041652/b67f2839-307e-414f-bce6-bf0594942c96_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/5/6/5041652/7cc669a5-358c-432f-bd15-e8e3bf63dad4_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/5/6/5041652/41409f90-e7d3-4f51-a86f-b45e069ba406_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/5/6/5041652/9a270876-07d7-4e17-baab-f52cc8deccb6_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/5/6/5041652/d13febce-4dc0-4ac6-9177-3dc5937f0172_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/5/6/5041652/bcdb87f3-dd2d-4c94-bcd0-e3d42e0f9983_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/5/6/5041652/660ff8c0-9115-418b-ad5d-6d142df941bd_x.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/5/6/5041652/6ec998b3-f7e1-475f-9a70-cecaca9d13db_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/5/6/5041652/f19f7c3e-ab43-45c0-8f0d-70140ceb26e1_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/2/5/6/5041652/eaed30fc-9994-47f0-bcf4-a80708680f92_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "A real ground-floor annex",
+      "weight": 3,
+      "detail": "Bedroom 5 (3.17 × 2.76 m) has a shower en-suite and sits beside the 3.44 × 5.85 m playroom, which already has kitchen units, a stove and its own door to the patio, so the parents get a bedroom, sitting room and garden door on one level."
+    },
+    {
+      "text": "225 m² with big common rooms",
+      "weight": 3,
+      "detail": "About 93 m² of living space downstairs: a 4.40 × 8.13 m kitchen/dining/living room with a stove, a 4.44 × 3.91 m sitting room with a stone fireplace, a vaulted 3.42 × 5.85 m sunroom with garden doors, and the playroom."
+    },
+    {
+      "text": "Three full bathrooms plus a guest WC",
+      "weight": 2,
+      "detail": "A shower en-suite on each floor and a 2.25 × 2.55 m family bathroom upstairs with a bath and separate shower; 5 bedrooms once the dressing room is reinstated."
+    },
+    {
+      "text": "1.31 acres with mature trees and stone walls",
+      "weight": 2,
+      "detail": "An elevated site with lawns, mature trees and hedgerows on the west and south, stone-pier entrance, post-and-rail fencing and long views to the hills."
+    },
+    {
+      "text": "€475k, under the €500k line",
+      "weight": 2,
+      "detail": "About €2,111/m²; stamp duty about €4,750. Turnkey, so little to spend before moving in."
+    },
+    {
+      "text": "Thurles trains 20–25 minutes away",
+      "weight": 2,
+      "detail": "Thurles, about 17 km in a straight line, is on the Cork–Dublin main line with at least 12 departures a day towards Heuston on the current NTA timetable, roughly 1 h 30 to Dublin."
+    },
+    {
+      "text": "Big outbuildings",
+      "weight": 1,
+      "detail": "An 87.8 m² detached garage/shed (6.43 × 9.27 m plus a 6.32 × 4.51 m store), a stable block and an older stone outbuilding."
+    },
+    {
+      "text": "Village basics 2.5 km away",
+      "weight": 1,
+      "detail": "Killenaule has a GP (Killenaule Surgery and the HSE health centre), a Centra, a mixed primary school and Scoil Ruain secondary."
+    }
+  ],
+  "cons": [
+    {
+      "text": "The ED is about 30 minutes away",
+      "weight": 3,
+      "detail": "Tipperary University Hospital, Clonmel (all-ages 24-hour ED) is about 22 km in a straight line; Cashel and Thurles are 20+ minutes, so medical care for the parents means a drive."
+    },
+    {
+      "text": "A neighbouring yard behind the rear wall",
+      "weight": 2,
+      "detail": "Satellite and the listing's aerials show a holding south-east with vegetable plots right behind the rear stone wall (~45 m from the house), a long shed and what looks like a sand arena (~75 m) and a house (~100 m), screened only by the wall and a few trees."
+    },
+    {
+      "text": "The parents' bedroom is small",
+      "weight": 2,
+      "detail": "Bedroom 5 is 3.17 × 2.76 m (8.7 m²), tight for a double bed and two older people; the playroom next door would have to serve as their sitting room."
+    },
+    {
+      "text": "Electric and solid-fuel heating",
+      "weight": 2,
+      "detail": "Electric underfloor heating downstairs plus three solid-fuel stoves, one with a back boiler; no oil boiler or heat pump is mentioned, so ask how the first floor is heated and what the bills are. BER C1, 155.27 kWh/m²/yr."
+    },
+    {
+      "text": "A two-storey house in the open country",
+      "weight": 1,
+      "detail": "The four main bedrooms are upstairs, and every errand is a 2.5 km drive to Killenaule or 10–15 km to Fethard or Cashel."
+    },
+    {
+      "text": "Local secondary is a small DEIS school",
+      "weight": 1,
+      "detail": "Scoil Ruain (mixed ETB, about 370 pupils) is DEIS; Rockwell College in Cashel (fee-paying) and the Thurles schools are 17+ km away."
+    },
+    {
+      "text": "Unknowns: drainage, broadband, listing errors",
+      "weight": 1,
+      "detail": "Drainage isn't stated (likely septic), broadband isn't in the listing, BuyerIQ flags one locked 'critical' finding, and the brochure's two room schedules disagree on labels and sizes."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Killenaule NS (St Mary's Central NS)",
+      "candidates": [
+        "Killenaule National School, Killenaule, Co. Tipperary",
+        "St Mary's Central National School, Killenaule, Co. Tipperary"
+      ],
+      "note": "Mixed Catholic primary, roll 19356U, junior infants to 6th class; about 140 pupils per the gov.ie listing. Daft lists it at 2.5 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed Catholic school of about 140 pupils taking boys to 6th class; no DEIS status found and no inspection report could be read (gov.ie returns 403)."
+      },
+      "resolved": {
+        "at": "2026-11-18T14:10:37.362Z",
+        "dest": {
+          "name": "Killenaule National School",
+          "address": "Bailey St, Killenaule, Co. Tipperary",
+          "uri": "https://maps.google.com/?cid=5274814348053500041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.570122899999994,
+          "lng": -7.675166300000001,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Killenaule National School, Killenaule, Co. Tipperary"
+        },
+        "duration": 334,
+        "distance": 3441,
+        "alts": [
+          {
+            "name": "Killenaule National School",
+            "duration": 334,
+            "distance": 3441
+          }
+        ],
+        "walk": {
+          "duration": 2750,
+          "distance": 3426
+        },
+        "bike": {
+          "duration": 708,
+          "distance": 3442
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 3.4 km of quiet country lanes and a local road with no footpath (past one farmyard) until Killenaule's streets; long for young children."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet lanes all the way into Killenaule; little traffic."
+        }
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Scoil Ruain, Killenaule",
+      "candidates": [
+        "Scoil Ruain, Killenaule, Co. Tipperary"
+      ],
+      "note": "Mixed, multi-denominational ETB school, roll 72430H, about 370–390 pupils, DEIS; Daft lists it at 2.7 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "DEIS ETB school; a Tipperary Live roundup of an older Irish Times feeder list gives about 92% progression from a small cohort of 49, but the year and figure could not be confirmed."
+      },
+      "resolved": {
+        "at": "2026-11-18T14:10:37.362Z",
+        "dest": {
+          "name": "Scoil Ruáin Killenaule cole",
+          "address": "Killenaule, Thurles, Co. Tipperary",
+          "uri": "https://maps.google.com/?cid=9011425708448824810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.8,
+          "ratings": 17,
+          "lat": 52.5719305,
+          "lng": -7.676740799999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJrcZW2FnoXEgR6j3q7-8DD30/photos/AV-0GLeDvgSjkp9DHMjIiNi2uzzqt-PCOumdcn8Ggc7S-P2S3ktxhiZQMi8Q4rX594YJb5vVKR-ykkL9NrV0ulBRsjiHD79FvF1jRNC0DB-MiZNC0BSQUrqHPS3ApMEVDsZQNGEVBd9V1i-ed2kM45Hmbs-yExc7XiKYgAl3LqwZUFdcqxgE4_RGZvo4FjODsQap4OxyVRhlGN3NBGNLQQxylji1r8Psrfcm0co_ov6q3TEkPV2CJ1a3VK_ixuoZJk9aZGLM92rAdhk_Ij8HY_XaZt9CxgSXHa3oWSWRpv3MA_LX1g-x6ruFgdKi7CFLfJmcAUC3ZQ1u8Z5Mo6HEQDSYX6dLZpFqYPaMWrYE8jA_lWqUxoF7XK5nMMhPQo-fTsqBztLjnHufSyI8qLkcICgqeYYzc10/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Tomas Bodnar",
+            "uri": "https://maps.google.com/maps/contrib/106818854642662693698"
+          },
+          "q": "Scoil Ruain, Killenaule, Co. Tipperary"
+        },
+        "duration": 413,
+        "distance": 3870,
+        "alts": [],
+        "walk": {
+          "duration": 2998,
+          "distance": 3731
+        },
+        "bike": {
+          "duration": 760,
+          "distance": 3731
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 3.4 km of quiet country lanes and a local road with no footpath (past one farmyard) until Killenaule's streets; long for young children."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet lanes all the way into Killenaule; little traffic."
+        }
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "Rockwell College",
+      "candidates": [
+        "Rockwell College, Cashel, Co. Tipperary"
+      ],
+      "note": "Mixed fee-paying day and boarding school near New Inn, about 17 km per Daft; CBS Thurles (boys) is a similar distance.",
+      "category": "Schools",
+      "rating": {
+        "level": "Strong",
+        "basis": "104% progression and 22nd nationally on an Irish Times feeder list as reported by Tipperary Live (year unclear); fee-paying."
+      },
+      "resolved": {
+        "at": "2026-11-18T14:10:37.362Z",
+        "dest": {
+          "name": "Rockwell College",
+          "address": "Rockwell, Newinn, Co. Tipperary, E25 ED60",
+          "uri": "https://maps.google.com/?cid=4947387179279650746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.4580716,
+          "lng": -7.8921594,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ6YYqP7HLXEgRug9JW22mqEQ/photos/AV-0GLcLCa_uxw8kY5Xhs13HbmXEIc6JOMgyG-ugvhfo1PiimcT3c2Rx7t0pHng4lW5927Ls2lMw24lJltiuUPlUdexULSU0jSVVrTS9NcPCkDLUOMw3Rf5qFDfAtf-RJKrjtFLIWe9jjXiLjJFADCFgTuVkZwENiM5obHiUwkv3ldnqqth4BQrw7z2XtL_GPxXW6aOuYRIlEDucTlMw_u6jmYK7MBpVHNzpxhBQTFFCbW0Hv4lDvas84Z6iQ9OFFAHUvsoGRkV1LTaM--jQZpxMOWO26Zj6EKS-wqI2Ry8e7Wca1TbVpjrui_ljvDJMiqE0rQ20X1LrSWVb-96qBgBPAqxy6vukc75T5bqTfKBmRQ06gwqT2Y1kYoglmmkIz0WUsxTdPgIs5n1FVXycqATVpNuk8nKJf5c/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Rockwell College",
+            "uri": "https://maps.google.com/maps/contrib/112143608988544628559"
+          },
+          "q": "Rockwell College, Cashel, Co. Tipperary"
+        },
+        "duration": 1739,
+        "distance": 25568,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Centra Killenaule",
+      "candidates": [
+        "Centra, Main Street, Killenaule, Co. Tipperary",
+        "Centra Killenaule, Co. Tipperary"
+      ],
+      "note": "The Centra on Main Street in Killenaule, about 2.5 km.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-18T14:10:37.362Z",
+        "dest": {
+          "name": "Centra Killenaule",
+          "address": "Main St, Killenaule, Co. Tipperary, E41 P8X3",
+          "uri": "https://maps.google.com/?cid=10187677478414250582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 32,
+          "lat": 52.5677952,
+          "lng": -7.6731894999999986,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJbeisHhbRXEgRVvIgo7DmYY0/photos/AV-0GLeNz56Tb4l9-o53-3Ry_lCQVXFBpGU3viBuGnL-T3ucUWD_3R-cfVmeqWfM6nfuTJi0N_F0BNJ2PQU63UBbP7kHSF0i9OmASj3PfL1v0kvSMp2CCbqfhxC7v4IEhRAISMFKrRpYHouSPZ5Y5kNioJktbC62xxgDluJh6nI1pn2E0ueENI-HAZHLNqL-dc2zuejacjlxWpsRYoL0o6KkEoBSpT7QWsERqFOLeFYUq_rJpEqqBOxd2E2vwRPHNG0di0m7KVhv1iEp4UfOVWa7xBhb-3TTeQkQDNKjXmLwW4q2PrMJtZ8as5CZfK8ZqE60ibpyS68mqAz2XyYAM6AWXSKautSfNEK_iOPIHvLrb7uRWFNTkma-rOjlPKzmvMlOtTObJ2cntH0jKwBX_2QReuiQk9qogTE/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Anna Tronts",
+            "uri": "https://maps.google.com/maps/contrib/102583747527117256230"
+          },
+          "q": "Centra, Main Street, Killenaule, Co. Tipperary"
+        },
+        "duration": 288,
+        "distance": 3147,
+        "alts": [
+          {
+            "name": "Centra Killenaule",
+            "duration": 288,
+            "distance": 3147
+          }
+        ],
+        "walk": {
+          "duration": 2534,
+          "distance": 3147
+        },
+        "bike": {
+          "duration": 649,
+          "distance": 3147
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 3.4 km of quiet country lanes and a local road with no footpath (past one farmyard) until Killenaule's streets; long for young children."
+        },
+        "bike": {
+          "level": "good",
+          "note": "Quiet lanes all the way into Killenaule; little traffic."
+        }
+      }
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Lidl Cashel",
+      "candidates": [
+        "Lidl, Cahir Road, Cashel, Co. Tipperary",
+        "Aldi, Cashel, Co. Tipperary",
+        "Tesco, Thurles, Co. Tipperary"
+      ],
+      "note": "Lidl and Aldi in Cashel, or Thurles's full set of supermarkets; both towns are 15–20 km.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-18T14:10:37.362Z",
+        "dest": {
+          "name": "Lidl",
+          "address": "Cahir Rd, Ashwell's-Lot, Cashel, Co. Tipperary, E25 KC78",
+          "uri": "https://maps.google.com/?cid=13929531044357788505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.4,
+          "ratings": 616,
+          "lat": 52.50936000000001,
+          "lng": -7.89069,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJyYjvOdzLXEgRWdO42q6iT8E/photos/AV-0GLeyqlbb8MSmMmnk2xhG9fkQ3GKseUJjRsRtk1ymFnn3hU6-o-ahuLUGyh-WJ9mQA_Q8Q3VPj1RH64NaGw9o2fHQXcXNzKXcDOkp5QyV-8vAVM_4RoHr7IGGtMXl3OCKO4pYnHdfyb_wYKp0FN6zQliOuLCidLsDCnVYTja9xsq1EeYvOaSjClRmc7ZwMZxz0XmFJMwIqXJ-UqI0NNf90rC-TSHQlVwJhqazC8Xq1vH4E6nNdNjryaSLNZeZkPbSzoBpB_jLeV5yqQC7x5tn8DCel22MIrgHoXg7FBkncU5tLpPb-ZhHDLxnZVkKer13tcs_BKH3DwKu_3ZP8PTGC1BY8a9nCl_Zgbn5-DnXnTldkV4tmE4k0ctRMFyPIvF15JqZBl4m2IaUP5DRzYOnJx04tMfdemk/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Bibin John",
+            "uri": "https://maps.google.com/maps/contrib/115383390192132714473"
+          },
+          "q": "Lidl, Cahir Road, Cashel, Co. Tipperary"
+        },
+        "duration": 1403,
+        "distance": 18617,
+        "alts": [
+          {
+            "name": "ALDI",
+            "duration": 1412,
+            "distance": 18426
+          },
+          {
+            "name": "Tesco Superstore",
+            "duration": 1618,
+            "distance": 21381
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 3846,
+          "distance": 19753
+        }
+      }
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Sadler's Bar & Restaurant, Fethard",
+      "candidates": [
+        "Sadler's Bar & Restaurant, Cashel Road, Fethard, Co. Tipperary"
+      ],
+      "note": "Good Food Ireland-approved modern Irish bar and restaurant in Fethard, about 10 km; dinner Friday and Saturday only, lunch daily.",
+      "category": "Eating out",
+      "resolved": {
+        "at": "2026-11-18T14:10:37.362Z",
+        "dest": {
+          "name": "Sadler's Restaurant",
+          "address": "Fethard, Cashel Road, Co. Tipperary, E91 W2N3",
+          "uri": "https://maps.google.com/?cid=13383952193396631170&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4,
+          "ratings": 142,
+          "lat": 52.4654242,
+          "lng": -7.699833399999998,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJw7Z31wPTXEgRgmY30ptZvbk/photos/AV-0GLcc88WHtM7fsJM7RfAko9UwnetvqMTbtAom7Z3a6s1yh1GrcFhXsch8E8PS8r4wfWVrZ3qXS2rLgr6v2ELDPPyhUxJRUxogomjXxxuNGvmBNDohZtJ35iuEepvA5Ud1RhVq8Gcr8-nKKzDrJJfSBFaEn-m-ai_U8a-fD0j9cR19qlc0ahmxUCnVdJONJwU44edAsEUQGUZ5EL4mdgxtff_etR6dmIDqA8hwizo2J6F4IoyAZwzLVEaSWT26brWFlxpNYvAIL4rB7H_n6kz5wb6pDyTK01XRXZdjHZoEh3456YH7pnnYt2kzu75lx4JK7h_lehnwBbSzLcmLoevpWl2OgA76M2ClJofHHC-OXFgThBTI64v0c2aP2gcB2q9v68z51FBf2GlIUjeJmWhSnNtJvM1b4F7QHL-J0dtMmJgjPw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Sadler's Restaurant",
+            "uri": "https://maps.google.com/maps/contrib/111892836673224013746"
+          },
+          "q": "Sadler's Bar & Restaurant, Cashel Road, Fethard, Co. Tipperary"
+        },
+        "duration": 768,
+        "distance": 10554,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1620,
+          "distance": 10554
+        }
+      }
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Tipperary University Hospital",
+      "candidates": [
+        "Tipperary University Hospital, Western Road, Clonmel, Co. Tipperary"
+      ],
+      "note": "All-ages 24-hour ED in Clonmel, about 22 km south in a straight line.",
+      "category": "Health",
+      "resolved": {
+        "at": "2026-11-18T14:10:37.362Z",
+        "dest": {
+          "name": "South Tipperary General Hospital",
+          "address": "South Tipperary General Hospital, Clonmel, Co. Tipperary",
+          "uri": "https://maps.google.com/?cid=8849419159255485903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.3552895,
+          "lng": -7.7145723,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJl9YS3-8xQ0gRz431z9Zzz3o/photos/AV-0GLcVAJMq1bLIs9ulyLBmuUTo5vjk8DRgXMUCmmGe3Tfngx41KrwlkNDEVgOrahyrThNShGlcl0a1JimOiWkK4qgucIVvmqOyEOwEMIjA668EQ9LElODkIQYBdoSh0Tcrn1wnoxTFWRomtgHZixRxKHe-rDwIaviSplFpylnVb9DlfVxbRiovJ36Jq49fU0XXkAK6LCRXny7L4xBSGnaG9ZS-DGHS-ko77x0p60Chux3H5L8B3UGOu3Jkj7uE3xSQD2XFDQQb-iJRdVb--A0RVemVS2URYmBQi7HjOj1TlYFhad8BuY35f757C7nr-FsAJAQkfpUeM4291NJfg3XB0I_FyKjsEaheCobzjUHE8bf06WzctTEozHsUrTFrwtqneuqAIgd9TQImr_JW8I0sEjAZTcgtqh8/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Dr Mosaab Abdalla",
+            "uri": "https://maps.google.com/maps/contrib/114771299533147342019"
+          },
+          "q": "Tipperary University Hospital, Western Road, Clonmel, Co. Tipperary"
+        },
+        "duration": 1755,
+        "distance": 24569,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Cashel",
+      "candidates": [
+        "Main Street, Cashel, Co. Tipperary",
+        "Liberty Square, Thurles, Co. Tipperary"
+      ],
+      "note": "Cashel (about 13 km) or Thurles (about 17 km) for pharmacies, banks and shops; Fethard (about 9 km) is smaller.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-18T14:10:37.362Z",
+        "dest": {
+          "name": "Main Street",
+          "address": "Main St, Cashel, Co. Tipperary",
+          "uri": "https://maps.google.com/?cid=11581385536360457618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.5164452,
+          "lng": -7.8885329,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJRatok9zLXEgRkqWc1chYuaA/photos/AV-0GLcNDruvA1dRdx0dkmBiAJAEvNgKoeM0O83wbLr0_7nyto8EPMFCOhbs_ndwzml2lUjhPKbwry8yzH8mgOrxuLip7T3T2BQdepKI0YxoUcRCF6PsKSjVihFDEHsD_vCs6jdkQzzdMp-3TpEuI7ZApPgD4QJPMlpHUKBNbIEMbSvjV3H7soWOJZaflTpp1Ti8ZAeiJ0IsPX81n2UKAOGuRsSfwanl1V0DcrHh4ThW8ejONZ7B4aOFJjB3OINnIv8DIDnu390470THkvusZhKUMyFz9JCeQPyTSwCW1WcfX-NfsQLEbwIZMlS8G9rbVEN5OB-Tbj1Ddgr1Bio2A789xqW74F3Tq2iRJUp8nyiddR6DfMbdQKEn9oIPS3RLwdA3mxcx6lZPLZtr_0i3JJkV7D3YrytBTbU/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Cathal Harte",
+            "uri": "https://maps.google.com/maps/contrib/112192589442889432595"
+          },
+          "q": "Main Street, Cashel, Co. Tipperary"
+        },
+        "duration": 1305,
+        "distance": 17898,
+        "alts": [
+          {
+            "name": "Liberty Square",
+            "duration": 1647,
+            "distance": 21417
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 3453,
+          "distance": 17898
+        }
+      }
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny",
+        "The Quay, Waterford"
+      ],
+      "note": "Kilkenny is the nearest city, about 30 km east in a straight line; Waterford is the alternative.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-18T14:10:37.362Z",
+        "dest": {
+          "name": "Kilkenny Castle",
+          "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
+          "uri": "https://maps.google.com/?cid=14479754400188434760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 15658,
+          "lat": 52.6504632,
+          "lng": -7.249297400000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLfWEEcKW6xvNQlL0aIKuaLW9p8C36w-fCMQ9y0QkHuWcr0qm0wL87EzepCmAn_NYCO9w7LSyE0GbgIN-O-L1ROC7TyYniuE3WzfPM0kYJYklf8Ynj1RzcBLDhREb1qtR7k_6ryLREaqGhMsRdLcqwzBCTskCt-s6aWRRUHXgnKLf2h71n5CPTuzF16NgDczqnjokIt3p4G8F1CCo8JbyZCaK-6m7L2zVA7xlcyQYf2y9T8eJIazENxZErx5kI3JNf19cj9bxUBId-wpc8kzyd5Mhy2M9ox7BswvmQWKRt6XE1jyep4jbFVV7XO-LGtT3hWPZpb9BZ1-XEav4ZZAzocPJ6T6iJNHWRsX849P41cOszw_hGfI6dXGKyGJGEtVLhcLgYlMgRx7DscavPN_H2jgItzP/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "lahari anandur",
+            "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
+          },
+          "q": "Kilkenny Castle, Kilkenny"
+        },
+        "duration": 2806,
+        "distance": 40034,
+        "alts": [
+          {
+            "name": "Centra The Quay, Waterford",
+            "duration": 4091,
+            "distance": 64179
+          }
+        ],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the M8, or the train from Thurles to Heuston.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-18T14:10:37.362Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLepBxX5-hZkA5tCzMQSymiztrU6loReNjTPlSPjP7khiRGuMl1gTE_ZM_4ZNX0G2FhZHWD4v2vc0zbn9JUBQAiQCYP3N95HRIm52Xei0SUPEoCcS4BQNZApG3n67S9Y47oMDck7hAUm679qPHlPFm5KRDs1MdYxIXc-5djnk1q44ezAZPElJgA9U85attYd33ic4Bf4fZ62q-kGqkREp1Hu3vK85-dpdXcEp47ymz5WBHthvXSIAL7-eYoIlbrCPspAFbWB52Ut-JRIJ3A6NuBvK-5BXwbO752xCNJD9Kf5xSv7N2yFbjXhWGMa3W_Qz0TIVfpSaCjiCA8RIP9FfTrvSaIXQBeK4w5ntfSqbmkTY9kUFTdU2jLyoTc-V38XZwhquuFgt9llypoaYYS5bCcukA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 7085,
+        "distance": 159780,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "day": "saturday",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-18T14:10:37.362Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11804,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLf0UcwiPBynRXhpZ0M0Hulq5pj3bRCH4Jj_77sn5BRAjO7qSSNWzLlU05M1hpj54OjdCLPkEkloiW_n3TUon6GQ5rxw57yj7HzPefuYJvWKK_BNccybo9iUbbCiadVubFpxbPZVkKzkbaA-2sNSSr3NcaWBU7Zu8rkMb_iJ5QG9BvpJ2FFYguc5EqwoT4DGGvcIzD5CXZFQIV_bx8dyEOPsed2i2kmNuznzI-MHnuyqsgId61I4qHGV1qYBFWqivqNjWOx0hKi2eQYIBjxblyzlYnw3WI31guTSRqGNQDXn2fxDBnAbc0PTcAi_L9mEvtJMO10Aa-FsYHpNTkCbwnj6cMvfThJ8lLVAK8vzWpMpv2nICBWNSYeJFJl9Hi00v_NSsMPxc6tDjVyv2oT8g0lOiNw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 5027,
+        "distance": 116313,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "day": "weekday",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Thurles station",
+      "candidates": [
+        "Thurles Railway Station, Thurles, Co. Tipperary"
+      ],
+      "note": "Cork–Dublin Heuston main line: at least 12 departures a day towards Heuston on the NTA timetable (Nov 2026), roughly 1 h 30 to Dublin.",
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-11-18T14:10:37.362Z",
+        "dest": {
+          "name": "Thurles Railway Station",
+          "address": "Thurles Railway Station, Railway Rd, Garryvicleheen, Thurles, Co. Tipperary",
+          "uri": "https://maps.google.com/?cid=12237891509593948764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.6765142,
+          "lng": -7.8221292,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ0V7I7OvEXEgRXMIdJX251ak/photos/AV-0GLeC4MzxDoZ0IFW4BpQjjMKUs1JgfRXkCIGJalwUqYAh66DB9EOXnOFWHDcW43svBxzgaSLZC6BGQSWQNAvchJe6VxXmJeRMCyrp-JNmjEOAVVRoojvkO858mUnEE-iGn0hHsw-VCNGdjFUXRJwz6y4XgSsxLZwQKGNjlu-qim36xZ5Ke127uPBlTTjydv3mZKqmoUZs3o7HorP-AAK1whRoMeZ_jIOD_dI9hYWYruoeC6JGaXQWCUK8nhDi9FTwJgx1rvRVJFKWj4hMrkIL55DZBPUUJYj82-QbSQHezAFgqAXotZhqstne6NsExbZv5ReRLDEVeApFTg1C4MRPiz1Bu1nzrJDVYMivJT_4i4WA0VnCA2teunHHwzOL3U9egX-ALIvi5iSrb_dVhj5Pzz9IVKM/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Shauna Keating",
+            "uri": "https://maps.google.com/maps/contrib/116550405575929034847"
+          },
+          "q": "Thurles Railway Station, Thurles, Co. Tipperary"
+        },
+        "duration": 1532,
+        "distance": 21730,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "day": "friday",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away",
+      "resolved": {
+        "at": "2026-11-18T14:10:37.362Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42728,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLdMUeoyt9bIkZ9_0VU2QQgmKqmcedQ7geQdF9A8ZlaCWv-o0gU930ErBeBgnYoqdbGmT2kMzwNLOi9es19mkicHWaew1UyZhP4R39QcPKXFcu-hqe5matl5pVIjQ5MmtMdEiXq8gP1SUc5PnbeRJ7cp6XbWGIBR9c2uK_Mm611sWAkoxBLqlBF7doXq6P1cmcA5HJ2ZcGDLvIGwL8rVNeAuWIO9nML1xYGp4IG1biBvuKynnUOUFFji1-LmrsANyhCwMeOw40rU0G7FE4wadl1r1SRusmGiawrm5F8xzYUxiQereeh7Z8I3W308u98rGeRBzV6FRrdn_veJT0tLcGveu8mqjLsuvYAQ3XuAWulqMQoefUweoBfPLEGtKvQmgK9OluMEr0lHX3KFTKUjWjm3eNOY2kE/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 7264,
+        "distance": 171018,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

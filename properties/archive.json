@@ -435,6 +435,34 @@
       },
       "listingUrl": "https://www.myhome.ie/residential/brochure/posey-cottage-posey-graiguenamanagh-co-kilkenny/5034042",
       "recheck": true
+    },
+    {
+      "id": "monagee-cashel",
+      "name": "Monagee",
+      "left": "2026-11-18",
+      "reason": "tied at 3.0 with new finds (Rathmoley, Garryvadden; new wins ties); weakest on hard requirements (ground-floor bedrooms unconfirmed, no floor plan)",
+      "lastPrice": 350000,
+      "aiStars": 3,
+      "human": {
+        "n": 1,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/bungalow-monagee-camus-cashel-co-tipperary/6706734",
+      "recheck": true
+    },
+    {
+      "id": "the-cottage-monasterboice",
+      "name": "The Cottage",
+      "left": "2026-11-18",
+      "reason": "tied at 3.0 with new finds (Rathmoley, Garryvadden; new wins ties); no ground-floor bedroom",
+      "lastPrice": 595000,
+      "aiStars": 3,
+      "human": {
+        "n": 2,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/the-cottage-newtown-monasterboice-co-louth/6626272",
+      "recheck": true
     }
   ]
 }

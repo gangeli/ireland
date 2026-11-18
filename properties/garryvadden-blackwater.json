@@ -1,0 +1,767 @@
+{
+  "id": "garryvadden-blackwater",
+  "name": "Garryvadden",
+  "address": "Garryvadden, Castletalbot, Blackwater, Co. Wexford",
+  "eircode": "Y21 PW94",
+  "lat": 52.453712,
+  "lng": -6.358058,
+  "listingUrl": "https://www.daft.ie/for-sale/garryvadden-castletalbot-blackwater-co-wexford/6710952",
+  "status": "Considering",
+  "added": "2026-11-18",
+  "area": "Blackwater, Co. Wexford",
+  "agent": "Sonia Pallas, Sherry FitzGerald Radford, Wexford",
+  "agentEmail": "sonia@radfordauctioneers.com",
+  "agentPhone": "087 902 9548 / 053 914 6046",
+  "questions": [
+    "BuyerIQ shows a mapped river flood zone about 10 m from the address. Which watercourse is it, has any part of the garden or the lane flooded, and was the road into Blackwater cut off when the river burst its banks in the village during Storm Claudia?",
+    "Could the floor plan be marked with the steps? We read it as the master suite, bedrooms 2 and 3 and the family bathroom on the entrance level, with steps down to Bedroom 4 and from the kitchen down to the family room. How many steps are there in each place, and could either flight take a ramp?",
+    "The listing says 3 baths, but the guest WC has a toilet, basin and urinal only. Is there plumbing or space to add a shower there or in the utility, so there is a third full bathroom?",
+    "What are the well's yield and latest water test results? How old is the septic tank, and when was it last desludged or inspected?",
+    "Who owns the large shed in the next field to the east, and what is it used for? Are any of the 3 planning applications BuyerIQ lists within 1 km on the fields beside the house? Is the whole boundary dog-proof, and does an overhead line cross the garden?"
+  ],
+  "ai": {
+    "stars": 3,
+    "why": "A bright, architect-designed 213 m² split-level bungalow, A3 and turnkey, on a private, hedged 1.16 ac with fields on every side and a village 1 km away. Held back by a guide of €650k+ (the top of the range), only two full bathrooms for six, steps down to the family room and Bedroom 4, about 20–25 minutes to Wexford General, and a mapped flood zone about 10 m away."
+  },
+  "services": {
+    "electricity": {
+      "status": "ok",
+      "detail": "Mains; plus solar PV, an EV charger and power to the shed and treehouse."
+    },
+    "water": {
+      "status": "check",
+      "detail": "Private well; stated in the features. Ask the well's yield and latest water test results."
+    },
+    "sewer": {
+      "status": "check",
+      "detail": "Septic tank; stated in the features ('Private septic tank'). Ask its age, location and last desludging or inspection."
+    },
+    "internet": {
+      "status": "unknown",
+      "detail": "Unknown; the listing doesn't mention broadband and BuyerIQ's broadband data is paywalled. Rural Wexford is in NBI's fibre rollout, so check the Eircode on the NBI map.",
+      "type": "Fibre",
+      "speed": "unconfirmed",
+      "provider": "NBI (check)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "Single storey: the 5.28 × 5.10 m master suite, with a walk-through wardrobe and a step-in-shower en-suite, is on the entrance level beside the front door and kitchen. Bedroom 4 and the family room are a few steps down, and the bedroom wing has no door straight to the garden."
+  },
+  "price": 650000,
+  "type": "Detached split-level bungalow",
+  "beds": 4,
+  "bedsNote": "Four bedrooms: a 5.28 × 5.10 m master suite, bedrooms 2 and 3 (4.00 × 2.98 m each) and a 5.10 × 3.37 m Bedroom 4 down steps at the end of the wing, plus a 2.84 × 2.16 m study.",
+  "baths": 2,
+  "floorM2": 213,
+  "landHa": 0.47,
+  "landAcres": 1.16,
+  "ber": "A3",
+  "berKwh": 52.8,
+  "heating": "Air-to-water heat pump with heat recovery ventilation, solar panels for hot water and electricity; open fire in the living room, wood-burning stove in the family room",
+  "listed": "2026-11-18",
+  "views": 290,
+  "stampDuty": 6500,
+  "tagline": "An architect-designed, A3-rated 213 m² split-level bungalow on 1.16 hedged acres among fields, about 1 km north-west of Blackwater village and 20 km from Wexford town.",
+  "photos": [
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/7/5041766/bfdf8f78-bac7-47d2-b60f-121f6c78736a_x.jpg",
+      "role": "facade"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/7/5041766/a98d5704-a281-41d9-9ef3-0a99223c343b_x.jpg",
+      "role": "garden"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/7/5041766/d6772d78-db5d-45ea-ac4b-8cf35b21e098_x.jpg",
+      "role": "interior"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/7/5041766/011caa66-436d-4828-a97b-dedc90e6dee1_x.jpg",
+      "role": "floorplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/7/5041766/4a302d6f-5f0b-43d9-b6b7-88b838f3be12_x.jpg",
+      "role": "siteplan"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/7/5041766/a61581e2-f2aa-45a0-996c-bef1f2358296_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/7/5041766/ce30e72c-fa5b-4318-90d4-f32eb047dc4f_x.jpg"
+    },
+    {
+      "url": "https://photos-a.propertyimages.ie/media/6/6/7/5041766/4e9aef29-34ab-4c7d-a220-059defff969f_x.jpg"
+    }
+  ],
+  "pros": [
+    {
+      "text": "213 m² with three living spaces",
+      "weight": 3,
+      "detail": "A 5.09 × 4.79 m living room with a bay and an open fire, an 8.65 × 4.96 m vaulted kitchen/dining room with an island, and a 5.59 × 5.09 m family room with beams and a stove, plus a study and a utility."
+    },
+    {
+      "text": "A private, hedged 1.16 acres among fields",
+      "weight": 3,
+      "detail": "The drone shots show fields on every side and mature hedges and trees all round; the nearest house is across the lane about 120–150 m to the north-east, others about 150–200 m west. There's an orchard, two patios, a half-court and a gated entrance."
+    },
+    {
+      "text": "Light and character",
+      "weight": 2,
+      "detail": "Vaulted ceilings with Velux windows, exposed beams, full-height gable glazing in the family room and dual-aspect rooms; architect-designed rather than a standard bungalow."
+    },
+    {
+      "text": "Master suite on the entrance level",
+      "weight": 2,
+      "detail": "The 5.28 × 5.10 m master has a walk-through wardrobe and a step-in-shower en-suite, on the same level as the front door, kitchen and living room."
+    },
+    {
+      "text": "A3 and turnkey",
+      "weight": 1,
+      "detail": "52.8 kWh/m²/yr from an air-to-water heat pump, heat recovery ventilation and solar PV and hot water; EV charger; presented in move-in condition."
+    },
+    {
+      "text": "Village 1 km away",
+      "weight": 2,
+      "detail": "Blackwater has a national school (232 pupils, 1.1 km per Daft), a Spar, pubs, a church and a GAA club, with a Bus Éireann 379 stop to Wexford about 1 km away; Curracloe and the coast are close."
+    }
+  ],
+  "cons": [
+    {
+      "text": "€650k+ guide, at the top of the range",
+      "weight": 3,
+      "detail": "Offers in excess of €650,000 (about €3,050/m², stamp duty about €6,500), €150k over the €500k norm and at the cap for special houses; the final price could be higher."
+    },
+    {
+      "text": "Only two full bathrooms for six",
+      "weight": 2,
+      "detail": "The listing's '3 baths' counts a 2.08 × 1.27 m guest WC with a toilet, basin and urinal; the full bathrooms are the master's shower en-suite and a 3.98 × 2.37 m family bathroom with a bath and a walk-in shower."
+    },
+    {
+      "text": "Split level: steps inside",
+      "weight": 2,
+      "detail": "From the floor plan, the family room is down steps from the kitchen and Bedroom 4 is down steps at the end of the bedroom corridor; the parents would have the main level, but the family room isn't step-free."
+    },
+    {
+      "text": "A mapped flood zone about 10 m away",
+      "weight": 2,
+      "detail": "BuyerIQ places a moderate river flood zone about 10 m from the address, and the River Blackwater flooded houses in the village during Storm Claudia; the house itself is not reported to have flooded."
+    },
+    {
+      "text": "About 20–25 minutes to town and the ED",
+      "weight": 2,
+      "detail": "Wexford town is 20 km per the listing and Wexford General's all-ages ED roughly 22–25 minutes by car; Enniscorthy is about 15 km; there's no supermarket, GP or pharmacy in the village that we could confirm."
+    },
+    {
+      "text": "Pond, well and septic",
+      "weight": 1,
+      "detail": "A wildlife pond by the patio needs fencing for small boys; water is from a private well and drainage to a septic tank."
+    },
+    {
+      "text": "Slow Dublin trains",
+      "weight": 1,
+      "detail": "Enniscorthy station, about 15 km, has about 5 direct trains a weekday to Dublin, taking a little over 2 hours."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Blackwater National School",
+      "candidates": [
+        "Blackwater National School, Blackwater, Co. Wexford",
+        "Scoil Naomh Bríd Blackwater, Co. Wexford"
+      ],
+      "note": "Co-educational Catholic primary (Scoil Naomh Bríd), about 232 pupils, 1.1 km per the listing.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Co-ed Catholic school of about 232–235 pupils with 12 teachers (2024 advert); no DEIS status found, and no inspection report could be read because gov.ie is behind a verification check."
+      },
+      "resolved": {
+        "at": "2026-11-18T14:11:19.755Z",
+        "dest": {
+          "name": "Scoil Naomh Bríde",
+          "address": "Blackwater National School, Blackwater, Enniscorthy, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=2005690002045036698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.445802099999995,
+          "lng": -6.347995,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Blackwater National School, Blackwater, Co. Wexford"
+        },
+        "duration": 158,
+        "distance": 1746,
+        "alts": [
+          {
+            "name": "Scoil Naomh Bríde",
+            "duration": 158,
+            "distance": 1746
+          }
+        ],
+        "walk": {
+          "duration": 1398,
+          "distance": 1745
+        },
+        "bike": {
+          "duration": 364,
+          "distance": 1746
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 1.6 km on a quiet hedged lane with no footpath, then the village approach with a footpath into Blackwater."
+        },
+        "bike": {
+          "level": "good",
+          "note": "A short, quiet ride into Blackwater village."
+        }
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "Coláiste an Átha, Kilmuckridge",
+      "candidates": [
+        "Coláiste an Átha, Kilmuckridge, Co. Wexford"
+      ],
+      "note": "Mixed ETB community college of about 366 pupils, about 8 km north-east; it also runs PLC agriculture courses.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed ETB school; no recent feeder-table progression figure or inspection result found (the Irish Times feeder pages returned errors)."
+      },
+      "resolved": {
+        "at": "2026-11-18T14:11:19.755Z",
+        "dest": {
+          "name": "Coláiste An Átha",
+          "address": "R742, Ballygarran, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=6681178561360324178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.5,
+          "ratings": 11,
+          "lat": 52.5117691,
+          "lng": -6.2861996,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Coláiste an Átha, Kilmuckridge, Co. Wexford"
+        },
+        "duration": 731,
+        "distance": 10558,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2245,
+          "distance": 10978
+        }
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Good secondary school",
+      "title": "St Peter's College, Wexford",
+      "candidates": [
+        "St Peter's College, Summerhill, Wexford"
+      ],
+      "note": "Boys' diocesan secondary of about 785 pupils, about 15 km; Meanscoil Gharman (Irish-medium, mixed) in Enniscorthy is the other strong option.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Named among Wexford's well-performing schools in the Irish Times feeder tables (South East Radio, Dec 2019); no recent percentage found."
+      },
+      "resolved": {
+        "at": "2026-11-18T14:11:19.755Z",
+        "dest": {
+          "name": "St. Peter's College Secondary School",
+          "address": "Summerhill Heights, Townparks, Wexford, Y35 P8WT",
+          "uri": "https://maps.google.com/?cid=15928080058911983556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.3352216,
+          "lng": -6.473201899999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJrbzUybEPZ0gRxIduSWzoC90/photos/AV-0GLeuRy57uOTFRqmZCOfBnGrkrq-UZLjDXkVu4yWa1UEQEhKKJac2-odQRnS-KZ9ONiurxePOggvKkOG8Yz5xCeEiOu96moryKilhKX2-kQaURRDkGA9nQGboSkG6tQtxM2lz1lL7Vy3ez2J7WdEGgN1p6dfp0fM4VhfQroJcD2xzyXqvtDbCmaNDYVGFCHaMjcE-hOR_sYbYNHoZgq0yhLRHAEaJReDdqddbIkjGJuldB-ayGJ1SF5Zat2xujRTeY9Za3opXA_Jk1pWe-C276XHSat_4wFKlXvpCw16I02K8Y4RGXbAnTuqlADy6U7L1ZKINjdJZeI0Ulp6p-TucAhqBHX7P54aqTC7-N-2vkaSHKpvpASGcXogYXFkJNO0Vk9XCQb6AIUl8lU38XmmHe2qWU8g/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Mairead Coleman",
+            "uri": "https://maps.google.com/maps/contrib/117150877286568789860"
+          },
+          "q": "St Peter's College, Summerhill, Wexford"
+        },
+        "duration": 1629,
+        "distance": 18083,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 3510,
+          "distance": 18059
+        }
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Spar Blackwater",
+      "candidates": [
+        "Spar, Main Street, Blackwater, Co. Wexford",
+        "Spar Blackwater Wexford"
+      ],
+      "note": "Spar with a deli on Blackwater's Main Street, about 1 km.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-18T14:11:19.755Z",
+        "dest": {
+          "name": "Spar Supermarket, Blackwater",
+          "address": "Main Street, Ballynaglogh, Blackwater, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=13673741121465703619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.3,
+          "ratings": 299,
+          "lat": 52.4470743,
+          "lng": -6.3483524,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ2e4pyywPaEgRw1yddxrjwr0/photos/AV-0GLeYQDtQerPV_RTH0XbAbultS3Yhf29xYYOKVL3__xDxjpRA-YzB1Tr5UjdpaZBA4Js5gRvYB80T72hnOfBRVdXzQ5kE6OpCjwgvSt4XKYvxrj1bGtCerZWAzzaxqKhwz8UicmXyP8quM6xjKYktMXNIskwUNTt8HjB88lkLVES4F-1wTKlEbYwbPxK_TwdKYMzY_22ACSQP1g6AYeX95-WmQmSgP6WBv0fnjK_HjO9yIVEL1L65zBRrT0HSbWn1nzizKm0ZU3XKvR7TmOO-gn3ujHDEbnE4fIcDv9LL5kiyC_4sttxoh0gRHmOdyroQAPMvIyHMpw8tDK8CTTMa3XBfx1-GbXMjvAU4cSTeVhIotuHZPyuc8Jegt-6FqO6DcTu1bb5F4Qi491kYQGJ1-rsuFg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "brian o leary",
+            "uri": "https://maps.google.com/maps/contrib/104390254816181563101"
+          },
+          "q": "Spar, Main Street, Blackwater, Co. Wexford"
+        },
+        "duration": 149,
+        "distance": 1556,
+        "alts": [
+          {
+            "name": "Spar Supermarket, Blackwater",
+            "duration": 149,
+            "distance": 1556
+          }
+        ],
+        "walk": {
+          "duration": 1224,
+          "distance": 1556
+        },
+        "bike": {
+          "duration": 284,
+          "distance": 1556
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 1.6 km on a quiet hedged lane with no footpath, then the village approach with a footpath into Blackwater."
+        },
+        "bike": {
+          "level": "good",
+          "note": "A short, quiet ride into Blackwater village."
+        }
+      }
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Tesco Extra, Wexford",
+      "candidates": [
+        "Tesco, Enniscorthy, Co. Wexford",
+        "Lidl Enniscorthy, Co. Wexford",
+        "Tesco Extra, Clonard Road, Wexford"
+      ],
+      "note": "Enniscorthy (about 15 km) and Wexford (about 20 km) both have full supermarkets.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-18T14:11:19.755Z",
+        "dest": {
+          "name": "Tesco Extra",
+          "address": "Distillery Rd, Townparks, Wexford, Y35 AD98",
+          "uri": "https://maps.google.com/?cid=9758262122462699949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 654,
+          "lat": 52.332302399999996,
+          "lng": -6.4609839,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJlWizQ2gbaEgRreGJ6rJPbIc/photos/AV-0GLePlDeeB37v2MU6NHfBuGeOn5PYm74UsYdeDS6MTnbG6I0cW04ofIjRA2Cw4XZy2OHu1f6kPEfg9r5gQOfoBtRITVmCmdp2ArITd8waRbMPiYNSBRSrTC0cGcyIEnXfbMrsJdZMIJZccqYKvKco3rqtThyKSBEiFz_uo0768Aur9NGKT4V9-LlKEkWCAngDjdPD1C0A0Uv6cWPoGCbEbjpzGmV8BmtV8XWIS8FmUghTUa-TbbKCNIVYzR8OqwblElXGGWjpp2mC6Jre31K7UCOJwl6sZMOV4XaU36RD1dUWL5P8qaO4_IiEaOz-B5nL6MiJzpVKbrIScWQ5bOkRNFCU61x2cSq6_Kpfb6KzL3QoI1y1lN3rPyB9Ct-LZ-BXM5jrqNk4tOdDIPW7bWlSW1MGfhtKUtU/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Greg S",
+            "uri": "https://maps.google.com/maps/contrib/113682781732724541407"
+          },
+          "q": "Tesco, Enniscorthy, Co. Wexford"
+        },
+        "duration": 1451,
+        "distance": 17594,
+        "alts": [
+          {
+            "name": "Tesco Extra",
+            "duration": 1451,
+            "distance": 17594
+          },
+          {
+            "name": "Lidl",
+            "duration": 1703,
+            "distance": 19539
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 3269,
+          "distance": 17594
+        }
+      }
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Blackwater Lodge Hotel",
+      "candidates": [
+        "Blackwater Lodge Hotel, Blackwater, Co. Wexford"
+      ],
+      "note": "Village hotel with a restaurant serving lunch and dinner; reviews are mixed, and Wexford town's restaurants are about 25 minutes away.",
+      "category": "Eating out",
+      "resolved": {
+        "at": "2026-11-18T14:11:19.755Z",
+        "dest": {
+          "name": "Blackwater Lodge Hotel",
+          "address": "The Square, Ballyconnigar Lower, Blackwater, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=16383469541957534555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 1,
+          "ratings": 1,
+          "lat": 52.4472084,
+          "lng": -6.3467898,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJZ0W-tSwPaEgRW4PPvL7GXeM/photos/AV-0GLcFFxUMN0KRc6Ao3UdDICPdyZM54UGPOvW0KPqz-fjkeAQPrnKpHa0flh91OTJYZsRKV0m0QnApH5k9ttm-8pwbg678tvD1ue0LvlHBQm_UY1Kvt6y_orDZFZhHzMVwynZALnzhggWzycCPHPWOCQu8IbzXjGw2St0pWdJw3E7nnw_yg5VB3CfJ4b5zm7V9TOeEYAQsI0sKZe5nZQufD5BETeU5GSejl8D3kqbPUVE_NmU9yWVZTXhbWP_shsNt4Y_uRZZc1P5yXM8T1mlMMg_qrwLrHxSgR7C0ggTVQZbF2xKbgUoVukgaIX78GmcVI22pdyHxHlTYMIMX4nHT-DpvbyG7NA5qy7lLjC4gXYvPcTyY5Hz0veDB1-6TAtypfLpXhaK_Gad3cTxTVEgDc60M4SAW3f8/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Dany Ehrenbrink (Ryuko)",
+            "uri": "https://maps.google.com/maps/contrib/103161372433242317650"
+          },
+          "q": "Blackwater Lodge Hotel, Blackwater, Co. Wexford"
+        },
+        "duration": 155,
+        "distance": 1671,
+        "alts": [],
+        "walk": {
+          "duration": 1333,
+          "distance": 1670
+        },
+        "bike": {
+          "duration": 324,
+          "distance": 1671
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 1.6 km on a quiet hedged lane with no footpath, then the village approach with a footpath into Blackwater."
+        },
+        "bike": {
+          "level": "good",
+          "note": "A short, quiet ride into Blackwater village."
+        }
+      }
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Wexford General Hospital",
+      "candidates": [
+        "Wexford General Hospital, Newtown Road, Wexford"
+      ],
+      "note": "All-ages 24-hour ED on Newtown Road, Wexford, about 16 km south-west in a straight line.",
+      "category": "Health",
+      "resolved": {
+        "at": "2026-11-18T14:11:19.755Z",
+        "dest": {
+          "name": "Wexford General Hospital",
+          "address": "Newtown Rd, Carricklawn, Wexford, Y35 Y17D",
+          "uri": "https://maps.google.com/?cid=2703091205570474847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.4,
+          "ratings": 211,
+          "lat": 52.343234300000006,
+          "lng": -6.4831372,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ1SE5gKgcaEgRX7OCPyFPgyU/photos/AV-0GLcMXsmzzXFMCxBbEBImadRYzpHBLbKU0H7WY_dAFf3FESymsdMurz-fHm-SX1hAMPFYSD_eWn31aRNSSBXjvc17tPCnst-oHjmhVi_ENetcpVfptaByIHZ2cq0f2hJyL5rxGQxLSHvtkDUHJ6HxQNvs90PJb07fKvuQYmlH5__0W7O1C-hDuW3YDwlKyA3o9lvmuMxtIkjACWTkch_TfwT9DRlWga1jszozVkaj5s5vuucdLZAr0LVbX03hm4XsJ-Hs2Fr7-1Hb2CXUEj-aqIab5SHjrl-yDWPEWhrshl8glmETkdZ8fBEgAUjxXSq8XehpIAD5YbH_-Ck_nGmSf1IVBjQp5IfL8jBrRhh6GW__qOEU5-bSNd6Ooxj3sKduSUhYp5RVtXwIuPp1P5X9UWaepQmLGbE/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Keith Kennedy",
+            "uri": "https://maps.google.com/maps/contrib/116833290017099661719"
+          },
+          "q": "Wexford General Hospital, Newtown Road, Wexford"
+        },
+        "duration": 1362,
+        "distance": 19434,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 3629,
+          "distance": 18460
+        }
+      }
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Enniscorthy",
+      "candidates": [
+        "Market Square, Enniscorthy, Co. Wexford"
+      ],
+      "note": "Market town of about 12,000, about 15 km west; Wexford town is 20 km south.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-18T14:11:19.755Z",
+        "dest": {
+          "name": "Market Square",
+          "address": "Market Square, Enniscorthy, Co. Wexford",
+          "uri": "https://maps.google.com/?cid=6198895411140678995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.5019662,
+          "lng": -6.5689938,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJy9MA-IoAaEgRU9XWhIjmBlY/photos/AV-0GLdjrRMWlTjuQ_QtP8HrWyPnPAteE0KwiBLnapo4bAsmWQ7hYnVfJmChy81pzbFnaltKUm5pvQEwqi3MawdYvLTKtQ1oPkRDjP9rdL2irjBBm7JIHLqhITmz_2O222_duG20-5wkjFALbcr0WQ3WGggmBbbRXB6_yLEkQLuL5mmyQbizI6RknAtKBL-7d38TLPINdTWXnXm6p8FE-KbaUu8QayoZiDefxBzke8sT-Bo3S05dJV9v9EkKHmrWBDntMl1_yfKrkVPvQE1ewI2SNKhv5-vAejEp4IhoZ1IjU_mhFQTo2L9XlJYqR3iZPgt0ydltsd-F040gbHvE1ZZi7Pw-bExtWVi6kEuXYIjVCWoJ0F4vQ4kp4C2-dh4SEmRkmeN5QG90Ve_e9Ing7ERHuCszVnaP/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Kevin Breen",
+            "uri": "https://maps.google.com/maps/contrib/110676205157200649499"
+          },
+          "q": "Market Square, Enniscorthy, Co. Wexford"
+        },
+        "duration": 1707,
+        "distance": 20000,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 4376,
+          "distance": 21026
+        }
+      }
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Waterford",
+      "candidates": [
+        "Reginald's Tower, Waterford"
+      ],
+      "note": "Nearest city, via Wexford and New Ross.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-18T14:11:19.755Z",
+        "dest": {
+          "name": "Reginald’s Tower",
+          "address": "The Quay, Waterford",
+          "uri": "https://maps.google.com/?cid=17730792897430887032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 643,
+          "lat": 52.260445999999995,
+          "lng": -7.1054606,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ4_w6JTW_QkgReBpjzTJuEPY/photos/AV-0GLf33kZGCHwta1Pc4242XyjC0vwR0tzFcst9f7iY5kd8A7c4CeNlziI87-RwbDSuWrK5b2pzxBWA_W-tQoY1dA-lz0buNo4LmJlp_ci_cLKF4LUvVp6y1FSxtzflcYtgtmZgmzLegg94vyyGV2rnRswCHR8hT6bJcrv6BJ_ounMdvL36k_du0qha1yJc5kuqxMfc-jrc5UThn5rRBTc-oMQlbv88xa7nukYyyk5YJsH0idojw9bcs6efZkXO6q8EePaa7dvdrbyvpU3iAYgUyCPEz4db9uWyh7yr3LJWTDLLuo7dgs793aNfnXEUvu6ZyrCxI27oqzAQXrxmxcqpB6-NWmhiViRl5YrypDtVgZIr9mckJTnAyK9gYxGOUUAdfxFAmkSAqHTj5ryoeTaSrABQ17hp/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "THE EXPLORER",
+            "uri": "https://maps.google.com/maps/contrib/113768639315364178628"
+          },
+          "q": "Reginald's Tower, Waterford"
+        },
+        "duration": 4333,
+        "distance": 73654,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "99 km per the listing, via the N11/M11.",
+      "category": "Towns and cities",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-11-18T14:11:19.755Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLcYoFtQByJunpZOiu20hHHAT-VdvyP0bQRC34vNspRHAcKFmd8ruh9OgoUHVJHTvnOFdKkeALVlGNCDpV6vYg6SrNnb4h4j3baSrpj5etHqWRmodZX_luMQMqK0H8HUSmIQV1sAELJVoIREqb9iwy94oKUaXRWQWCblyw8hwu45C8y13gJ4deg5e29UnTIHxZRlnq1kt_D0snohezxbIfEbBeyvEYlnJNp3F5aHS-UxbXwpGPfz_bOfWupmQTzWqVfHBFEP_kAQ99or6qQRlZN7-WDT_6WX9i_3GN7E83_mcyFPd8AS3wuU7oE2NdU1OSo0hOH4K83eKg_B-thv6kc_ZPfobDNov92D1pHw5Tzrk2bpLSq3TbSw8ZE6rqrNlmkrUfW84aVDEosPdWh3HLLjAg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 6157,
+        "distance": 117561,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-11-18T14:11:19.755Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11804,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLfi6y23kcNQqmOBjx6A2Sj94bSdZfBRwMeK59YWcpeQPr05Qm2fNpyJMkKmOYefQc1I1bJbqDrI7l_6ipUw39o7MsSER5-j-74qJyp7d5SPPN4UDtJI3nJcMSznGWK5w6d6rHA7WJeKUqCPB42Y8elnfM1yee4Ekgpzu9QP04y_UAlQ1O_w09n5YK-pD59F15Pi6kZyJ39IMxvuUZVh7LnrXr3OVX9LSPrAE3o61qfX64L2PDb8wvAkBFw2Dikuy8eavdydlvOae7iRwnn-bc8JU6uXXJ5meB07Zn6_bB9EEl9MzXX9QRBVJP1lkdrcqkHSYoJAfS0CiD_8D7tkaNI0_QQTNDmkUVDXrGtmwnZypj2mkU8R0SvOcdQHuQ7ouAaWAzYLzGo8xZsx1YUegBvzioI/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 9843,
+        "distance": 192394,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Wexford O'Hanrahan station",
+      "candidates": [
+        "Enniscorthy Railway Station, Enniscorthy, Co. Wexford",
+        "Wexford O'Hanrahan Railway Station, Redmond Place, Wexford"
+      ],
+      "note": "Rosslare–Dublin Connolly line: about 5 direct trains a weekday from Enniscorthy (first about 06:20), a little over 2 hours.",
+      "category": "Getting away",
+      "day": "weekday",
+      "resolved": {
+        "at": "2026-11-18T14:11:19.755Z",
+        "dest": {
+          "name": "Wexford (O Hanrahan)",
+          "address": "Wexford Railway Station Redmond Sqaure, Townparks, Wexford, Co. Wexford, Y35 FC62",
+          "uri": "https://maps.google.com/?cid=4263746221154084344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 72,
+          "lat": 52.3433383,
+          "lng": -6.4643597999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJDVnuREUbaEgR-KVNDJneKzs/photos/AV-0GLcy7-poL0AJT1LHQnZH_wlmgLP5709VCL7HYPQt3rhy0QVxjnBJXwDUyVzQsRKx7kH1Z65ib14UK4iA3Hq1EZnLvqu4iM0VaHCVGz26ZXGTSMUUOR8JF4H7stBtpRNaVAdNRsX0pfoSKBn-N6RpfJbWJ4wJfnvvvb-6lDvZDqx2TDmaEURjJSYHB-8ZUbTJ0aqtNIvqctcDQhtDzjne3xri3yl9wYBx3YqNg4Pxmy6wm2n1HfOuI5FNDc0TfD6sIyLk1GdGz-OVcEmK2LAT3nKNu37WYuyoJfUu2ZF411mNdEkLBP6Qa_GuiPXMc6wFDbgyu6yOaFnsmMJoJnPFNpbnrFRLjJCXM2Sed8SJLZypMdDKQFDbYem4vRPaDXmlEMzeHj2MFh5OFTqgS0Hh07pPqUo/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "スタバカ（SUTABAKA）",
+            "uri": "https://maps.google.com/maps/contrib/107705833309561868785"
+          },
+          "q": "Wexford O'Hanrahan Railway Station, Redmond Place, Wexford"
+        },
+        "duration": 1171,
+        "distance": 17150,
+        "alts": [
+          {
+            "name": "Enniscorthy Railway Station",
+            "duration": 1274,
+            "distance": 17808
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 3042,
+          "distance": 16557
+        }
+      }
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away",
+      "day": "friday",
+      "resolved": {
+        "at": "2026-11-18T14:11:19.755Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42728,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLccg-OtxgNKljB8obxLijEnpfyYQ3_gIcxHt6C-l9qddUg1e2zFmsK39LxJz8XecT60q0UNq-psdpgvS-yhlnpRE8Rc5CUGeC01ThfB3L01no3xR0Jbij_MPO1AG7mDW85t7qxjTpFU1tYD2fSpo0BamVch7f6Bj26feh5PF5PYubfMvPBFUS0dzlpH1hfBz3A51m6J85tOjv2J9a4uGqsZN3_ixlafXgfPD-zIz2wRA9_p_dZF7foOWosFW6hqi0Q4r4HgM_GMEvqJNa7tYH921EAHb22Hry_Vzll3K9MyJhS52IDPFFoC2ycnF8BetUrP3p6QXofP7AHxLhYz2y3XTwgHaH1vFTuJL9qS1sC3ymfQzsDDzF_aP0O7alOA_pz2_xupw9Qjz5Ete2HZaD0Oz8MzYws/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 6024,
+        "distance": 140856,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
