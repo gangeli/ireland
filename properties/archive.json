@@ -463,6 +463,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/the-cottage-newtown-monasterboice-co-louth/6626272",
       "recheck": true
+    },
+    {
+      "id": "forty-shades",
+      "name": "Forty Shades",
+      "left": "2026-11-19",
+      "reason": "sale agreed (Daft banner on the listing header, 19 Nov)",
+      "lastPrice": 475000,
+      "aiStars": 4.5,
+      "human": {
+        "n": 3,
+        "avg": 4.67
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/forty-shades-laurelhill-inistioge-co-kilkenny/6672069",
+      "recheck": true
     }
   ]
 }
