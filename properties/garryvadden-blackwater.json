@@ -13,6 +13,7 @@
   "agentEmail": "sonia@radfordauctioneers.com",
   "agentPhone": "087 902 9548 / 053 914 6046",
   "questions": [
+    "Can you confirm the exact location (Eircode Y21 PW94)? The online map pin looks about 3–4 km off — how far is the house from Blackwater village by road?",
     "BuyerIQ shows a mapped river flood zone about 10 m from the address. Which watercourse is it, has any part of the garden or the lane flooded, and was the road into Blackwater cut off when the river burst its banks in the village during Storm Claudia?",
     "Could the floor plan be marked with the steps? We read it as the master suite, bedrooms 2 and 3 and the family bathroom on the entrance level, with steps down to Bedroom 4 and from the kitchen down to the family room. How many steps are there in each place, and could either flight take a ramp?",
     "The listing says 3 baths, but the guest WC has a toilet, basin and urinal only. Is there plumbing or space to add a shower there or in the utility, so there is a third full bathroom?",
@@ -161,6 +162,11 @@
       "text": "Slow Dublin trains",
       "weight": 1,
       "detail": "Enniscorthy station, about 15 km, has about 5 direct trains a weekday to Dublin, taking a little over 2 hours."
+    },
+    {
+      "text": "Map position may be wrong",
+      "weight": 1,
+      "detail": "George found the listing's pin puts it ~1 km from Blackwater, but the house appears to be about 4.5 km away; trip times on this page are from the pinned point. Confirm the Eircode location (Y21 PW94) with the agent."
     }
   ],
   "trips": [

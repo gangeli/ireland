@@ -102,3 +102,8 @@ Gabor agreed with the 2.5 scores for the 2 Nov charm near misses (Dairyland Cott
 ## Alta Villa, Ballymore Eustace (12 Nov ratings)
 - Gabor 2, George 3. George: "Large enough house and yard. Floor plan is workable with adding at least one bathroom. Small/fractured common areas. Nice neighborhood, but neighbor are very close."
 - Even in the charm lane, an old house with small, fractured common rooms, only two bathrooms and close neighbours doesn't hold 3.0 for either of them. Score such houses 2.5 unless the common rooms are genuinely big and the plot is private. Charm earns a point only when the practical basics (space that flows, 3 baths or room to add them, privacy) are already there.
+
+## George on Rathmoley and Garryvadden (19–20 Nov)
+- Rathmoley 5 (Gabor 3): "I like the house, its size and floor plan. It provides fairly separated areas for two families, one small and one large. The yard is decent size. Needs dog fence for the front grass area, and perhaps a 'corridor' for the dogs to get there from the house. Heating should be double-checked; it may be flimsy."
+- Garryvadden 4 (Gabor 3): "Nice, secluded, modern, well designed house, decent yard. Two bathrooms only; one is badly missing in the bedroom wing."
+- Lessons: a layout that gives the parents their own semi-separate zone (their bedroom + bath + a living room or playroom with its own door) is a big plus for George — reward "two families under one roof" plans. Fenced dog runs from the house to the garden matter (the parents' dogs). Bathroom placement matters as much as count: each sleeping wing needs its own. Secluded, well-designed modern houses on decent plots score well with him even when plain-ish.
