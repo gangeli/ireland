@@ -1,0 +1,783 @@
+{
+  "id": "killimy-emo",
+  "name": "Killimy",
+  "address": "Killimy, Emo, Co. Laois",
+  "eircode": "R32 V9D8",
+  "lat": 53.094962,
+  "lng": -7.218025,
+  "listingUrl": "https://www.daft.ie/for-sale/detached-house-killimy-emo-co-laois/6726813",
+  "status": "Considering",
+  "added": "2026-11-20",
+  "area": "Emo, Co. Laois",
+  "agent": "Hume Auctioneers (John Dunne), Portlaoise",
+  "agentEmail": "info@hume.ie",
+  "agentPhone": "057 868 1111",
+  "questions": [
+    "Can you send the floor plan with room sizes? Which rooms sit next to the ground-floor master suite, and could one of the two living rooms serve as a sitting room for older parents, with its own door to the garden?",
+    "The brochure says both 'circa 1 acre' and 'over three quarters of an acre'. Can you send the folio map? Is the boundary dog-proof all round, especially along the R419 frontage, and is the rear paddock fenced separately?",
+    "What is the heating system and the BER's exact kWh/m²/yr figure, when was the house built, and was the first floor converted later (with certificates of compliance for the conversion and the Velux rooms)?",
+    "Is water from the mains or a private well, and is drainage a septic tank or a treatment unit? How old is it, and is it registered?",
+    "BuyerIQ shows one critical finding (locked) and 10 planning applications within 1 km, one an active build. Has a radon test been done, and are any of those applications on the sites next door or the field opposite?"
+  ],
+  "ai": {
+    "stars": 3,
+    "why": "A 243 m², five-bed, four-bathroom dormer bungalow at €499k with a ground-floor master suite and two living rooms, about 10 minutes from Portarlington's Dublin trains and 12–15 from Portlaoise's ED. Held back by its spot in a ribbon of one-off houses on the R419, with neighbours about 35–40 m away on both sides, and by no floor plan or photos to judge the layout and finish. Held at 3.0: a ribbon of 8–10 houses on the R419 with neighbours ~35–40 m away and no photos or floor plan yet to confirm character — close to the Monmore pattern, lifted by the ground-floor parents' zone, two living rooms and the ED ~12 min away."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely mains; not stated, but the house sits in a row of homes on the R419 at the edge of Emo village."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Unknown; not stated in the Daft or MyHome text, and the MyHome Features list is empty. A house on the edge of Emo may be on mains or a group scheme. Ask."
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Likely septic; not stated, but a one-off house outside the village core is usually on a septic tank or treatment unit. Ask its age and registration."
+    },
+    "internet": {
+      "status": "likely",
+      "detail": "Likely fibre; not stated in the listing and BuyerIQ's broadband data is locked. NBI names Emo's rural townlands in its Portarlington deployment area, and Laois's NBI rollout reached closeout in Sept 2026. Check nbi.ie by Eircode.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb (unconfirmed)",
+      "provider": "NBI (unconfirmed)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "The listing puts three double bedrooms on the ground floor, the master with its own dressing room and en-suite, beside two living rooms, the kitchen/dining room and a guest WC; with no floor plan, how separate that suite is from the family rooms is unconfirmed."
+  },
+  "price": 499000,
+  "type": "Detached dormer bungalow",
+  "beds": 5,
+  "bedsNote": "Three doubles on the ground floor (master with dressing room and en-suite); upstairs a large master suite with a full dressing room and en-suite shower, and a second bedroom with its own en-suite",
+  "baths": 5,
+  "floorM2": 243,
+  "landHa": 0.36,
+  "landAcres": 0.9,
+  "ber": "B2",
+  "heating": "Not stated; BER B2 (100–125 kWh/m²/yr band, exact figure not published)",
+  "listed": "2026-11-20",
+  "views": 500,
+  "stampDuty": 4990,
+  "tagline": "A 243 m² five-bed dormer bungalow with a ground-floor master suite, two living rooms and a rear paddock with stabling, on about 0.75–1 acre on the R419 at the edge of Emo, Co. Laois.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI3L2MvN2M4ZDBmYjgtMjFiMS00ZmY0LWFkOTItNWI0OTE5NWExMWQ1LmpwZyJ9?signature=0f00cd9381412514605dc6cbed51e3f4f2e7dc7744085df1c2ebab74a14ded41",
+      "role": "facade"
+    }
+  ],
+  "pros": [
+    {
+      "text": "243 m² with two living rooms for six",
+      "weight": 3,
+      "detail": "Five bedrooms, a large kitchen/dining room, a 'substantial' living room and a second separate living room, plus a utility room, per the listing; €2,050/m²."
+    },
+    {
+      "text": "Ground-floor master suite for the parents",
+      "weight": 3,
+      "detail": "The ground-floor master has its own dressing room and en-suite, with two more doubles and a family bathroom on the same floor, so the parents need no stairs."
+    },
+    {
+      "text": "Four bathrooms plus a guest WC, on both floors",
+      "weight": 2,
+      "detail": "Ground floor: master en-suite, family bathroom and guest WC; first floor: an en-suite to each of the two bedrooms, so each sleeping floor has its own."
+    },
+    {
+      "text": "Portarlington trains about 10 minutes away",
+      "weight": 3,
+      "detail": "Portarlington station is about 6.2 km straight-line: about 19 weekday commuter trains to Heuston (about 1h05) plus InterCity stops; the M7 is about 3 km south."
+    },
+    {
+      "text": "Portlaoise ED about 12–15 minutes",
+      "weight": 2,
+      "detail": "Midland Regional Hospital Portlaoise is about 7.4 km straight-line; its 24-hour ED takes adults and children, with a new paediatric extension opened in 2026."
+    },
+    {
+      "text": "€499k, just inside the budget, BER B2",
+      "weight": 2,
+      "detail": "Stamp duty about €4,990; B2 means 100–125 kWh/m²/yr, and the listing notes green-mortgage eligibility."
+    },
+    {
+      "text": "Paddock, stabling and garage on 0.75–1 acre",
+      "weight": 2,
+      "detail": "A rear paddock with concrete stabling, a large detached concrete garage, a deck and a covered al-fresco area, behind electric gates with mature trees."
+    },
+    {
+      "text": "Emo village and Emo Court on the doorstep",
+      "weight": 1,
+      "detail": "Emo's centre is about 0.7 km, Emo Mixed NS about 0.8 km and Emo Court's grounds about 2 km; Emo has a pub and church but no shop was found."
+    }
+  ],
+  "cons": [
+    {
+      "text": "A ribbon of houses on the R419, neighbours 35–40 m away",
+      "weight": 3,
+      "detail": "On Esri satellite imagery the pinned house is one of about 8–10 one-off houses within 100 m along the east side of the R419, about 20 m back from the road, with neighbours roughly 35–40 m to the north and south; open fields lie across the road and behind. BuyerIQ flags R419 traffic noise as high priority."
+    },
+    {
+      "text": "No floor plan, room sizes or viewable photos yet",
+      "weight": 2,
+      "detail": "Neither Daft nor MyHome shows a plan or room dimensions, and MyHome has no photos, so the separation of the ground-floor suite, the size of the common rooms and the finish are unconfirmed."
+    },
+    {
+      "text": "Likely a plain dormer design",
+      "weight": 1,
+      "detail": "A dormer bungalow with Velux rooms upstairs; the listing calls it 'charming' and 'beautifully presented', but its age, style and floor finishes are unverified."
+    },
+    {
+      "text": "Site size given two ways",
+      "weight": 1,
+      "detail": "The listing says both 'circa 1 acre' and 'over three quarters of an acre'; a rough satellite estimate is about 0.3–0.4 ha (0.8–0.9 ac), below the 1-acre target."
+    },
+    {
+      "text": "Water, drainage, heating and broadband not stated",
+      "weight": 2,
+      "detail": "MyHome's Features list is empty and neither listing names the heating, water supply, drainage or broadband."
+    },
+    {
+      "text": "No shop in Emo; school quality unknown",
+      "weight": 1,
+      "detail": "The nearest supermarkets are in Portlaoise (about 8.5 km) and Mountmellick (about 7 km); Emo Mixed NS's 2016 inspection report couldn't be read, and St Mary's CBS Portlaoise sent about 68–71% to third level in older tables."
+    },
+    {
+      "text": "One locked critical finding on BuyerIQ",
+      "weight": 1,
+      "detail": "BuyerIQ lists one critical and two high-priority findings (one is R419 noise) plus 10 planning applications within 1 km, one an active build; Laois addresses often flag radon. Ask for a radon test."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Emo Mixed National School",
+      "candidates": [
+        "Emo Mixed National School, Emo, Co. Laois",
+        "Emo National School, Emo, Portlaoise"
+      ],
+      "note": "Mixed, Catholic, roll 13643Q, about 203–207 pupils; about 790 m per Daft. The Rock NS (mixed, about 201) is the other village school.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed primary of about 205 pupils; a Whole-School Evaluation (published 2016) and a curriculum evaluation are listed on gov.ie, but its report pages return 403, so neither could be read."
+      },
+      "resolved": {
+        "at": "2026-11-20T14:10:38.079Z",
+        "dest": {
+          "name": "Emo National School",
+          "address": "Emo, Portlaoise, Co. Laois",
+          "uri": "https://maps.google.com/?cid=15226537267720836392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.1004132,
+          "lng": -7.208737099999999,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Emo Mixed National School, Emo, Co. Laois"
+        },
+        "duration": 150,
+        "distance": 1806,
+        "alts": [
+          {
+            "name": "Emo National School",
+            "duration": 150,
+            "distance": 1806
+          }
+        ],
+        "walk": {
+          "duration": 1077,
+          "distance": 1344
+        },
+        "bike": {
+          "duration": 304,
+          "distance": 1344
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 1.3 km along the R419 past village houses, mostly on the verge with short footpath stretches, into Emo."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Short ride on the R419 regional road into Emo; traffic but good sightlines."
+        }
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "St Mary's CBS, Portlaoise",
+      "candidates": [
+        "St Mary's CBS, Portlaoise, Co. Laois"
+      ],
+      "note": "Boys' secondary of about 803 pupils, about 6.6 km per Daft; Coláiste Íosagáin, Portarlington (mixed, about 1,135) is 7.4 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Average",
+        "basis": "68% of 118 boys went to third level in the 2017 Laois feeder tables (8th of 9 in Laois) and 71% in an older Irish Independent survey; no recent figure found."
+      },
+      "resolved": {
+        "at": "2026-11-20T14:10:38.079Z",
+        "dest": {
+          "name": "St. Mary's CBS",
+          "address": "Borris Rd, Borris Great, Portlaoise, Co. Laois",
+          "uri": "https://maps.google.com/?cid=8396723080882317429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.0499161,
+          "lng": -7.279241,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "St Mary's CBS, Portlaoise, Co. Laois"
+        },
+        "duration": 658,
+        "distance": 9224,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1559,
+          "distance": 8070
+        }
+      }
+    },
+    {
+      "id": "secondary-good",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "The better school",
+      "kind": "Good secondary school",
+      "title": "Coláiste Íosagáin, Portarlington",
+      "candidates": [
+        "Coláiste Íosagáin, Portarlington, Co. Laois"
+      ],
+      "note": "Mixed, about 1,135 pupils, the largest in Laois and Offaly; about 7.4 km per Daft. Newbridge College (fee-paying, mixed) is about 30 km for a stronger option.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "76% of 143 went to third level in the 2017 Laois tables and 81% in an older Irish Independent survey; mixed and large, with no recent figure found."
+      },
+      "resolved": {
+        "at": "2026-11-20T14:10:38.079Z",
+        "dest": {
+          "name": "Coláiste Íosagáin / basketball court",
+          "address": "Kilmalogue, Portarlington, Co. Offaly, R32 HV25",
+          "uri": "https://maps.google.com/?cid=11608984326986294700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.161458599999996,
+          "lng": -7.205455899999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJR3rpQm91XUgRrGUYBb1lG6E/photos/AV-0GLdriDm-HSVKgbrp9COT5GxZiQbsTPIgKggH5hLWy8mm62NlXdTnhVxvf55ppsqShskXKoM3awkQ8mMmPkHJFwm_endx92_iCIWiFhOn7faXEYO8Oev8i5t7PISas8B9BgVAqggFRtmcl7G9b8_ku38jozxcyIrIwI-MpHytNn9xmzT_DwTqJE90wkjfXoRHFhScuP3_EAAUb1yzZb8rm0ErH2dgwc4supMMIfsLc7-IYmbc6zBAPOcOwj1BT455L9R5Eu-Ijyu7ZrDlckI49YSy2-jC7kvkzVjJBz64Hfc5BUfKJ_qHucNwJVBZrSVKCF22UN__3eulZrUCMQQYyPxtb36AgpCi2vm_B2a8TL8ryAI1vXVQeQ_mLxkdghflLqJ2qauU_ZhIo2gdDnGkvZLaUlU/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Oliver Murray",
+            "uri": "https://maps.google.com/maps/contrib/112753830060456234947"
+          },
+          "q": "Coláiste Íosagáin, Portarlington, Co. Laois"
+        },
+        "duration": 675,
+        "distance": 9243,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1702,
+          "distance": 9243
+        }
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Gandon Inn shop (M7 Exit 15)",
+      "candidates": [
+        "Spar, Kilminchy Court, Portlaoise, Co. Laois",
+        "Ballybrittas Service Station, Ballybrittas, Co. Laois",
+        "Gandon Inn, Emo, Co. Laois"
+      ],
+      "note": "No shop was found in Emo village; the Spar at Kilminchy on Portlaoise's east edge (about 6.5 km) or the forecourt at the Gandon Inn on the R445 (about 2.6 km, shop unconfirmed) are the nearest. The page keeps the fastest.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-20T14:10:38.079Z",
+        "dest": {
+          "name": "The Gandon Inn Hotel",
+          "address": "Exit 15 M7, Cappakeel, Emo, Co. Laois, R32 A256",
+          "uri": "https://maps.google.com/?cid=12705117881741698286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.3,
+          "ratings": 642,
+          "lat": 53.0920527,
+          "lng": -7.179487299999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ196kmAl1XUgR7mStGmalUbA/photos/AV-0GLcX6Wb5bwOo6Y_D-_FZWVm8eITH6QX2uS9nBy1RYoOQcSB6tg1N0xduvZFR76ZEzYhpkLRA2_8Ob8hCKQuEWlNTZqtZlE2kbpzpnWr3woifVhiUQhtMUPaI3s6R_JdtfOki7wTnHWlvwLBwjxSUtfRjlZ_b-B8FgVDnLJYOjJJL4RPQzsVxiI5DRBsilyTQAVQPfNtVywihTb2NhiRX3d4edsn3FS8G5zsDkoG_ytfoadnb1CTHR9PiBOoovUpiOccz7F1_hwG2HxqCHQcDo54pi6RBEvJMhOy9oi4XrOqrn2wQ94NxhBkwo_DQcds5bWN6-Jc92lzEPyS8vwvYQeiGanLSwPWG16m0bCgHX7iclJuKcLnlLeHoCYPD5vgKhF_QIwq70ks9jsRXatNJ4DEC3mQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "The Gandon Inn Hotel",
+            "uri": "https://maps.google.com/maps/contrib/103457055431503481724"
+          },
+          "q": "Gandon Inn, Emo, Co. Laois"
+        },
+        "duration": 312,
+        "distance": 3379,
+        "alts": [
+          {
+            "name": "Clelands Spar Kilminchy",
+            "duration": 497,
+            "distance": 7675
+          },
+          {
+            "name": "Ballybrittas Service Station",
+            "duration": 530,
+            "distance": 7973
+          }
+        ],
+        "walk": {
+          "duration": 2730,
+          "distance": 3379
+        },
+        "bike": {
+          "duration": 777,
+          "distance": 3379
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "3.4 km on regional roads with fast traffic towards the M7 junction; footpath only in short stretches."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Regional roads with a wide verge most of the way; busy near the M7 junction."
+        }
+      }
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "SuperValu, Mountmellick",
+      "candidates": [
+        "Tesco, Cosby Avenue, Portlaoise, Co. Laois",
+        "Dunnes Stores, Portlaoise, Co. Laois",
+        "SuperValu, Mountmellick, Co. Laois"
+      ],
+      "note": "Portlaoise (about 8.5 km) has Tesco, Dunnes, SuperValu, Lidl and Aldi; SuperValu Mountmellick is about 7 km.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-20T14:10:38.079Z",
+        "dest": {
+          "name": "McConville's SuperValu Mountmellick",
+          "address": "Connolly St, Ballycullenbeg, Mountmellick, Co. Laois, R32 WY43",
+          "uri": "https://maps.google.com/?cid=14068292525953968599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.3,
+          "ratings": 350,
+          "lat": 53.1136055,
+          "lng": -7.3198134999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJbTaPzsgLXUgR1-nE7YOdPMM/photos/AV-0GLd4-1H8kVdH5apsXIM08cjMoGvfnvrEzes-mG_vimshFGQ4ZPJ8OwRKYADFU1bc839BdlLwuuOjRbKHkjFu5bqP4o-4aH6xIcxzG1q1VxG9HiM-BzT0LYt3v0RMhYRF-LQ4I_cl917TsCfI5Et7OdYN2vWezPA7AnHibfMo9X3aCsuXNVA9Pk-O1cWmwYPDmsUf8XLedAGwCexCySzx8Fk9JvqhsJU1noJLzmYfJ6sPUDDqmHQ3XRfA83IIdU8yKpRZ9DkbBLlsQSc3TvejY6k71geWp4NkKrvc6vC3ezXMEV2SSXq00wEiY4Ei5uIwqKHLocBlab_q26_sGz8wtYNbQLt4ZOHuoadu5V_951dfcxZs3DbLiuWl2KXu-V4E6pVlSHdLbQqFcU2sNYFujE4Eisw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Mark Sutcliffe",
+            "uri": "https://maps.google.com/maps/contrib/102829520309057456207"
+          },
+          "q": "SuperValu, Mountmellick, Co. Laois"
+        },
+        "duration": 623,
+        "distance": 8867,
+        "alts": [
+          {
+            "name": "Dunnes Stores Kyle Centre",
+            "duration": 861,
+            "distance": 11081
+          },
+          {
+            "name": "Tesco Superstore",
+            "duration": 943,
+            "distance": 14816
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1524,
+          "distance": 8666
+        }
+      }
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "Batoni's, Emo",
+      "candidates": [
+        "Batoni's Restaurant, Emo, Co. Laois",
+        "Treacy's, Alley Cross, Emo, Co. Laois",
+        "Sol Oriens, The Heritage, Killenard, Co. Laois"
+      ],
+      "note": "Batoni's (Italian) was Best Restaurant in Laois at the 2022 Leinster awards; Treacy's at Alley Cross is about 3 km. Check both are still open.",
+      "category": "Eating out",
+      "resolved": {
+        "at": "2026-11-20T14:10:38.079Z",
+        "dest": {
+          "name": "Batonis",
+          "address": "The Gatelodge, Morett, Emo, Co. Laois",
+          "uri": "https://maps.google.com/?cid=8201852309934698741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 498,
+          "lat": 53.09653300000001,
+          "lng": -7.2088354,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJd2ZOUKV0XUgR9fDfeTjV0nE/photos/AV-0GLc-8dK04fx5cnRmFcWW3Apo28BVIl-U-slKp-rB17CGab_ysshPQpySmFCu2UvzScfVnXYtAvKOtgSIsgv_fWpAT6GTrT3Gh3TVZdzKdG_WgpJGOY8mDQpbCGRWfEuQeY22eTzDokle7LoIUbPJBB4rXxYHdvx6oa-e1wIBtlZV3cKchR3qZXV_sxWDvkv8Z1F5l5HAx9-8hZ_IEZa0Si0TEouFgj3l9XUmUIBE_D4f9arZzQqRrakuAWLm9tidzzgw3WkH6ozbobmfSyIcVqXYNd33Oer1gPSMP1o834IMCG7hqiL73G22lYYi_j-Zsghm7MjJlBZHjDtJH6RHubeg4Wq9p7nbsgBXIIeTNGrXSVceovmM1hV0TYiRx-VJ_F-Nd8uuu5iMfEsQ6oCNBbfQUjyH/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Michael Traies-Martin",
+            "uri": "https://maps.google.com/maps/contrib/107792097676424580233"
+          },
+          "q": "Batoni's Restaurant, Emo, Co. Laois"
+        },
+        "duration": 87,
+        "distance": 872,
+        "alts": [
+          {
+            "name": "Treacy's Pub and Restaurant",
+            "duration": 263,
+            "distance": 3546
+          },
+          {
+            "name": "Sol Oriens @ The Thatch Pub",
+            "duration": 701,
+            "distance": 9984
+          }
+        ],
+        "walk": {
+          "duration": 688,
+          "distance": 872
+        },
+        "bike": {
+          "duration": 150,
+          "distance": 872
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "ok",
+          "note": "About 0.9 km along the R419 on the verge to Batoni's at the Emo gate lodge."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "A few minutes on the R419."
+        }
+      }
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Midland Regional Hospital Portlaoise",
+      "candidates": [
+        "Midland Regional Hospital Portlaoise, Dublin Road, Portlaoise"
+      ],
+      "note": "24-hour ED for adults and children, about 7.4 km straight-line; a €16m adult and paediatric ED extension opened in 2026. Tullamore is the next all-ages ED.",
+      "category": "Health",
+      "resolved": {
+        "at": "2026-11-20T14:10:38.079Z",
+        "dest": {
+          "name": "Midland Regional Hospital Portlaoise",
+          "address": "Block Rd, Kilminchy, Portlaoise, Co. Laois",
+          "uri": "https://maps.google.com/?cid=7142762024074450881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.7,
+          "ratings": 198,
+          "lat": 53.038208399999995,
+          "lng": -7.2760839,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJDzP436wNXUgRwZcbiDcwIGM/photos/AV-0GLeV4MCEmXjV3UnI_a-YGBvRKK37gz_jH9VO1fCHOoyUmo4h5gA93vGO1Fr1jDvhjxf3_Nux-T3udKKGw57dVTIIBm8fTuBfbtjQVxslXmkFeNzjjaaSbwRV8Qc5G_B8GoqMDRCIagyLoguTAtO_oa-W_tL_C3ZhtcZDrlV92ZqxAQIago0Mp8pzFoFbC71QreofD_XjvXrTV0DVkS4wDGG0L1olC5FmsuLb7yfH3nPGhAAtyTWXl9EBz7SC__peafRnZF1MtnTGDqDLi7z5uvsTph_IxaZ925N65cszSkWxYNyGKL_QU_xZeGWj8Okb6VV9NwybgiNrxNm3__t3t2xATHzuSqGEGFgJiGwykmQBWYVxWuz7ZpgINTSQeuy1L_ERFEN95WXPC9tO5Dfx0oM-06ZWmvC5DYkqGCABHyKEYA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Nilesh Mishra",
+            "uri": "https://maps.google.com/maps/contrib/116976963245334691980"
+          },
+          "q": "Midland Regional Hospital Portlaoise, Dublin Road, Portlaoise"
+        },
+        "duration": 649,
+        "distance": 8843,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1609,
+          "distance": 8397
+        }
+      }
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Portlaoise",
+      "candidates": [
+        "Main Street, Portlaoise, Co. Laois"
+      ],
+      "note": "The county town, about 8.7 km: GPs, pharmacies, supermarkets, the hospital and schools. Portarlington (about 6 km) is the smaller alternative.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-20T14:10:38.079Z",
+        "dest": {
+          "name": "Main Street",
+          "address": "Main St, Maryborough, Portlaoise, Co. Laois",
+          "uri": "https://maps.google.com/?cid=9447945854632279417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.0341354,
+          "lng": -7.2986645,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJaV5pkMsNXUgReT17irLYHYM/photos/AV-0GLdpmQntzHB31fS-SbtqlDWE_FfdCiubYcs2ElD9A2wgJ6wAlKDIPZKfWEMkZnFdZ6YI5B-oGrdqr58ZQ0EaI7GPC0qpnLEcIShYCPJzaF-EqZRXt6A7DBRudL6C64i_aoHgNkNxnz73PJhxkWSD1LcUVsPVj6YvIRLk_WNRChA4kqpDsNaeNYNpnHmjHEu7eQQNTnbw3d2O8PettzC2kwXgJVYkFWEFbZv--hL9tfKAUieK2D35fvUFq7EyB3rmbtBmUdjRRrVZZSkN32pBFZAdSRXlUFMwvUM1gjIC773nyCG02NiAfZhVFg2HAERQOJvHy6f2-Odz-kwk2GgC67xBtCTxeo7-GnTmm1kVHNAqXpunN1Aoqe1ilWiD59B4NAfbrtfJZZWWIASuEGxM_Yv0XA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Elaine G",
+            "uri": "https://maps.google.com/maps/contrib/104047547220591483181"
+          },
+          "q": "Main Street, Portlaoise, Co. Laois"
+        },
+        "duration": 1026,
+        "distance": 11578,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2002,
+          "distance": 10428
+        }
+      }
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Kilkenny",
+      "candidates": [
+        "Kilkenny Castle, Kilkenny"
+      ],
+      "note": "The nearest city outside Dublin, via the M7 and M9 or the N77.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-20T14:10:38.079Z",
+        "dest": {
+          "name": "Kilkenny Castle",
+          "address": "The Parade, Dukesmeadows, Kilkenny, R95 YRK1",
+          "uri": "https://maps.google.com/?cid=14479754400188434760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 15659,
+          "lat": 52.6504632,
+          "lng": -7.249297400000001,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ8Rdbq58wXUgRSIkh8uhr8sg/photos/AV-0GLe1yinSWqLWH6l0yMQoHiDfTnsBmEcW7W-wROf3N133cyBOZ2fjLpKgBY8-lA7bZJn6Aqzmvb4yr9Y4F-soCAgw7rxHLpCb6Kietf5uAGVY9MX4yzO88dnDs2ECK5Ec2GJ_MPsRe0Q-KAT8LiwD8itZim1fUXIEnK-Lxfx2JW9oFpHBMCpAShYEbY5DqEcxMYxARkvZh0o6CHYPwE9JVqlKKW4GOQo_Gn8yIWSNK2sFFg9SrUiwcC3B_R1MU7HAMoRhojpVKfrA9yiXlnP8fe8k-dTl6T-nLXyXeVnlUYyvsgHuDIjxQN63WtBspkQBXJ4i1MZE0rujPYQ5abWdXhipIbkUfpNEzEHCW2lg3s52zSYTcRKUbY8y7jH1p-cgcPmGHJhpL3vS2bjclEsylLP8LVhI/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "lahari anandur",
+            "uri": "https://maps.google.com/maps/contrib/116823739187666761145"
+          },
+          "q": "Kilkenny Castle, Kilkenny"
+        },
+        "duration": 3669,
+        "distance": 62859,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the M7 (the listing says about an hour); the train from Portarlington is the other way in.",
+      "category": "Towns and cities",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-11-20T14:10:38.079Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLe4eG-hgxd68vxJMllz9hb_PIlPJ3iUVgoG5_5ZOqZoXoeuWOeTvNjvASEagMJy0gDYBUzxCtXjEb02qY5Zijfj5pV1mhnbiilSbe9ztmFTW8Q8ruCFN1s153ssOfOo05wlfUyog4eaEp-a9nAZbq-3EgfDJU1wnUIZA9NR3k-tHrT-ezXx5o-7XmPLeyYtJA0qWmfuDldQNVUsaAtPrT_VU_2DIEGGTGAB4mKOztk1WKDWy2NzY4BvONCTDssIkw1cVR0E2-buPxgWsLtRoZ6RD7vswASHixCRlxKZyLnnT8EJ9WmM-OhEJ8F9prxOxrmPSqdqm8oG4fhVLSb0kmiGdDbD6RcHVJ5G3-vjjScdyeJQHBOtKNVpwpqL6XfdTDAb3NnwFDoc07zEYuy2SGItiw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 3891,
+        "distance": 76374,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-11-20T14:10:38.079Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11809,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLctrZA-XnlEV1Lq8rYQN792leQaROtYx1dNtTOe7VXnOd3cnBynxz6kCNOnnYsr3lbZol0E6WOR84-BwpYhSuD56BrMVPCfrw4kJxJzxIIgUTcDrxnu9FP7BUMnuDgGH9eGxazjzsZZ849I-boI_OsUDLeMmwb2wdiujgDKKzndxOCGHYx-IILPBON_KWo6UfFCFMroRR_7MpPSLONXS9phCdH-5Pe2Ly_GGTFLX-NCcJiH2Lv1ZGzxdrN7TFRAFpYyXG9vbwzLdePjzakFa5UYDefIl4kkylfRHOdXrdJIAvBnaNS-UQOpLDgqxv87iAe7cfrNbH2MMH3_TUX5cRvbK-UrzWkpSwUklJTa2i0uPqM9zHv3BW8umQpp7xzoWG8NrSCq21Et53eYFvVfUTEKZtw/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Abdallah Abu Ghalyoun",
+            "uri": "https://maps.google.com/maps/contrib/117427957812332051653"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 6773,
+        "distance": 185086,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Portarlington",
+      "candidates": [
+        "Portarlington railway station, Co. Laois",
+        "Portlaoise railway station, Co. Laois"
+      ],
+      "note": "Dublin–Portlaoise commuter line: about 19 weekday trains to Heuston (about 1h05), plus InterCity stops (the listing says under 40 minutes); about 6.2 km straight-line. Portlaoise, about 8.5 km, is the alternative.",
+      "category": "Getting away",
+      "day": "weekday",
+      "resolved": {
+        "at": "2026-11-20T14:10:38.079Z",
+        "dest": {
+          "name": "Portarlington",
+          "address": "Station Rd, Cooltederry, Portarlington, Co. Laois",
+          "uri": "https://maps.google.com/?cid=1512694160065864291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.3,
+          "ratings": 84,
+          "lat": 53.1461366,
+          "lng": -7.180933699999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJl5Ne3Ql1XUgRY6KI8FIr_hQ/photos/AV-0GLc2KB9Xk0s9GCQbTFQjZzoAXm5evHd3C2yG1EHJOS6N6Uv5P3d5-AL2yvGo0xIBO7992RAej88u6nHB3YDDiU35wmP3cFWKV1zFrRn_thHFqxOkQ4c_by1Ud6Ts5IViGZBJb64mRUB0acnP94lqnN_OfYCizNSILWGbycHjVG4xkDDyHExTH8_xQCmP1kHdMu3GGN6iXCJhiRd3_gZiCPuYnBestIG_4sx_5561uLvauMZhyyh-wJ46yCNGotumu2wWvWYCLao8Jiehgt8yNMEzP9EjNhx9oIkt7M33cX8u4Oo-hn6jU1hFZbOmYwi-msjugUi_7EthkLAoRFyUv1Lm8C7CzurcoJDIw5vmYPuEWpqa6IflTR5ch_LNRvNXqTa0oJistHXZ2SmrMQ98YRUAMg/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Elaine Rowe",
+            "uri": "https://maps.google.com/maps/contrib/115324669177008505631"
+          },
+          "q": "Portarlington railway station, Co. Laois"
+        },
+        "duration": 515,
+        "distance": 7797,
+        "alts": [
+          {
+            "name": "Portlaoise Train Station",
+            "duration": 837,
+            "distance": 11663
+          }
+        ],
+        "walk": {
+          "duration": 6072,
+          "distance": 7561
+        },
+        "bike": {
+          "duration": 1528,
+          "distance": 8085
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "7.5 km on regional roads; drive or cycle."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "About 7.5 km on the R419/R420 into Portarlington; doable for adults."
+        }
+      }
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away",
+      "day": "friday",
+      "resolved": {
+        "at": "2026-11-20T14:10:38.079Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42785,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLdvaY0Vxv2CVgv-6q0YkuGzB2OzlQ8feox-tHoDu888stF5NtlCT5rNlZY3EDrfB5XBJTVePdtoZh1-GCekgfe0_6uGnOJIOnm5aKjracBpYQmhLQJSQ_UUzmY5rPb6p0AG1h3_utPOjZ4dmEo3CUxz6Wu35dRHGV2455HOVKvDiV6NPsE554DHKJI8V2vtE-mo4iGTQl3BwHQUJbLPWKdiMoOrK_qHuJjs2efmcukaoNkARPq6Ryy9AUD4FIsCPGAU5Uy7g2zDsnz8ANIZHjntwNEIs7T2u90moW8n7D6khGrbUOAJQolgAtnn34gw7gKLqVT6Ls8fwcsVgR0aHS-b_o4wWDFtaqq5FzFcqRDqT7qYxJSNtZtW8xf5pl76HdoHRbUVPmAa2re8wm-Dh1EUWqyLlh4/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 4036,
+        "distance": 87612,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}

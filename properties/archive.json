@@ -463,6 +463,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/forty-shades-laurelhill-inistioge-co-kilkenny/6672069",
       "recheck": true
+    },
+    {
+      "id": "monagee-cashel",
+      "name": "Monagee",
+      "left": "2026-11-20",
+      "reason": "tied at 3.0 with Killimy, Emo (new wins ties); weakest on hard requirements (ground-floor bedrooms unconfirmed, no floor plan)",
+      "lastPrice": 350000,
+      "aiStars": 3,
+      "human": {
+        "n": 1,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/bungalow-monagee-camus-cashel-co-tipperary/6706734",
+      "recheck": true
     }
   ]
 }
