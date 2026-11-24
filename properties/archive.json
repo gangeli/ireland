@@ -270,7 +270,7 @@
       "id": "ballycarrigeen-boolavogue",
       "name": "Ballycarrigeen Upper",
       "left": "2026-10-29",
-      "reason": "tied at 3.0 with new finds; new wins ties (Gabor, 29 Oct) — longest-standing rated incumbent (on since 13 Oct)",
+      "reason": "tied at 3.0 with new finds; new wins ties (Gabor, 29 Oct) — longest-standing rated incumbent (on since 13 Oct); now sale agreed (Daft banner, 24 Nov)",
       "lastPrice": 450000,
       "aiStars": 3.0,
       "human": {
@@ -278,7 +278,7 @@
         "avg": 3.0
       },
       "listingUrl": "https://www.daft.ie/for-sale/ballycarrigeen-upper-ferns-enniscorthy-co-wexford/6694823",
-      "recheck": false
+      "recheck": true
     },
     {
       "id": "loughminane-green-kildare",
@@ -476,6 +476,20 @@
         "avg": 3.0
       },
       "listingUrl": "https://www.daft.ie/for-sale/bungalow-monagee-camus-cashel-co-tipperary/6706734",
+      "recheck": true
+    },
+    {
+      "id": "stone-lodge-freshford",
+      "name": "Stone Lodge",
+      "left": "2026-11-24",
+      "reason": "sale agreed (Daft banner on the listing header, 24 Nov)",
+      "lastPrice": 395000,
+      "aiStars": 3.5,
+      "human": {
+        "n": 2,
+        "avg": 4.5
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/stone-lodge-monabrika-freshford-co-kilkenny/6610381",
       "recheck": true
     }
   ]
