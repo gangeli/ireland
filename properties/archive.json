@@ -312,7 +312,7 @@
       "id": "garryhundon-milford",
       "name": "Garryhundon",
       "left": "2026-11-01",
-      "reason": "George rated it 2 ('very small house, especially the common areas; neighbors are very close'); score 2.67, below houses still for sale at 3.0",
+      "reason": "George rated it 2 ('very small house, especially the common areas; neighbors are very close'); score 2.67, below houses still for sale at 3.0; now sale agreed (Daft banner, 25 Nov)",
       "lastPrice": 450000,
       "aiStars": 3,
       "human": {
@@ -320,7 +320,7 @@
         "avg": 2.5
       },
       "listingUrl": "https://www.daft.ie/for-sale/garryhundon-milford-tinryland-co-carlow/6615103",
-      "recheck": false
+      "recheck": true
     },
     {
       "id": "old-forge-ballyduff",
