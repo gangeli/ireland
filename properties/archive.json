@@ -477,6 +477,20 @@
       },
       "listingUrl": "https://www.daft.ie/for-sale/stone-lodge-monabrika-freshford-co-kilkenny/6610381",
       "recheck": true
+    },
+    {
+      "id": "ballinkillen-bagenalstown",
+      "name": "Ballinkillen",
+      "left": "2026-11-26",
+      "reason": "tied at 3.0 with a new find (Bregorteen, Barntown; new wins ties); longest-standing rated incumbent at 3.0",
+      "lastPrice": 450000,
+      "aiStars": 3,
+      "human": {
+        "n": 2,
+        "avg": 3.0
+      },
+      "listingUrl": "https://www.daft.ie/for-sale/ballinkillen-muine-bheag-co-carlow/6676559",
+      "recheck": false
     }
   ]
 }
