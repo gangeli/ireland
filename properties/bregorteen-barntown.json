@@ -1,0 +1,687 @@
+{
+  "id": "bregorteen-barntown",
+  "name": "Bregorteen",
+  "address": "Bregorteen, Barntown, Co. Wexford",
+  "eircode": "Y35 FH33",
+  "lat": 52.347975,
+  "lng": -6.594957,
+  "listingUrl": "https://www.daft.ie/for-sale/bregorteen-barntown-co-wexford/6730783",
+  "status": "Considering",
+  "added": "2026-11-26",
+  "area": "Barntown, Co. Wexford",
+  "agent": "Claude Howlin Auctioneers, Wexford",
+  "agentPhone": "053 914 7949",
+  "questions": [
+    "Can you send the floor plan and room sizes? Which of the four bedrooms has an en-suite, and could the parents have a bedroom, bathroom and living room together at one end of the house with a door to the garden?",
+    "The rear roof slope has three roof lights. Is any of the 247 m² in the attic, or is all the accommodation on the ground floor?",
+    "Can you send the folio map for the 'over 2 acres'? Does it include the tree-lined drive and any of the woodland to the east, and is the boundary dog-proof?",
+    "Aerial imagery shows ground being worked on the field just south of the drive, about 40–100 m from the house. Is a house or anything else being built there, and are there other planning applications nearby (BuyerIQ lists 5 within 1 km)?",
+    "What is the exact BER (kWh/m²/yr), the age of the house and the oil boiler, and how old is the septic tank? Is the water mains or a private well, and is NBI fibre connected?"
+  ],
+  "ai": {
+    "stars": 3,
+    "why": "A big, quiet single-storey bungalow (247 m², 4 bed, 3 bath) on over 2 secluded acres at the end of a long tree-lined drive, about 12–15 minutes from Wexford General. Held back by a plain 1980s/90s design, no floor plan or interior photos yet (listing is 'coming soon'), €550k, and possible groundworks next door."
+  },
+  "services": {
+    "electricity": {
+      "status": "likely",
+      "detail": "Likely connected; not stated, but a lived-in house with oil central heating."
+    },
+    "water": {
+      "status": "unknown",
+      "detail": "Unknown; not stated in the listing. Ask whether mains or a private well."
+    },
+    "sewer": {
+      "status": "likely",
+      "detail": "Likely septic; not stated, isolated rural site. Ask its age, location and certification."
+    },
+    "internet": {
+      "status": "check",
+      "detail": "Likely NBI fibre; not stated in the listing, and BuyerIQ's broadband data is behind its paywall. NBI's Wexford rollout is due to finish by end-2026; check the Eircode on nbi.ie/map.",
+      "type": "Fibre",
+      "speed": "up to 1 Gb (unconfirmed)",
+      "provider": "NBI (check)"
+    }
+  },
+  "groundFloorBedroom": {
+    "status": "ok",
+    "detail": "A detached single-storey bungalow, so the bedrooms are on the ground floor; no floor plan yet to show which bedroom has an en-suite or whether there's a separate parents' end (roof lights on the rear slope hint at some attic space)."
+  },
+  "price": 550000,
+  "type": "Detached bungalow",
+  "beds": 4,
+  "bedsNote": "4 bedrooms, 3 bathrooms, 2 living rooms, kitchen/dining room, utility and study; no room sizes or floor plan published yet",
+  "baths": 3,
+  "floorM2": 247,
+  "landHa": 0.81,
+  "landAcres": 2,
+  "ber": "B",
+  "heating": "Oil-fired central heating",
+  "listed": "2026-11-25",
+  "views": 548,
+  "stampDuty": 5500,
+  "tagline": "A long 247 m² single-storey bungalow on over 2 private acres at the end of a tree-lined drive in Bregorteen, about 9 km west of Wexford town.",
+  "photos": [
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMy12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDAsImhlaWdodCI6OTYwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJjLzUvYzU1MDQ4ZDUtY2JmOS00NzY3LThmNDctYTY3Y2FkNWY1ODQ2LkpQRUcifQ==?signature=17e8c7d03ef43fb422e76f1fc6e516bf0ca13de61f88791bcd0880a2d9bfd321",
+      "role": "facade"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRoZWFzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvNy81NzRlYjJlYi0yMWEyLTRlMmMtYmQ4My05ZDJhZWE4YTI3NjUuSlBFRyJ9?signature=38d8fee57840bffcaee3dfc9c02870090b0c1b6ebbebf952828ee47d683ca3a6",
+      "role": "garden"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImIvZC9iZDgwOTA0MS03ZmQwLTQwY2UtYThmYS00OWQ4YTVhYTA4M2QuSlBFRyJ9?signature=87bee37b22b90c285b6880a5e2484be6491782d351148c0ee29c9774b3c76897"
+    },
+    {
+      "url": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6InNvdXRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXNtYWxsMi12NC5wbmcifSwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImUvMi9lMmVkMjkwOC1hZDlhLTRlYzItYjM2Ny01ZTlkNGE5MmQxYjQuSlBFRyJ9?signature=9f551d12249b121b784794c18d01a0dd531cc95e1459f97c28d61bad25300f44"
+    }
+  ],
+  "pros": [
+    {
+      "text": "247 m² on one level with two living rooms and a study",
+      "weight": 3,
+      "detail": "A long single-storey bungalow with 4 bedrooms, 2 living rooms, a kitchen/dining room, utility and study; 32 m² more than Cappoge Lodge at the same €550k (€2,227/m²)."
+    },
+    {
+      "text": "Three bathrooms",
+      "weight": 2,
+      "detail": "3 bathrooms for 4 bedrooms; their placement is unknown until a floor plan is published."
+    },
+    {
+      "text": "Over 2 secluded acres down a private drive",
+      "weight": 3,
+      "detail": "Set about 125 m back from the local road at the end of a palm- and conifer-lined drive, with lawns, a stamped-concrete patio and forestry to the north and east; the nearest other house is about 130 m away behind a hedge line."
+    },
+    {
+      "text": "Quiet, unlike Cappoge Lodge",
+      "weight": 2,
+      "detail": "BuyerIQ rates the address 'Quiet: no busy road or railway close by'; the N25 is about 300 m south across fields, versus about 60 m at Cappoge Lodge."
+    },
+    {
+      "text": "Wexford General's ED about 12–15 minutes",
+      "weight": 3,
+      "detail": "All-ages 24-hour ED about 8 km east in a straight line; the listing puts Wexford town 10 minutes away for GP, pharmacy and supermarkets."
+    },
+    {
+      "text": "BER B, 37 m² garage and a store shed",
+      "weight": 1,
+      "detail": "B energy rating (exact kWh not published), oil central heating, a 37 m² garage and a separate store/utility shed; a big tarmac yard gives plenty of parking."
+    }
+  ],
+  "cons": [
+    {
+      "text": "No floor plan or interior photos yet",
+      "weight": 2,
+      "detail": "The listing is 'coming soon' with 4 exterior photos only, so the layout, the parents' room, the en-suites, flooring and the interior condition are all unverified."
+    },
+    {
+      "text": "€550k, €50k over the line",
+      "weight": 2,
+      "detail": "About €2,227/m²; stamp duty about €5,500. Within the ~€650k allowed for big single-storey houses, but above the €500k norm."
+    },
+    {
+      "text": "A plain 1980s/90s bungalow",
+      "weight": 2,
+      "detail": "White render with a mock-Tudor gable, bay windows and a glazed entrance gable; tidy at the front but one side gable has weathered, patched render, and there's little period character."
+    },
+    {
+      "text": "Possible groundworks on the field next door",
+      "weight": 2,
+      "detail": "Aerial imagery (date unknown) shows bare, excavated ground with a machine on the field just south of the drive, about 40–100 m from the house; BuyerIQ lists 5 planning applications within 1 km."
+    },
+    {
+      "text": "Further out than Cappoge Lodge",
+      "weight": 1,
+      "detail": "About 9 km to Wexford town against about 5 km, with no footpath to anything; Glynn NS (2.9 km) and Barntown NS (3.7 km) are drives, and BuyerIQ flags a cluster of recorded collisions on a nearby road."
+    },
+    {
+      "text": "Slow Dublin trains",
+      "weight": 2,
+      "detail": "Wexford O'Hanrahan, about 9 km, has about 4 direct trains a weekday to Connolly, taking about 2 h 40 min."
+    },
+    {
+      "text": "Water, sewage and broadband not stated",
+      "weight": 1,
+      "detail": "Likely a septic tank on this rural site; water source and fibre are not stated, and BuyerIQ's flood and radon data are behind its paywall."
+    }
+  ],
+  "trips": [
+    {
+      "id": "school",
+      "group": "weekday",
+      "when": "08:20",
+      "label": "School run",
+      "kind": "Primary school",
+      "title": "Glynn National School",
+      "candidates": [
+        "Glynn National School, Glynn, Co. Wexford",
+        "S.N. an Ghleanna, Glynn, Enniscorthy, Co. Wexford"
+      ],
+      "note": "Co-educational Catholic primary (roll 17005E), about 133–147 pupils; 2.9 km per the listing. Scoil Mhuire, Barntown (about 334 pupils) is 3.7 km.",
+      "category": "Schools",
+      "rating": {
+        "level": "Unknown",
+        "basis": "Mixed Catholic school of about 133 pupils with special classes (2026 advert); no DEIS status or inspection report found, as gov.ie's report search is behind a verification check."
+      },
+      "resolved": {
+        "at": "2026-11-26T14:05:48.864Z",
+        "dest": {
+          "name": "Glynn National School",
+          "address": "Carrigmannon Woods, Bolabaun, Enniscorthy, Co. Wexford, Y21 DX47",
+          "uri": "https://maps.google.com/?cid=1379947377206216016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.372898199999995,
+          "lng": -6.580371200000001,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Glynn National School, Glynn, Co. Wexford"
+        },
+        "duration": 513,
+        "distance": 5605,
+        "alts": [
+          {
+            "name": "Glynn National School",
+            "duration": 513,
+            "distance": 5605
+          }
+        ],
+        "walk": {
+          "duration": 4546,
+          "distance": 5605
+        },
+        "bike": {
+          "duration": 1069,
+          "distance": 5605
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "5.6 km of narrow rural lanes with high hedges, no footpath or verge; footpaths appear only on the last few hundred metres into Glynn."
+        },
+        "bike": {
+          "level": "ok",
+          "note": "Quiet, low-traffic back lanes almost all the way, but narrow with blind bends and about 20 minutes each way; fine for confident older kids."
+        }
+      }
+    },
+    {
+      "id": "secondary",
+      "group": "weekday",
+      "when": "08:05",
+      "label": "School run",
+      "kind": "Secondary school",
+      "title": "St Peter's College",
+      "candidates": [
+        "St Peter's College, Summerhill, Wexford"
+      ],
+      "note": "Boys' diocesan secondary of about 785 pupils on the west side of Wexford town, about 8.5 km; Selskar College (mixed ETB) is the mixed alternative.",
+      "category": "Schools",
+      "rating": {
+        "level": "Good",
+        "basis": "Named among Wexford's well-placed schools in the Irish Times feeder tables (South East Radio, Dec 2019) and on an older Sunday Independent best-performers list; no recent percentage found."
+      },
+      "resolved": {
+        "at": "2026-11-26T14:05:48.864Z",
+        "dest": {
+          "name": "St. Peter's College Secondary School",
+          "address": "Summerhill Heights, Townparks, Wexford, Y35 P8WT",
+          "uri": "https://maps.google.com/?cid=15928080058911983556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.3352216,
+          "lng": -6.473201899999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJrbzUybEPZ0gRxIduSWzoC90/photos/AV-0GLd0GsXTSZOMLqq12YFOK2Vm0j3ArOZhU1RUlt_o5Y2GP67FjCCAGq3K9SRpKVTObRkvMnyEGhcUNN5XLD67UsAiATmARSlJHEWL8bl0vOLNpPonC70kMR4Fele9E_m4hgLOOSE4x9C1k3Fejnlb-EBlRy0A3z_tcGJBhOlizifYrpB31beHNE4v-o3BR95mn2AX69gvFHRcsjPN3m8i5TVl9VlO6POzi17CgHTDLunntaSoXhe6NCF82rP5Qptl4kDuTT8mWk8gP7JnHhZTB_iAjI6yIGHS-CJa2cOaQiGARrWACcGeitLCCJ2ZZsYvCpGybyabILBg1Dv9Na55DH9oPT7hcJg8z3JpYemB7LPz3mW1KkpCibL6EC85IFBE-MTJhSZoS9YP9ENqisKM0B0T2YQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Mairead Coleman",
+            "uri": "https://maps.google.com/maps/contrib/117150877286568789860"
+          },
+          "q": "St Peter's College, Summerhill, Wexford"
+        },
+        "duration": 918,
+        "distance": 9972,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2325,
+          "distance": 11149
+        }
+      }
+    },
+    {
+      "id": "shop",
+      "group": "weekday",
+      "when": "09:15",
+      "label": "Milk and the paper",
+      "kind": "Village shop",
+      "title": "Mother Hubbard's, Larkin's Cross",
+      "candidates": [
+        "Londis, Larkin's Cross, Barntown, Co. Wexford",
+        "Mother Hubbards, Ballyhine, Barntown, Co. Wexford"
+      ],
+      "note": "Family-run Londis at Larkin's Cross in Barntown; the Mother Hubbards fuel stop on the N25 at Ballyhine is closer.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-26T14:05:48.864Z",
+        "dest": {
+          "name": "Mother Hubbards",
+          "address": "Larkins Cross, Ballyhit, Larkins Cross, Co. IE",
+          "uri": "https://maps.google.com/?cid=14086093867174629311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 1,
+          "ratings": 1,
+          "lat": 52.339481299999996,
+          "lng": -6.5642704,
+          "how": "named",
+          "photo": null,
+          "credit": null,
+          "q": "Mother Hubbards, Ballyhine, Barntown, Co. Wexford"
+        },
+        "duration": 241,
+        "distance": 2652,
+        "alts": [
+          {
+            "name": "O'Brien’s Londis",
+            "duration": 256,
+            "distance": 2815
+          }
+        ],
+        "walk": {
+          "duration": 2187,
+          "distance": 2646
+        },
+        "bike": {
+          "duration": 706,
+          "distance": 3320
+        }
+      },
+      "active": {
+        "walk": {
+          "level": "poor",
+          "note": "1 km of narrow hedged lane with no verge, then 1.5 km along the N25/R-road with a fast two-lane carriageway, hard shoulder only in places and no footpath."
+        },
+        "bike": {
+          "level": "poor",
+          "note": "Quiet lane for the first kilometre, then fast main road traffic with no cycle lane to Larkin's Cross."
+        }
+      }
+    },
+    {
+      "id": "bigshop",
+      "group": "weekday",
+      "when": "10:30",
+      "label": "The big shop",
+      "kind": "Supermarket",
+      "title": "Tesco Extra Wexford",
+      "candidates": [
+        "Tesco Extra, Clonard Road, Wexford"
+      ],
+      "note": "Wexford town's full supermarkets, about 8–9 km east.",
+      "category": "Groceries",
+      "resolved": {
+        "at": "2026-11-26T14:05:48.864Z",
+        "dest": {
+          "name": "Tesco Extra",
+          "address": "Distillery Rd, Townparks, Wexford, Y35 AD98",
+          "uri": "https://maps.google.com/?cid=9758262122462699949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 657,
+          "lat": 52.332302399999996,
+          "lng": -6.4609839,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJlWizQ2gbaEgRreGJ6rJPbIc/photos/AV-0GLfniVEmDx8Z6xzGp2R6X9r6EuG8zAKeu-OHsj3DnkcPxTDsH2sASHXFKWqOAmDmilNCMK4nlU1CDAl-jdRB1UQd0950dF5BScyjRhdPBUvG644RoIkfKRTjuo1zV6As-j5Jqhm6Rd8kxnfEOKEBLHk_GnYh5HNhKhpBuwkJ2v0YEkYQv8KF71XUXNCkEERS2FDPyJL9fNOMecxyC_b7r0i5cWptcsQmSKgKZmBn2hMvtRMvo4CJiyeefQCItiYRDabyKBFXs0SsRJ9tfwWTK49IH9JNOIHMNDnFnT08wX1eKd4YVHaVywtSm3G2XpkMkKmk8IM2q5eg6WSb0hN8ep_d19F3F_q4SWunz4PlYOtDQZFAVTWr15vxQcKHrIbUYqJ8hKKJSqkaAHW4ZEEeaI_q70BhBIY/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Greg S",
+            "uri": "https://maps.google.com/maps/contrib/113682781732724541407"
+          },
+          "q": "Tesco Extra, Clonard Road, Wexford"
+        },
+        "duration": 881,
+        "distance": 11085,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2359,
+          "distance": 12223
+        }
+      }
+    },
+    {
+      "id": "dinner",
+      "group": "weekday",
+      "when": "19:00",
+      "label": "Dinner out",
+      "kind": "Restaurant",
+      "title": "La Côte Seafood Restaurant",
+      "candidates": [
+        "La Côte Seafood Restaurant, Custom House Quay, Wexford"
+      ],
+      "note": "Best restaurant in Co. Wexford at the 2026 Restaurant Association Awards, on the quay in town.",
+      "category": "Eating out",
+      "resolved": {
+        "at": "2026-11-26T14:05:48.864Z",
+        "dest": {
+          "name": "La Côte Seafood Restaurant",
+          "address": "Church Ln, Townparks, Wexford",
+          "uri": "https://maps.google.com/?cid=1505038874505819357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.7,
+          "ratings": 517,
+          "lat": 52.3388515,
+          "lng": -6.4597218,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ9arzjUMbaEgR3bQS4OH44hQ/photos/AV-0GLchyU-jF0R7ESSqO7XhjHvvmUvAY1Pw9mdAzq6PqFqiFAjWUW8Wqg_OLU9V9vbEf2DXFr9dAPzQJVSYBvy8Stua9ojrEUOcuaGf_dQ08gWoLlamYqtaMVA-PySdj3kRZ8BLYy_ZIsIjycv8JnkLxtB3ME1GnwcMhL-sqOSh5_w1O3BlMpBT63ZXHGU0MhCkvbJXAKW84O3ymRAqrkSBQyX-rlsaINZTu3Czzc1Jv6YNnAqqTRodrC-decgnpkLxfRH6JuBfmnrcQIVNQFJEigCdlWSXRhFxyKd-fvD-H3wmHVgutgYjh-MTUq8hWzvxIepui4epqR_HdTgjca_E4yl_V1Ex4669Btf0NNKpPkkpDhWX54Jd6MErFbJEbmM5JjZxao2pRE6hDyOr0KxhbN_2Bjyr9WA/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "La Côte Seafood Restaurant",
+            "uri": "https://maps.google.com/maps/contrib/115880974753039579345"
+          },
+          "q": "La Côte Seafood Restaurant, Custom House Quay, Wexford"
+        },
+        "duration": 932,
+        "distance": 10481,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 2088,
+          "distance": 11211
+        }
+      }
+    },
+    {
+      "id": "hospital",
+      "group": "night",
+      "when": "03:00",
+      "label": "The 3 a.m. trip",
+      "kind": "Emergency department",
+      "title": "Wexford General Hospital",
+      "candidates": [
+        "Wexford General Hospital, Newtown Road, Wexford"
+      ],
+      "note": "All-ages 24-hour ED, about 8 km east in a straight line on Newtown Road.",
+      "category": "Health",
+      "resolved": {
+        "at": "2026-11-26T14:05:48.864Z",
+        "dest": {
+          "name": "Wexford General Hospital",
+          "address": "Newtown Rd, Carricklawn, Wexford, Y35 Y17D",
+          "uri": "https://maps.google.com/?cid=2703091205570474847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 3.4,
+          "ratings": 213,
+          "lat": 52.343234300000006,
+          "lng": -6.4831372,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ1SE5gKgcaEgRX7OCPyFPgyU/photos/AV-0GLcWlNc_HbfC9GyXldi0oMrSgos44mrXnJrIJsI5yasAQCDfjmCcxpgX1B1NHj-IsfCXeEmumuiMcXt1DIAgGO9pIa9F2DiWCd5Z7HSu7j9xVBaPtdUSO_XDvidXm5HJuydt9rbXOBMr0BW8u6KPc-KnEC6W09iKIz92Bwewn6hSTIV-uT3O36o_N3egE0y82TPXHNWVAtiT4WW40wVsNHoXPBd8OZj94LEEyXfUHZ7BvZ4AtzsCb85IWb8Iv7vQPJvofnC-DI6-i4fXyyei4J5PRL6bL5VSqThwp910Rt9Lp1QIdaPCg6TNuR4orrghHqoPRVPJ5PSCsdq28GL5o61SwhQr7xP8G4wTBVIrLmvTc3eK9yg3kpp4TIzv-xcNoE59ExLnw7M69ezS6ei-Q793jCn9pB4/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Keith Kennedy",
+            "uri": "https://maps.google.com/maps/contrib/116833290017099661719"
+          },
+          "q": "Wexford General Hospital, Newtown Road, Wexford"
+        },
+        "duration": 609,
+        "distance": 8588,
+        "alts": [],
+        "walk": null,
+        "bike": {
+          "duration": 1964,
+          "distance": 9588
+        }
+      }
+    },
+    {
+      "id": "town",
+      "group": "weekday",
+      "when": "12:30",
+      "label": "Errands in town",
+      "kind": "Small town",
+      "title": "Wexford town centre",
+      "candidates": [
+        "The Bullring, Wexford",
+        "Main Street, Wexford"
+      ],
+      "note": "Wexford (county town, about 21,000 people), about 9 km east via the N25.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-26T14:05:48.864Z",
+        "dest": {
+          "name": "South Main Street",
+          "address": "S Main St, Townparks, Wexford",
+          "uri": "https://maps.google.com/?cid=8120137141956137743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 52.3365693,
+          "lng": -6.4602719,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJG3YnU0IbaEgRD1PAUbWFsHA/photos/AV-0GLe2kfgEmHKeE5zczDUitA0NtnC3vbbS-f_VrqiMKaCG2IvG2D8I9zrOxnyg18Cghi0kc-RLqWAJrhviYr3AQ7ZUU-KTWiVXkkCQ6Joi8O-lNG1EiBHXNtO5uAPjnmd80tKe6zXXAV9uidOGFnqWyborbkw1RX_v7FjetoPa6O4F0YbSNzSnDs0bDAgowR6nOmPo6bf0KRyAoTZm1DjSQA0drH5OS-EHWHTogspqZlm2A0czUG6ZH2DDCDDCXu8_Ded_Xqm3Qr22LNbxou6i0EQpsS9h0gt9Zx4FqaRP6mS9TZPSbKpZusivf4-fb4CJhqAAQnCxCtEcoOPyoxph2v4mWrUav0gHh3Ai9F0oaiEoIIJDXrEPqCh161-hP9TKoqbtE_kAyn4qA8gDvAv2eSEWua8/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "thomas doyle",
+            "uri": "https://maps.google.com/maps/contrib/100519205669827056483"
+          },
+          "q": "Main Street, Wexford"
+        },
+        "duration": 955,
+        "distance": 10468,
+        "alts": [
+          {
+            "name": "The Bullring Market",
+            "duration": 1087,
+            "distance": 10405
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 2143,
+          "distance": 11473
+        }
+      }
+    },
+    {
+      "id": "city",
+      "group": "weekday",
+      "when": "15:00",
+      "label": "Into the city",
+      "kind": "City",
+      "title": "Waterford",
+      "candidates": [
+        "Reginald's Tower, Waterford"
+      ],
+      "note": "Nearest city, roughly 50 minutes west via the N25 and New Ross.",
+      "category": "Towns and cities",
+      "resolved": {
+        "at": "2026-11-26T14:05:48.864Z",
+        "dest": {
+          "name": "Reginald’s Tower",
+          "address": "The Quay, Waterford",
+          "uri": "https://maps.google.com/?cid=17730792897430887032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 643,
+          "lat": 52.260445999999995,
+          "lng": -7.1054606,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJ4_w6JTW_QkgReBpjzTJuEPY/photos/AV-0GLftURXIj7tsR_g-08avv5U35p3edPsex1t60TvpCnlI6YBKFa30njYnJVwpmkeUcqTIWhY806mjMGIDtSDyt8hw3k389OD_jC8l_-vq7tLBUepxxeXnlnEvsMKkv4frWjuYfMO2LrumEr8kJ3NHY6IyLCJi-45Gh2pEGygAr-d3Bpw_oag9x67gi6qmryDGBPV55peIL6RF_xEIzWBQyKb_QK4td94g-3tWEvuRDtvO_qGsYQXB-4FDNig-mXyovd2DEfk_K1ksz7izHJb3xi8dB2ZA3hA5sw_ZKQrBTUosPsqL9VDWFJWDSsF6EyoWdL_zOq3gAZk9nxZl4OCyRNSRzLBgZe91yEz0OBtDK6zv3EYD4NZgQ8ybGglCXN56cFWx95PWYq6c5ceQgZwzvQMIv0Gk/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "THE EXPLORER",
+            "uri": "https://maps.google.com/maps/contrib/113768639315364178628"
+          },
+          "q": "Reginald's Tower, Waterford"
+        },
+        "duration": 2822,
+        "distance": 49066,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "dublin",
+      "group": "further",
+      "when": "09:30",
+      "label": "Day in Dublin",
+      "kind": "Capital",
+      "title": "Dublin city centre",
+      "candidates": [
+        "St Stephen's Green, Dublin"
+      ],
+      "note": "By car via the N11 and M11.",
+      "category": "Towns and cities",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-11-26T14:05:48.864Z",
+        "dest": {
+          "name": "Saint Stephen's Green",
+          "address": "St Stephen's Green, Dublin",
+          "uri": "https://maps.google.com/?cid=11548407293250000514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": null,
+          "ratings": 0,
+          "lat": 53.3369532,
+          "lng": -6.259999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLaxzLpkOZ0gRglayQz8vRKA/photos/AV-0GLf1XvvO5yxnjxZ3-H-SbWfjlQB8NUXQFhFDyDGQxqG02_mY_9VTi4XBsZcBAUuKR-qjSfASQcMUmjtS_gCr7gj8xBaoDxj-eSE5dlPmtZ7oTJqBKY9XWjDjHAJ9_lIcz5i4zP79Win6xLyo0HhPvCLD7UgW3lCwYVzdEiREJXMQcLRMEY1yM0pTAdfbVEGfOxYv42NegA6m4FzqYVj13ZQR8YAe8WjeTO_JB2VZsk-8RCsWEhGWP7WiOKgt4SHpoUQbV5NF-uTY6pOQCPAbVJBIVqF8v_AZZFNBgMxE1-dgMN5pJ4VTKOZZf2NYe1o77wC1GFhs1Wyz3laGsGpxX8fJtMxEXu8SD7BrCBbPJ50p7WwgPXCy6-ROwbgDtGzoYp-SYnZO3EWJEf_BfAa1nsqXNQ/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "gary xing",
+            "uri": "https://maps.google.com/maps/contrib/110591973447521297773"
+          },
+          "q": "St Stephen's Green, Dublin"
+        },
+        "duration": 6562,
+        "distance": 139823,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "cork",
+      "group": "further",
+      "when": "09:30",
+      "label": "Weekend in Cork",
+      "kind": "City",
+      "title": "Cork city centre",
+      "candidates": [
+        "English Market, Cork"
+      ],
+      "note": "",
+      "category": "Towns and cities",
+      "day": "saturday",
+      "resolved": {
+        "at": "2026-11-26T14:05:48.864Z",
+        "dest": {
+          "name": "The English Market",
+          "address": "Grand Parade, Centre, Cork",
+          "uri": "https://maps.google.com/?cid=10249934499091137280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.6,
+          "ratings": 11820,
+          "lat": 51.8976635,
+          "lng": -8.4750684,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJt0TfOD2QREgRAENZ1R4VP44/photos/AV-0GLcBHzRWH25hXKpEEUgWdMtbh9rVo3YMjb3yayQqZqzwmTjm4wFL2wNLz24Ky2g5GOj4cD1mabkiWBODpGuTo5TnySEn6D2-fCvI1zLZ3ogQeAWZNPSS7_-GlbaC3Zr-TuZGOW2CbuABTUwmJ5XpMVZkRkCcd5KAGOY2OqSvuIEjhVomICHOetoYN5UneAAQfXJ-9qZBDdmJdAXME6mc813n082Y-P3apHZ1sE6EKpnk15cNMb1hyMw89P6vVTxxdqtzZZ1iFoMLHIAWEhXfl1kmZdl0dcdQpPBjf5ILseEl3cNxggH-1tWre5BEkyzOKQqxNWI40WeOxBHjuIUWEKRnVmWZ6jIV8KgWS21ilh_f8uwKIMhFyJWm7Eh03Yb7oqebNp026tdvhNo4mKo2pTN0BAY2-zW-ewitwazoS_K75Q/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "helio paschoal",
+            "uri": "https://maps.google.com/maps/contrib/113462965105827515045"
+          },
+          "q": "English Market, Cork"
+        },
+        "duration": 8299,
+        "distance": 167807,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    },
+    {
+      "id": "train",
+      "group": "further",
+      "when": "07:15",
+      "label": "Train to Dublin",
+      "kind": "Station",
+      "title": "Wexford O'Hanrahan station",
+      "candidates": [
+        "Wexford O'Hanrahan Railway Station, Redmond Place, Wexford",
+        "Wexford Train Station, Wexford"
+      ],
+      "note": "Rosslare–Dublin Connolly line: about 4 direct trains a weekday, about 2 h 40 min; about 9 km east.",
+      "category": "Getting away",
+      "day": "weekday",
+      "resolved": {
+        "at": "2026-11-26T14:05:48.864Z",
+        "dest": {
+          "name": "Wexford (O Hanrahan)",
+          "address": "Wexford Railway Station Redmond Sqaure, Townparks, Wexford, Co. Wexford, Y35 FC62",
+          "uri": "https://maps.google.com/?cid=4263746221154084344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.2,
+          "ratings": 73,
+          "lat": 52.3433383,
+          "lng": -6.4643597999999995,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJDVnuREUbaEgR-KVNDJneKzs/photos/AV-0GLdzWKUdek5vqzFu9n9PcRGzrZG1rokXbsIFbe01deBd42Zbf6r5v5TCKtQPbkQV7NuH_t-1jJc7mjB063O09yMjRQ5vucSJPVETG_k6IsGp56-yEa24fXJqrIq7zBRAKC-0Ikh56KHotUXDQFksO9G5LKtU7LWQSPqu1oQBQrgRBh0pOPNwagv5dWEoJidcLcHt5BuNeOkTwV-0I9Sbg3XkokkuNGNczdku4LwqavhMMZMirOznGwBCU6ErI2qidoJ092Eq3-VR_lg76hQLWGl-qKchyk-t0cAXT3L31b-N1aCWCe134Mhg8ZY3sWRlYqpOOi2ywxXK0mfnxrm-VQqojk2_fV-W2jIPSVJJPsXhK-XGPYZ0Mx-zZYa9YcggTogzdxXEgh0ail25CVZke5xsG0c/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "スタバカ（SUTABAKA）",
+            "uri": "https://maps.google.com/maps/contrib/107705833309561868785"
+          },
+          "q": "Wexford O'Hanrahan Railway Station, Redmond Place, Wexford"
+        },
+        "duration": 731,
+        "distance": 9886,
+        "alts": [
+          {
+            "name": "Wexford (O Hanrahan)",
+            "duration": 731,
+            "distance": 9886
+          }
+        ],
+        "walk": null,
+        "bike": {
+          "duration": 1958,
+          "distance": 10616
+        }
+      }
+    },
+    {
+      "id": "airport",
+      "group": "further",
+      "when": "06:00",
+      "label": "Flight home",
+      "kind": "Airport",
+      "title": "Dublin Airport",
+      "candidates": [
+        "Dublin Airport"
+      ],
+      "note": "The trip you and your parents will make most.",
+      "category": "Getting away",
+      "day": "friday",
+      "resolved": {
+        "at": "2026-11-26T14:05:48.864Z",
+        "dest": {
+          "name": "Dublin Airport",
+          "address": "Dublin",
+          "uri": "https://maps.google.com/?cid=6129992510080414549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA&hl=en&gl=ie&source=apiv3",
+          "rating": 4.1,
+          "ratings": 42969,
+          "lat": 53.425632,
+          "lng": -6.257375499999999,
+          "how": "named",
+          "photo": "https://places.googleapis.com/v1/places/ChIJLxmTab4RZ0gRVfMlt7UbElU/photos/AV-0GLcpjHc9c4Xdpvzd_SCw09er9aEe_6rfCRgfeUoDfO39WJM_8lY_A2DIBHuxGsgpCgEaFmE4oKKS2WvQy-d0RyPcY41wkUIp0I5tYbspT9y-huReFSGVkkHFt2VhDUXNd-TrCgKwWnP-9gGQZV45nL-v0pHQdj5Y8s0CVEkJbh9eVbWR1ldZ7K5qYNKoWZJsCEQce2L6aoj1s6tTF_2usqOp3Sv_dShnoi3YQLFnzvGeXcMo161Ia75_RSjYLUDqfI-YBUNJ03B83x2hlUHB3BuI1ifrusSU2QKxbHcD5Yii5X1g19Rlu9xHo5S87F2BKFxwcGKQb_YBiYqaG1Bdq0uruU2IbKUd0_jjFfrqJhrV_OMNeoHn78db7qp2LZdbuRwTOe2zJL9c7oz5levw7J9POaFnTdU/media?maxWidthPx=900&key=AIzaSyBGv21ZNfgsnUrVDjwuefd9YiZRBr_6HBM",
+          "credit": {
+            "name": "Stephen Cassidy",
+            "uri": "https://maps.google.com/maps/contrib/114013528308167523915"
+          },
+          "q": "Dublin Airport"
+        },
+        "duration": 6651,
+        "distance": 163118,
+        "alts": [],
+        "walk": null,
+        "bike": null
+      }
+    }
+  ],
+  "categories": [
+    "Schools",
+    "Groceries",
+    "Eating out",
+    "Health",
+    "Towns and cities",
+    "Getting away"
+  ]
+}
